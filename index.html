@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dispatch — Your News Feed</title>
+<style>
+  :root{
+    --ink:#1B1E2B;
+    --paper:#FAFAF7;
+    --panel:#FFFFFF;
+    --line:#E4E1D8;
+    --wire-blue:#2C5F8A;
+    --wire-blue-dark:#1F4666;
+    --signal:#B4472E;
+    --muted:#6E7180;
+    --chip-bg:#F0EEE6;
+    --focus:#2C5F8A;
+    --radius:10px;
+  }
+  *{box-sizing:border-box;}
+  html{-webkit-font-smoothing:antialiased;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  }
+  @font-face{
+    font-family:'fallback-serif';
+    src:local('Georgia');
+  }
+  .serif{ font-family: 'Iowan Old Style','Palatino Linotype', Georgia, 'fallback-serif', serif; }
+
+  header.masthead{
+    border-bottom:1px solid var(--line);
+    padding:22px clamp(16px,4vw,40px) 16px;
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+  header.masthead h1{
+    font-size:26px;
+    letter-spacing:-0.02em;
+    margin:0;
+    font-weight:700;
+  }
+  header.masthead h1 span{ color:var(--signal); }
+  .meta-line{
+    color:var(--muted);
+    font-size:13px;
+    display:flex;
+    align-items:center;
+    gap:10px;
+  }
+  .dot{width:6px;height:6px;border-radius:50%;background:var(--signal);display:inline-block;}
+
+  main{
+    display:grid;
+    grid-template-columns: 1.3fr 1.3fr 1fr;
+    gap:0;
+    max-width:1400px;
+    margin:0 auto;
+    align-items:start;
+  }
+  @media (max-width: 980px){
+    main{ grid-template-columns: 1fr; }
+    .col{ border-right:none !important; border-bottom:1px solid var(--line); }
+  }
+
+  .col{
+    padding:24px clamp(14px,3vw,28px);
+    border-right:1px solid var(--line);
+  }
+  .col:last-child{ border-right:none; }
+
+  .col-head{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin-bottom:16px;
+  }
+  .col-head h2{
+    font-size:13px;
+    text-transform:uppercase;
+    letter-spacing:0.09em;
+    margin:0;
+    color:var(--wire-blue-dark);
+    font-weight:700;
+  }
+  .col-head h2 em{
+    font-style:normal;
+    color:var(--muted);
+    font-weight:500;
+    margin-left:6px;
+    text-transform:none;
+    letter-spacing:normal;
+  }
+
+  .region-chips{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    margin-bottom:16px;
+  }
+  .chip{
+    padding:6px 14px;
+    border-radius:999px;
+    border:1px solid var(--line);
+    background:var(--chip-bg);
+    font-size:13px;
+    cursor:pointer;
+    display:flex;
+    align-items:center;
+    gap:6px;
+    color:var(--ink);
+  }
+  .chip.active{ background:var(--wire-blue); border-color:var(--wire-blue); color:#fff; }
+  .chip .rm{ opacity:0.6; font-size:11px; }
+  .chip.add{ background:transparent; border-style:dashed; color:var(--muted); }
+
+  .add-region-row{
+    display:none;
+    gap:6px;
+    margin:-8px 0 16px;
+  }
+  .add-region-row.open{ display:flex; }
+  .add-region-row input{
+    flex:1;
+    padding:7px 10px;
+    border:1px solid var(--line);
+    border-radius:8px;
+    font-size:13px;
+    font-family:inherit;
+  }
+  .add-region-row button{
+    padding:7px 12px;
+    border:none;
+    border-radius:8px;
+    background:var(--wire-blue);
+    color:#fff;
+    font-size:13px;
+    cursor:pointer;
+  }
+
+  .item{
+    display:flex;
+    gap:14px;
+    padding:14px 0;
+    border-top:1px solid var(--line);
+  }
+  .item:first-of-type{ border-top:none; }
+  .idx{
+    flex:none;
+    width:30px;
+    height:30px;
+    border-radius:7px;
+    background:var(--chip-bg);
+    color:var(--wire-blue-dark);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-weight:700;
+    font-size:14px;
+  }
+  .item-body{ flex:1; min-width:0; }
+  .item-top{
+    display:flex;
+    justify-content:space-between;
+    gap:8px;
+    font-size:11px;
+    color:var(--muted);
+    margin-bottom:4px;
+  }
+  .item-top .tag{ color:var(--signal); font-weight:700; text-transform:uppercase; letter-spacing:0.04em; }
+  .item-title{
+    font-size:15px;
+    line-height:1.35;
+    font-weight:600;
+    margin:0 0 4px;
+  }
+  .item-title a{ color:var(--ink); text-decoration:none; }
+  .item-title a:hover{ text-decoration:underline; }
+  .item-desc{
+    font-size:13px;
+    color:var(--muted);
+    line-height:1.45;
+    margin:0 0 8px;
+  }
+  .item-actions{ display:flex; gap:10px; }
+  .icon-btn{
+    background:none; border:none; cursor:pointer;
+    color:var(--muted);
+    font-size:12px;
+    display:flex; align-items:center; gap:5px;
+    padding:2px 0;
+  }
+  .icon-btn:hover{ color:var(--wire-blue); }
+  .icon-btn:focus-visible, .chip:focus-visible, button:focus-visible, input:focus-visible{
+    outline:2px solid var(--focus); outline-offset:2px;
+  }
+
+  .load-more{
+    width:100%;
+    margin-top:6px;
+    padding:9px;
+    border:1px solid var(--line);
+    background:transparent;
+    border-radius:8px;
+    color:var(--wire-blue-dark);
+    font-size:13px;
+    cursor:pointer;
+    font-weight:600;
+  }
+  .load-more:hover{ background:var(--chip-bg); }
+
+  .skeleton{
+    height:14px;
+    background:linear-gradient(90deg,var(--chip-bg) 25%, #e8e6dd 37%, var(--chip-bg) 63%);
+    background-size:400% 100%;
+    animation:shimmer 1.4s ease infinite;
+    border-radius:4px;
+    margin-bottom:6px;
+  }
+  @keyframes shimmer{ 0%{background-position:100% 50%;} 100%{background-position:0 50%;} }
+
+  .error-note{
+    font-size:13px;
+    color:var(--muted);
+    background:var(--chip-bg);
+    border-radius:8px;
+    padding:12px;
+  }
+
+  /* Ask column */
+  .ask-panel{
+    position:sticky;
+    top:0;
+  }
+  .ask-intro{
+    font-size:13px;
+    color:var(--muted);
+    line-height:1.5;
+    margin-bottom:14px;
+  }
+  .context-pill{
+    display:none;
+    font-size:12px;
+    background:var(--chip-bg);
+    border:1px solid var(--line);
+    border-radius:8px;
+    padding:8px 10px;
+    margin-bottom:10px;
+    color:var(--ink);
+    line-height:1.4;
+  }
+  .context-pill.show{ display:flex; justify-content:space-between; gap:8px; align-items:flex-start; }
+  .context-pill button{
+    background:none; border:none; color:var(--muted); cursor:pointer; font-size:14px; line-height:1;
+  }
+  .ask-box textarea{
+    width:100%;
+    resize:none;
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:12px;
+    font-family:inherit;
+    font-size:14px;
+    min-height:76px;
+  }
+  .ask-row{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-top:6px;
+  }
+  .char-count{ font-size:12px; color:var(--muted); }
+  .char-count.limit{ color:var(--signal); font-weight:700; }
+  .ask-submit{
+    background:var(--wire-blue);
+    color:#fff;
+    border:none;
+    padding:9px 16px;
+    border-radius:8px;
+    font-size:13px;
+    font-weight:600;
+    cursor:pointer;
+  }
+  .ask-submit:disabled{ opacity:0.5; cursor:not-allowed; }
+
+  .tip-toggle{
+    margin-top:20px;
+    font-size:13px;
+    color:var(--wire-blue-dark);
+    background:none;
+    border:none;
+    cursor:pointer;
+    text-decoration:underline;
+    text-underline-offset:3px;
+    padding:0;
+    font-weight:600;
+  }
+  .tip-box{
+    display:none;
+    margin-top:10px;
+    background:var(--chip-bg);
+    border-radius:10px;
+    padding:14px;
+    font-size:12.5px;
+    line-height:1.55;
+    color:var(--ink);
+  }
+  .tip-box.open{ display:block; }
+  .tip-box ul{ margin:6px 0 0; padding-left:18px; }
+  .tip-box li{ margin-bottom:6px; }
+
+  .disclaimer{
+    margin-top:16px;
+    font-size:11px;
+    color:var(--muted);
+  }
+
+  footer.foot{
+    text-align:center;
+    padding:20px;
+    font-size:12px;
+    color:var(--muted);
+    border-top:1px solid var(--line);
+  }
+  footer.foot a{ color:var(--wire-blue-dark); }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <h1 class="serif">Dispatch<span>.</span></h1>
+  <div class="meta-line"><span class="dot"></span><span id="updated-line">Loading…</span></div>
+</header>
+
+<main>
+  <!-- WORLD NEWS -->
+  <section class="col" id="world-col">
+    <div class="col-head">
+      <h2>World News <em>5 shown</em></h2>
+    </div>
+    <div id="world-list"></div>
+    <button class="load-more" id="world-more" style="display:none;">Show 5 more</button>
+  </section>
+
+  <!-- REGIONAL NEWS -->
+  <section class="col" id="regional-col">
+    <div class="col-head">
+      <h2>Regional News <em id="regional-count-label">5 shown</em></h2>
+    </div>
+    <div class="region-chips" id="region-chips"></div>
+    <div class="add-region-row" id="add-region-row">
+      <input type="text" id="add-region-input" placeholder="e.g. Germany, Japan…" maxlength="40">
+      <button id="add-region-confirm">Add</button>
+    </div>
+    <div id="regional-list"></div>
+    <button class="load-more" id="regional-more" style="display:none;">Show 5 more</button>
+  </section>
+
+  <!-- ASK -->
+  <section class="col ask-panel" id="ask-col">
+    <div class="col-head">
+      <h2>Ask a Follow-up</h2>
+    </div>
+    <p class="ask-intro">Tap the <strong>chat icon</strong> under any headline to ask about it, or ask a general question below. Submitting opens a Google search in a new tab so the AI Overview can answer with current sources.</p>
+
+    <div class="context-pill" id="context-pill">
+      <span id="context-text"></span>
+      <button id="context-clear" title="Clear context" aria-label="Clear context">✕</button>
+    </div>
+
+    <div class="ask-box">
+      <textarea id="ask-input" placeholder="Ask about any headline, or a general question…" maxlength="250"></textarea>
+      <div class="ask-row">
+        <span class="char-count" id="char-count">0 / 250</span>
+        <button class="ask-submit" id="ask-submit">Search →</button>
+      </div>
+    </div>
+
+    <button class="tip-toggle" id="tip-toggle">How can I stay better informed?</button>
+    <div class="tip-box" id="tip-box">
+      A few things that help when phrasing a question, whether here or in any search bar:
+      <ul>
+        <li><strong>Name a source type</strong> — "what do wire services report on X" tends to surface more neutral, primary reporting than a generic search.</li>
+        <li><strong>Ask what's disputed</strong> — "how is X being covered differently" or "what's disputed about X" surfaces multiple viewpoints instead of one blended answer.</li>
+        <li><strong>Anchor recency</strong> — adding "as of today" or "this week" favors fresher coverage over older, higher-ranking pages.</li>
+        <li><strong>Separate fact from rumor</strong> — "what has been officially confirmed about X, and what is still unverified" produces more appropriately hedged answers on breaking stories.</li>
+        <li><strong>Two-step it</strong> — ask the plain question first, then a narrower follow-up ("what's disputed about this") rather than cramming both into one query.</li>
+      </ul>
+    </div>
+
+    <p class="disclaimer">Headlines are pulled from public RSS feeds. This page runs no AI itself — the "Search" button opens Google in a new tab, where any AI Overview shown is Google's, not this page's.</p>
+  </section>
+</main>
+
+<footer class="foot">
+  Static page · headlines via RSS · no tracking, no accounts · <a href="#" id="settings-link">API settings</a>
+</footer>
+
+<script>
+(function(){
+  const WORLD_FEED = 'https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en';
+  const PAGE_SIZE = 5;
+  const RSS2JSON = 'https://api.rss2json.com/v1/api.json?rss_url=';
+
+  function regionFeedUrl(region){
+    const q = encodeURIComponent(region + ' news');
+    return `https://news.google.com/rss/search?q=${q}%20when:2d&hl=en-US&gl=US&ceid=US:en`;
+  }
+
+  function getApiKey(){ return localStorage.getItem('rss2json_key') || ''; }
+
+  async function fetchFeed(feedUrl){
+    const key = getApiKey();
+    const url = RSS2JSON + encodeURIComponent(feedUrl) + (key ? `&api_key=${key}` : '') + '&count=15';
+    const res = await fetch(url);
+    if(!res.ok) throw new Error('Feed request failed');
+    const data = await res.json();
+    if(data.status !== 'ok') throw new Error(data.message || 'Feed error');
+    return data.items || [];
+  }
+
+  function timeAgo(dateStr){
+    const diffMs = Date.now() - new Date(dateStr).getTime();
+    const mins = Math.round(diffMs/60000);
+    if(mins < 1) return 'just now';
+    if(mins < 60) return mins + 'm ago';
+    const hrs = Math.round(mins/60);
+    if(hrs < 24) return hrs + 'h ago';
+    return Math.round(hrs/24) + 'd ago';
+  }
+
+  function skeletonHTML(n){
+    let s = '';
+    for(let i=0;i<n;i++){
+      s += `<div class="item"><div class="idx">${i+1}</div><div class="item-body">
+        <div class="skeleton" style="width:40%"></div>
+        <div class="skeleton" style="width:90%;height:16px;"></div>
+        <div class="skeleton" style="width:70%"></div>
+      </div></div>`;
+    }
+    return s;
+  }
+
+  function renderItems(container, items, offset, tagLabel){
+    container.innerHTML = '';
+    items.slice(0, offset).forEach((it, i) => {
+      const div = document.createElement('div');
+      div.className = 'item';
+      const desc = (it.description || '').replace(/<[^>]+>/g,'').slice(0,140);
+      div.innerHTML = `
+        <div class="idx">${i+1}</div>
+        <div class="item-body">
+          <div class="item-top"><span class="tag">${tagLabel}</span><span>${timeAgo(it.pubDate)}</span></div>
+          <p class="item-title"><a href="${it.link}" target="_blank" rel="noopener">${it.title}</a></p>
+          <p class="item-desc">${desc}${desc.length===140?'…':''}</p>
+          <div class="item-actions">
+            <button class="icon-btn ask-this" data-title="${escapeAttr(it.title)}">💬 Ask about this</button>
+          </div>
+        </div>`;
+      container.appendChild(div);
+    });
+    container.querySelectorAll('.ask-this').forEach(btn=>{
+      btn.addEventListener('click', ()=> setContext(btn.dataset.title));
+    });
+  }
+
+  function escapeAttr(s){ return (s||'').replace(/"/g,'&quot;'); }
+
+  function setContext(title){
+    document.getElementById('context-text').textContent = 'Re: "' + title + '"';
+    document.getElementById('context-pill').classList.add('show');
+    const input = document.getElementById('ask-input');
+    input.dataset.context = title;
+    input.focus();
+  }
+  document.getElementById('context-clear').addEventListener('click', ()=>{
+    document.getElementById('context-pill').classList.remove('show');
+    delete document.getElementById('ask-input').dataset.context;
+  });
+
+  // ---- World news ----
+  let worldItems = [];
+  let worldShown = PAGE_SIZE;
+  const worldList = document.getElementById('world-list');
+  const worldMore = document.getElementById('world-more');
+
+  async function loadWorld(){
+    worldList.innerHTML = skeletonHTML(PAGE_SIZE);
+    try{
+      worldItems = await fetchFeed(WORLD_FEED);
+      worldShown = PAGE_SIZE;
+      renderItems(worldList, worldItems, worldShown, 'World');
+      worldMore.style.display = worldItems.length > worldShown ? 'block' : 'none';
+    }catch(e){
+      worldList.innerHTML = `<div class="error-note">Couldn't load world headlines right now (${e.message}). Try reloading, or add a free RSS2JSON API key in Settings if this keeps happening.</div>`;
+    }
+  }
+  worldMore.addEventListener('click', ()=>{
+    worldShown += PAGE_SIZE;
+    renderItems(worldList, worldItems, worldShown, 'World');
+    worldMore.style.display = worldItems.length > worldShown ? 'block' : 'none';
+    document.querySelector('#world-col .col-head h2 em').textContent = Math.min(worldShown, worldItems.length) + ' shown';
+  });
+
+  // ---- Regions ----
+  const DEFAULT_REGIONS = ['US','Canada'];
+  function getRegions(){
+    const saved = JSON.parse(localStorage.getItem('regions') || 'null');
+    return saved && saved.length ? saved : DEFAULT_REGIONS.slice();
+  }
+  function saveRegions(list){ localStorage.setItem('regions', JSON.stringify(list)); }
+
+  let activeRegion = localStorage.getItem('activeRegion') || getRegions()[0];
+  let regionItems = [];
+  let regionShown = PAGE_SIZE;
+  const regionalList = document.getElementById('regional-list');
+  const regionalMore = document.getElementById('regional-more');
+  const chipsWrap = document.getElementById('region-chips');
+
+  function renderChips(){
+    const regions = getRegions();
+    chipsWrap.innerHTML = '';
+    regions.forEach(r=>{
+      const chip = document.createElement('button');
+      chip.className = 'chip' + (r===activeRegion ? ' active' : '');
+      chip.innerHTML = r + (regions.length>1 ? ` <span class="rm" data-r="${escapeAttr(r)}">✕</span>` : '');
+      chip.addEventListener('click', (e)=>{
+        if(e.target.classList.contains('rm')){
+          e.stopPropagation();
+          removeRegion(r);
+          return;
+        }
+        activeRegion = r;
+        localStorage.setItem('activeRegion', r);
+        renderChips();
+        loadRegion();
+      });
+      chipsWrap.appendChild(chip);
+    });
+    const addChip = document.createElement('button');
+    addChip.className = 'chip add';
+    addChip.textContent = '+ Add';
+    addChip.addEventListener('click', ()=>{
+      document.getElementById('add-region-row').classList.toggle('open');
+    });
+    chipsWrap.appendChild(addChip);
+  }
+
+  function removeRegion(r){
+    let regions = getRegions().filter(x=>x!==r);
+    if(!regions.length) regions = DEFAULT_REGIONS.slice();
+    saveRegions(regions);
+    if(activeRegion === r){ activeRegion = regions[0]; localStorage.setItem('activeRegion', activeRegion); }
+    renderChips();
+    loadRegion();
+  }
+
+  document.getElementById('add-region-confirm').addEventListener('click', ()=>{
+    const input = document.getElementById('add-region-input');
+    const val = input.value.trim();
+    if(!val) return;
+    const regions = getRegions();
+    if(!regions.includes(val)) regions.push(val);
+    saveRegions(regions);
+    activeRegion = val;
+    localStorage.setItem('activeRegion', val);
+    input.value = '';
+    document.getElementById('add-region-row').classList.remove('open');
+    renderChips();
+    loadRegion();
+  });
+
+  async function loadRegion(){
+    regionalList.innerHTML = skeletonHTML(PAGE_SIZE);
+    try{
+      regionItems = await fetchFeed(regionFeedUrl(activeRegion));
+      regionShown = PAGE_SIZE;
+      renderItems(regionalList, regionItems, regionShown, activeRegion);
+      regionalMore.style.display = regionItems.length > regionShown ? 'block' : 'none';
+      document.getElementById('regional-count-label').textContent = Math.min(regionShown, regionItems.length) + ' shown';
+    }catch(e){
+      regionalList.innerHTML = `<div class="error-note">Couldn't load ${activeRegion} headlines right now (${e.message}). Try reloading, or add a free RSS2JSON API key in Settings if this keeps happening.</div>`;
+    }
+  }
+  regionalMore.addEventListener('click', ()=>{
+    regionShown += PAGE_SIZE;
+    renderItems(regionalList, regionItems, regionShown, activeRegion);
+    regionalMore.style.display = regionItems.length > regionShown ? 'block' : 'none';
+    document.getElementById('regional-count-label').textContent = Math.min(regionShown, regionItems.length) + ' shown';
+  });
+
+  // ---- Ask box ----
+  const askInput = document.getElementById('ask-input');
+  const charCount = document.getElementById('char-count');
+  askInput.addEventListener('input', ()=>{
+    const len = askInput.value.length;
+    charCount.textContent = len + ' / 250';
+    charCount.classList.toggle('limit', len >= 230);
+  });
+  document.getElementById('ask-submit').addEventListener('click', submitAsk);
+  askInput.addEventListener('keydown', (e)=>{
+    if(e.key === 'Enter' && !e.shiftKey){ e.preventDefault(); submitAsk(); }
+  });
+  function submitAsk(){
+    const q = askInput.value.trim();
+    if(!q) return;
+    const ctx = askInput.dataset.context;
+    const fullQuery = ctx ? `${ctx} — ${q}` : q;
+    const url = 'https://www.google.com/search?q=' + encodeURIComponent(fullQuery);
+    window.open(url, '_blank', 'noopener');
+  }
+
+  // ---- Tips ----
+  document.getElementById('tip-toggle').addEventListener('click', ()=>{
+    document.getElementById('tip-box').classList.toggle('open');
+  });
+
+  // ---- Settings (RSS2JSON key) ----
+  document.getElementById('settings-link').addEventListener('click', (e)=>{
+    e.preventDefault();
+    const current = getApiKey();
+    const val = prompt('Optional: paste a free RSS2JSON API key (from rss2json.com) to avoid rate limits. Leave blank to use the shared free tier.', current);
+    if(val !== null){
+      if(val.trim()) localStorage.setItem('rss2json_key', val.trim());
+      else localStorage.removeItem('rss2json_key');
+      loadWorld(); loadRegion();
+    }
+  });
+
+  // ---- Init ----
+  function updateClock(){
+    document.getElementById('updated-line').textContent = 'Updated ' + new Date().toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'});
+  }
+  updateClock();
+  renderChips();
+  loadWorld();
+  loadRegion();
+})();
+</script>
+
+</body>
+</html>
