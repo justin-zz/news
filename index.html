@@ -6,6 +6,19 @@
 <title>Dispatch — Your News Feed</title>
 <style>
   :root{
+    --ink:#E7E6E0;
+    --paper:#14161B;
+    --panel:#1C1F26;
+    --line:#2B2E37;
+    --wire-blue:#5B9BD9;
+    --wire-blue-dark:#8FC1EC;
+    --signal:#E2795C;
+    --muted:#9498A3;
+    --chip-bg:#242832;
+    --focus:#5B9BD9;
+    --radius:10px;
+  }
+  body.light{
     --ink:#1B1E2B;
     --paper:#FAFAF7;
     --panel:#FFFFFF;
@@ -16,7 +29,6 @@
     --muted:#6E7180;
     --chip-bg:#F0EEE6;
     --focus:#2C5F8A;
-    --radius:10px;
   }
   *{box-sizing:border-box;}
   html{-webkit-font-smoothing:antialiased;}
@@ -56,6 +68,21 @@
     gap:10px;
   }
   .dot{width:6px;height:6px;border-radius:50%;background:var(--signal);display:inline-block;}
+  .theme-toggle{
+    background:var(--chip-bg);
+    border:1px solid var(--line);
+    color:var(--ink);
+    border-radius:8px;
+    width:30px;
+    height:30px;
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    cursor:pointer;
+    font-size:14px;
+    margin-left:4px;
+  }
+  .theme-toggle:hover{ border-color:var(--wire-blue); }
 
   main{
     display:grid;
@@ -218,7 +245,7 @@
 
   .skeleton{
     height:14px;
-    background:linear-gradient(90deg,var(--chip-bg) 25%, #e8e6dd 37%, var(--chip-bg) 63%);
+    background:linear-gradient(90deg,var(--chip-bg) 25%, var(--line) 37%, var(--chip-bg) 63%);
     background-size:400% 100%;
     animation:shimmer 1.4s ease infinite;
     border-radius:4px;
@@ -336,7 +363,10 @@
 
 <header class="masthead">
   <h1 class="serif">Dispatch<span>.</span></h1>
-  <div class="meta-line"><span class="dot"></span><span id="updated-line">Loading…</span></div>
+  <div class="meta-line">
+    <span class="dot"></span><span id="updated-line">Loading…</span>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle light/dark mode" title="Toggle light/dark mode">🌙</button>
+  </div>
 </header>
 
 <main>
@@ -687,6 +717,20 @@
   // ---- Tips ----
   document.getElementById('tip-toggle').addEventListener('click', ()=>{
     document.getElementById('tip-box').classList.toggle('open');
+  });
+
+  // ---- Theme ----
+  const themeBtn = document.getElementById('theme-toggle');
+  function applyTheme(theme){
+    document.body.classList.toggle('light', theme === 'light');
+    themeBtn.textContent = theme === 'light' ? '🌙' : '☀️';
+  }
+  const savedTheme = localStorage.getItem('theme') || 'dark';
+  applyTheme(savedTheme);
+  themeBtn.addEventListener('click', ()=>{
+    const next = document.body.classList.contains('light') ? 'dark' : 'light';
+    localStorage.setItem('theme', next);
+    applyTheme(next);
   });
 
   // ---- Init ----
