@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T20:51:51.807Z",
+  "updated": "2026-07-29T21:57:02.100Z",
   "world": [
     {
       "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
@@ -20,15 +20,15 @@
       "description": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day."
     },
     {
-      "title": "France fire crews battle heat as locals tell BBC of fight to save homes",
+      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
       "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 29 Jul 2026 16:49:41 GMT",
-      "description": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations."
+      "description": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations."
     },
     {
       "title": "Four women accuse Jared Leto of criminal sexual conduct",
       "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 17:04:42 GMT",
+      "pubDate": "Wed, 29 Jul 2026 21:36:06 GMT",
       "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
     },
     {
@@ -52,7 +52,7 @@
     {
       "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
       "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 17:58:42 GMT",
+      "pubDate": "Wed, 29 Jul 2026 21:45:25 GMT",
       "description": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury."
     },
     {
@@ -94,6 +94,18 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "The Trump administration&apos;s move to end subsidies for Medicare drug plans could cost consumers",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers",
+        "pubDate": "Wed, 29 Jul 2026 16:58:03 -0400",
+        "description": "Federal subsidies that have helped defray insurers&apos; Medicare drug costs will disappear at the end of the year. Millions of beneficiaries could face higher premiums in 2027."
+      },
+      {
+        "title": "Oregon is on track for its worst wildfire season yet",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5910624/oregon-is-on-track-for-its-worst-wildfire-season-yet",
+        "pubDate": "Wed, 29 Jul 2026 16:28:44 -0400",
+        "description": "Wildfires in central and eastern Oregon are prompting evacuations and forcing ranchers to scramble to move cattle and find feed as public range land burns. More than a million acres have burned so far"
+      },
       {
         "title": "&apos;Taiwan Travelogue&apos; rethinks history, colonialism, and identity",
         "link": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
         "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
         "description": "Working-class voters have moved away from the Democratic Party. Winning them back is key to the party&apos;s future, a new reports shows. But first, the messaging has to change."
-      },
-      {
-        "title": "As extreme heat grips the South and West, here&apos;s how to stay safe",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5910515/heat-dome-stroke-weather",
-        "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-        "description": "Experts say immersion in cold water before an ambulance arrives can greatly increase the chances of heat stroke survival and reduce the risk of long-term complications."
-      },
-      {
-        "title": "More Americans are going bankrupt. What does that mean?",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
-        "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-        "description": "The bankruptcy rate has risen about 48% between 2022 and 2025, although it&apos;s still below pre-pandemic levels."
       }
     ],
     "Canada": []
