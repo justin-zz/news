@@ -405,18 +405,28 @@
 
 <script>
 (function(){
-  const WORLD_FEED = 'https://www.bing.com/news/search?q=world+news&format=RSS&mkt=en-US';
+  const WORLD_FEED = 'https://feeds.bbci.co.uk/news/world/rss.xml';
   const PAGE_SIZE = 5;
   // Three independent, keyless CORS proxies, in order of preference. If one is
-  // down, rate-limited, or (like corsproxy.io on hosted sites) restricted, we
-  // fall through to the next before giving up.
+  // down, rate-limited, or restricted for hosted sites, we fall through to the
+  // next before giving up.
   const PROXIES = [
-    (url) => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(url),
     (url) => 'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(url),
+    (url) => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(url),
     (url) => 'https://cors.x2u.in/' + url
   ];
+  const PROXY_TIMEOUT_MS = 15000;
+
+  // Known regions get a direct, publisher-hosted feed — far more reliable than
+  // scraping a search engine through a proxy. Anything the user types beyond
+  // these falls back to a best-effort Bing News search.
+  const KNOWN_REGION_FEEDS = {
+    'US': 'https://feeds.npr.org/1001/rss.xml',
+    'Canada': 'https://rss.cbc.ca/lineup/topstories.xml'
+  };
 
   function regionFeedUrl(region){
+    if(KNOWN_REGION_FEEDS[region]) return KNOWN_REGION_FEEDS[region];
     const q = encodeURIComponent(region + ' news');
     return `https://www.bing.com/news/search?q=${q}&format=RSS&mkt=en-US`;
   }
@@ -438,7 +448,7 @@
 
   async function fetchViaProxy(buildUrl, feedUrl){
     const controller = new AbortController();
-    const timer = setTimeout(() => controller.abort(), 8000);
+    const timer = setTimeout(() => controller.abort(), PROXY_TIMEOUT_MS);
     try{
       const res = await fetch(buildUrl(feedUrl), { signal: controller.signal });
       if(!res.ok) throw new Error('HTTP ' + res.status);
@@ -452,10 +462,8 @@
     }
   }
 
-  // Tries each proxy in turn; if both fail, retries the whole pass once more
-  // after a short delay (covers transient blips rather than a hard outage).
-  async function fetchFeed(feedUrl, pass){
-    pass = pass || 0;
+  // Tries each proxy in turn; first success wins.
+  async function fetchFeed(feedUrl){
     let lastErr;
     for(const buildUrl of PROXIES){
       try{
@@ -463,10 +471,6 @@
       }catch(e){
         lastErr = e;
       }
-    }
-    if(pass < 1){
-      await sleep(1200);
-      return fetchFeed(feedUrl, pass + 1);
     }
     throw lastErr || new Error('All sources failed');
   }
