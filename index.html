@@ -400,30 +400,75 @@
 </main>
 
 <footer class="foot">
-  Static page · headlines via RSS · no tracking, no accounts · <a href="#" id="settings-link">API settings</a>
+  Static page · headlines via RSS · no tracking, no accounts
 </footer>
 
 <script>
 (function(){
-  const WORLD_FEED = 'https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en';
+  const WORLD_FEED = 'https://www.bing.com/news/search?q=world+news&format=RSS&mkt=en-US';
   const PAGE_SIZE = 5;
-  const RSS2JSON = 'https://api.rss2json.com/v1/api.json?rss_url=';
+  // Three independent, keyless CORS proxies, in order of preference. If one is
+  // down, rate-limited, or (like corsproxy.io on hosted sites) restricted, we
+  // fall through to the next before giving up.
+  const PROXIES = [
+    (url) => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(url),
+    (url) => 'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(url),
+    (url) => 'https://cors.x2u.in/' + url
+  ];
 
   function regionFeedUrl(region){
     const q = encodeURIComponent(region + ' news');
-    return `https://news.google.com/rss/search?q=${q}%20when:2d&hl=en-US&gl=US&ceid=US:en`;
+    return `https://www.bing.com/news/search?q=${q}&format=RSS&mkt=en-US`;
   }
 
-  function getApiKey(){ return localStorage.getItem('rss2json_key') || ''; }
+  function parseRSS(xmlText){
+    const doc = new DOMParser().parseFromString(xmlText, 'text/xml');
+    if(doc.querySelector('parsererror')) throw new Error('Could not parse feed');
+    const items = Array.from(doc.querySelectorAll('item')).map(item => ({
+      title: (item.querySelector('title')?.textContent || '').trim(),
+      link: (item.querySelector('link')?.textContent || '').trim(),
+      pubDate: (item.querySelector('pubDate')?.textContent || '').trim() || new Date().toISOString(),
+      description: (item.querySelector('description')?.textContent || '').trim()
+    }));
+    if(!items.length) throw new Error('No items in feed');
+    return items;
+  }
 
-  async function fetchFeed(feedUrl){
-    const key = getApiKey();
-    const url = RSS2JSON + encodeURIComponent(feedUrl) + (key ? `&api_key=${key}` : '') + '&count=15';
-    const res = await fetch(url);
-    if(!res.ok) throw new Error('Feed request failed');
-    const data = await res.json();
-    if(data.status !== 'ok') throw new Error(data.message || 'Feed error');
-    return data.items || [];
+  function sleep(ms){ return new Promise(r => setTimeout(r, ms)); }
+
+  async function fetchViaProxy(buildUrl, feedUrl){
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 8000);
+    try{
+      const res = await fetch(buildUrl(feedUrl), { signal: controller.signal });
+      if(!res.ok) throw new Error('HTTP ' + res.status);
+      const text = await res.text();
+      return parseRSS(text);
+    }catch(e){
+      if(e.name === 'AbortError') throw new Error('Timed out');
+      throw e;
+    }finally{
+      clearTimeout(timer);
+    }
+  }
+
+  // Tries each proxy in turn; if both fail, retries the whole pass once more
+  // after a short delay (covers transient blips rather than a hard outage).
+  async function fetchFeed(feedUrl, pass){
+    pass = pass || 0;
+    let lastErr;
+    for(const buildUrl of PROXIES){
+      try{
+        return await fetchViaProxy(buildUrl, feedUrl);
+      }catch(e){
+        lastErr = e;
+      }
+    }
+    if(pass < 1){
+      await sleep(1200);
+      return fetchFeed(feedUrl, pass + 1);
+    }
+    throw lastErr || new Error('All sources failed');
   }
 
   function timeAgo(dateStr){
@@ -499,7 +544,8 @@
       renderItems(worldList, worldItems, worldShown, 'World');
       worldMore.style.display = worldItems.length > worldShown ? 'block' : 'none';
     }catch(e){
-      worldList.innerHTML = `<div class="error-note">Couldn't load world headlines right now (${e.message}). Try reloading, or add a free RSS2JSON API key in Settings if this keeps happening.</div>`;
+      worldList.innerHTML = `<div class="error-note">Couldn't load world headlines right now (${e.message}). <button class="icon-btn" id="retry-world" style="text-decoration:underline;padding:0;">Retry</button></div>`;
+      document.getElementById('retry-world').addEventListener('click', loadWorld);
     }
   }
   worldMore.addEventListener('click', ()=>{
@@ -586,7 +632,8 @@
       regionalMore.style.display = regionItems.length > regionShown ? 'block' : 'none';
       document.getElementById('regional-count-label').textContent = Math.min(regionShown, regionItems.length) + ' shown';
     }catch(e){
-      regionalList.innerHTML = `<div class="error-note">Couldn't load ${activeRegion} headlines right now (${e.message}). Try reloading, or add a free RSS2JSON API key in Settings if this keeps happening.</div>`;
+      regionalList.innerHTML = `<div class="error-note">Couldn't load ${activeRegion} headlines right now (${e.message}). <button class="icon-btn" id="retry-region" style="text-decoration:underline;padding:0;">Retry</button></div>`;
+      document.getElementById('retry-region').addEventListener('click', loadRegion);
     }
   }
   regionalMore.addEventListener('click', ()=>{
@@ -622,26 +669,16 @@
     document.getElementById('tip-box').classList.toggle('open');
   });
 
-  // ---- Settings (RSS2JSON key) ----
-  document.getElementById('settings-link').addEventListener('click', (e)=>{
-    e.preventDefault();
-    const current = getApiKey();
-    const val = prompt('Optional: paste a free RSS2JSON API key (from rss2json.com) to avoid rate limits. Leave blank to use the shared free tier.', current);
-    if(val !== null){
-      if(val.trim()) localStorage.setItem('rss2json_key', val.trim());
-      else localStorage.removeItem('rss2json_key');
-      loadWorld(); loadRegion();
-    }
-  });
-
   // ---- Init ----
   function updateClock(){
     document.getElementById('updated-line').textContent = 'Updated ' + new Date().toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'});
   }
   updateClock();
   renderChips();
+  // Stagger these instead of firing at once — spreads load across the
+  // two CORS proxies rather than hitting both at the exact same instant.
   loadWorld();
-  loadRegion();
+  setTimeout(loadRegion, 700);
 })();
 </script>
 
