@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-29T15:28:01.174Z",
+  "updated": "2026-07-29T16:50:46.271Z",
   "world": [
+    {
+      "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+      "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 16:23:41 GMT",
+      "description": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires."
+    },
+    {
+      "title": "France fire crews face searing heat in battle to contain flames",
+      "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 16:49:41 GMT",
+      "description": "Firefighters are battling flare-ups in 40C heat, as some locals have refused to heed evacuations in the Gironde region."
+    },
     {
       "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
       "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&amp;at_campaign=rss",
@@ -14,22 +26,10 @@
       "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure."
     },
     {
-      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
-      "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 14:27:13 GMT",
-      "description": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn."
-    },
-    {
-      "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+      "title": "Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins",
       "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 14:29:34 GMT",
+      "pubDate": "Wed, 29 Jul 2026 16:49:06 GMT",
       "description": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury."
-    },
-    {
-      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 10:23:29 GMT",
-      "description": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service."
     },
     {
       "title": "Four women accuse Jared Leto of criminal sexual conduct",
@@ -40,8 +40,14 @@
     {
       "title": "Oscar-winning songwriter Glen Hansard killed in crash",
       "link": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 14:26:56 GMT",
+      "pubDate": "Wed, 29 Jul 2026 15:33:14 GMT",
       "description": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once."
+    },
+    {
+      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 10:23:29 GMT",
+      "description": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service."
     },
     {
       "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
@@ -50,10 +56,22 @@
       "description": "From \"delulu\" to \"FOMO\", Gen Z slang has made an unlikely journey from Instagram to parliament."
     },
     {
-      "title": "French DJ ​and electronic ‌musician Kavinsky dies aged 50",
+      "title": "BTS withdraw from Grammys, a month after Asian pop prize introduced",
+      "link": "https://www.bbc.co.uk/news/articles/clyjgyd0225o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 08:16:15 GMT",
+      "description": "All seven members of the band post a statement online, saying they will boycott the 2027 ceremony."
+    },
+    {
+      "title": "Tributes paid to DJ ​and electronic ‌musician Kavinsky who has died",
       "link": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 29 Jul 2026 10:35:13 GMT",
       "description": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics."
+    },
+    {
+      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+      "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 12:17:42 GMT",
+      "description": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House."
     },
     {
       "title": "Ghana hit by nationwide blackout as power plants fail",
@@ -72,28 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 29 Jul 2026 02:30:50 GMT",
       "description": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence."
-    },
-    {
-      "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
-      "link": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 06:10:19 GMT",
-      "description": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday."
-    },
-    {
-      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-      "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 12:17:42 GMT",
-      "description": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House."
-    },
-    {
-      "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
-      "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 28 Jul 2026 23:25:53 GMT",
-      "description": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "&apos;Odyssey&apos; translator Emily Wilson says Nolan shouldn&apos;t have written the movie himself",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan",
+        "pubDate": "Wed, 29 Jul 2026 11:51:40 -0400",
+        "description": "The renowned classics scholar caused a stir when her critical review of Christopher Nolan&apos;s &lt;em&gt;The Odyssey&lt;/em&gt; went viral. Wilson explains her reaction to the film and why she&apos;"
+      },
       {
         "title": "Greetings from an isolated region in northern Pakistan&apos;s Hindu Kush mountains",
         "link": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
@@ -135,12 +141,6 @@
         "link": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
         "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
         "description": "Policymakers at the Federal Reserve are meeting to discuss interest rates Wednesday. They&apos;re expected to hold rates steady, but there&apos;s a chance they could raise rates to combat stubborn inf"
-      },
-      {
-        "title": "To win over working-class voters, Democrats need to stop talking about democracy",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
-        "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-        "description": "Working-class voters have moved away from the Democratic Party. Winning them back is key to the party&apos;s future, a new reports shows. But first, the messaging has to change."
       },
       {
         "title": "More Americans are going bankrupt. What does that mean?",
