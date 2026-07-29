@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T16:50:46.271Z",
+  "updated": "2026-07-29T18:04:04.525Z",
   "world": [
     {
       "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
@@ -11,7 +11,7 @@
       "title": "France fire crews face searing heat in battle to contain flames",
       "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 29 Jul 2026 16:49:41 GMT",
-      "description": "Firefighters are battling flare-ups in 40C heat, as some locals have refused to heed evacuations in the Gironde region."
+      "description": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations."
     },
     {
       "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
@@ -26,15 +26,15 @@
       "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure."
     },
     {
-      "title": "Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins",
+      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
       "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 16:49:06 GMT",
+      "pubDate": "Wed, 29 Jul 2026 17:58:42 GMT",
       "description": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury."
     },
     {
       "title": "Four women accuse Jared Leto of criminal sexual conduct",
       "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 05:00:07 GMT",
+      "pubDate": "Wed, 29 Jul 2026 17:04:42 GMT",
       "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "&apos;Taiwan Travelogue&apos; rethinks history, colonialism, and identity",
+        "link": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity",
+        "pubDate": "Wed, 29 Jul 2026 12:55:54 -0400",
+        "description": "The author and translator of &lt;em&gt;Taiwan Travelogue, &lt;/em&gt;the winner of the 2026 International Booker Prize, discuss identity and history amid the debate over Taiwan&apos;s colonial ties to"
+      },
+      {
         "title": "&apos;Odyssey&apos; translator Emily Wilson says Nolan shouldn&apos;t have written the movie himself",
         "link": "https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan",
         "pubDate": "Wed, 29 Jul 2026 11:51:40 -0400",
@@ -125,6 +131,12 @@
         "description": "The flare-up on multiple fronts raised the risk of a return to all-out war, underscoring the difficulty of winding down a five-month conflict that has jolted the world economy."
       },
       {
+        "title": "The Federal Reserve faces a critical decision on interest rates",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+        "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
+        "description": "Policymakers at the Federal Reserve are meeting to discuss interest rates Wednesday. They&apos;re expected to hold rates steady, but there&apos;s a chance they could raise rates to combat stubborn inf"
+      },
+      {
         "title": "&apos;Machines are collaborators&apos; at this new museum of AI art",
         "link": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol",
         "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
@@ -137,22 +149,10 @@
         "description": "Experts say immersion in cold water before an ambulance arrives can greatly increase the chances of heat stroke survival and reduce the risk of long-term complications."
       },
       {
-        "title": "The Federal Reserve faces a critical decision on interest rates",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+        "title": "To win over working-class voters, Democrats need to stop talking about democracy",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
         "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-        "description": "Policymakers at the Federal Reserve are meeting to discuss interest rates Wednesday. They&apos;re expected to hold rates steady, but there&apos;s a chance they could raise rates to combat stubborn inf"
-      },
-      {
-        "title": "More Americans are going bankrupt. What does that mean?",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
-        "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-        "description": "The bankruptcy rate has risen about 48% between 2022 and 2025, although it&apos;s still below pre-pandemic levels."
-      },
-      {
-        "title": "Anthony Fauci invokes Fifth Amendment in Rand Paul Senate hearing",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5910542/fauci-rand-paul-diary-coronavirus-origin-lab-leak-hearing",
-        "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-        "description": "At a Senate hearing Wednesday, Anthony Fauci is likely to face questions from Sen. Rand Paul related to the origins of the COVID-19 pandemic. Here&apos;s what you need to know"
+        "description": "Working-class voters have moved away from the Democratic Party. Winning them back is key to the party&apos;s future, a new reports shows. But first, the messaging has to change."
       }
     ],
     "Canada": []
