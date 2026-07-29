@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T13:13:55.590Z",
+  "updated": "2026-07-29T15:28:01.174Z",
   "world": [
     {
       "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
@@ -8,22 +8,22 @@
       "description": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say"
     },
     {
-      "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
-      "link": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 06:10:19 GMT",
-      "description": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday."
-    },
-    {
       "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
       "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 09:39:56 GMT",
+      "pubDate": "Wed, 29 Jul 2026 13:48:41 GMT",
       "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure."
     },
     {
       "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
       "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 12:29:07 GMT",
+      "pubDate": "Wed, 29 Jul 2026 14:27:13 GMT",
       "description": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn."
+    },
+    {
+      "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+      "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 14:29:34 GMT",
+      "description": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury."
     },
     {
       "title": "Russia charges Telegram founder Durov with facilitating terrorism",
@@ -40,7 +40,7 @@
     {
       "title": "Oscar-winning songwriter Glen Hansard killed in crash",
       "link": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 13:11:10 GMT",
+      "pubDate": "Wed, 29 Jul 2026 14:26:56 GMT",
       "description": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once."
     },
     {
@@ -74,26 +74,32 @@
       "description": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence."
     },
     {
+      "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
+      "link": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 06:10:19 GMT",
+      "description": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday."
+    },
+    {
       "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
       "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 29 Jul 2026 12:17:42 GMT",
       "description": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House."
     },
     {
-      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-      "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 04:43:36 GMT",
-      "description": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde."
-    },
-    {
-      "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
-      "link": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 28 Jul 2026 18:19:57 GMT",
-      "description": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33."
+      "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+      "link": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 28 Jul 2026 23:25:53 GMT",
+      "description": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Greetings from an isolated region in northern Pakistan&apos;s Hindu Kush mountains",
+        "link": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
+        "pubDate": "Wed, 29 Jul 2026 10:21:07 -0400",
+        "description": "Chitral borders Afghanistan and isn&apos;t easy to reach. Breathtaking views abound in this remote mountainous region — as do rockslides and avalanches."
+      },
       {
         "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
         "link": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
@@ -107,10 +113,10 @@
         "description": "A school district in upstate New York is pausing plans to deploy an AI-powered, humanoid robot in the classroom after state education officials, teachers and local residents raised concerns."
       },
       {
-        "title": "Jordan intercepts Iranian missiles as U.S. and Saudi Arabia strike militias in Iraq",
+        "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
         "link": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
         "pubDate": "Wed, 29 Jul 2026 05:07:03 -0400",
-        "description": "Jordan intercepted five missiles launched from Iran, the country&apos;s military said, hours after the U.S. military said it had knocked down an Iranian missile barrage launched against American force"
+        "description": "The flare-up on multiple fronts raised the risk of a return to all-out war, underscoring the difficulty of winding down a five-month conflict that has jolted the world economy."
       },
       {
         "title": "&apos;Machines are collaborators&apos; at this new museum of AI art",
@@ -125,10 +131,10 @@
         "description": "Experts say immersion in cold water before an ambulance arrives can greatly increase the chances of heat stroke survival and reduce the risk of long-term complications."
       },
       {
-        "title": "Rand Paul released Fauci&apos;s pandemic-era &apos;diary.&apos; Now they&apos;ll face off on Capitol Hill",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5910542/fauci-rand-paul-diary-coronavirus-origin-lab-leak-hearing",
+        "title": "The Federal Reserve faces a critical decision on interest rates",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
         "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-        "description": "At a Senate hearing Wednesday, Anthony Fauci is likely to face questions from Sen. Rand Paul related to the origins of the COVID-19 pandemic. Here&apos;s what you need to know"
+        "description": "Policymakers at the Federal Reserve are meeting to discuss interest rates Wednesday. They&apos;re expected to hold rates steady, but there&apos;s a chance they could raise rates to combat stubborn inf"
       },
       {
         "title": "To win over working-class voters, Democrats need to stop talking about democracy",
@@ -137,22 +143,16 @@
         "description": "Working-class voters have moved away from the Democratic Party. Winning them back is key to the party&apos;s future, a new reports shows. But first, the messaging has to change."
       },
       {
-        "title": "The Federal Reserve faces a critical decision on interest rates",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
-        "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-        "description": "Policymakers at the Federal Reserve are meeting to discuss interest rates Wednesday. They&apos;re expected to hold rates steady, but there&apos;s a chance they could raise rates to combat stubborn inf"
-      },
-      {
         "title": "More Americans are going bankrupt. What does that mean?",
         "link": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
         "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
         "description": "The bankruptcy rate has risen about 48% between 2022 and 2025, although it&apos;s still below pre-pandemic levels."
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5901898/morning-news-brief",
-        "pubDate": "Wed, 29 Jul 2026 04:46:26 -0400",
-        "description": "President Trump met with the leaders of Ukraine and Israel on Tuesday at the White House, heatwave threatens firefighters&apos; hold on wildfires in France and Spain."
+        "title": "Anthony Fauci invokes Fifth Amendment in Rand Paul Senate hearing",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5910542/fauci-rand-paul-diary-coronavirus-origin-lab-leak-hearing",
+        "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
+        "description": "At a Senate hearing Wednesday, Anthony Fauci is likely to face questions from Sen. Rand Paul related to the origins of the COVID-19 pandemic. Here&apos;s what you need to know"
       }
     ],
     "Canada": []
