@@ -405,30 +405,33 @@
 
 <script>
 (function(){
-  const WORLD_FEED = 'https://feeds.bbci.co.uk/news/world/rss.xml';
+  const NEWS_JSON_URL = './news.json';
   const PAGE_SIZE = 5;
-  // Three independent, keyless CORS proxies, in order of preference. If one is
-  // down, rate-limited, or restricted for hosted sites, we fall through to the
-  // next before giving up.
+  // Three independent, keyless CORS proxies — used ONLY as a fallback for
+  // custom-typed regions, which can't be pre-built by GitHub Actions since
+  // they're chosen per-user in the browser. World/US/Canada are read directly
+  // from news.json (built server-side, same-origin, no proxy needed at all).
   const PROXIES = [
     (url) => 'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(url),
     (url) => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(url),
     (url) => 'https://cors.x2u.in/' + url
   ];
   const PROXY_TIMEOUT_MS = 15000;
-
-  // Known regions get a direct, publisher-hosted feed — far more reliable than
-  // scraping a search engine through a proxy. Anything the user types beyond
-  // these falls back to a best-effort Bing News search.
-  const KNOWN_REGION_FEEDS = {
-    'US': 'https://feeds.npr.org/1001/rss.xml',
-    'Canada': 'https://rss.cbc.ca/lineup/topstories.xml'
-  };
+  const KNOWN_REGIONS = ['US', 'Canada'];
 
   function regionFeedUrl(region){
-    if(KNOWN_REGION_FEEDS[region]) return KNOWN_REGION_FEEDS[region];
+    // Only reached for custom regions — known ones never call this.
     const q = encodeURIComponent(region + ' news');
     return `https://www.bing.com/news/search?q=${q}&format=RSS&mkt=en-US`;
+  }
+
+  let newsJsonPromise = null;
+  function loadNewsJson(){
+    if(!newsJsonPromise){
+      newsJsonPromise = fetch(NEWS_JSON_URL + '?t=' + Date.now())
+        .then(res => { if(!res.ok) throw new Error('HTTP ' + res.status); return res.json(); });
+    }
+    return newsJsonPromise;
   }
 
   function parseRSS(xmlText){
@@ -543,13 +546,16 @@
   async function loadWorld(){
     worldList.innerHTML = skeletonHTML(PAGE_SIZE);
     try{
-      worldItems = await fetchFeed(WORLD_FEED);
+      const data = await loadNewsJson();
+      if(!data.world || !data.world.length) throw new Error('No data yet — first Action run may still be pending');
+      worldItems = data.world;
       worldShown = PAGE_SIZE;
       renderItems(worldList, worldItems, worldShown, 'World');
       worldMore.style.display = worldItems.length > worldShown ? 'block' : 'none';
+      if(data.updated) setUpdatedLine(data.updated);
     }catch(e){
       worldList.innerHTML = `<div class="error-note">Couldn't load world headlines right now (${e.message}). <button class="icon-btn" id="retry-world" style="text-decoration:underline;padding:0;">Retry</button></div>`;
-      document.getElementById('retry-world').addEventListener('click', loadWorld);
+      document.getElementById('retry-world').addEventListener('click', ()=>{ newsJsonPromise = null; loadWorld(); });
     }
   }
   worldMore.addEventListener('click', ()=>{
@@ -629,15 +635,25 @@
 
   async function loadRegion(){
     regionalList.innerHTML = skeletonHTML(PAGE_SIZE);
+    const isKnown = KNOWN_REGIONS.includes(activeRegion);
     try{
-      regionItems = await fetchFeed(regionFeedUrl(activeRegion));
+      if(isKnown){
+        const data = await loadNewsJson();
+        const items = (data.regions && data.regions[activeRegion]) || [];
+        if(!items.length) throw new Error('No data yet — first Action run may still be pending');
+        regionItems = items;
+      }else{
+        // Custom region — best-effort via proxy, since it can't be pre-built.
+        regionItems = await fetchFeed(regionFeedUrl(activeRegion));
+      }
       regionShown = PAGE_SIZE;
       renderItems(regionalList, regionItems, regionShown, activeRegion);
       regionalMore.style.display = regionItems.length > regionShown ? 'block' : 'none';
       document.getElementById('regional-count-label').textContent = Math.min(regionShown, regionItems.length) + ' shown';
     }catch(e){
-      regionalList.innerHTML = `<div class="error-note">Couldn't load ${activeRegion} headlines right now (${e.message}). <button class="icon-btn" id="retry-region" style="text-decoration:underline;padding:0;">Retry</button></div>`;
-      document.getElementById('retry-region').addEventListener('click', loadRegion);
+      const hint = isKnown ? '' : ' (custom regions rely on a live search, which is occasionally unreliable)';
+      regionalList.innerHTML = `<div class="error-note">Couldn't load ${activeRegion} headlines right now (${e.message})${hint}. <button class="icon-btn" id="retry-region" style="text-decoration:underline;padding:0;">Retry</button></div>`;
+      document.getElementById('retry-region').addEventListener('click', ()=>{ if(isKnown) newsJsonPromise = null; loadRegion(); });
     }
   }
   regionalMore.addEventListener('click', ()=>{
@@ -674,15 +690,16 @@
   });
 
   // ---- Init ----
-  function updateClock(){
-    document.getElementById('updated-line').textContent = 'Updated ' + new Date().toLocaleTimeString([], {hour:'2-digit',minute:'2-digit'});
+  function setUpdatedLine(isoString){
+    const d = new Date(isoString);
+    document.getElementById('updated-line').textContent =
+      'Data refreshed ' + d.toLocaleDateString([], {month:'short', day:'numeric'}) + ' ' +
+      d.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
   }
-  updateClock();
+  document.getElementById('updated-line').textContent = 'Loading…';
   renderChips();
-  // Stagger these instead of firing at once — spreads load across the
-  // two CORS proxies rather than hitting both at the exact same instant.
   loadWorld();
-  setTimeout(loadRegion, 700);
+  loadRegion();
 })();
 </script>
 
