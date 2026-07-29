@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T21:57:02.100Z",
+  "updated": "2026-07-29T22:59:38.643Z",
   "world": [
     {
       "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
@@ -24,6 +24,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 29 Jul 2026 16:49:41 GMT",
       "description": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations."
+    },
+    {
+      "title": "Salman Rushdie attacker convicted of terror offenses",
+      "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 22:15:33 GMT",
+      "description": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author."
     },
     {
       "title": "Four women accuse Jared Leto of criminal sexual conduct",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 29 Jul 2026 13:48:41 GMT",
       "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure."
-    },
-    {
-      "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-      "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 12:17:42 GMT",
-      "description": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House."
     }
   ],
   "regions": {
@@ -143,16 +143,16 @@
         "description": "The flare-up on multiple fronts raised the risk of a return to all-out war, underscoring the difficulty of winding down a five-month conflict that has jolted the world economy."
       },
       {
-        "title": "&apos;Machines are collaborators&apos; at this new museum of AI art",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol",
+        "title": "A divided Federal Reserve holds interest rates steady despite high inflation",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
         "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-        "description": "&quot;What is beyond reality?&quot; asks artist Refik Anadol. His latest projects include Dataland, an immersive AI art museum in Los Angeles, and an installation at the Smithsonian in Washington, D.C"
+        "description": "The Federal Reserve left its benchmark interest rate unchanged Wednesday.  Fed policymakers say they remain committed to curbing stubborn inflation."
       },
       {
-        "title": "To win over working-class voters, Democrats need to stop talking about democracy",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
+        "title": "Anthony Fauci invokes Fifth Amendment in Rand Paul Senate hearing",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5910542/fauci-rand-paul-diary-coronavirus-origin-lab-leak-hearing",
         "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-        "description": "Working-class voters have moved away from the Democratic Party. Winning them back is key to the party&apos;s future, a new reports shows. But first, the messaging has to change."
+        "description": "At a Senate hearing Wednesday, Anthony Fauci is likely to face questions from Sen. Rand Paul related to the origins of the COVID-19 pandemic. Here&apos;s what you need to know"
       }
     ],
     "Canada": []
