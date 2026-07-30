@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T22:59:38.643Z",
+  "updated": "2026-07-30T00:05:49.073Z",
   "world": [
     {
       "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
+        "link": "https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin",
+        "pubDate": "Wed, 29 Jul 2026 19:02:53 -0400",
+        "description": "The release of Dr. Anthony Fauci&apos;s pandemic diaries has rekindled the debate over the origins of SARS-CoV-2. Here&apos;s how scientists have weighed in."
+      },
+      {
         "title": "The Trump administration&apos;s move to end subsidies for Medicare drug plans could cost consumers",
         "link": "https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers",
         "pubDate": "Wed, 29 Jul 2026 16:58:03 -0400",
@@ -143,16 +149,10 @@
         "description": "The flare-up on multiple fronts raised the risk of a return to all-out war, underscoring the difficulty of winding down a five-month conflict that has jolted the world economy."
       },
       {
-        "title": "A divided Federal Reserve holds interest rates steady despite high inflation",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+        "title": "&apos;Machines are collaborators&apos; at this new museum of AI art",
+        "link": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol",
         "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-        "description": "The Federal Reserve left its benchmark interest rate unchanged Wednesday.  Fed policymakers say they remain committed to curbing stubborn inflation."
-      },
-      {
-        "title": "Anthony Fauci invokes Fifth Amendment in Rand Paul Senate hearing",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5910542/fauci-rand-paul-diary-coronavirus-origin-lab-leak-hearing",
-        "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-        "description": "At a Senate hearing Wednesday, Anthony Fauci is likely to face questions from Sen. Rand Paul related to the origins of the COVID-19 pandemic. Here&apos;s what you need to know"
+        "description": "&quot;What is beyond reality?&quot; asks artist Refik Anadol. His latest projects include Dataland, an immersive AI art museum in Los Angeles, and an installation at the Smithsonian in Washington, D.C"
       }
     ],
     "Canada": []
