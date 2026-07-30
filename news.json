@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T11:28:02.326Z",
+  "updated": "2026-07-30T13:07:42.254Z",
   "world": [
     {
       "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
@@ -16,13 +16,13 @@
     {
       "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
       "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Jul 2026 09:56:06 GMT",
-      "description": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv."
+      "pubDate": "Thu, 30 Jul 2026 11:48:50 GMT",
+      "description": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine."
     },
     {
-      "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+      "title": "Thousands evacuated in Crete but Spanish PM ends wildfire emergency",
       "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Jul 2026 09:10:11 GMT",
+      "pubDate": "Thu, 30 Jul 2026 12:46:16 GMT",
       "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island."
     },
     {
@@ -95,16 +95,16 @@
   "regions": {
     "US": [
       {
+        "title": "Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum",
+        "link": "https://www.npr.org/2026/07/30/g-s1-136285/up-first-newsletter-anthony-fauci-covid-asylum-rule-medicare-drug-plan",
+        "pubDate": "Thu, 30 Jul 2026 07:45:46 -0400",
+        "description": "Sen. Rand Paul is moving to hold Dr. Anthony Fauci in contempt of Congress after he invoked his Fifth Amendment rights. And, the Trump administration has announced a new rule for the asylum process."
+      },
+      {
         "title": "Russian strikes across Ukraine kill at least 8 civilians and wound dozens",
         "link": "https://www.npr.org/2026/07/30/g-s1-136276/russia-ukraine-war",
         "pubDate": "Thu, 30 Jul 2026 05:53:10 -0400",
         "description": "The blitz expanded Russia&apos;s almost daily bombardment of Ukrainian cities as Moscow apparently looked to exploit Kyiv&apos;s critical shortage of Western-supplied anti-ballistic missile defenses."
-      },
-      {
-        "title": "Pediatricians and health officials are sidestepping Trump&apos;s CDC on vaccine advice",
-        "link": "https://www.npr.org/2026/07/30/nx-s1-5866740/pediatricians-health-officials-sidestepping-trump-cdc-vaccine-advice",
-        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
-        "description": "The Trump administration&apos;s upending of years of vaccine advice puts many pediatricians in a quandary. Some are steering patients away from the CDC to other authoritative websites, including their"
       },
       {
         "title": "Digital habits that rob attention and energy — and how to combat them",
@@ -119,16 +119,16 @@
         "description": "Robeson County, N.C., where most of the Lumbee Tribe&apos;s citizens live, ranks as one of the worst counties in the U.S. for health. The tribe can access the Indian Health Service now, but it&apos;s "
       },
       {
-        "title": "Congress hasn&apos;t passed AI rules for schools. So these 98 teens did it themselves",
-        "link": "https://www.npr.org/2026/07/30/nx-s1-5853571/students-set-ai-policy",
-        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
-        "description": "Should students be allowed to use AI on assignments? What about on tests? Who should teach AI literacy? About 100 teenagers got together to try to decide."
-      },
-      {
         "title": "The renter-owner wealth gap is wider than ever, as many are priced out of buying",
         "link": "https://www.npr.org/2026/07/30/nx-s1-5910711/renter-owner-wealth-gap",
         "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
         "description": "Housing has long been the largest source of wealth for middle income families. But many renters cannot afford to buy as housing prices soar, which could fuel a generational divide."
+      },
+      {
+        "title": "Pediatricians and health officials are sidestepping Trump&apos;s CDC on vaccine advice",
+        "link": "https://www.npr.org/2026/07/30/nx-s1-5866740/pediatricians-health-officials-sidestepping-trump-cdc-vaccine-advice",
+        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
+        "description": "The Trump administration&apos;s upending of years of vaccine advice puts many pediatricians in a quandary. Some are steering patients away from the CDC to other authoritative websites, including their"
       },
       {
         "title": "The Trump administration has undercut the U.S. asylum program. These 3 charts show how",
@@ -143,16 +143,16 @@
         "description": "Odysseus did not face the parasite &lt;em&gt;Cyclospora&lt;/em&gt; in his 10-year journey home. But the word &quot;parasite&quot; originated as a popular character trope in Greek literature."
       },
       {
-        "title": "U.S. resumes strikes on Iran in retaliation for attack on American troops",
-        "link": "https://www.npr.org/2026/07/30/nx-s1-5913077/us-iran-updates",
-        "pubDate": "Thu, 30 Jul 2026 04:55:53 -0400",
-        "description": "The U.S. said it had struck &quot;dozens&quot; of targets belonging to Iran&apos;s Revolutionary Guard Corps. The multiple flare-ups, after several days of relative calm, raised the risk of a return t"
+        "title": "Adults have struggled to set rules for AI in school. These teens figured it out",
+        "link": "https://www.npr.org/2026/07/30/nx-s1-5853571/students-set-ai-policy",
+        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
+        "description": "Should students be allowed to use AI on assignments? What about on tests? Who should teach AI literacy? About 100 teenagers got together to try to decide."
       },
       {
-        "title": "Senate panel delays vote on Blanche&apos;s nomination as key Republicans withhold support",
-        "link": "https://www.npr.org/2026/07/30/g-s1-136265/senate-blanche-nomination",
-        "pubDate": "Thu, 30 Jul 2026 01:56:51 -0400",
-        "description": "The Senate Judiciary Committee had been expected to vote Thursday on whether to advance Todd Blanche&apos;s nomination. But resistance from two Republican senators threw his confirmation into doubt."
+        "title": "The U.S. retaliates against a &apos;surprise attack&apos; by Iran in Jordan",
+        "link": "https://www.npr.org/2026/07/30/nx-s1-5913077/us-iran-updates",
+        "pubDate": "Thu, 30 Jul 2026 04:55:53 -0400",
+        "description": "The U.S. attacks were in retaliation for what the U.S. Central Command called &quot;an attempted surprise attack&quot; with ballistic missiles on Tuesday against U.S. forces in the Middle East."
       }
     ],
     "Canada": []
