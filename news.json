@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-30T06:24:03.339Z",
+  "updated": "2026-07-30T09:12:10.355Z",
   "world": [
     {
       "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
       "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Jul 2026 05:36:27 GMT",
-      "description": "The US military says it launched a \"heavy\" attack on Iran in retaliation for attempted Iranian ballistic missile strikes on American forces."
+      "pubDate": "Thu, 30 Jul 2026 08:42:17 GMT",
+      "description": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks."
     },
     {
       "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
@@ -14,34 +14,34 @@
       "description": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation."
     },
     {
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 30 Jul 2026 09:05:21 GMT",
+      "description": "The unidentified object caused a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine during a Russian attack on the city of Lviv."
+    },
+    {
       "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
       "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 30 Jul 2026 01:53:25 GMT",
       "description": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires."
     },
     {
-      "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-      "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 16:49:41 GMT",
-      "description": "Firefighters are battling flare-ups in 40C heat in the Gironde region, as some locals have refused to heed evacuations."
+      "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
+      "link": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 30 Jul 2026 07:12:19 GMT",
+      "description": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies."
+    },
+    {
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 30 Jul 2026 07:23:11 GMT",
+      "description": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology."
     },
     {
       "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
       "link": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 29 Jul 2026 20:21:46 GMT",
       "description": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day."
-    },
-    {
-      "title": "Salman Rushdie attacker convicted of terror offences",
-      "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 22:15:33 GMT",
-      "description": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author."
-    },
-    {
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Jul 2026 00:41:28 GMT",
-      "description": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology."
     },
     {
       "title": "Singapore fines French teen $465 for viral straw-licking stunt",
@@ -60,6 +60,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 29 Jul 2026 21:36:06 GMT",
       "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers."
+    },
+    {
+      "title": "Salman Rushdie attacker convicted of terror offences",
+      "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 29 Jul 2026 22:15:33 GMT",
+      "description": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author."
     },
     {
       "title": "Oscar-winning songwriter Glen Hansard killed in crash",
@@ -84,16 +90,58 @@
       "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 29 Jul 2026 10:23:29 GMT",
       "description": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service."
-    },
-    {
-      "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
-      "link": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 29 Jul 2026 09:02:48 GMT",
-      "description": "From \"delulu\" to \"FOMO\", Gen Z slang has made an unlikely journey from Instagram to parliament."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Congress hasn&apos;t passed AI rules for schools. So these 98 teens did it themselves",
+        "link": "https://www.npr.org/2026/07/30/nx-s1-5853571/students-set-ai-policy",
+        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
+        "description": "Should students be allowed to use AI on assignments? What about on tests? Who should teach AI literacy? About 100 teenagers got together to try to decide."
+      },
+      {
+        "title": "Pediatricians and health officials are sidestepping Trump&apos;s CDC on vaccine advice",
+        "link": "https://www.npr.org/2026/07/30/nx-s1-5866740/pediatricians-health-officials-sidestepping-trump-cdc-vaccine-advice",
+        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
+        "description": "The Trump administration&apos;s upending of years of vaccine advice puts many pediatricians in a quandary. Some are steering patients away from the CDC to other authoritative websites, including their"
+      },
+      {
+        "title": "The renter-owner wealth gap is wider than ever, as many are priced out of buying",
+        "link": "https://www.npr.org/2026/07/30/nx-s1-5910711/renter-owner-wealth-gap",
+        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
+        "description": "Housing has long been the largest source of wealth for middle income families. But many renters cannot afford to buy as housing prices soar, which could fuel a generational divide."
+      },
+      {
+        "title": "Digital habits that rob attention and energy — and how to combat them",
+        "link": "https://www.npr.org/2026/07/30/nx-s1-5891818/digital-habits-that-rob-attention-and-energy-and-how-to-combat-them",
+        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
+        "description": "There&apos;s a reason why double- or triple-screening your devices makes you feel tired, says NPR&apos;s Manoush Zomorodi. She explains the science of information overload and how to reclaim calm and "
+      },
+      {
+        "title": "Here&apos;s how &apos;parasite&apos; went from a laughing matter to a serious biological threat",
+        "link": "https://www.npr.org/2026/07/30/nx-s1-5909222/parasite-cyclospora-outbreak-odyssey-nolan",
+        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
+        "description": "Odysseus did not face the parasite &lt;em&gt;Cyclospora&lt;/em&gt; in his 10-year journey home. But the word &quot;parasite&quot; originated as a popular character trope in Greek literature."
+      },
+      {
+        "title": "The Trump administration has undercut the U.S. asylum program. These 3 charts show how",
+        "link": "https://www.npr.org/2026/07/30/nx-s1-5891889/trump-asylum-program-changes-charts",
+        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
+        "description": "A new rule for asylum applications adds to the bevy of changes under the Trump administration to the core program for those fleeing persecution in their home countries."
+      },
+      {
+        "title": "The Lumbee Tribe of N.C. wants better healthcare, but plans to fund it are in limbo",
+        "link": "https://www.npr.org/2026/07/30/nx-s1-5906740/lumbee-tribe-indian-health-service-gambling-north-carolina",
+        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
+        "description": "Robeson County, N.C., where most of the Lumbee Tribe&apos;s citizens live, ranks as one of the worst counties in the U.S. for health. The tribe can access the Indian Health Service now, but it&apos;s "
+      },
+      {
+        "title": "U.S. resumes strikes on Iran in retaliation for attack on American troops",
+        "link": "https://www.npr.org/2026/07/30/nx-s1-5913077/us-iran-updates",
+        "pubDate": "Thu, 30 Jul 2026 04:55:53 -0400",
+        "description": "The U.S. said it had struck &quot;dozens&quot; of targets belonging to Iran&apos;s Revolutionary Guard Corps. The multiple flare-ups, after several days of relative calm, raised the risk of a return t"
+      },
       {
         "title": "Senate panel delays vote on Blanche&apos;s nomination as key Republicans withhold support",
         "link": "https://www.npr.org/2026/07/30/g-s1-136265/senate-blanche-nomination",
@@ -105,54 +153,6 @@
         "link": "https://www.npr.org/2026/07/30/g-s1-136257/stabbing-conviction-salman-rushdie",
         "pubDate": "Thu, 30 Jul 2026 01:33:00 -0400",
         "description": "A man was convicted of federal terrorism charges in the 2022 stabbing of Salman Rushdie, the author who has faced a decades-old death threat over his novel &quot;The Satanic Verses.&quot;"
-      },
-      {
-        "title": "Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 23",
-        "link": "https://www.npr.org/2026/07/30/nx-s1-5913050/japan-earthquake-updates",
-        "pubDate": "Thu, 30 Jul 2026 01:18:58 -0400",
-        "description": "Time was running out to find survivors, as rescuers continued to work in the Kumamoto area on Japan &apos;s southern main island of Kyushu, where the magnitude 7.1 earthquake hit Tuesday."
-      },
-      {
-        "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
-        "link": "https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin",
-        "pubDate": "Wed, 29 Jul 2026 19:02:53 -0400",
-        "description": "The release of Dr. Anthony Fauci&apos;s pandemic diaries has rekindled the debate over the origins of SARS-CoV-2. Here&apos;s how scientists have weighed in."
-      },
-      {
-        "title": "The Trump administration&apos;s move to end subsidies for Medicare drug plans could cost consumers",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers",
-        "pubDate": "Wed, 29 Jul 2026 16:58:03 -0400",
-        "description": "Federal subsidies that have helped defray insurers&apos; Medicare drug costs will disappear at the end of the year. Millions of beneficiaries could face higher premiums in 2027."
-      },
-      {
-        "title": "Oregon is on track for its worst wildfire season yet",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5910624/oregon-is-on-track-for-its-worst-wildfire-season-yet",
-        "pubDate": "Wed, 29 Jul 2026 16:28:44 -0400",
-        "description": "Wildfires in central and eastern Oregon are prompting evacuations and forcing ranchers to scramble to move cattle and find feed as public range land burns. More than a million acres have burned so far"
-      },
-      {
-        "title": "&apos;Taiwan Travelogue&apos; rethinks history, colonialism, and identity",
-        "link": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity",
-        "pubDate": "Wed, 29 Jul 2026 12:55:54 -0400",
-        "description": "The author and translator of &lt;em&gt;Taiwan Travelogue, &lt;/em&gt;the winner of the 2026 International Booker Prize, discuss identity and history amid the debate over Taiwan&apos;s colonial ties to"
-      },
-      {
-        "title": "&apos;Odyssey&apos; translator Emily Wilson says Nolan shouldn&apos;t have written the movie himself",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan",
-        "pubDate": "Wed, 29 Jul 2026 11:51:40 -0400",
-        "description": "The renowned classics scholar caused a stir when her critical review of Christopher Nolan&apos;s &lt;em&gt;The Odyssey&lt;/em&gt; went viral. Wilson explains her reaction to the film and why she&apos;"
-      },
-      {
-        "title": "Greetings from an isolated region in northern Pakistan&apos;s Hindu Kush mountains",
-        "link": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
-        "pubDate": "Wed, 29 Jul 2026 10:21:07 -0400",
-        "description": "Chitral borders Afghanistan and isn&apos;t easy to reach. Breathtaking views abound in this remote mountainous region — as do rockslides and avalanches."
-      },
-      {
-        "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
-        "link": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
-        "pubDate": "Wed, 29 Jul 2026 07:00:47 -0400",
-        "description": "The U.S. and Iran have resumed fighting after Iran attacked U.S. forces in the Middle East yesterday. And, a Senate committee will question Anthony Fauci about the COVID-19 pandemic."
       }
     ],
     "Canada": []
