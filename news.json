@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-30T03:40:35.700Z",
+  "updated": "2026-07-30T06:24:03.339Z",
   "world": [
     {
       "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
       "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Jul 2026 03:33:01 GMT",
-      "description": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday."
+      "pubDate": "Thu, 30 Jul 2026 05:36:27 GMT",
+      "description": "The US military says it launched a \"heavy\" attack on Iran in retaliation for attempted Iranian ballistic missile strikes on American forces."
     },
     {
       "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
@@ -95,6 +95,24 @@
   "regions": {
     "US": [
       {
+        "title": "Senate panel delays vote on Blanche&apos;s nomination as key Republicans withhold support",
+        "link": "https://www.npr.org/2026/07/30/g-s1-136265/senate-blanche-nomination",
+        "pubDate": "Thu, 30 Jul 2026 01:56:51 -0400",
+        "description": "The Senate Judiciary Committee had been expected to vote Thursday on whether to advance Todd Blanche&apos;s nomination. But resistance from two Republican senators threw his confirmation into doubt."
+      },
+      {
+        "title": "Man convicted in terrorism trial over the 2022 stabbing of author Salman Rushdie",
+        "link": "https://www.npr.org/2026/07/30/g-s1-136257/stabbing-conviction-salman-rushdie",
+        "pubDate": "Thu, 30 Jul 2026 01:33:00 -0400",
+        "description": "A man was convicted of federal terrorism charges in the 2022 stabbing of Salman Rushdie, the author who has faced a decades-old death threat over his novel &quot;The Satanic Verses.&quot;"
+      },
+      {
+        "title": "Hope dwindles for rescue in southwestern Japan quake as death toll climbs to 23",
+        "link": "https://www.npr.org/2026/07/30/nx-s1-5913050/japan-earthquake-updates",
+        "pubDate": "Thu, 30 Jul 2026 01:18:58 -0400",
+        "description": "Time was running out to find survivors, as rescuers continued to work in the Kumamoto area on Japan &apos;s southern main island of Kyushu, where the magnitude 7.1 earthquake hit Tuesday."
+      },
+      {
         "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
         "link": "https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin",
         "pubDate": "Wed, 29 Jul 2026 19:02:53 -0400",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
         "pubDate": "Wed, 29 Jul 2026 07:00:47 -0400",
         "description": "The U.S. and Iran have resumed fighting after Iran attacked U.S. forces in the Middle East yesterday. And, a Senate committee will question Anthony Fauci about the COVID-19 pandemic."
-      },
-      {
-        "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
-        "link": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
-        "pubDate": "Wed, 29 Jul 2026 05:24:52 -0400",
-        "description": "A school district in upstate New York is pausing plans to deploy an AI-powered, humanoid robot in the classroom after state education officials, teachers and local residents raised concerns."
-      },
-      {
-        "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
-        "link": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
-        "pubDate": "Wed, 29 Jul 2026 05:07:03 -0400",
-        "description": "The flare-up on multiple fronts raised the risk of a return to all-out war, underscoring the difficulty of winding down a five-month conflict that has jolted the world economy."
-      },
-      {
-        "title": "A divided Federal Reserve holds interest rates steady despite high inflation",
-        "link": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
-        "pubDate": "Wed, 29 Jul 2026 05:00:00 -0400",
-        "description": "The Federal Reserve left its benchmark interest rate unchanged Wednesday.  Fed policymakers say they remain committed to curbing stubborn inflation."
       }
     ],
     "Canada": []
