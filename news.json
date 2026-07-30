@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T15:29:56.741Z",
+  "updated": "2026-07-30T17:05:03.152Z",
   "world": [
     {
       "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
@@ -16,13 +16,13 @@
     {
       "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
       "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Jul 2026 13:38:50 GMT",
+      "pubDate": "Thu, 30 Jul 2026 15:35:50 GMT",
       "description": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine."
     },
     {
-      "title": "Thousands evacuated in Crete as Europe battles wildfires",
+      "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
       "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Jul 2026 12:46:16 GMT",
+      "pubDate": "Thu, 30 Jul 2026 16:04:53 GMT",
       "description": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Trump says he &apos;may&apos; pull Blanche AG nomination temporarily",
+        "link": "https://www.npr.org/2026/07/30/g-s1-135784/todd-blanche-attorney-general-trump",
+        "pubDate": "Thu, 30 Jul 2026 12:30:58 -0400",
+        "description": "The news comes as two key Republicans are withholding their support over concerns about the Justice Department&apos;s deal with President Trump."
+      },
+      {
         "title": "The economy slowed a bit -- but Americans continued to spend",
         "link": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation",
         "pubDate": "Thu, 30 Jul 2026 10:47:23 -0400",
@@ -119,12 +125,6 @@
         "description": "The blitz expanded Russia&apos;s almost daily bombardment of Ukrainian cities as Moscow apparently looked to exploit Kyiv&apos;s critical shortage of Western-supplied anti-ballistic missile defenses."
       },
       {
-        "title": "Pediatricians and health officials are sidestepping Trump&apos;s CDC on vaccine advice",
-        "link": "https://www.npr.org/2026/07/30/nx-s1-5866740/pediatricians-health-officials-sidestepping-trump-cdc-vaccine-advice",
-        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
-        "description": "The Trump administration&apos;s upending of years of vaccine advice puts many pediatricians in a quandary. Some are steering patients away from the CDC to other authoritative websites, including their"
-      },
-      {
         "title": "The Lumbee Tribe of N.C. wants better healthcare, but plans to fund it are in limbo",
         "link": "https://www.npr.org/2026/07/30/nx-s1-5906740/lumbee-tribe-indian-health-service-gambling-north-carolina",
         "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
@@ -137,6 +137,12 @@
         "description": "Housing has long been the largest source of wealth for middle income families. But many renters cannot afford to buy as housing prices soar, which could fuel a generational divide."
       },
       {
+        "title": "Pediatricians and health officials are sidestepping Trump&apos;s CDC on vaccine advice",
+        "link": "https://www.npr.org/2026/07/30/nx-s1-5866740/pediatricians-health-officials-sidestepping-trump-cdc-vaccine-advice",
+        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
+        "description": "The Trump administration&apos;s upending of years of vaccine advice puts many pediatricians in a quandary. Some are steering patients away from the CDC to other authoritative websites, including their"
+      },
+      {
         "title": "The Trump administration has undercut the U.S. asylum program. These 3 charts show how",
         "link": "https://www.npr.org/2026/07/30/nx-s1-5891889/trump-asylum-program-changes-charts",
         "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/07/30/nx-s1-5909222/parasite-cyclospora-outbreak-odyssey-nolan",
         "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
         "description": "Odysseus did not face the parasite &lt;em&gt;Cyclospora&lt;/em&gt; in his 10-year journey home. But the word &quot;parasite&quot; originated as a popular character trope in Greek literature."
-      },
-      {
-        "title": "Adults have struggled to set rules for AI in school. These teens figured it out",
-        "link": "https://www.npr.org/2026/07/30/nx-s1-5853571/students-set-ai-policy",
-        "pubDate": "Thu, 30 Jul 2026 05:00:00 -0400",
-        "description": "Should students be allowed to use AI on assignments? What about on tests? Who should teach AI literacy? About 100 teenagers got together to try to decide."
       }
     ],
     "Canada": []
