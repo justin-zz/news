@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-31T10:34:51.546Z",
+  "updated": "2026-07-31T12:53:05.884Z",
   "world": [
+    {
+      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 31 Jul 2026 12:39:39 GMT",
+      "description": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600."
+    },
     {
       "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
       "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&amp;at_campaign=rss",
@@ -14,28 +20,28 @@
       "description": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza."
     },
     {
-      "title": "About 49,000 migrants enter Spanish territory of Ceuta, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 09:51:38 GMT",
-      "description": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600."
-    },
-    {
       "title": "AC Milan and Italy great Baresi dies aged 66",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 31 Jul 2026 09:44:48 GMT",
       "description": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces."
     },
     {
-      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-      "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 05:21:18 GMT",
-      "description": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth."
+      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 31 Jul 2026 10:32:17 GMT",
+      "description": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025."
     },
     {
       "title": "Fifa says 'nobody selling football' as plan continues",
       "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 31 Jul 2026 08:21:37 GMT",
       "description": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups."
+    },
+    {
+      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+      "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 31 Jul 2026 05:21:18 GMT",
+      "description": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth."
     },
     {
       "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
@@ -84,27 +90,21 @@
       "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 30 Jul 2026 12:14:00 GMT",
       "description": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya."
-    },
-    {
-      "title": "Nicaraguan leader proposes extending presidential term by another year",
-      "link": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Jul 2026 10:34:07 GMT",
-      "description": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer."
     }
   ],
   "regions": {
     "US": [
       {
+        "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
+        "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
+        "pubDate": "Fri, 31 Jul 2026 07:30:26 -0400",
+        "description": "President Trump says a deal has been reached for Hamas to completely disarm and Israeli forces to withdraw from Gaza. And, the U.S. economy slowed some, but Americans continued to spend."
+      },
+      {
         "title": "Who&apos;s driving a bookmobile full of Epstein files? The quiz knows!",
         "link": "https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz",
         "pubDate": "Fri, 31 Jul 2026 05:01:00 -0400",
         "description": "Plus: scandalous Senate drama, Grammys drama and Homeric drama."
-      },
-      {
-        "title": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
-        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-        "description": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs."
       },
       {
         "title": "Democrats show divisions on Israel amid competitive midterm elections",
@@ -113,16 +113,22 @@
         "description": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza."
       },
       {
+        "title": "450K borrowers say they were ripped off. Their student loans are being erased",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
+        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
+        "description": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years."
+      },
+      {
         "title": "Trump&apos;s noncitizen voter data remains a mystery. But the claims raise midterm fears",
         "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
         "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
         "description": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don&apos;t know where the numbers came from, and some worry what the claims may portend for the midt"
       },
       {
-        "title": "450k borrowers say they were ripped off. Their student loans are being erased",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
+        "title": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
         "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-        "description": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years."
+        "description": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs."
       },
       {
         "title": "Morning news brief",
@@ -131,28 +137,22 @@
         "description": "President Trump says he may pull Todd Blanche&apos;s nomination, Trump says a deal has been made to disarm Hamas and withdraw Israeli forces from Gaza, the U.S. economy is growing, but at a slower pac"
       },
       {
+        "title": "Thousands in France allowed to return home as Europe tackles wildfires and heatwave",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5913353/france-wildfires-bordeaux-europe-heatwave",
+        "pubDate": "Fri, 31 Jul 2026 04:45:07 -0400",
+        "description": "Firefighters in the Gironde region of France said the situation had &quot;stabilized&quot;, after a week of wildfires caused by a major heatwave across Europe."
+      },
+      {
+        "title": "&apos;I can do this&apos;: Woman with cancer reflects on her life and facing death",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5910511/i-can-do-this-woman-with-cancer-reflects-on-her-life-and-facing-death",
+        "pubDate": "Fri, 31 Jul 2026 04:44:53 -0400",
+        "description": "For StoryCorps, Karán Founds-Benton talks to her friend about her cancer diagnosis and facing death."
+      },
+      {
         "title": "At least 18 die after breach of border between Morocco and Spanish territory of Ceuta",
         "link": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
         "pubDate": "Fri, 31 Jul 2026 02:02:00 -0400",
         "description": "At least 18 migrants have died trying to reach the Spanish territory of Ceuta after thousands of people breached the frontier with Morocco and poured in. The crisis boiled over Thursday and overnight."
-      },
-      {
-        "title": "Death toll from southwestern Japan quake climbs to 34",
-        "link": "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll",
-        "pubDate": "Fri, 31 Jul 2026 01:40:16 -0400",
-        "description": "Searchers continued to work in the Kumamoto area, including at the site of the collapsed mall, where some of the most serious damage was recorded."
-      },
-      {
-        "title": "Trump announces a deal for Hamas to disarm, but many hurdles and uncertainty remain",
-        "link": "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza",
-        "pubDate": "Fri, 31 Jul 2026 01:20:19 -0400",
-        "description": "President Trump says a deal has been reached for Hamas to disarm and Israel to withdraw its forces from Gaza. But many hurdles, conditions and long timelines remain to wind down the war in the Palesti"
-      },
-      {
-        "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
-        "link": "https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026",
-        "pubDate": "Thu, 30 Jul 2026 16:37:59 -0400",
-        "description": "The 30-year fixed-rate mortgage reached 6.66% on average Thursday."
       }
     ],
     "Canada": []
