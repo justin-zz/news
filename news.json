@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T07:49:38.926Z",
+  "updated": "2026-07-31T10:34:51.546Z",
   "world": [
     {
       "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
@@ -14,16 +14,16 @@
       "description": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza."
     },
     {
-      "title": "AC Milan and Italy great Baresi dies aged 66",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 07:27:00 GMT",
-      "description": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces."
+      "title": "About 49,000 migrants enter Spanish territory of Ceuta, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 31 Jul 2026 09:51:38 GMT",
+      "description": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600."
     },
     {
-      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 02:41:09 GMT",
-      "description": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border."
+      "title": "AC Milan and Italy great Baresi dies aged 66",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 31 Jul 2026 09:44:48 GMT",
+      "description": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces."
     },
     {
       "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
@@ -34,8 +34,14 @@
     {
       "title": "Fifa says 'nobody selling football' as plan continues",
       "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 06:31:44 GMT",
+      "pubDate": "Fri, 31 Jul 2026 08:21:37 GMT",
       "description": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups."
+    },
+    {
+      "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 31 Jul 2026 08:09:17 GMT",
+      "description": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border."
     },
     {
       "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
@@ -84,21 +90,51 @@
       "link": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 30 Jul 2026 10:34:07 GMT",
       "description": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer."
-    },
-    {
-      "title": "Anthropic's Claude AI escapes tests to hack three organisations",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 04:31:30 GMT",
-      "description": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Spain deploys military to Ceuta after thousands of people breach Morocco&apos;s border",
+        "title": "Who&apos;s driving a bookmobile full of Epstein files? The quiz knows!",
+        "link": "https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz",
+        "pubDate": "Fri, 31 Jul 2026 05:01:00 -0400",
+        "description": "Plus: scandalous Senate drama, Grammys drama and Homeric drama."
+      },
+      {
+        "title": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
+        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
+        "description": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs."
+      },
+      {
+        "title": "Democrats show divisions on Israel amid competitive midterm elections",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
+        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
+        "description": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza."
+      },
+      {
+        "title": "Trump&apos;s noncitizen voter data remains a mystery. But the claims raise midterm fears",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
+        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
+        "description": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don&apos;t know where the numbers came from, and some worry what the claims may portend for the midt"
+      },
+      {
+        "title": "450k borrowers say they were ripped off. Their student loans are being erased",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
+        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
+        "description": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years."
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5901900/morning-news-brief",
+        "pubDate": "Fri, 31 Jul 2026 04:49:30 -0400",
+        "description": "President Trump says he may pull Todd Blanche&apos;s nomination, Trump says a deal has been made to disarm Hamas and withdraw Israeli forces from Gaza, the U.S. economy is growing, but at a slower pac"
+      },
+      {
+        "title": "At least 18 die after breach of border between Morocco and Spanish territory of Ceuta",
         "link": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
         "pubDate": "Fri, 31 Jul 2026 02:02:00 -0400",
-        "description": "Spain will deploy its military to restore order at its border with Morocco in Ceuta after thousands of migrants streamed into the tiny Spanish territory, with at least nine dying in the attempt."
+        "description": "At least 18 migrants have died trying to reach the Spanish territory of Ceuta after thousands of people breached the frontier with Morocco and poured in. The crisis boiled over Thursday and overnight."
       },
       {
         "title": "Death toll from southwestern Japan quake climbs to 34",
@@ -117,42 +153,6 @@
         "link": "https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026",
         "pubDate": "Thu, 30 Jul 2026 16:37:59 -0400",
         "description": "The 30-year fixed-rate mortgage reached 6.66% on average Thursday."
-      },
-      {
-        "title": "After Fauci Senate hearing, experts worry about &apos;chilling effect&apos; on public health",
-        "link": "https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling",
-        "pubDate": "Thu, 30 Jul 2026 16:37:48 -0400",
-        "description": "The accusations against Dr. Anthony Fauci, once the nation&apos;s leading infectious disease expert, have some experts worrying that these events may further erode public health staffing in the U.S."
-      },
-      {
-        "title": "The Trump administration wants $10 million more to cover its July Fourth celebrations",
-        "link": "https://www.npr.org/2026/07/30/nx-s1-5913172/freedom-250-july-fourth-10-million",
-        "pubDate": "Thu, 30 Jul 2026 13:47:57 -0400",
-        "description": "Congress allocated $150 million for 250th birthday events. The Trump-backed group that planned the state fair and July 4th fireworks is asking for an additional $10 million in reimbursements."
-      },
-      {
-        "title": "Are you choosing to stay single? We want to hear from you",
-        "link": "https://www.npr.org/2026/07/30/g-s1-136079/single-adult-solo-choice",
-        "pubDate": "Thu, 30 Jul 2026 13:47:44 -0400",
-        "description": "Solo living, solo travel, and solo dining are all being embraced as more adults are choosing to remain single. Many Americans aren&apos;t interested in dating, and being single is a symbol of autonomy"
-      },
-      {
-        "title": "European soccer leaders to boycott  the World Cup in an unprecedented step",
-        "link": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
-        "pubDate": "Thu, 30 Jul 2026 13:38:38 -0400",
-        "description": "European soccer associations said they would boycott the World Cup unless FIFA reverses a controversial deal to sell minority stakes to the marquee soccer tournament."
-      },
-      {
-        "title": "Trump says he &apos;may&apos; pull Blanche AG nomination temporarily",
-        "link": "https://www.npr.org/2026/07/30/g-s1-135784/todd-blanche-attorney-general-trump",
-        "pubDate": "Thu, 30 Jul 2026 12:30:58 -0400",
-        "description": "The news comes as two key Republicans are withholding their support over concerns about the Justice Department&apos;s deal with President Trump."
-      },
-      {
-        "title": "The economy slowed a bit -- but Americans continued to spend",
-        "link": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation",
-        "pubDate": "Thu, 30 Jul 2026 10:47:23 -0400",
-        "description": "The U.S. economy grew at an annual rate of 1.5% in the spring, according to the Commerce Department. That&apos;s a modest slowdown from the previous quarter — but consumer spending picked up steam."
       }
     ],
     "Canada": []
