@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-31T17:02:39.192Z",
+  "updated": "2026-07-31T18:52:18.003Z",
   "world": [
     {
-      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
       "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 14:20:18 GMT",
-      "description": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco."
+      "pubDate": "Fri, 31 Jul 2026 17:03:47 GMT",
+      "description": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain."
     },
     {
       "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
+        "pubDate": "Fri, 31 Jul 2026 13:48:26 -0400",
+        "description": "Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: &quot;The opportunities for abuse and disinfo are literally boundless,&quot; said one."
+      },
+      {
         "title": "Keeping cool without AC: Our readers share their tips",
         "link": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool",
         "pubDate": "Fri, 31 Jul 2026 10:44:47 -0400",
@@ -125,12 +131,6 @@
         "description": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years."
       },
       {
-        "title": "Democrats show divisions on Israel amid competitive midterm elections",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
-        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-        "description": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza."
-      },
-      {
         "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
         "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
         "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
@@ -143,16 +143,16 @@
         "description": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don&apos;t know where the numbers came from, and some worry what the claims may portend for the midt"
       },
       {
+        "title": "Democrats show divisions on Israel amid competitive midterm elections",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
+        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
+        "description": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza."
+      },
+      {
         "title": "Morning news brief",
         "link": "https://www.npr.org/2026/07/31/nx-s1-5901900/morning-news-brief",
         "pubDate": "Fri, 31 Jul 2026 04:49:30 -0400",
         "description": "President Trump says he may pull Todd Blanche&apos;s nomination, Trump says a deal has been made to disarm Hamas and withdraw Israeli forces from Gaza, the U.S. economy is growing, but at a slower pac"
-      },
-      {
-        "title": "Thousands in France allowed to return home as Europe tackles wildfires and heatwave",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5913353/france-wildfires-bordeaux-europe-heatwave",
-        "pubDate": "Fri, 31 Jul 2026 04:45:07 -0400",
-        "description": "Firefighters in the Gironde region of France said the situation had &quot;stabilized&quot;, after a week of wildfires caused by a major heatwave across Europe."
       }
     ],
     "Canada": []
