@@ -1,17 +1,11 @@
 {
-  "updated": "2026-07-31T12:53:05.884Z",
+  "updated": "2026-07-31T15:16:22.429Z",
   "world": [
     {
       "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
       "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 12:39:39 GMT",
-      "description": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600."
-    },
-    {
-      "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 07:03:29 GMT",
-      "description": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented."
+      "pubDate": "Fri, 31 Jul 2026 14:20:18 GMT",
+      "description": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco."
     },
     {
       "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
@@ -30,6 +24,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 31 Jul 2026 10:32:17 GMT",
       "description": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025."
+    },
+    {
+      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 31 Jul 2026 14:26:07 GMT",
+      "description": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped."
     },
     {
       "title": "Fifa says 'nobody selling football' as plan continues",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Keeping cool without AC: Our readers share their tips",
+        "link": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool",
+        "pubDate": "Fri, 31 Jul 2026 10:44:47 -0400",
+        "description": "We asked our readers to tell us how they&apos;ve fended off heat without the refrigerant blasts of an air conditioner. Here&apos;s what they shared."
+      },
+      {
+        "title": "In Nebraska, Americans begin to lose Medicaid under Trump&apos;s work rules",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska",
+        "pubDate": "Fri, 31 Jul 2026 09:22:40 -0400",
+        "description": "Nebraska&apos;s Medicaid director, in an exclusive interview with nonprofit news organization Tradeoffs, said roughly 200 people will lose health coverage on Aug. 1."
+      },
+      {
         "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
         "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
         "pubDate": "Fri, 31 Jul 2026 07:30:26 -0400",
@@ -107,28 +119,28 @@
         "description": "Plus: scandalous Senate drama, Grammys drama and Homeric drama."
       },
       {
-        "title": "Democrats show divisions on Israel amid competitive midterm elections",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
-        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-        "description": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza."
-      },
-      {
         "title": "450K borrowers say they were ripped off. Their student loans are being erased",
         "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
         "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
         "description": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years."
       },
       {
-        "title": "Trump&apos;s noncitizen voter data remains a mystery. But the claims raise midterm fears",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
+        "title": "Democrats show divisions on Israel amid competitive midterm elections",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
         "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-        "description": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don&apos;t know where the numbers came from, and some worry what the claims may portend for the midt"
+        "description": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza."
       },
       {
-        "title": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
+        "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
         "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
         "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
         "description": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs."
+      },
+      {
+        "title": "Trump&apos;s claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
+        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
+        "description": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don&apos;t know where the numbers came from, and some worry what the claims may portend for the midt"
       },
       {
         "title": "Morning news brief",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/07/31/nx-s1-5913353/france-wildfires-bordeaux-europe-heatwave",
         "pubDate": "Fri, 31 Jul 2026 04:45:07 -0400",
         "description": "Firefighters in the Gironde region of France said the situation had &quot;stabilized&quot;, after a week of wildfires caused by a major heatwave across Europe."
-      },
-      {
-        "title": "&apos;I can do this&apos;: Woman with cancer reflects on her life and facing death",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5910511/i-can-do-this-woman-with-cancer-reflects-on-her-life-and-facing-death",
-        "pubDate": "Fri, 31 Jul 2026 04:44:53 -0400",
-        "description": "For StoryCorps, Karán Founds-Benton talks to her friend about her cancer diagnosis and facing death."
-      },
-      {
-        "title": "At least 18 die after breach of border between Morocco and Spanish territory of Ceuta",
-        "link": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
-        "pubDate": "Fri, 31 Jul 2026 02:02:00 -0400",
-        "description": "At least 18 migrants have died trying to reach the Spanish territory of Ceuta after thousands of people breached the frontier with Morocco and poured in. The crisis boiled over Thursday and overnight."
       }
     ],
     "Canada": []
