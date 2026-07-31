@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T20:17:06.150Z",
+  "updated": "2026-07-31T21:36:17.851Z",
   "world": [
     {
       "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
@@ -14,10 +14,10 @@
       "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated."
     },
     {
-      "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
+      "title": "Body of US climber the latest recovered after Pakistan avalanche",
       "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 16:41:59 GMT",
-      "description": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear."
+      "pubDate": "Fri, 31 Jul 2026 20:22:46 GMT",
+      "description": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing."
     },
     {
       "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Climate adaptation at its limits, says one scientist",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
+        "pubDate": "Fri, 31 Jul 2026 16:28:46 -0400",
+        "description": "A climate scientist says Earth is &quot;passing the limits of adaptation&quot; when it comes to withstanding the effects of climate change."
+      },
+      {
+        "title": "Drone delivery helps in Rwanda, but only so much",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much",
+        "pubDate": "Fri, 31 Jul 2026 16:28:41 -0400",
+        "description": "A U.S. company in Rwanda has been providing medical supplies via drone. But even state-of-the-art technology can&apos;t overcome a weak health care infrastructure."
+      },
+      {
         "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
         "link": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
         "pubDate": "Fri, 31 Jul 2026 13:48:26 -0400",
@@ -131,12 +143,6 @@
         "description": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years."
       },
       {
-        "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
-        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-        "description": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs."
-      },
-      {
         "title": "Trump&apos;s claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
         "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
         "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
         "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
         "description": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza."
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5901900/morning-news-brief",
-        "pubDate": "Fri, 31 Jul 2026 04:49:30 -0400",
-        "description": "President Trump says he may pull Todd Blanche&apos;s nomination, Trump says a deal has been made to disarm Hamas and withdraw Israeli forces from Gaza, the U.S. economy is growing, but at a slower pac"
       }
     ],
     "Canada": []
