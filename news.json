@@ -1,23 +1,23 @@
 {
-  "updated": "2026-07-31T04:56:23.686Z",
+  "updated": "2026-07-31T07:49:38.926Z",
   "world": [
     {
       "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
       "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 03:24:14 GMT",
+      "pubDate": "Fri, 31 Jul 2026 07:03:29 GMT",
       "description": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented."
     },
     {
-      "title": "Rushdi Abualouf: If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+      "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
       "link": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 31 Jul 2026 04:25:49 GMT",
       "description": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza."
     },
     {
-      "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
-      "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 00:52:54 GMT",
-      "description": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan."
+      "title": "AC Milan and Italy great Baresi dies aged 66",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 31 Jul 2026 07:27:00 GMT",
+      "description": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces."
     },
     {
       "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
@@ -28,14 +28,14 @@
     {
       "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
       "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 04:36:04 GMT",
-      "description": "The rapper had been accused of sexually assaulting a woman after performing in Perth in 2024."
+      "pubDate": "Fri, 31 Jul 2026 05:21:18 GMT",
+      "description": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth."
     },
     {
-      "title": "Fifa says 'nobody selling football' as it presses ahead with investment plan",
+      "title": "Fifa says 'nobody selling football' as plan continues",
       "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 04:17:06 GMT",
-      "description": "Football's governing body plans to continue the consultation process after Uefa threatens to boycott World Cups."
+      "pubDate": "Fri, 31 Jul 2026 06:31:44 GMT",
+      "description": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups."
     },
     {
       "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
@@ -86,7 +86,7 @@
       "description": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer."
     },
     {
-      "title": "Anthropic says Claude AI hacked three organisations during cyber tests",
+      "title": "Anthropic's Claude AI escapes tests to hack three organisations",
       "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 31 Jul 2026 04:31:30 GMT",
       "description": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks."
@@ -94,6 +94,24 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Spain deploys military to Ceuta after thousands of people breach Morocco&apos;s border",
+        "link": "https://www.npr.org/2026/07/31/g-s1-136507/morocco-spain-migration",
+        "pubDate": "Fri, 31 Jul 2026 02:02:00 -0400",
+        "description": "Spain will deploy its military to restore order at its border with Morocco in Ceuta after thousands of migrants streamed into the tiny Spanish territory, with at least nine dying in the attempt."
+      },
+      {
+        "title": "Death toll from southwestern Japan quake climbs to 34",
+        "link": "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll",
+        "pubDate": "Fri, 31 Jul 2026 01:40:16 -0400",
+        "description": "Searchers continued to work in the Kumamoto area, including at the site of the collapsed mall, where some of the most serious damage was recorded."
+      },
+      {
+        "title": "Trump announces a deal for Hamas to disarm, but many hurdles and uncertainty remain",
+        "link": "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza",
+        "pubDate": "Fri, 31 Jul 2026 01:20:19 -0400",
+        "description": "President Trump says a deal has been reached for Hamas to disarm and Israel to withdraw its forces from Gaza. But many hurdles, conditions and long timelines remain to wind down the war in the Palesti"
+      },
       {
         "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
         "link": "https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation",
         "pubDate": "Thu, 30 Jul 2026 10:47:23 -0400",
         "description": "The U.S. economy grew at an annual rate of 1.5% in the spring, according to the Commerce Department. That&apos;s a modest slowdown from the previous quarter — but consumer spending picked up steam."
-      },
-      {
-        "title": "Alien Terrorist Removal Court holds its first-ever hearing after 30 years",
-        "link": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot",
-        "pubDate": "Thu, 30 Jul 2026 09:10:45 -0400",
-        "description": "Congress created the Alien Terrorist Removal Court in 1996 to make it easier for the Justice Department to use classified evidence to deport people from U.S. soil."
-      },
-      {
-        "title": "Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum",
-        "link": "https://www.npr.org/2026/07/30/g-s1-136285/up-first-newsletter-anthony-fauci-covid-asylum-rule-medicare-drug-plan",
-        "pubDate": "Thu, 30 Jul 2026 07:45:46 -0400",
-        "description": "Sen. Rand Paul is moving to hold Dr. Anthony Fauci in contempt of Congress after he invoked his Fifth Amendment rights. And, the Trump administration has announced a new rule for the asylum process."
-      },
-      {
-        "title": "Russian strikes across Ukraine kill 10 and a missile falls in Poland",
-        "link": "https://www.npr.org/2026/07/30/g-s1-136276/russia-ukraine-war",
-        "pubDate": "Thu, 30 Jul 2026 05:53:10 -0400",
-        "description": "A Russian missile and drone barrage across Ukraine killed at least 10 civilians, including children, and NATO scrambled jets after one of the missiles crossed the border into Poland."
       }
     ],
     "Canada": []
