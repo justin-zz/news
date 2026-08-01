@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T22:56:34.664Z",
+  "updated": "2026-08-01T00:01:56.787Z",
   "world": [
     {
       "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying &apos;botched installation&apos; to blame",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss",
+        "pubDate": "Fri, 31 Jul 2026 19:24:36 -0400",
+        "description": "The government had accused David Hearn of ripping a piece of sealant after a $14 million renovation. Hearn has repeatedly said that he simply touched the water in the pool out of curiosity last month."
+      },
+      {
         "title": "Climate adaptation at its limits, says one scientist",
         "link": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
         "pubDate": "Fri, 31 Jul 2026 16:28:46 -0400",
@@ -143,16 +149,10 @@
         "description": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years."
       },
       {
-        "title": "Trump&apos;s claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
+        "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
         "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-        "description": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don&apos;t know where the numbers came from, and some worry what the claims may portend for the midt"
-      },
-      {
-        "title": "Democrats show divisions on Israel amid competitive midterm elections",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5896216/democrats-israel-congress-2026-midterm-elections",
-        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-        "description": "Democratic socialists are on the ballot in high profile races coming up in Michigan and Wisconsin, putting mainstream Democrats in a tough position when it comes to the issue of Israel and Gaza."
+        "description": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs."
       }
     ],
     "Canada": []
