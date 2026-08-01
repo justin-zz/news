@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-01T12:01:40.660Z",
+  "updated": "2026-08-01T14:05:22.846Z",
   "world": [
     {
       "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
       "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 11:00:05 GMT",
+      "pubDate": "Sat, 01 Aug 2026 12:43:21 GMT",
       "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\"."
     },
     {
@@ -20,16 +20,16 @@
       "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand."
     },
     {
-      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 11:52:29 GMT",
-      "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 13:02:04 GMT",
+      "description": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019."
     },
     {
-      "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
-      "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 07:22:30 GMT",
-      "description": "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak."
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 13:35:39 GMT",
+      "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
     },
     {
       "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
@@ -80,20 +80,26 @@
       "description": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack."
     },
     {
-      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
-      "link": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Jul 2026 12:14:00 GMT",
-      "description": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya."
+      "title": "Anthropic's Claude AI escapes to hack into three organisations",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 31 Jul 2026 10:18:54 GMT",
+      "description": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks."
     },
     {
-      "title": "Nicaraguan leader proposes extending presidential term by another year",
-      "link": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Jul 2026 10:34:07 GMT",
-      "description": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer."
+      "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 31 Jul 2026 23:41:10 GMT",
+      "description": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Opinion: Remembering Margo Howard",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard",
+        "pubDate": "Sat, 01 Aug 2026 08:00:00 -0400",
+        "description": "Margo Howard had a lot of life experience and used it to offer advice for years as &quot;Dear Prudence&quot; for Slate. She died this week at the age of 86."
+      },
       {
         "title": "They call it &apos;a dream fulfilled&apos; -- new homes designed for (and by) slum residents",
         "link": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
@@ -129,12 +135,6 @@
         "link": "https://www.npr.org/2026/08/01/nx-s1-5904608/michigan-primary-haley-stevens-abdul-el-sayed-democrats",
         "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
         "description": "As Haley Stevens and Abdul El-Sayed vie for the Democratic nomination, voters are debating which way the party should go: establishment or insurgent; progressive or more moderate; new media or old."
-      },
-      {
-        "title": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral",
-        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
-        "description": "Staff Sgt. Angel S. Rampersad is one of a handful of service members who&apos;ve recently died in the conflict with Iran. Her family says she knew from a young age she wanted to serve in the military."
       },
       {
         "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
