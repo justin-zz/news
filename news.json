@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-01T09:02:48.469Z",
+  "updated": "2026-08-01T10:55:58.316Z",
   "world": [
     {
-      "title": "Fifa scraps controversial World Cup investment plan",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 05:42:31 GMT",
-      "description": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal."
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 10:11:39 GMT",
+      "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\"."
     },
     {
-      "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 17:03:47 GMT",
-      "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid."
+      "title": "Uefa has 'lost confidence' in Fifa leadership",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 09:51:05 GMT",
+      "description": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies."
     },
     {
       "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
@@ -95,64 +95,64 @@
   "regions": {
     "US": [
       {
+        "title": "Lebanese who fled the Israeli invasion visit to see what&apos;s left",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
+        "pubDate": "Sat, 01 Aug 2026 06:00:00 -0400",
+        "description": "Residents of the ancient town of Nabatiyeh in southern Lebanon have endured wars in the past, but the latest conflict with Israel is testing the limits of their endurance."
+      },
+      {
+        "title": "More than 25,000 children lose previous legal protections, as federal contract ends",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5913679/immgirant-children-lawyers-trump-administration",
+        "pubDate": "Sat, 01 Aug 2026 06:00:00 -0400",
+        "description": "Thousands of unaccompanied immigrant children are set to lose legal representation. The federal contract that pays for legal access expired Friday."
+      },
+      {
+        "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco",
+        "pubDate": "Sat, 01 Aug 2026 05:36:05 -0400",
+        "description": "The death toll in Spain&apos;s Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier."
+      },
+      {
+        "title": "In the race for Senate in Michigan, multiple party fights are colliding for Democrats",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5904608/michigan-primary-haley-stevens-abdul-el-sayed-democrats",
+        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
+        "description": "As Haley Stevens and Abdul El-Sayed vie for the Democratic nomination, voters are debating which way the party should go: establishment or insurgent; progressive or more moderate; new media or old."
+      },
+      {
+        "title": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral",
+        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
+        "description": "Staff Sgt. Angel S. Rampersad is one of a handful of service members who&apos;ve recently died in the conflict with Iran. Her family says she knew from a young age she wanted to serve in the military."
+      },
+      {
+        "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
+        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
+        "description": "Public health nurses have been pulled from other duties in Washtenaw County, MI, to call hundreds of people sick with cyclosporiasis, and try to help them remember everything they ate in recent days."
+      },
+      {
+        "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members",
+        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
+        "description": "In June, the Department of Defense disinterred the remains of an unidentified WWII soldier who had been buried in Sitka, Alaska for decades. Now, they&apos;ll try to confirm who he is."
+      },
+      {
+        "title": "Why did OpenAI&apos;s and Anthropic&apos;s AI models hack other companies?",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
+        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
+        "description": "OpenAI and Anthropic say their models broke into other companies&apos; systems during testing, raising security concerns amid a heated debate over how to regulate AI."
+      },
+      {
+        "title": "For sale: early access to Trump&apos;s Truth Social posts",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
+        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
+        "description": "The president&apos;s media company is offering investors early access to his Truth Social feed for up to $100,000 a month. Experts say the service may violate insider trading laws."
+      },
+      {
         "title": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
         "link": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino",
         "pubDate": "Fri, 31 Jul 2026 22:08:51 -0400",
         "description": "FIFA abandoned a plan to create a commercial venture and then sell stakes to minority investors, just days after unveiling it. The plan drew sharp condemnation — and a boycott from European nations."
-      },
-      {
-        "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying &apos;botched installation&apos; to blame",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss",
-        "pubDate": "Fri, 31 Jul 2026 19:24:36 -0400",
-        "description": "The government had accused David Hearn of ripping a piece of sealant after a $14-million renovation. Hearn has repeatedly said that he simply touched the water in the pool out of curiosity last month."
-      },
-      {
-        "title": "Climate adaptation at its limits, says one scientist",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
-        "pubDate": "Fri, 31 Jul 2026 16:28:46 -0400",
-        "description": "A climate scientist says Earth is &quot;passing the limits of adaptation&quot; when it comes to withstanding the effects of climate change."
-      },
-      {
-        "title": "Drone delivery helps in Rwanda, but only so much",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much",
-        "pubDate": "Fri, 31 Jul 2026 16:28:41 -0400",
-        "description": "A U.S. company in Rwanda has been providing medical supplies via drone. But even state-of-the-art technology can&apos;t overcome a weak health care infrastructure."
-      },
-      {
-        "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
-        "pubDate": "Fri, 31 Jul 2026 13:48:26 -0400",
-        "description": "Journalists, human rights advocates and open source analysts recoiled in horror at the initial decision: &quot;The opportunities for abuse and disinfo are literally boundless,&quot; said one."
-      },
-      {
-        "title": "Keeping cool without AC: Our readers share their tips",
-        "link": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool",
-        "pubDate": "Fri, 31 Jul 2026 10:44:47 -0400",
-        "description": "We asked our readers to tell us how they&apos;ve fended off heat without the refrigerant blasts of an air conditioner. Here&apos;s what they shared."
-      },
-      {
-        "title": "In Nebraska, Americans begin to lose Medicaid under Trump&apos;s work rules",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska",
-        "pubDate": "Fri, 31 Jul 2026 09:22:40 -0400",
-        "description": "Nebraska&apos;s Medicaid director, in an exclusive interview with nonprofit news organization Tradeoffs, said roughly 200 people will lose health coverage on Aug. 1."
-      },
-      {
-        "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
-        "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
-        "pubDate": "Fri, 31 Jul 2026 07:30:26 -0400",
-        "description": "President Trump says a deal has been reached for Hamas to completely disarm and Israeli forces to withdraw from Gaza. And, the U.S. economy slowed some, but Americans continued to spend."
-      },
-      {
-        "title": "Who&apos;s driving a bookmobile full of Epstein files? The quiz knows!",
-        "link": "https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz",
-        "pubDate": "Fri, 31 Jul 2026 05:01:00 -0400",
-        "description": "Plus: scandalous Senate drama, Grammys drama and Homeric drama."
-      },
-      {
-        "title": "450K borrowers say they were ripped off. Their student loans are being erased",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
-        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-        "description": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years."
       }
     ],
     "Canada": []
