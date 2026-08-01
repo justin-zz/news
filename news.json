@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T22:26:20.845Z",
+  "updated": "2026-08-01T23:28:24.688Z",
   "world": [
     {
       "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
@@ -16,20 +16,44 @@
     {
       "title": "Tourist plane crashes in Peru, killing 13",
       "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 20:51:09 GMT",
+      "pubDate": "Sat, 01 Aug 2026 22:34:20 GMT",
       "description": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports."
     },
     {
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 05:01:56 GMT",
-      "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand."
+      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 23:03:35 GMT",
+      "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics."
+    },
+    {
+      "title": "The Sopranos star Vincent Pastore dies aged 80",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 22:57:55 GMT",
+      "description": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report."
     },
     {
       "title": "Italy putting nearly all major cities on highest heat alert",
       "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 01 Aug 2026 17:51:46 GMT",
       "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be."
+    },
+    {
+      "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+      "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 23:03:15 GMT",
+      "description": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago."
+    },
+    {
+      "title": "Russian ship defies sanctions to send military vehicles to Mali",
+      "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 23:03:23 GMT",
+      "description": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show."
+    },
+    {
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 05:01:56 GMT",
+      "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand."
     },
     {
       "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
@@ -62,30 +86,6 @@
       "description": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025."
     },
     {
-      "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-      "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 15:00:07 GMT",
-      "description": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries."
-    },
-    {
-      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-      "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 17:16:51 GMT",
-      "description": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage."
-    },
-    {
-      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-      "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 05:21:18 GMT",
-      "description": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth."
-    },
-    {
-      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Jul 2026 17:55:24 GMT",
-      "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall."
-    },
-    {
       "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
       "link": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 01 Aug 2026 21:03:42 GMT",
@@ -94,6 +94,18 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "&apos;Sopranos&apos; actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit",
+        "pubDate": "Sat, 01 Aug 2026 18:32:44 -0400",
+        "description": "Vincent Pastore appeared in movies dating back to the 1980s and had roles in big movies including &quot;Goodfellas&quot; and &quot;Awakenings,&quot; both in 1990."
+      },
+      {
+        "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
+        "pubDate": "Sat, 01 Aug 2026 18:23:39 -0400",
+        "description": "A mountaineering team with climbers from around the world, including the U.S., was attempting to climb one of the tallest peaks on earth."
+      },
       {
         "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
         "link": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco",
         "pubDate": "Sat, 01 Aug 2026 05:36:05 -0400",
         "description": "The death toll in Spain&apos;s Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier."
-      },
-      {
-        "title": "Why did OpenAI&apos;s and Anthropic&apos;s AI models hack other companies?",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
-        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
-        "description": "OpenAI and Anthropic say their models broke into other companies&apos; systems during testing, raising security concerns amid a heated debate over how to regulate AI."
-      },
-      {
-        "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
-        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
-        "description": "Public health nurses have been pulled from other duties in Washtenaw County, MI, to call hundreds of people sick with cyclosporiasis, and try to help them remember everything they ate in recent days."
       }
     ],
     "Canada": []
