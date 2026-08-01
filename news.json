@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T00:01:56.787Z",
+  "updated": "2026-08-01T03:59:35.414Z",
   "world": [
     {
       "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
@@ -20,9 +20,9 @@
       "description": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing."
     },
     {
-      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
       "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 10:32:17 GMT",
+      "pubDate": "Sat, 01 Aug 2026 02:21:29 GMT",
       "description": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025."
     },
     {
@@ -95,10 +95,16 @@
   "regions": {
     "US": [
       {
+        "title": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
+        "link": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino",
+        "pubDate": "Fri, 31 Jul 2026 22:08:51 -0400",
+        "description": "FIFA abandoned a plan to create a commercial venture and then sell stakes to minority investors, just days after unveiling it. The plan drew sharp condemnation — and a boycott from European nations."
+      },
+      {
         "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying &apos;botched installation&apos; to blame",
         "link": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss",
         "pubDate": "Fri, 31 Jul 2026 19:24:36 -0400",
-        "description": "The government had accused David Hearn of ripping a piece of sealant after a $14 million renovation. Hearn has repeatedly said that he simply touched the water in the pool out of curiosity last month."
+        "description": "The government had accused David Hearn of ripping a piece of sealant after a $14-million renovation. Hearn has repeatedly said that he simply touched the water in the pool out of curiosity last month."
       },
       {
         "title": "Climate adaptation at its limits, says one scientist",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
         "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
         "description": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years."
-      },
-      {
-        "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
-        "pubDate": "Fri, 31 Jul 2026 05:00:00 -0400",
-        "description": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs."
       }
     ],
     "Canada": []
