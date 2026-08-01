@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T17:58:03.713Z",
+  "updated": "2026-08-01T19:14:32.135Z",
   "world": [
     {
       "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
@@ -18,6 +18,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 01 Aug 2026 05:01:56 GMT",
       "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand."
+    },
+    {
+      "title": "Italy putting nearly all major cities on highest heat alert",
+      "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 17:51:46 GMT",
+      "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be."
     },
     {
       "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
@@ -80,12 +86,6 @@
       "description": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack."
     },
     {
-      "title": "Anthropic's Claude AI escapes to hack into three organisations",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 10:18:54 GMT",
-      "description": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks."
-    },
-    {
       "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
       "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 31 Jul 2026 23:41:10 GMT",
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Spain&apos;s Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
+        "pubDate": "Sat, 01 Aug 2026 14:33:27 -0400",
+        "description": "The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave."
+      },
       {
         "title": "Opinion: Remembering Margo Howard",
         "link": "https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard",
@@ -135,12 +141,6 @@
         "link": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
         "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
         "description": "OpenAI and Anthropic say their models broke into other companies&apos; systems during testing, raising security concerns amid a heated debate over how to regulate AI."
-      },
-      {
-        "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members",
-        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
-        "description": "In June, the Department of Defense disinterred the remains of an unidentified WWII soldier who had been buried in Sitka, Alaska for decades. Now, they&apos;ll try to confirm who he is."
       },
       {
         "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
