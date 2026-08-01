@@ -1,17 +1,23 @@
 {
-  "updated": "2026-08-01T20:25:13.341Z",
+  "updated": "2026-08-01T21:23:48.740Z",
   "world": [
     {
-      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-      "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 15:46:08 GMT",
-      "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\"."
+      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+      "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 20:09:27 GMT",
+      "description": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta."
     },
     {
       "title": "Call for 'full review' as pressure grows on Infantino",
       "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 01 Aug 2026 17:07:46 GMT",
       "description": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean."
+    },
+    {
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 20:51:09 GMT",
+      "description": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports."
     },
     {
       "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
@@ -32,22 +38,22 @@
       "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019."
     },
     {
-      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 13:35:39 GMT",
-      "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
-    },
-    {
       "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
       "link": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 01 Aug 2026 16:16:16 GMT",
       "description": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment."
     },
     {
-      "title": "Three killed in Moscow restaurant bombing",
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
       "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 20:20:44 GMT",
-      "description": "The deadly blast took place in a venue near the centre of the city, as a woman carrying explosives tried to enter."
+      "pubDate": "Sat, 01 Aug 2026 21:13:17 GMT",
+      "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard."
+    },
+    {
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 13:35:39 GMT",
+      "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
     },
     {
       "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
@@ -80,12 +86,6 @@
       "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall."
     },
     {
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 30 Jul 2026 15:35:50 GMT",
-      "description": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine."
-    },
-    {
       "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
       "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 31 Jul 2026 23:41:10 GMT",
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+        "pubDate": "Sat, 01 Aug 2026 16:27:32 -0400",
+        "description": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine&apos;s missile defense systems."
+      },
       {
         "title": "Spain&apos;s Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
         "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
@@ -143,16 +149,10 @@
         "description": "OpenAI and Anthropic say their models broke into other companies&apos; systems during testing, raising security concerns amid a heated debate over how to regulate AI."
       },
       {
-        "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
+        "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members",
         "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
-        "description": "Public health nurses have been pulled from other duties in Washtenaw County, MI, to call hundreds of people sick with cyclosporiasis, and try to help them remember everything they ate in recent days."
-      },
-      {
-        "title": "Staff Sgt. Rampersad, 28, who always knew she wanted to serve, is laid to rest",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5914671/iran-military-death-rampersad-funeral",
-        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
-        "description": "Staff Sgt. Angel S. Rampersad is one of a handful of service members who&apos;ve recently died in the conflict with Iran. Her family says she knew from a young age she wanted to serve in the military."
+        "description": "In June, the Department of Defense disinterred the remains of an unidentified WWII soldier who had been buried in Sitka, Alaska for decades. Now, they&apos;ll try to confirm who he is."
       }
     ],
     "Canada": []
