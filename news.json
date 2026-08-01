@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-01T10:55:58.316Z",
+  "updated": "2026-08-01T12:01:40.660Z",
   "world": [
     {
       "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
       "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 10:11:39 GMT",
+      "pubDate": "Sat, 01 Aug 2026 11:00:05 GMT",
       "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\"."
     },
     {
-      "title": "Uefa has 'lost confidence' in Fifa leadership",
+      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
       "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 01 Aug 2026 09:51:05 GMT",
-      "description": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies."
+      "description": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago."
     },
     {
       "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
@@ -20,9 +20,9 @@
       "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand."
     },
     {
-      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
       "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 08:24:09 GMT",
+      "pubDate": "Sat, 01 Aug 2026 11:52:29 GMT",
       "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
     },
     {
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "They call it &apos;a dream fulfilled&apos; -- new homes designed for (and by) slum residents",
+        "link": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
+        "pubDate": "Sat, 01 Aug 2026 07:14:58 -0400",
+        "description": "It&apos;s a bold new experiment and it&apos;s already won a prize. Residents in a jam-packed slum, many of them living in one-room tin shacks, help design their apartments in a brand new building."
+      },
+      {
+        "title": "FDA weighs a new kind of flu shot based on technology RFK Jr. has questioned",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5897441/fda-mrna-moderna-flu-vaccine",
+        "pubDate": "Sat, 01 Aug 2026 07:00:00 -0400",
+        "description": "The FDA is poised to render a decision on Moderna&apos;s mRNA-based flu shot, which could be the first of its kind to market. The decision is expected to reverberate throughout the biotech industry."
+      },
+      {
         "title": "Lebanese who fled the Israeli invasion visit to see what&apos;s left",
         "link": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
         "pubDate": "Sat, 01 Aug 2026 06:00:00 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
         "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
         "description": "OpenAI and Anthropic say their models broke into other companies&apos; systems during testing, raising security concerns amid a heated debate over how to regulate AI."
-      },
-      {
-        "title": "For sale: early access to Trump&apos;s Truth Social posts",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
-        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
-        "description": "The president&apos;s media company is offering investors early access to his Truth Social feed for up to $100,000 a month. Experts say the service may violate insider trading laws."
-      },
-      {
-        "title": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
-        "link": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino",
-        "pubDate": "Fri, 31 Jul 2026 22:08:51 -0400",
-        "description": "FIFA abandoned a plan to create a commercial venture and then sell stakes to minority investors, just days after unveiling it. The plan drew sharp condemnation — and a boycott from European nations."
       }
     ],
     "Canada": []
