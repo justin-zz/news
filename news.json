@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T14:05:22.846Z",
+  "updated": "2026-08-01T15:35:09.979Z",
   "world": [
     {
       "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
@@ -22,8 +22,8 @@
     {
       "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
       "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 13:02:04 GMT",
-      "description": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019."
+      "pubDate": "Sat, 01 Aug 2026 15:25:30 GMT",
+      "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019."
     },
     {
       "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
@@ -46,7 +46,7 @@
     {
       "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
       "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 31 Jul 2026 23:58:12 GMT",
+      "pubDate": "Sat, 01 Aug 2026 15:00:07 GMT",
       "description": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries."
     },
     {
@@ -113,16 +113,16 @@
         "description": "The FDA is poised to render a decision on Moderna&apos;s mRNA-based flu shot, which could be the first of its kind to market. The decision is expected to reverberate throughout the biotech industry."
       },
       {
-        "title": "Lebanese who fled the Israeli invasion visit to see what&apos;s left",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
-        "pubDate": "Sat, 01 Aug 2026 06:00:00 -0400",
-        "description": "Residents of the ancient town of Nabatiyeh in southern Lebanon have endured wars in the past, but the latest conflict with Israel is testing the limits of their endurance."
-      },
-      {
         "title": "More than 25,000 children lose previous legal protections, as federal contract ends",
         "link": "https://www.npr.org/2026/08/01/nx-s1-5913679/immgirant-children-lawyers-trump-administration",
         "pubDate": "Sat, 01 Aug 2026 06:00:00 -0400",
         "description": "Thousands of unaccompanied immigrant children are set to lose legal representation. The federal contract that pays for legal access expired Friday."
+      },
+      {
+        "title": "Lebanese who fled the Israeli invasion visit to see what&apos;s left",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
+        "pubDate": "Sat, 01 Aug 2026 06:00:00 -0400",
+        "description": "Residents of the ancient town of Nabatiyeh in southern Lebanon have endured wars in the past, but the latest conflict with Israel is testing the limits of their endurance."
       },
       {
         "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
@@ -131,28 +131,28 @@
         "description": "The death toll in Spain&apos;s Ceuta border crisis with Morocco has climbed to 67. They included some who drowned and some who were killed in a stampede to cross a breakwater barrier."
       },
       {
+        "title": "For sale: early access to Trump&apos;s Truth Social posts",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
+        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
+        "description": "The president&apos;s media company is offering investors early access to his Truth Social feed for up to $100,000 a month. Experts say the service may violate insider trading laws."
+      },
+      {
         "title": "In the race for Senate in Michigan, multiple party fights are colliding for Democrats",
         "link": "https://www.npr.org/2026/08/01/nx-s1-5904608/michigan-primary-haley-stevens-abdul-el-sayed-democrats",
         "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
         "description": "As Haley Stevens and Abdul El-Sayed vie for the Democratic nomination, voters are debating which way the party should go: establishment or insurgent; progressive or more moderate; new media or old."
       },
       {
-        "title": "Nurses chase Cyclospora using grocery receipts, food apps and detailed interviews",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5915633/cyclosporiasis-washtenaw-michigan-foodborne-illness-cdc",
+        "title": "Why did OpenAI&apos;s and Anthropic&apos;s AI models hack other companies?",
+        "link": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
         "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
-        "description": "Public health nurses have been pulled from other duties in Washtenaw County, MI, to call hundreds of people sick with cyclosporiasis, and try to help them remember everything they ate in recent days."
+        "description": "OpenAI and Anthropic say their models broke into other companies&apos; systems during testing, raising security concerns amid a heated debate over how to regulate AI."
       },
       {
         "title": "Over 81,000 U.S. soldiers are missing from past wars. One may soon be identified",
         "link": "https://www.npr.org/2026/08/01/nx-s1-5912226/x3-sitka-alaska-dpaa-dod-missing-soldiers-service-members",
         "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
         "description": "In June, the Department of Defense disinterred the remains of an unidentified WWII soldier who had been buried in Sitka, Alaska for decades. Now, they&apos;ll try to confirm who he is."
-      },
-      {
-        "title": "Why did OpenAI&apos;s and Anthropic&apos;s AI models hack other companies?",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5914852/anthropic-openai-models-hack-cybersecurity",
-        "pubDate": "Sat, 01 Aug 2026 05:00:00 -0400",
-        "description": "OpenAI and Anthropic say their models broke into other companies&apos; systems during testing, raising security concerns amid a heated debate over how to regulate AI."
       }
     ],
     "Canada": []
