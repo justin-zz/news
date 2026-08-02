@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-02T17:58:29.091Z",
+  "updated": "2026-08-02T19:17:27.756Z",
   "world": [
     {
       "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
       "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 02 Aug 2026 17:30:03 GMT",
+      "pubDate": "Sun, 02 Aug 2026 19:15:57 GMT",
       "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
+        "link": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
+        "pubDate": "Sun, 02 Aug 2026 14:31:34 -0400",
+        "description": "The bank is asking a judge to permanently dismiss a lawsuit from Trump-affiliated businesses, arguing a monthslong internal review — not the Jan. 6 riot — explains why hundreds of accounts were shut d"
+      },
+      {
         "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
         "link": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
         "pubDate": "Sun, 02 Aug 2026 09:35:43 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
         "pubDate": "Sat, 01 Aug 2026 18:23:39 -0400",
         "description": "A mountaineering team with climbers from around the world, including the U.S., was attempting to climb one of the tallest peaks on earth."
-      },
-      {
-        "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-        "pubDate": "Sat, 01 Aug 2026 16:27:32 -0400",
-        "description": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine&apos;s missile defense systems."
       }
     ],
     "Canada": []
