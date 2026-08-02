@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T12:34:17.198Z",
+  "updated": "2026-08-02T14:26:26.747Z",
   "world": [
     {
       "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
@@ -74,12 +74,6 @@
       "description": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019."
     },
     {
-      "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
-      "link": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 16:16:16 GMT",
-      "description": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment."
-    },
-    {
       "title": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
       "link": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 01 Aug 2026 21:03:42 GMT",
@@ -90,10 +84,22 @@
       "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 01 Aug 2026 23:56:19 GMT",
       "description": "A growing number of what the internet has dubbed \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate."
+    },
+    {
+      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 02 Aug 2026 07:58:51 GMT",
+      "description": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
+        "link": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
+        "pubDate": "Sun, 02 Aug 2026 09:35:43 -0400",
+        "description": "There are at least three fires in and around the city. Large parts of Spokane are under Level 3 evacuation orders, which read: &quot;Leave NOW! This may be your only notice.&quot;"
+      },
       {
         "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
         "link": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
         "pubDate": "Sat, 01 Aug 2026 16:27:32 -0400",
         "description": "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday. President Trump is now walking back a promised boost to Ukraine&apos;s missile defense systems."
-      },
-      {
-        "title": "Spain&apos;s Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
-        "pubDate": "Sat, 01 Aug 2026 14:33:27 -0400",
-        "description": "The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave."
       }
     ],
     "Canada": []
