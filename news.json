@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-02T09:35:46.809Z",
+  "updated": "2026-08-02T11:13:58.646Z",
   "world": [
     {
       "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
       "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 02 Aug 2026 09:10:51 GMT",
+      "pubDate": "Sun, 02 Aug 2026 11:12:00 GMT",
       "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed."
     },
     {
       "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
       "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 02 Aug 2026 00:55:16 GMT",
+      "pubDate": "Sun, 02 Aug 2026 10:32:28 GMT",
       "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes."
     },
     {
-      "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 20:09:27 GMT",
-      "description": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta."
+      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 02 Aug 2026 10:46:47 GMT",
+      "description": "The vessel with at least 250 people on board caught fire off Madura island."
     },
     {
       "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
@@ -58,7 +58,7 @@
     {
       "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
       "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 02 Aug 2026 05:40:42 GMT",
+      "pubDate": "Sun, 02 Aug 2026 10:54:44 GMT",
       "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard."
     },
     {
@@ -68,10 +68,10 @@
       "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand."
     },
     {
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
       "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 02 Aug 2026 05:26:39 GMT",
-      "description": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019."
+      "pubDate": "Sun, 02 Aug 2026 10:11:26 GMT",
+      "description": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019."
     },
     {
       "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Why is the rate of premature births so high in this community?",
+        "link": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
+        "pubDate": "Sun, 02 Aug 2026 07:03:47 -0400",
+        "description": "About 1 in 4 babies in the Pakistani fishing settlement of Rehri Goth are born prematurely. Researchers are trying to figure out how to bring the numbers down."
+      },
       {
         "title": "We asked a first grader to interview his hero: A bird scientist",
         "link": "https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard",
         "pubDate": "Sat, 01 Aug 2026 08:00:00 -0400",
         "description": "Margo Howard had a lot of life experience and used it to offer advice for years as &quot;Dear Prudence&quot; for Slate. She died this week at the age of 86."
-      },
-      {
-        "title": "How these slum dwellers went from one-room shacks to beautiful new apartments",
-        "link": "https://www.npr.org/2026/08/01/g-s1-135362/slum-apartments-india-design",
-        "pubDate": "Sat, 01 Aug 2026 07:14:58 -0400",
-        "description": "It&apos;s a bold new experiment and it&apos;s already won a prize. Residents in a jam-packed slum, many of them living in one-room tin shacks, help design their apartments in a brand new building."
       }
     ],
     "Canada": []
