@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T11:13:58.646Z",
+  "updated": "2026-08-02T12:34:17.198Z",
   "world": [
     {
       "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
@@ -16,7 +16,7 @@
     {
       "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
       "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 02 Aug 2026 10:46:47 GMT",
+      "pubDate": "Sun, 02 Aug 2026 11:49:40 GMT",
       "description": "The vessel with at least 250 people on board caught fire off Madura island."
     },
     {
@@ -24,12 +24,6 @@
       "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 01 Aug 2026 23:03:35 GMT",
       "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics."
-    },
-    {
-      "title": "The Sopranos star Vincent Pastore dies aged 80",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 01 Aug 2026 22:57:55 GMT",
-      "description": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report."
     },
     {
       "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
@@ -48,6 +42,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 01 Aug 2026 17:51:46 GMT",
       "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be."
+    },
+    {
+      "title": "The Sopranos star Vincent Pastore dies aged 80",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 01 Aug 2026 22:57:55 GMT",
+      "description": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report."
     },
     {
       "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "New video evidence upends the unsolved killing of a Black teen at a Seattle protest",
+        "link": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
+        "pubDate": "Sun, 02 Aug 2026 08:00:00 -0400",
+        "description": "Hours of video analyzed in an 18-month investigation reveal what really happened the night Antonio Mays Jr. was shot at the Capitol Hill Occupied Protest, and how protesters mistook him for a threat."
+      },
+      {
         "title": "Why is the rate of premature births so high in this community?",
         "link": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
         "pubDate": "Sun, 02 Aug 2026 07:03:47 -0400",
@@ -122,7 +128,7 @@
         "title": "Trump says he&apos;s cancelling Iran strikes, deal pending",
         "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
         "pubDate": "Sun, 02 Aug 2026 03:34:27 -0400",
-        "description": "Trump said that Iran and other Middle Eastern countries had asked the U.S. &quot;to hold off any attack&quot; on Iran because &quot;the perimeters of a deal has been agreed to.&quot;"
+        "description": "Trump said Iran and other Middle Eastern countries had asked the U.S. &quot;to hold off any attack&quot; on Iran because &quot;the perimeters of a deal has been agreed to.&quot;"
       },
       {
         "title": "&apos;Sopranos&apos; actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
         "pubDate": "Sat, 01 Aug 2026 14:33:27 -0400",
         "description": "The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave."
-      },
-      {
-        "title": "Opinion: Remembering Margo Howard",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5907932/opinion-remembering-margo-howard",
-        "pubDate": "Sat, 01 Aug 2026 08:00:00 -0400",
-        "description": "Margo Howard had a lot of life experience and used it to offer advice for years as &quot;Dear Prudence&quot; for Slate. She died this week at the age of 86."
       }
     ],
     "Canada": []
