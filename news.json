@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T22:05:12.669Z",
+  "updated": "2026-08-03T23:34:12.420Z",
   "world": [
     {
       "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "These are some of the last pristine ocean ecosystems. Now, they&apos;re losing protections",
+        "link": "https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed",
+        "pubDate": "Mon, 03 Aug 2026 18:53:15 -0400",
+        "description": "The largest conservation areas in the U.S. are in the Pacific Ocean, where tiny islands are epicenters of biodiversity. The Trump administration is now opening their waters to commercial fishing, spar"
+      },
+      {
         "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
         "link": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
         "pubDate": "Mon, 03 Aug 2026 17:17:49 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation",
         "pubDate": "Mon, 03 Aug 2026 07:00:00 -0400",
         "description": "An FDA advisory panel recently voted to green-light some popular peptides. The decision brought enormous attention to the market for these products — and concerns about the unregulated supply."
-      },
-      {
-        "title": "For those with criminal records, AI is breaking down barriers to employment",
-        "link": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
-        "pubDate": "Mon, 03 Aug 2026 05:42:28 -0400",
-        "description": "Tens of millions of Americans have criminal records that can be barriers to employment. An AI-powered app is helping those eligible to expunge their records at a pace not seen before."
       }
     ],
     "Canada": []
