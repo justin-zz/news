@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-03T08:46:49.797Z",
+  "updated": "2026-08-03T12:19:03.130Z",
   "world": [
     {
-      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "title": "Iran denies Trump's claim that new talks will begin on Monday",
       "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 08:03:15 GMT",
-      "description": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume."
+      "pubDate": "Mon, 03 Aug 2026 10:23:35 GMT",
+      "description": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access."
     },
     {
       "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
@@ -16,8 +16,14 @@
     {
       "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
       "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 06:53:09 GMT",
+      "pubDate": "Mon, 03 Aug 2026 10:58:48 GMT",
       "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official."
+    },
+    {
+      "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+      "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 08:40:22 GMT",
+      "description": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash."
     },
     {
       "title": "US and Japan take action to prop up yen in rare joint move",
@@ -26,28 +32,10 @@
       "description": "Both countries have said that they will not hesitate to conduct joint interventions in the future."
     },
     {
-      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 01:03:31 GMT",
-      "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived."
-    },
-    {
       "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
       "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 08:27:37 GMT",
+      "pubDate": "Mon, 03 Aug 2026 10:59:12 GMT",
       "description": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says."
-    },
-    {
-      "title": "Malaysian boy on trial for allegedly murdering girl in school",
-      "link": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 01:43:16 GMT",
-      "description": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children."
-    },
-    {
-      "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
-      "link": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 05:31:55 GMT",
-      "description": "Tributes are pouring out across Nepal after an avalanche killed some of the country's best mountaineers."
     },
     {
       "title": "Massive Attack respond after Singapore ban over Palestine display",
@@ -56,10 +44,28 @@
       "description": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there."
     },
     {
-      "title": "Outside the Moscow restaurant where bomb killed three",
-      "link": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 03:53:05 GMT",
-      "description": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place."
+      "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
+      "link": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 11:07:13 GMT",
+      "description": "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal."
+    },
+    {
+      "title": "Sudan army drone strike on court session kills 35, rights group says",
+      "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 10:29:24 GMT",
+      "description": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village."
+    },
+    {
+      "title": "Malaysian boy on trial for allegedly murdering girl in school",
+      "link": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 01:43:16 GMT",
+      "description": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children."
+    },
+    {
+      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 01:03:31 GMT",
+      "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived."
     },
     {
       "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
@@ -84,16 +90,58 @@
       "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 01 Aug 2026 17:51:46 GMT",
       "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be."
-    },
-    {
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 02 Aug 2026 10:54:44 GMT",
-      "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Todd Blanche rescinds &apos;anti-weaponization fund&apos;. And, Trump calls off striking Iran",
+        "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
+        "pubDate": "Mon, 03 Aug 2026 07:57:06 -0400",
+        "description": "Acting Attorney General Todd Blanche rescinds President Trump&apos;s anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal."
+      },
+      {
+        "title": "What would it take to get peptides on the shelf?",
+        "link": "https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation",
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 -0400",
+        "description": "An FDA advisory panel recently voted to green-light some popular peptides. The decision brought enormous attention to the market for these products — and concerns about the unregulated supply."
+      },
+      {
+        "title": "For those with criminal records, AI is breaking down barriers to employment",
+        "link": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
+        "pubDate": "Mon, 03 Aug 2026 05:42:28 -0400",
+        "description": "Tens of millions of Americans have criminal records that can be barriers to employment. An AI-powered app is helping those eligible to expunge their records at a pace not seen before."
+      },
+      {
+        "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
+        "link": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
+        "pubDate": "Mon, 03 Aug 2026 05:42:04 -0400",
+        "description": "Kim Aris, son of Aung San Suu Kyi, told NPR that photographs of his mother meeting a foreign official gave him &quot;a reason to hope&quot; for the first time since the military coup that ousted her i"
+      },
+      {
+        "title": "Over 4 million people are no longer receiving food aid amid sweeping changes to SNAP",
+        "link": "https://www.npr.org/2026/08/03/nx-s1-5906797/snap-food-stamp-federal-changes-what-to-know",
+        "pubDate": "Mon, 03 Aug 2026 05:00:00 -0400",
+        "description": "SNAP, also known as food stamps, has seen a rapid and consistent participation decline since last July. The drop comes as the program faces historic cuts and changes."
+      },
+      {
+        "title": "Bedbugs, bad Wi-Fi: Federal workers say forced summer relocations have been chaos",
+        "link": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard",
+        "pubDate": "Mon, 03 Aug 2026 05:00:00 -0400",
+        "description": "Federal agencies are rushing to move hundreds of workers into new buildings. Employees say the moves are significantly disrupting their work."
+      },
+      {
+        "title": "She protested ICE raids. Then agents showed up at her door",
+        "link": "https://www.npr.org/2026/08/03/nx-s1-5886263/ice-dhs-immigration-enforcement-conspiracy-arrests",
+        "pubDate": "Mon, 03 Aug 2026 05:00:00 -0400",
+        "description": "The Justice Department is using federal conspiracy charges to sweep up ICE protesters. Some legal experts worry the agency is casting too wide a net to prosecute political activists."
+      },
+      {
+        "title": "For Republicans planning post-Trump future, one race in Washington is worth watching",
+        "link": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump",
+        "pubDate": "Mon, 03 Aug 2026 05:00:00 -0400",
+        "description": "The primary to replace Rep. Dan Newhouse is a rare opportunity for Washington&apos;s Republicans to seek federal office. Candidates representing different wings of the party are testing Trump&apos;s i"
+      },
       {
         "title": "Israel says it has serious concerns with Hamas disarmament deal",
         "link": "https://www.npr.org/2026/08/03/g-s1-136877/israel-serious-concerns-hamas-disarmament-deal-trump",
@@ -105,54 +153,6 @@
         "link": "https://www.npr.org/2026/08/03/nx-s1-5917877/south-korea-north-korea-nuclear-peace-analysis",
         "pubDate": "Mon, 03 Aug 2026 02:49:13 -0400",
         "description": "South Korea is moving away from its policy of prioritizing the immediate denuclearization of North Korea. But despite that shift, experts doubt Pyongyang will return to the negotiating table."
-      },
-      {
-        "title": "U.S. dollar weakens sharply against the Japanese yen after market interventions",
-        "link": "https://www.npr.org/2026/08/03/g-s1-136866/us-dollar-japanese-yen-market-interventions",
-        "pubDate": "Mon, 03 Aug 2026 01:41:31 -0400",
-        "description": "The U.S. dollar weakened sharply Monday against the Japanese yen after U.S. President Donald Trump and Japan&apos;s finance minister confirmed both sides had intervened in markets."
-      },
-      {
-        "title": "Todd Blanche rescinds Trump&apos;s &apos;anti-weaponization fund&apos; ahead of nomination hearing",
-        "link": "https://www.npr.org/2026/08/03/g-s1-136864/todd-blanche-rescinds-trump-anti-weaponization-fund",
-        "pubDate": "Mon, 03 Aug 2026 01:04:19 -0400",
-        "description": "Acting Attorney General Todd Blanche issued a formal order late Sunday terminating President Donald Trump&apos;s $1.8 billion &quot;anti-weaponization fund&quot; to compensate his political allies."
-      },
-      {
-        "title": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
-        "link": "https://www.npr.org/2026/08/03/g-s1-136858/blaze-indonesian-passenger-ferry",
-        "pubDate": "Mon, 03 Aug 2026 00:06:11 -0400",
-        "description": "An Indonesian ferry carrying 271 people has caught fire in waters off Madura island, killing at least five people and leaving 41 others unaccounted for, authorities said"
-      },
-      {
-        "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
-        "link": "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon",
-        "pubDate": "Sun, 02 Aug 2026 19:38:05 -0400",
-        "description": "A defunct part of a Falcon 9 rocket could slam into the moon at more than 5,000 miles per hour, according to scientists."
-      },
-      {
-        "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
-        "link": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
-        "pubDate": "Sun, 02 Aug 2026 14:31:34 -0400",
-        "description": "The bank is asking a judge to permanently dismiss a lawsuit from Trump-affiliated businesses, arguing a monthslong internal review — not the Jan. 6 riot — explains why hundreds of accounts were shut d"
-      },
-      {
-        "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
-        "link": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
-        "pubDate": "Sun, 02 Aug 2026 09:35:43 -0400",
-        "description": "There are at least three fires in and around the city. Large parts of Spokane are under Level 3 evacuation orders, which read: &quot;Leave NOW! This may be your only notice.&quot;"
-      },
-      {
-        "title": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
-        "link": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
-        "pubDate": "Sun, 02 Aug 2026 08:00:00 -0400",
-        "description": "An 18-month investigation by The Seattle Times, KUOW and NPR&apos;s &lt;em&gt;Embedded&lt;/em&gt; podcast and a review of more than a dozen videos from the night of the shooting reveal the most compre"
-      },
-      {
-        "title": "Why is the rate of premature births so high in this community?",
-        "link": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
-        "pubDate": "Sun, 02 Aug 2026 07:03:47 -0400",
-        "description": "About 1 in 4 babies in the Pakistani fishing settlement of Rehri Goth are born prematurely. Researchers are trying to figure out how to bring the numbers down."
       }
     ],
     "Canada": []
