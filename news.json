@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T20:43:06.985Z",
+  "updated": "2026-08-03T22:05:12.669Z",
   "world": [
     {
       "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
@@ -32,16 +32,16 @@
       "description": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say."
     },
     {
+      "title": "EU calls for stronger borders after Ceuta migrant crossings",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 21:43:10 GMT",
+      "description": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
+    },
+    {
       "title": "Infantino opponents threaten 'non co-operation' with Fifa",
       "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 03 Aug 2026 07:49:33 GMT",
       "description": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources."
-    },
-    {
-      "title": "Russian anti-war politician says he has fled the country",
-      "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 15:41:08 GMT",
-      "description": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower."
     },
     {
       "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
@@ -56,6 +56,12 @@
       "description": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash."
     },
     {
+      "title": "Russian anti-war politician says he has fled the country",
+      "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 15:41:08 GMT",
+      "description": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower."
+    },
+    {
       "title": "US and Japan take action to prop up yen in rare joint move",
       "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 03 Aug 2026 07:30:52 GMT",
@@ -66,12 +72,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 03 Aug 2026 10:29:24 GMT",
       "description": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village."
-    },
-    {
-      "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 12:20:11 GMT",
-      "description": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over."
     },
     {
       "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
+        "link": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
+        "pubDate": "Mon, 03 Aug 2026 17:17:49 -0400",
+        "description": "After a months-long investigation, the ethics committee recommended censure for Edwards because of &quot;persistent unprofessional and inappropriate conduct towards two young female staffers.&quot;"
+      },
       {
         "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
         "link": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
         "pubDate": "Mon, 03 Aug 2026 05:42:28 -0400",
         "description": "Tens of millions of Americans have criminal records that can be barriers to employment. An AI-powered app is helping those eligible to expunge their records at a pace not seen before."
-      },
-      {
-        "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
-        "link": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
-        "pubDate": "Mon, 03 Aug 2026 05:42:04 -0400",
-        "description": "Kim Aris, son of Aung San Suu Kyi, told NPR that photographs of his mother meeting a foreign official gave him &quot;a reason to hope&quot; for the first time since the military coup that ousted her i"
       }
     ],
     "Canada": []
