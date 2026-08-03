@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-02T23:29:43.417Z",
+  "updated": "2026-08-03T01:08:43.994Z",
   "world": [
     {
       "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
       "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 02 Aug 2026 20:36:37 GMT",
+      "pubDate": "Mon, 03 Aug 2026 01:03:31 GMT",
       "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
+        "link": "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon",
+        "pubDate": "Sun, 02 Aug 2026 19:38:05 -0400",
+        "description": "A defunct part of a Falcon 9 rocket could slam into the moon at more than 5,000 miles per hour, according to scientists."
+      },
+      {
         "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
         "link": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
         "pubDate": "Sun, 02 Aug 2026 14:31:34 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit",
         "pubDate": "Sat, 01 Aug 2026 18:32:44 -0400",
         "description": "Vincent Pastore appeared in movies dating back to the 1980s and had roles in big movies including &quot;Goodfellas&quot; and &quot;Awakenings,&quot; both in 1990."
-      },
-      {
-        "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
-        "link": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
-        "pubDate": "Sat, 01 Aug 2026 18:23:39 -0400",
-        "description": "A mountaineering team with climbers from around the world, including the U.S., was attempting to climb one of the tallest peaks on earth."
       }
     ],
     "Canada": []
