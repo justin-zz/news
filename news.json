@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-03T17:24:03.614Z",
+  "updated": "2026-08-03T19:05:09.933Z",
   "world": [
+    {
+      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 18:04:30 GMT",
+      "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea."
+    },
     {
       "title": "Rhine falls to record low levels as drought strains Europe's rivers",
       "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&amp;at_campaign=rss",
@@ -10,7 +16,7 @@
     {
       "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
       "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 15:59:48 GMT",
+      "pubDate": "Mon, 03 Aug 2026 17:41:27 GMT",
       "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership."
     },
     {
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 03 Aug 2026 01:43:16 GMT",
       "description": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children."
-    },
-    {
-      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 01:03:31 GMT",
-      "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Photos: Wildfires in Spokane lead to thousands of evacuations",
+        "link": "https://www.npr.org/sections/the-picture-show/2026/08/03/g-s1-137003/photos-wildfires-in-spokane-lead-to-thousands-of-evacuations",
+        "pubDate": "Mon, 03 Aug 2026 14:45:00 -0400",
+        "description": "Wildfires in Spokane have destroyed hundreds of homes and led to evacuation orders for 60,000 people."
+      },
       {
         "title": "Washington wildfires destroy homes, force thousands to evacuate",
         "link": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard",
         "pubDate": "Mon, 03 Aug 2026 05:00:00 -0400",
         "description": "Federal agencies are rushing to move hundreds of workers into new buildings. Employees say the moves are significantly disrupting their work."
-      },
-      {
-        "title": "For Republicans planning post-Trump future, one race in Washington is worth watching",
-        "link": "https://www.npr.org/2026/08/03/nx-s1-5902154/2026-primaries-washington-state-republican-party-trump",
-        "pubDate": "Mon, 03 Aug 2026 05:00:00 -0400",
-        "description": "The primary to replace Rep. Dan Newhouse is a rare opportunity for Washington&apos;s Republicans to seek federal office. Candidates representing different wings of the party are testing Trump&apos;s i"
       }
     ],
     "Canada": []
