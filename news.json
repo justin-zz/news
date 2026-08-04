@@ -1,47 +1,71 @@
 {
-  "updated": "2026-08-04T08:03:00.933Z",
+  "updated": "2026-08-04T11:02:40.233Z",
   "world": [
     {
-      "title": "EU calls for stronger borders after Ceuta migrant crossings",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 21:43:10 GMT",
-      "description": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
-    },
-    {
-      "title": "Analysis: Trump challenged by cold reality from top allies",
-      "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 00:02:40 GMT",
-      "description": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher."
-    },
-    {
-      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-      "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 03:37:14 GMT",
-      "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea."
+      "title": "More than 150 migrants rescued after boat catches fire in Channel",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 10:52:01 GMT",
+      "description": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities."
     },
     {
       "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
       "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 07:42:56 GMT",
+      "pubDate": "Tue, 04 Aug 2026 09:35:06 GMT",
       "description": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine."
     },
     {
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 19:42:55 GMT",
-      "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership."
+      "title": "Analysis: Trump challenged by cold reality from top allies",
+      "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 09:11:39 GMT",
+      "description": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher."
     },
     {
-      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
-      "link": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 23:25:14 GMT",
-      "description": "The star has taken a \"step back\" from the spotlight after appearances led to \"endless, ongoing public scrutiny\"."
+      "title": "What will happen when a SpaceX rocket collides with the Moon?",
+      "link": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 09:13:37 GMT",
+      "description": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident."
+    },
+    {
+      "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+      "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 10:34:45 GMT",
+      "description": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts."
+    },
+    {
+      "title": "Guatemala volcano eruption sends lava spewing into the air",
+      "link": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 10:56:50 GMT",
+      "description": "The Fuego stratovolcano is one of the most active in Central America and popular with hikers."
+    },
+    {
+      "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
+      "link": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 09:23:06 GMT",
+      "description": "The region's Moscow-installed governor says the gunman has been detained after firing at fellow soldiers and civilians."
+    },
+    {
+      "title": "Arson arrest made over largest of Washington state's wildfires",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 09:32:12 GMT",
+      "description": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes."
+    },
+    {
+      "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
+      "link": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 10:04:53 GMT",
+      "description": "It sent rocks and earth crashing on to those praying at an overnight service, the authorities say."
     },
     {
       "title": "France wildfires reveal hundreds of WW2 shells in village",
       "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 04:22:12 GMT",
       "description": "Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions."
+    },
+    {
+      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+      "link": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 23:25:14 GMT",
+      "description": "The star has taken a \"step back\" from the spotlight after appearances led to \"endless, ongoing public scrutiny\"."
     },
     {
       "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
@@ -52,48 +76,66 @@
     {
       "title": "US states sue to block Trump tariffs impacting dozens of countries",
       "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 07:11:35 GMT",
+      "pubDate": "Tue, 04 Aug 2026 09:08:40 GMT",
       "description": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour."
+    },
+    {
+      "title": "EU calls for stronger borders after Ceuta migrant crossings",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 21:43:10 GMT",
+      "description": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
     },
     {
       "title": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
       "link": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 07:13:40 GMT",
       "description": "Bob Montgomery died unexpectedly just a day after finishing what he had called 'One Last Ride'."
-    },
-    {
-      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-      "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 16:27:43 GMT",
-      "description": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output."
-    },
-    {
-      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 14:20:56 GMT",
-      "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official."
-    },
-    {
-      "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
-      "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 15:57:27 GMT",
-      "description": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say."
-    },
-    {
-      "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 20:05:46 GMT",
-      "description": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say."
-    },
-    {
-      "title": "Infantino opponents threaten 'non co-operation' with Fifa",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 07:49:33 GMT",
-      "description": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Authorities arrest arson suspect in connection with wildfires in Spokane",
+        "link": "https://www.npr.org/2026/08/04/g-s1-137274/suspect-arrested-wildfires-spokane",
+        "pubDate": "Tue, 04 Aug 2026 06:56:56 -0400",
+        "description": "The suspect was arrested in connection with one of three wildfires in Spokane, Wash., that have destroyed hundreds of homes and displaced nearly quarter of the city&apos;s residents."
+      },
+      {
+        "title": "The sneaky economics of healthwashing",
+        "link": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
+        "pubDate": "Tue, 04 Aug 2026 06:30:00 -0400",
+        "description": "Why food companies love labels like &quot;organic&quot; and &quot;high protein,&quot; why our brains are misled by them — and how to avoid paying extra for marketing."
+      },
+      {
+        "title": "5 states hold polls on Tuesday. Here&apos;s what to know",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
+        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
+        "description": "Kansas, Michigan, Missouri, Virginia and Washington hold primaries Tuesday, with races that could ultimately decide control of Congress next year. Redistricting efforts will also influence the races."
+      },
+      {
+        "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
+        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
+        "description": "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means."
+      },
+      {
+        "title": "Why Texas is betting &apos;Y&apos;all Street&apos; can take on Wall Street",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
+        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
+        "description": "Dallas&apos;s financial industry is growing, amid a larger Texas business boom. But can it really steal New York&apos;s crown?"
+      },
+      {
+        "title": "Medicaid work rule leaves homeless people in the cold",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5918346/medicaid-work-requirement-montana-homeless",
+        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
+        "description": "Conservatives who have long pushed for Medicaid work requirements often said vulnerable people would get a pass. But the federal government&apos;s list of exemptions left off homeless people."
+      },
+      {
+        "title": "A veteran was detained by the National Guard in her front yard. Now she&apos;s suing",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5918354/national-guard-dc-veteran-detained",
+        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
+        "description": "Military veteran and D.C. resident Anna King has filed a $3 million lawsuit against the Idaho National Guard, saying three guard members assaulted her while detaining her in front of her home."
+      },
       {
         "title": "Nauru, the world&apos;s 3rd-smallest country, changes its name to Naoero",
         "link": "https://www.npr.org/2026/08/04/g-s1-137261/nauru-name-change",
@@ -111,48 +153,6 @@
         "link": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
         "pubDate": "Mon, 03 Aug 2026 17:17:49 -0400",
         "description": "After a months-long investigation, the ethics committee recommended censure for Edwards because of &quot;persistent unprofessional and inappropriate conduct towards two young female staffers.&quot;"
-      },
-      {
-        "title": "Ripple effects: Three people have Reflecting Pool charges dropped after Hearn request",
-        "link": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
-        "pubDate": "Mon, 03 Aug 2026 15:33:05 -0400",
-        "description": "Federal prosecutors moved to drop their case against David Hearn, blaming Reflecting Pool damage on a &quot;botched installation&quot; rather than vandalism. That has implications for others who were "
-      },
-      {
-        "title": "With U.S. doors shutting, Cubans turn to Brazil for asylum",
-        "link": "https://www.npr.org/2026/08/03/nx-s1-5910714/brazil-cuba-migration",
-        "pubDate": "Mon, 03 Aug 2026 15:05:41 -0400",
-        "description": "For years, many Cubans hoping to leave the island looked to the United States. Now, with legal pathways largely closed, a growing number are heading to Brazil instead."
-      },
-      {
-        "title": "Photos: Wildfires in Spokane lead to thousands of evacuations",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/08/03/g-s1-137003/photos-wildfires-in-spokane-lead-to-thousands-of-evacuations",
-        "pubDate": "Mon, 03 Aug 2026 14:45:00 -0400",
-        "description": "Wildfires in Spokane have destroyed hundreds of homes and led to evacuation orders for 60,000 people."
-      },
-      {
-        "title": "Two people in Michigan have died after becoming ill with cyclosporiasis",
-        "link": "https://www.npr.org/2026/08/03/g-s1-137048/michigan-cyclosporiasis-deaths-cyclospora-outbreak",
-        "pubDate": "Mon, 03 Aug 2026 13:46:16 -0400",
-        "description": "They are the first reported deaths linked to a massive outbreak of the intestinal illness that began in May."
-      },
-      {
-        "title": "Washington wildfires destroy homes, force thousands to evacuate",
-        "link": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
-        "pubDate": "Mon, 03 Aug 2026 10:28:44 -0400",
-        "description": "Spokane Mayor Lisa Brown says nearly half of the city&apos;s neighborhoods have either been evacuated or are at risk as the fires remain uncontained. &lt;br&gt;&lt;br&gt;"
-      },
-      {
-        "title": "U.S. men&apos;s national team coach Mauricio Pochettino will stay through 2030 World Cup",
-        "link": "https://www.npr.org/2026/08/03/nx-s1-5917999/us-soccer-mauricio-pochettino-coach-2030",
-        "pubDate": "Mon, 03 Aug 2026 10:05:24 -0400",
-        "description": "Pochettino came on in 2024 to right the ship ahead of this year&apos;s World Cup, in which he led the team to a record three wins and helped ignite enthusiasm in millions of fans before a round of 16 "
-      },
-      {
-        "title": "Todd Blanche rescinds &apos;anti-weaponization fund&apos;. And, Trump calls off striking Iran",
-        "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
-        "pubDate": "Mon, 03 Aug 2026 07:57:06 -0400",
-        "description": "Acting Attorney General Todd Blanche rescinds President Trump&apos;s anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal."
       }
     ],
     "Canada": []
