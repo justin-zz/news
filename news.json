@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T20:50:38.084Z",
+  "updated": "2026-08-04T22:08:13.539Z",
   "world": [
     {
       "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
@@ -16,7 +16,7 @@
     {
       "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
       "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 19:30:43 GMT",
+      "pubDate": "Tue, 04 Aug 2026 21:45:20 GMT",
       "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
     },
     {
@@ -42,6 +42,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 15:07:52 GMT",
       "description": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City."
+    },
+    {
+      "title": "Projectile sinks Indian-flagged ship off Yemen coast",
+      "link": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 21:24:50 GMT",
+      "description": "All 14 people on board the Indian-flagged vessel were safely rescued, India's ministry of external affairs says."
     },
     {
       "title": "How to avoid the worst of the Italian heat",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 10:04:53 GMT",
       "description": "It sent rocks and earth crashing on to those praying at an overnight service, the authorities say."
-    },
-    {
-      "title": "France wildfires reveal hundreds of WW2 shells in village",
-      "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 04:22:12 GMT",
-      "description": "Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "SpaceX&apos;s revenue rises as its once-soaring stock price drifts back to Earth",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
+        "pubDate": "Tue, 04 Aug 2026 18:02:03 -0400",
+        "description": "On their first earnings call since SpaceX&apos;s June public offering, executives said the company is pouring funds into rocket development, Starlink satellites and AI."
+      },
       {
         "title": "Oregon&apos;s wildfire season is pushing ranchers to evacuate their cattle",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5919329/ranchers-evacuate-cattle",
@@ -119,7 +125,7 @@
         "description": "A report from Senate Democrats accuses big banks of failing to report suspicious money transfers made by Jeffrey Epstein until after his arrest in 2019."
       },
       {
-        "title": "Europe heat wave fuels drought, fires and energy fears",
+        "title": "Europe&apos;s heat wave fuels drought, wildfires and fears about energy supplies",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
         "pubDate": "Tue, 04 Aug 2026 12:37:38 -0400",
         "description": "Europe&apos;s heat wave exposes buried history and new threats — Nazi-era wrecks emerge from the Danube, nuclear reactors face cooling risks, and Greece battles deadly wildfires."
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/04/g-s1-137274/suspect-arrested-wildfires-spokane",
         "pubDate": "Tue, 04 Aug 2026 06:56:56 -0400",
         "description": "The suspect was arrested in connection with one of three wildfires in Spokane, Wash., that have destroyed hundreds of homes and displaced nearly a quarter of the city&apos;s residents."
-      },
-      {
-        "title": "The sneaky economics of healthwashing",
-        "link": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
-        "pubDate": "Tue, 04 Aug 2026 06:30:00 -0400",
-        "description": "Why food companies love labels like &quot;organic&quot; and &quot;high protein,&quot; why our brains are misled by them — and how to avoid paying extra for marketing."
       }
     ],
     "Canada": []
