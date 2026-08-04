@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T17:43:23.385Z",
+  "updated": "2026-08-04T19:26:16.520Z",
   "world": [
     {
       "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
@@ -10,13 +10,13 @@
     {
       "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
       "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 17:06:17 GMT",
+      "pubDate": "Tue, 04 Aug 2026 19:00:43 GMT",
       "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
     },
     {
       "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
       "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 16:07:29 GMT",
+      "pubDate": "Tue, 04 Aug 2026 18:37:12 GMT",
       "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
     },
     {
@@ -64,7 +64,7 @@
     {
       "title": "Arson arrest made over largest of Washington state's wildfires",
       "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 14:20:16 GMT",
+      "pubDate": "Tue, 04 Aug 2026 19:18:45 GMT",
       "description": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes."
     },
     {
@@ -94,6 +94,18 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
+        "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
+        "pubDate": "Tue, 04 Aug 2026 14:01:04 -0400",
+        "description": "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriots can be produced."
+      },
+      {
+        "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
+        "pubDate": "Tue, 04 Aug 2026 13:43:06 -0400",
+        "description": "A report from Senate Democrats accuses big banks of failing to report suspicious money transfers made by Jeffrey Epstein until after his arrest in 2019."
+      },
       {
         "title": "Europe heat wave fuels drought, fires and energy fears",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
         "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
         "description": "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means."
-      },
-      {
-        "title": "A veteran was detained by the National Guard in her front yard. Now she&apos;s suing",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5918354/national-guard-dc-veteran-detained",
-        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
-        "description": "Military veteran and D.C. resident Anna King has filed a $3 million lawsuit against the Idaho National Guard, saying three guard members assaulted her while detaining her in front of her home."
-      },
-      {
-        "title": "Medicaid work rule leaves homeless people in the cold",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5918346/medicaid-work-requirement-montana-homeless",
-        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
-        "description": "Conservatives who have long pushed for Medicaid work requirements often said vulnerable people would get a pass. But the federal government&apos;s list of exemptions left off homeless people."
       }
     ],
     "Canada": []
