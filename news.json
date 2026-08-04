@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T05:29:39.975Z",
+  "updated": "2026-08-04T08:03:00.933Z",
   "world": [
     {
       "title": "EU calls for stronger borders after Ceuta migrant crossings",
@@ -8,10 +8,22 @@
       "description": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
     },
     {
+      "title": "Analysis: Trump challenged by cold reality from top allies",
+      "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 00:02:40 GMT",
+      "description": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher."
+    },
+    {
       "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
       "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 03:37:14 GMT",
       "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea."
+    },
+    {
+      "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 07:42:56 GMT",
+      "description": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine."
     },
     {
       "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
@@ -38,16 +50,16 @@
       "description": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa."
     },
     {
-      "title": "Watch: Wild police chase in Queensland, Australia ends in two arrests",
-      "link": "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 02:47:26 GMT",
-      "description": "A police pursuit in Queensland has ended in two arrests, with authorities taken on a high-speed car chase across Ipswich and Brisbane."
-    },
-    {
       "title": "US states sue to block Trump tariffs impacting dozens of countries",
       "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 02:53:00 GMT",
+      "pubDate": "Tue, 04 Aug 2026 07:11:35 GMT",
       "description": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour."
+    },
+    {
+      "title": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 07:13:40 GMT",
+      "description": "Bob Montgomery died unexpectedly just a day after finishing what he had called 'One Last Ride'."
     },
     {
       "title": "Rhine falls to record low levels as drought strains Europe's rivers",
@@ -78,22 +90,16 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 03 Aug 2026 07:49:33 GMT",
       "description": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources."
-    },
-    {
-      "title": "Analysis: Trump fumes as top allies back down on his personal battles",
-      "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 00:02:40 GMT",
-      "description": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher."
-    },
-    {
-      "title": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
-      "link": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 23:13:03 GMT",
-      "description": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Nauru, the world&apos;s 3rd-smallest country, changes its name to Naoero",
+        "link": "https://www.npr.org/2026/08/04/g-s1-137261/nauru-name-change",
+        "pubDate": "Tue, 04 Aug 2026 02:59:01 -0400",
+        "description": "The Pacific Island country of Nauru has changed its name to the Republic of Naoero, its president said, matching the spelling and pronunciation in the national language."
+      },
       {
         "title": "These are some of the last pristine ocean ecosystems. Now, they&apos;re losing protections",
         "link": "https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
         "pubDate": "Mon, 03 Aug 2026 07:57:06 -0400",
         "description": "Acting Attorney General Todd Blanche rescinds President Trump&apos;s anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal."
-      },
-      {
-        "title": "What would it take to get peptides on the shelf?",
-        "link": "https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation",
-        "pubDate": "Mon, 03 Aug 2026 07:00:00 -0400",
-        "description": "An FDA advisory panel recently voted to green-light some popular peptides. The decision brought enormous attention to the market for these products — and concerns about the unregulated supply."
       }
     ],
     "Canada": []
