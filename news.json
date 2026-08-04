@@ -1,10 +1,16 @@
 {
-  "updated": "2026-08-04T02:07:34.549Z",
+  "updated": "2026-08-04T05:29:39.975Z",
   "world": [
+    {
+      "title": "EU calls for stronger borders after Ceuta migrant crossings",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 21:43:10 GMT",
+      "description": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
+    },
     {
       "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
       "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 18:04:30 GMT",
+      "pubDate": "Tue, 04 Aug 2026 03:37:14 GMT",
       "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea."
     },
     {
@@ -14,10 +20,34 @@
       "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership."
     },
     {
-      "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
-      "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 15:57:27 GMT",
-      "description": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say."
+      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+      "link": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 23:25:14 GMT",
+      "description": "The star has taken a \"step back\" from the spotlight after appearances led to \"endless, ongoing public scrutiny\"."
+    },
+    {
+      "title": "France wildfires reveal hundreds of WW2 shells in village",
+      "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 04:22:12 GMT",
+      "description": "Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions."
+    },
+    {
+      "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 23:14:12 GMT",
+      "description": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa."
+    },
+    {
+      "title": "Watch: Wild police chase in Queensland, Australia ends in two arrests",
+      "link": "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 02:47:26 GMT",
+      "description": "A police pursuit in Queensland has ended in two arrests, with authorities taken on a high-speed car chase across Ipswich and Brisbane."
+    },
+    {
+      "title": "US states sue to block Trump tariffs impacting dozens of countries",
+      "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 02:53:00 GMT",
+      "description": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour."
     },
     {
       "title": "Rhine falls to record low levels as drought strains Europe's rivers",
@@ -26,16 +56,22 @@
       "description": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output."
     },
     {
+      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 14:20:56 GMT",
+      "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official."
+    },
+    {
+      "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+      "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 15:57:27 GMT",
+      "description": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say."
+    },
+    {
       "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
       "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 03 Aug 2026 20:05:46 GMT",
       "description": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say."
-    },
-    {
-      "title": "EU calls for stronger borders after Ceuta migrant crossings",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 21:43:10 GMT",
-      "description": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
     },
     {
       "title": "Infantino opponents threaten 'non co-operation' with Fifa",
@@ -44,52 +80,16 @@
       "description": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources."
     },
     {
-      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 14:20:56 GMT",
-      "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official."
+      "title": "Analysis: Trump fumes as top allies back down on his personal battles",
+      "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 00:02:40 GMT",
+      "description": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher."
     },
     {
-      "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-      "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 08:40:22 GMT",
-      "description": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash."
-    },
-    {
-      "title": "Russian anti-war politician says he has fled the country",
-      "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 15:41:08 GMT",
-      "description": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower."
-    },
-    {
-      "title": "US and Japan take action to prop up yen in rare joint move",
-      "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 07:30:52 GMT",
-      "description": "Both countries have said that they will not hesitate to conduct joint interventions in the future."
-    },
-    {
-      "title": "Sudan army drone strike on court session kills 35, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 10:29:24 GMT",
-      "description": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village."
-    },
-    {
-      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 03:32:21 GMT",
-      "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir."
-    },
-    {
-      "title": "'What was my fault?': How India's exam paper leak ended young lives",
-      "link": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 02 Aug 2026 23:35:54 GMT",
-      "description": "Two families reveal the human toll of India's medical entrance examination paper  leak."
-    },
-    {
-      "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
-      "link": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 05:31:55 GMT",
-      "description": "Tributes are pouring out across Nepal after an avalanche killed some of the country's best mountaineers."
+      "title": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+      "link": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 03 Aug 2026 23:13:03 GMT",
+      "description": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls."
     }
   ],
   "regions": {
@@ -107,10 +107,10 @@
         "description": "After a months-long investigation, the ethics committee recommended censure for Edwards because of &quot;persistent unprofessional and inappropriate conduct towards two young female staffers.&quot;"
       },
       {
-        "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
+        "title": "Ripple effects: Three people have Reflecting Pool charges dropped after Hearn request",
         "link": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
         "pubDate": "Mon, 03 Aug 2026 15:33:05 -0400",
-        "description": "Prosecutors dropped their case against David Hearn on Friday, blaming Reflecting Pool damage on a &quot;botched installation&quot; rather than vandalism. That has implications for other people who wer"
+        "description": "Federal prosecutors moved to drop their case against David Hearn, blaming Reflecting Pool damage on a &quot;botched installation&quot; rather than vandalism. That has implications for others who were "
       },
       {
         "title": "With U.S. doors shutting, Cubans turn to Brazil for asylum",
