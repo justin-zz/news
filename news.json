@@ -1,16 +1,22 @@
 {
-  "updated": "2026-08-04T15:53:40.002Z",
+  "updated": "2026-08-04T17:43:23.385Z",
   "world": [
+    {
+      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+      "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 17:26:06 GMT",
+      "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime."
+    },
     {
       "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
       "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 15:33:03 GMT",
+      "pubDate": "Tue, 04 Aug 2026 17:06:17 GMT",
       "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
     },
     {
       "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
       "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 15:36:53 GMT",
+      "pubDate": "Tue, 04 Aug 2026 16:07:29 GMT",
       "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
     },
     {
@@ -20,16 +26,10 @@
       "description": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver."
     },
     {
-      "title": "More than 150 migrants rescued after boat catches fire in Channel",
+      "title": "More than 170 migrants rescued after boat catches fire in Channel",
       "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 14:37:42 GMT",
-      "description": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities."
-    },
-    {
-      "title": "Analysis: Trump challenged by cold reality from top allies",
-      "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 09:11:39 GMT",
-      "description": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher."
+      "pubDate": "Tue, 04 Aug 2026 17:25:41 GMT",
+      "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France."
     },
     {
       "title": "What will happen when a SpaceX rocket collides with the Moon?",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Europe heat wave fuels drought, fires and energy fears",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
+        "pubDate": "Tue, 04 Aug 2026 12:37:38 -0400",
+        "description": "Europe&apos;s heat wave exposes buried history and new threats — Nazi-era wrecks emerge from the Danube, nuclear reactors face cooling risks, and Greece battles deadly wildfires."
+      },
+      {
         "title": "13 new books in August will get you through the dog days of summer",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026",
         "pubDate": "Tue, 04 Aug 2026 09:34:45 -0400",
@@ -131,28 +137,22 @@
         "description": "From Michigan&apos;s Senate and governor primary to Missouri&apos;s 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans"
       },
       {
-        "title": "Why Texas is betting &apos;Y&apos;all Street&apos; can take on Wall Street",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
-        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
-        "description": "Dallas&apos;s financial industry is growing, amid a larger Texas business boom. But can it really steal New York&apos;s crown?"
-      },
-      {
         "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
         "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
         "description": "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means."
       },
       {
-        "title": "Medicaid work rule leaves homeless people in the cold",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5918346/medicaid-work-requirement-montana-homeless",
-        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
-        "description": "Conservatives who have long pushed for Medicaid work requirements often said vulnerable people would get a pass. But the federal government&apos;s list of exemptions left off homeless people."
-      },
-      {
         "title": "A veteran was detained by the National Guard in her front yard. Now she&apos;s suing",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5918354/national-guard-dc-veteran-detained",
         "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
         "description": "Military veteran and D.C. resident Anna King has filed a $3 million lawsuit against the Idaho National Guard, saying three guard members assaulted her while detaining her in front of her home."
+      },
+      {
+        "title": "Medicaid work rule leaves homeless people in the cold",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5918346/medicaid-work-requirement-montana-homeless",
+        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
+        "description": "Conservatives who have long pushed for Medicaid work requirements often said vulnerable people would get a pass. But the federal government&apos;s list of exemptions left off homeless people."
       }
     ],
     "Canada": []
