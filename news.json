@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T19:26:16.520Z",
+  "updated": "2026-08-04T20:50:38.084Z",
   "world": [
     {
       "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
@@ -16,7 +16,7 @@
     {
       "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
       "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 18:37:12 GMT",
+      "pubDate": "Tue, 04 Aug 2026 19:30:43 GMT",
       "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
     },
     {
@@ -26,22 +26,34 @@
       "description": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver."
     },
     {
-      "title": "More than 170 migrants rescued after boat catches fire in Channel",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 17:25:41 GMT",
-      "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France."
+      "title": "Arrests in Egypt after people allegedly impersonate judges",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 19:25:00 GMT",
+      "description": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people."
     },
     {
-      "title": "What will happen when a SpaceX rocket collides with the Moon?",
-      "link": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 09:13:37 GMT",
-      "description": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident."
+      "title": "More than 170 migrants rescued after boat catches fire in Channel",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 19:45:58 GMT",
+      "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France."
     },
     {
       "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
       "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 15:07:52 GMT",
       "description": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City."
+    },
+    {
+      "title": "How to avoid the worst of the Italian heat",
+      "link": "https://www.bbc.co.uk/news/articles/c05q1gz0p1yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 18:21:00 GMT",
+      "description": "From supermarkets to night-time tours, experts share how to make the most of Italy during this latest heatwave."
+    },
+    {
+      "title": "What will happen when a SpaceX rocket collides with the Moon?",
+      "link": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 09:13:37 GMT",
+      "description": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident."
     },
     {
       "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
@@ -78,22 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 04:22:12 GMT",
       "description": "Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions."
-    },
-    {
-      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
-      "link": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 23:25:14 GMT",
-      "description": "The star has taken a \"step back\" from the spotlight after appearances led to \"endless, ongoing public scrutiny\"."
-    },
-    {
-      "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 03 Aug 2026 23:14:12 GMT",
-      "description": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Oregon&apos;s wildfire season is pushing ranchers to evacuate their cattle",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5919329/ranchers-evacuate-cattle",
+        "pubDate": "Tue, 04 Aug 2026 16:16:43 -0400",
+        "description": "Oregon has been having an extremely active fire season. Some of the areas burning are critical to ranchers whose livelihoods depend on cattle."
+      },
+      {
+        "title": "One Maine community&apos;s fight to save a birthing center",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight",
+        "pubDate": "Tue, 04 Aug 2026 16:16:26 -0400",
+        "description": "In mid-coast Maine a grassroots coalition is fighting to prevent the proposed closure of Miles Hospital&apos;s labor and delivery center."
+      },
       {
         "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
         "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/sections/planet-money/2026/08/04/g-s1-136624/the-sneaky-economics-of-healthwashing",
         "pubDate": "Tue, 04 Aug 2026 06:30:00 -0400",
         "description": "Why food companies love labels like &quot;organic&quot; and &quot;high protein,&quot; why our brains are misled by them — and how to avoid paying extra for marketing."
-      },
-      {
-        "title": "5 states have primary elections on Tuesday. These are the races to watch",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
-        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
-        "description": "From Michigan&apos;s Senate and governor primary to Missouri&apos;s 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans"
-      },
-      {
-        "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
-        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
-        "description": "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means."
       }
     ],
     "Canada": []
