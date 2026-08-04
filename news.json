@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-04T11:02:40.233Z",
+  "updated": "2026-08-04T13:14:58.117Z",
   "world": [
     {
       "title": "More than 150 migrants rescued after boat catches fire in Channel",
       "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 10:52:01 GMT",
+      "pubDate": "Tue, 04 Aug 2026 11:19:08 GMT",
       "description": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities."
     },
     {
-      "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
       "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 09:35:06 GMT",
-      "description": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine."
+      "pubDate": "Tue, 04 Aug 2026 11:19:01 GMT",
+      "description": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver."
     },
     {
       "title": "Analysis: Trump challenged by cold reality from top allies",
@@ -42,6 +42,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 09:23:06 GMT",
       "description": "The region's Moscow-installed governor says the gunman has been detained after firing at fellow soldiers and civilians."
+    },
+    {
+      "title": "World's oldest president reshuffles army as his absence stokes unease",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 12:43:52 GMT",
+      "description": "Cameroon's president has been absent for two months while his team denies rumours about his health."
     },
     {
       "title": "Arson arrest made over largest of Washington state's wildfires",
@@ -84,21 +90,27 @@
       "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 03 Aug 2026 21:43:10 GMT",
       "description": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
-    },
-    {
-      "title": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 07:13:40 GMT",
-      "description": "Bob Montgomery died unexpectedly just a day after finishing what he had called 'One Last Ride'."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Authorities arrest arson suspect in connection with wildfires in Spokane",
+        "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
+        "link": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
+        "pubDate": "Tue, 04 Aug 2026 07:29:23 -0400",
+        "description": "Five state primaries are being held today, and Michigan is a key focus for Democrats who want to see how progressives fare in races. And, a man has been arrested in connection with a Spokane fire."
+      },
+      {
+        "title": "They&apos;re a world leader in using drones for healthcare. But drones can&apos;t do it all",
+        "link": "https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda",
+        "pubDate": "Tue, 04 Aug 2026 07:05:10 -0400",
+        "description": "Drones carrying medical supplies constantly crisscross the skies of Rwanda. The Trump administration is giving a major grant to the effort — and at the same time cutting aid to the country."
+      },
+      {
+        "title": "Authorities arrest an arson suspect in connection with wildfires in Spokane",
         "link": "https://www.npr.org/2026/08/04/g-s1-137274/suspect-arrested-wildfires-spokane",
         "pubDate": "Tue, 04 Aug 2026 06:56:56 -0400",
-        "description": "The suspect was arrested in connection with one of three wildfires in Spokane, Wash., that have destroyed hundreds of homes and displaced nearly quarter of the city&apos;s residents."
+        "description": "The suspect was arrested in connection with one of three wildfires in Spokane, Wash., that have destroyed hundreds of homes and displaced nearly a quarter of the city&apos;s residents."
       },
       {
         "title": "The sneaky economics of healthwashing",
@@ -107,22 +119,16 @@
         "description": "Why food companies love labels like &quot;organic&quot; and &quot;high protein,&quot; why our brains are misled by them — and how to avoid paying extra for marketing."
       },
       {
-        "title": "5 states hold polls on Tuesday. Here&apos;s what to know",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
+        "title": "Why Texas is betting &apos;Y&apos;all Street&apos; can take on Wall Street",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
         "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
-        "description": "Kansas, Michigan, Missouri, Virginia and Washington hold primaries Tuesday, with races that could ultimately decide control of Congress next year. Redistricting efforts will also influence the races."
+        "description": "Dallas&apos;s financial industry is growing, amid a larger Texas business boom. But can it really steal New York&apos;s crown?"
       },
       {
         "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
         "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
         "description": "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means."
-      },
-      {
-        "title": "Why Texas is betting &apos;Y&apos;all Street&apos; can take on Wall Street",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
-        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
-        "description": "Dallas&apos;s financial industry is growing, amid a larger Texas business boom. But can it really steal New York&apos;s crown?"
       },
       {
         "title": "Medicaid work rule leaves homeless people in the cold",
@@ -137,22 +143,16 @@
         "description": "Military veteran and D.C. resident Anna King has filed a $3 million lawsuit against the Idaho National Guard, saying three guard members assaulted her while detaining her in front of her home."
       },
       {
+        "title": "5 states have primary elections on Tuesday. These are the races to watch",
+        "link": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
+        "pubDate": "Tue, 04 Aug 2026 05:00:00 -0400",
+        "description": "From Michigan&apos;s Senate and governor primary to Missouri&apos;s 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans"
+      },
+      {
         "title": "Nauru, the world&apos;s 3rd-smallest country, changes its name to Naoero",
         "link": "https://www.npr.org/2026/08/04/g-s1-137261/nauru-name-change",
         "pubDate": "Tue, 04 Aug 2026 02:59:01 -0400",
         "description": "The Pacific Island country of Nauru has changed its name to the Republic of Naoero, its president said, matching the spelling and pronunciation in the national language."
-      },
-      {
-        "title": "These are some of the last pristine ocean ecosystems. Now, they&apos;re losing protections",
-        "link": "https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed",
-        "pubDate": "Mon, 03 Aug 2026 18:53:15 -0400",
-        "description": "The largest conservation areas in the U.S. are in the Pacific Ocean, where tiny islands are epicenters of biodiversity. The Trump administration is now opening their waters to commercial fishing, spar"
-      },
-      {
-        "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
-        "link": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
-        "pubDate": "Mon, 03 Aug 2026 17:17:49 -0400",
-        "description": "After a months-long investigation, the ethics committee recommended censure for Edwards because of &quot;persistent unprofessional and inappropriate conduct towards two young female staffers.&quot;"
       }
     ],
     "Canada": []
