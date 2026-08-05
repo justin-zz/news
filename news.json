@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-05T02:06:30.485Z",
+  "updated": "2026-08-05T05:28:40.942Z",
   "world": [
     {
       "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
       "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 17:26:06 GMT",
-      "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime."
+      "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime."
     },
     {
-      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
       "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 01:05:21 GMT",
+      "pubDate": "Wed, 05 Aug 2026 03:44:30 GMT",
       "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
     },
     {
-      "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
+      "title": "Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say",
       "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 01:35:29 GMT",
-      "description": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings."
+      "pubDate": "Wed, 05 Aug 2026 05:08:43 GMT",
+      "description": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city."
     },
     {
       "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here&apos;s what to know",
+        "link": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
+        "pubDate": "Wed, 05 Aug 2026 00:00:00 -0400",
+        "description": "For their commissioner of the future, MLS owners chose a soccer native. Berg&apos;s team is seen as one of MLS&apos;s best-run franchises, and he has embraced rule changes designed to modernize the le"
+      },
+      {
         "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
         "link": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
         "pubDate": "Tue, 04 Aug 2026 20:30:48 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026",
         "pubDate": "Tue, 04 Aug 2026 09:34:45 -0400",
         "description": "This month brings riveting novels about dogs, Hollywood stars, small towns and characters with bigger woes than just the sweltering summer heat and humidity."
-      },
-      {
-        "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
-        "link": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
-        "pubDate": "Tue, 04 Aug 2026 07:29:23 -0400",
-        "description": "Five state primaries are being held today, and Michigan is a key focus for Democrats who want to see how progressives fare in races. And, a man has been arrested in connection with a Spokane fire."
       }
     ],
     "Canada": []
