@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T23:32:19.473Z",
+  "updated": "2026-08-05T02:06:30.485Z",
   "world": [
     {
       "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
@@ -10,14 +10,26 @@
     {
       "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
       "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 19:00:43 GMT",
+      "pubDate": "Wed, 05 Aug 2026 01:05:21 GMT",
       "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
+    },
+    {
+      "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
+      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 01:35:29 GMT",
+      "description": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings."
     },
     {
       "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
       "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 21:45:20 GMT",
       "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
+    },
+    {
+      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 00:19:04 GMT",
+      "description": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California."
     },
     {
       "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
@@ -30,12 +42,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 19:25:00 GMT",
       "description": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people."
-    },
-    {
-      "title": "More than 170 migrants rescued after boat catches fire in Channel",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 19:45:58 GMT",
-      "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France."
     },
     {
       "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
@@ -62,6 +68,12 @@
       "description": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident."
     },
     {
+      "title": "More than 170 migrants rescued after boat catches fire in Channel",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 19:45:58 GMT",
+      "description": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France."
+    },
+    {
       "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
       "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 13:53:41 GMT",
@@ -78,22 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 14:53:28 GMT",
       "description": "Cameroon's president has been absent for two months while his team denies rumours about his health."
-    },
-    {
-      "title": "Arson arrest made over largest of Washington state's wildfires",
-      "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 19:18:45 GMT",
-      "description": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes."
-    },
-    {
-      "title": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
-      "link": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 10:04:53 GMT",
-      "description": "It sent rocks and earth crashing on to those praying at an overnight service, the authorities say."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
+        "link": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
+        "pubDate": "Tue, 04 Aug 2026 20:30:48 -0400",
+        "description": "The Los Angeles County Sheriff&apos;s Department said Jeanine John Taele, 38, was taking photos and video and had a 16-round magazine with ammunition in his pocket."
+      },
       {
         "title": "SpaceX&apos;s revenue rises as its once-soaring stock price drifts back to Earth",
         "link": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
         "pubDate": "Tue, 04 Aug 2026 07:29:23 -0400",
         "description": "Five state primaries are being held today, and Michigan is a key focus for Democrats who want to see how progressives fare in races. And, a man has been arrested in connection with a Spokane fire."
-      },
-      {
-        "title": "They&apos;re a world leader in using drones for healthcare. But drones can&apos;t do it all",
-        "link": "https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda",
-        "pubDate": "Tue, 04 Aug 2026 07:05:10 -0400",
-        "description": "Drones carrying medical supplies constantly crisscross the skies of Rwanda. The Trump administration is giving a major grant to the effort — and at the same time cutting aid to the country."
       }
     ],
     "Canada": []
