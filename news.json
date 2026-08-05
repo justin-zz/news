@@ -1,12 +1,6 @@
 {
-  "updated": "2026-08-05T05:28:40.942Z",
+  "updated": "2026-08-05T08:03:20.965Z",
   "world": [
-    {
-      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 17:26:06 GMT",
-      "description": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime."
-    },
     {
       "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
       "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
@@ -14,16 +8,10 @@
       "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
     },
     {
-      "title": "Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say",
+      "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
       "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 05:08:43 GMT",
-      "description": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city."
-    },
-    {
-      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 21:45:20 GMT",
-      "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
+      "pubDate": "Wed, 05 Aug 2026 07:48:02 GMT",
+      "description": "The head of Kyiv's military administration said Russia is \"once again massively attacking\" the region around the city."
     },
     {
       "title": "Armed man arrested near Trump's golf course ahead of president's visit",
@@ -32,16 +20,34 @@
       "description": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California."
     },
     {
-      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-      "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 11:19:01 GMT",
-      "description": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver."
+      "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+      "link": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 07:04:45 GMT",
+      "description": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising."
+    },
+    {
+      "title": "Afghan boxer arrives at Greek court in connection with death of Scottish woman",
+      "link": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 07:59:16 GMT",
+      "description": "Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Jane Ross from Edinburgh."
     },
     {
       "title": "Arrests in Egypt after people allegedly impersonate judges",
       "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 19:25:00 GMT",
       "description": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people."
+    },
+    {
+      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 21:45:20 GMT",
+      "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says."
+    },
+    {
+      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+      "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 11:19:01 GMT",
+      "description": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver."
     },
     {
       "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 09:23:06 GMT",
       "description": "The region's Moscow-installed governor says the gunman has been detained after firing at fellow soldiers and civilians."
-    },
-    {
-      "title": "World's oldest president reshuffles army as his absence stokes unease",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 14:53:28 GMT",
-      "description": "Cameroon's president has been absent for two months while his team denies rumours about his health."
     }
   ],
   "regions": {
