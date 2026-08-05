@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-05T08:03:20.965Z",
+  "updated": "2026-08-05T10:59:07.172Z",
   "world": [
+    {
+      "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 10:49:41 GMT",
+      "description": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region."
+    },
     {
       "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
       "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
@@ -8,16 +14,10 @@
       "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume."
     },
     {
-      "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 07:48:02 GMT",
-      "description": "The head of Kyiv's military administration said Russia is \"once again massively attacking\" the region around the city."
-    },
-    {
-      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-      "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 00:19:04 GMT",
-      "description": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California."
+      "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
+      "link": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 08:29:30 GMT",
+      "description": "Miami police told US media outlets the celebrity blogger had been \"safely recovered\" from his home."
     },
     {
       "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
@@ -26,16 +26,16 @@
       "description": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising."
     },
     {
-      "title": "Afghan boxer arrives at Greek court in connection with death of Scottish woman",
-      "link": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 07:59:16 GMT",
-      "description": "Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Jane Ross from Edinburgh."
+      "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 00:19:04 GMT",
+      "description": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California."
     },
     {
-      "title": "Arrests in Egypt after people allegedly impersonate judges",
-      "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 19:25:00 GMT",
-      "description": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people."
+      "title": "Afghan boxer appears in court in connection with death of Scottish woman",
+      "link": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 09:22:52 GMT",
+      "description": "Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Jane Ross from Edinburgh."
     },
     {
       "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
@@ -48,6 +48,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 11:19:01 GMT",
       "description": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver."
+    },
+    {
+      "title": "Arrests in Egypt after people allegedly impersonate judges",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 04 Aug 2026 19:25:00 GMT",
+      "description": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people."
     },
     {
       "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
@@ -84,16 +90,40 @@
       "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 13:53:41 GMT",
       "description": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts."
-    },
-    {
-      "title": "Soldier kills four in gun rampage in Russian-occupied Crimea",
-      "link": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 09:23:06 GMT",
-      "description": "The region's Moscow-installed governor says the gunman has been detained after firing at fellow soldiers and civilians."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
+        "link": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
+        "pubDate": "Wed, 05 Aug 2026 06:15:44 -0400",
+        "description": "Russian missile and drone strikes on Kyiv and the surrounding region killed 17 people and wounded 44 others overnight into Wednesday, Ukraine&apos;s President Volodymyr Zelenskyy said."
+      },
+      {
+        "title": "Progressives and moderate Democrats both see wins in primary races while Trump flexes power over GOP",
+        "link": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
+        "pubDate": "Wed, 05 Aug 2026 06:08:28 -0400",
+        "description": "Everyone got a little bit of what they wanted in Tuesday&apos;s primary elections. It was a good night for the Democratic establishment, the progressives and Republican candidates endorsed by Presiden"
+      },
+      {
+        "title": "Nicotine pouches can be marketed as &apos;lower risk&apos; than cigarettes. Is that dangerous?",
+        "link": "https://www.npr.org/2026/08/05/nx-s1-5919626/smoking-fda-nicotine-cigarettes-tobacco",
+        "pubDate": "Wed, 05 Aug 2026 05:00:00 -0400",
+        "description": "The FDA allowed some Zyn nicotine pouches to be marketed as &quot;lower risk&quot; than cigarettes. Public health experts agree they can help current smokers, but worry young people may become addicte"
+      },
+      {
+        "title": "House Ethics Committee opens investigation into Ohio Republican Max Miller",
+        "link": "https://www.npr.org/2026/08/05/nx-s1-5918342/house-ethics-committee-opens-investigation-into-ohio-republican-max-miller",
+        "pubDate": "Wed, 05 Aug 2026 04:45:42 -0400",
+        "description": "The House Ethics Committee has opened an investigation into Rep. Max Miller, after the Ohio Republican asked for a probe of the domestic abuse allegations that have swirled around his reelection bid."
+      },
+      {
+        "title": "Appalachia&apos;s black lung rates highest in nearly 50 years as miners&apos; protections stall",
+        "link": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
+        "pubDate": "Wed, 05 Aug 2026 04:01:00 -0400",
+        "description": "Rates are now as bad as the 1970s, with thousands of miners sick and dying. Mining experts blame toxic silica dust, now more common in mines."
+      },
       {
         "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here&apos;s what to know",
         "link": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
@@ -123,36 +153,6 @@
         "link": "https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight",
         "pubDate": "Tue, 04 Aug 2026 16:16:26 -0400",
         "description": "In mid-coast Maine a grassroots coalition is fighting to prevent the proposed closure of Miles Hospital&apos;s labor and delivery center."
-      },
-      {
-        "title": "House Ethics Committee will investigate Ohio Republican Max Miller",
-        "link": "https://www.npr.org/2026/08/04/g-s1-137389/max-miller-congress-house-ethics-committee-investigation",
-        "pubDate": "Tue, 04 Aug 2026 15:40:02 -0400",
-        "description": "The committee said it was reviewing allegations that Miller &quot;may have engaged in domestic violence.&quot; Miller has denied the allegations, which have swirled around his bid for a third term in "
-      },
-      {
-        "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
-        "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
-        "pubDate": "Tue, 04 Aug 2026 14:01:04 -0400",
-        "description": "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriots can be produced."
-      },
-      {
-        "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
-        "pubDate": "Tue, 04 Aug 2026 13:43:06 -0400",
-        "description": "A report from Senate Democrats accuses big banks of failing to report suspicious money transfers made by Jeffrey Epstein until after his arrest in 2019."
-      },
-      {
-        "title": "Europe&apos;s heat wave fuels drought, wildfires and fears about energy supplies",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
-        "pubDate": "Tue, 04 Aug 2026 12:37:38 -0400",
-        "description": "Europe&apos;s heat wave exposes buried history and new threats — Nazi-era wrecks emerge from the Danube, nuclear reactors face cooling risks, and Greece battles deadly wildfires."
-      },
-      {
-        "title": "13 new books in August will get you through the dog days of summer",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026",
-        "pubDate": "Tue, 04 Aug 2026 09:34:45 -0400",
-        "description": "This month brings riveting novels about dogs, Hollywood stars, small towns and characters with bigger woes than just the sweltering summer heat and humidity."
       }
     ],
     "Canada": []
