@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-05T15:20:56.808Z",
+  "updated": "2026-08-05T17:00:43.443Z",
   "world": [
     {
       "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
       "link": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 15:05:30 GMT",
+      "pubDate": "Wed, 05 Aug 2026 16:20:14 GMT",
       "description": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November."
     },
     {
       "title": "Drone carrying explosives found at German airport, police say",
       "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 14:32:27 GMT",
+      "pubDate": "Wed, 05 Aug 2026 16:06:30 GMT",
       "description": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air."
     },
     {
@@ -20,7 +20,7 @@
       "description": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region."
     },
     {
-      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+      "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
       "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 05 Aug 2026 11:19:24 GMT",
       "description": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions."
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Pakistan&apos;s ruling party leads in Kashmir vote despite boycott call by banned group",
+        "link": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
+        "pubDate": "Wed, 05 Aug 2026 12:06:06 -0400",
+        "description": "Candidates backed by twice-elected former Prime Minister Nawaz Sharif&apos;s Pakistan Muslim League-N party have won 24 of the 34 seats decided in the first two phases of voting, the election commissi"
+      },
+      {
+        "title": "Under China&apos;s new &apos;unity&apos; law, Tibetans fight to preserve language and culture",
+        "link": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture",
+        "pubDate": "Wed, 05 Aug 2026 11:26:43 -0400",
+        "description": "A 73-year-old retired nurse&apos;s decision to learn to write Tibetan language offers a glimpse into how some embrace their language and cultural identity in Tibet."
+      },
+      {
         "title": "Progressive Abdul El-Sayed wins Michigan&apos;s Democratic primary for Senate",
         "link": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
         "pubDate": "Wed, 05 Aug 2026 09:54:31 -0400",
@@ -113,10 +125,10 @@
         "description": "Russian missile and drone strikes on Kyiv and the surrounding region killed 17 people and wounded 44 others overnight into Wednesday, Ukraine&apos;s President Volodymyr Zelenskyy said."
       },
       {
-        "title": "Progressives see biggest win yet in Michigan while Trump flexes power over GOP",
+        "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
         "link": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
         "pubDate": "Wed, 05 Aug 2026 06:08:28 -0400",
-        "description": "Progressives notched major wins in Michigan while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party."
+        "description": "Progressives notched major wins in Michigan, while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party."
       },
       {
         "title": "Nicotine pouches can be marketed as &apos;lower risk&apos; than cigarettes. Is that dangerous?",
@@ -131,28 +143,16 @@
         "description": "The House Ethics Committee has opened an investigation into Rep. Max Miller, after the Ohio Republican asked for a probe of the domestic abuse allegations that have swirled around his reelection bid."
       },
       {
+        "title": "Despite political headwinds, Republicans have some structural advantages in midterms",
+        "link": "https://www.npr.org/2026/08/05/nx-s1-5918626/republicans-midterms-structural-advantages",
+        "pubDate": "Wed, 05 Aug 2026 04:44:02 -0400",
+        "description": "While Republicans face political headwinds in this fall&apos;s midterm elections, the party also maintains important structural advantages that could help them preserve their majorities in Congress."
+      },
+      {
         "title": "Black lung rates in Appalachia are high as the 1970s, with thousands of miners sick",
         "link": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
         "pubDate": "Wed, 05 Aug 2026 04:01:00 -0400",
         "description": "Rates are now the highest they&apos;ve been in nearly 50 years among veteran coal miners. Mining experts blame toxic silica dust, now more common in mines."
-      },
-      {
-        "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here&apos;s what to know",
-        "link": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
-        "pubDate": "Wed, 05 Aug 2026 00:00:00 -0400",
-        "description": "For their commissioner of the future, MLS owners chose a soccer native. Berg&apos;s team is seen as one of MLS&apos;s best-run franchises, and he has embraced rule changes designed to modernize the le"
-      },
-      {
-        "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
-        "link": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
-        "pubDate": "Tue, 04 Aug 2026 20:30:48 -0400",
-        "description": "The Los Angeles County Sheriff&apos;s Department said Jeanine John Taele, 38, was taking photos and video and had a 16-round magazine with ammunition in his pocket."
-      },
-      {
-        "title": "SpaceX&apos;s revenue rises as its once-soaring stock price drifts back to Earth",
-        "link": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
-        "pubDate": "Tue, 04 Aug 2026 18:02:03 -0400",
-        "description": "On their first earnings call since SpaceX&apos;s June public offering, executives said the company is pouring funds into rocket development, Starlink satellites and AI."
       }
     ],
     "Canada": []
