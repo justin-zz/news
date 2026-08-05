@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T22:09:08.920Z",
+  "updated": "2026-08-05T23:28:37.228Z",
   "world": [
     {
       "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
@@ -26,10 +26,10 @@
       "description": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation."
     },
     {
-      "title": "Fifa admits mistakes but Infantino remains president",
+      "title": "Infantino sorry for errors but stays Fifa president",
       "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 05 Aug 2026 21:37:08 GMT",
-      "description": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made."
+      "description": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans."
     },
     {
       "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
@@ -101,6 +101,12 @@
         "description": "Hasina&apos;s speech marked the second anniversary of her ouster. She fled Bangladesh by helicopter following nearly two months of protests in 2024 that left nearly 1,400 people dead, according to the"
       },
       {
+        "title": "Small Texas law firm set to receive $150M to represent unaccompanied migrant children",
+        "link": "https://www.npr.org/2026/08/05/nx-s1-5922451/150-million-contract-to-represent-migrant-children-awarded-to-trump-texas-law-firm",
+        "pubDate": "Wed, 05 Aug 2026 16:23:02 -0400",
+        "description": "The firm, Houston-based Burke Law Group has only two attorneys who specialize in immigration and asylum cases. Two of its founders have ties to the Trump administration."
+      },
+      {
         "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
         "link": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
         "pubDate": "Wed, 05 Aug 2026 16:00:24 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
         "pubDate": "Wed, 05 Aug 2026 06:15:44 -0400",
         "description": "Ukraine&apos;s depleted air defenses failed to stop any of Moscow&apos;s incoming missiles overnight."
-      },
-      {
-        "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
-        "link": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
-        "pubDate": "Wed, 05 Aug 2026 06:08:28 -0400",
-        "description": "Progressives notched major wins in Michigan, while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party."
       }
     ],
     "Canada": []
