@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-05T17:00:43.443Z",
+  "updated": "2026-08-05T19:00:15.366Z",
   "world": [
+    {
+      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 18:19:51 GMT",
+      "description": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages."
+    },
     {
       "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
       "link": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&amp;at_campaign=rss",
@@ -12,12 +18,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 05 Aug 2026 16:06:30 GMT",
       "description": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air."
-    },
-    {
-      "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 12:26:26 GMT",
-      "description": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region."
     },
     {
       "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
@@ -68,7 +68,7 @@
       "description": "Miami police told US media outlets the celebrity blogger had been \"safely recovered\" from his home."
     },
     {
-      "title": "Nigeria's president orders a 80% salary increase for junior soldiers",
+      "title": "Nigeria's president orders 80% salary increase for junior soldiers",
       "link": "https://www.bbc.co.uk/news/articles/cj031jp3g6jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 05 Aug 2026 12:52:19 GMT",
       "description": "The announcement comes as Nigeria's security forces struggle to contain multiple threats."
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
+        "link": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term",
+        "pubDate": "Wed, 05 Aug 2026 13:41:17 -0400",
+        "description": "&lt;em&gt;New York Times&lt;/em&gt; reporter Eric Lipton discusses his Pulitzer Prize-winning investigations into Trump&apos;s conflicts of interest and whether he&apos;s exploiting the power of the p"
+      },
+      {
+        "title": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
+        "link": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers",
+        "pubDate": "Wed, 05 Aug 2026 13:14:46 -0400",
+        "description": "A judge has granted the Justice Department&apos;s bid to drop a landmark case against leaders of the Oath Keepers, as former prosecutors warn about the dangers of denying the violence of Jan. 6."
+      },
+      {
         "title": "Pakistan&apos;s ruling party leads in Kashmir vote despite boycott call by banned group",
         "link": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
         "pubDate": "Wed, 05 Aug 2026 12:06:06 -0400",
@@ -119,10 +131,10 @@
         "description": "The U.S. Army&apos;s missile stockpile is dwindling and could take years to replenish. And, the Food and Drug Administration is deciding whether to approve a flu vaccine with mRNA technology."
       },
       {
-        "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
+        "title": "A Russian barrage in Ukraine&apos;s capital kills 17 as air defenses fall short",
         "link": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
         "pubDate": "Wed, 05 Aug 2026 06:15:44 -0400",
-        "description": "Russian missile and drone strikes on Kyiv and the surrounding region killed 17 people and wounded 44 others overnight into Wednesday, Ukraine&apos;s President Volodymyr Zelenskyy said."
+        "description": "Ukraine&apos;s depleted air defenses failed to stop any of Moscow&apos;s incoming missiles overnight."
       },
       {
         "title": "Progressives see biggest win yet in Michigan, while Trump flexes power over GOP",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/05/nx-s1-5918342/house-ethics-committee-opens-investigation-into-ohio-republican-max-miller",
         "pubDate": "Wed, 05 Aug 2026 04:45:42 -0400",
         "description": "The House Ethics Committee has opened an investigation into Rep. Max Miller, after the Ohio Republican asked for a probe of the domestic abuse allegations that have swirled around his reelection bid."
-      },
-      {
-        "title": "Despite political headwinds, Republicans have some structural advantages in midterms",
-        "link": "https://www.npr.org/2026/08/05/nx-s1-5918626/republicans-midterms-structural-advantages",
-        "pubDate": "Wed, 05 Aug 2026 04:44:02 -0400",
-        "description": "While Republicans face political headwinds in this fall&apos;s midterm elections, the party also maintains important structural advantages that could help them preserve their majorities in Congress."
-      },
-      {
-        "title": "Black lung rates in Appalachia are high as the 1970s, with thousands of miners sick",
-        "link": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
-        "pubDate": "Wed, 05 Aug 2026 04:01:00 -0400",
-        "description": "Rates are now the highest they&apos;ve been in nearly 50 years among veteran coal miners. Mining experts blame toxic silica dust, now more common in mines."
       }
     ],
     "Canada": []
