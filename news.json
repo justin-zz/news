@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T10:07:16.980Z",
+  "updated": "2026-08-06T12:25:03.474Z",
   "world": [
     {
       "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
@@ -23,7 +23,7 @@
       "title": "Iranian footballers who defied Tehran become Australian citizens",
       "link": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 06 Aug 2026 09:04:17 GMT",
-      "description": "There were among seven women to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran."
+      "description": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran."
     },
     {
       "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
@@ -44,9 +44,9 @@
       "description": "The aftermath of last's year deadly crash and mounting financial losses will be Gebremariam's main challenges."
     },
     {
-      "title": "Afghan boxer accused of killing Scottish aid worker back in court",
+      "title": "Man charged with killing Scottish aid worker in Greece",
       "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 09:12:39 GMT",
+      "pubDate": "Thu, 06 Aug 2026 11:22:55 GMT",
       "description": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences."
     },
     {
@@ -95,7 +95,13 @@
   "regions": {
     "US": [
       {
-        "title": "How deep-rooted medical bias creates deadly consequences for addiction patients",
+        "title": "El-Sayed wins Michigan&apos;s primary. And, Fauci faces contempt of Congress vote",
+        "link": "https://www.npr.org/2026/08/06/g-s1-137574/up-first-newsletter-anthony-fauci-erica-schwartz-abdul-el-sayed-las-vegas-economy-stewart-rhodes",
+        "pubDate": "Thu, 06 Aug 2026 07:30:59 -0400",
+        "description": "Abdul El-Sayed has won Michigan&apos;s Democratic Senate primary and will face Republican Congressman Mike Rogers in the midterms. And, today, Dr. Anthony Fauci faces a contempt of Congress vote."
+      },
+      {
+        "title": "Hospital staff said he was faking it and released him. He died from an overdose soon after",
         "link": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths",
         "pubDate": "Thu, 06 Aug 2026 05:52:45 -0400",
         "description": "Addiction treatments are safe, effective — and rarely offered to patients. That&apos;s because many doctors and nurses still view people with alcohol or drug addiction with suspicion and hostility."
@@ -146,13 +152,7 @@
         "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
         "link": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
         "pubDate": "Wed, 05 Aug 2026 16:00:24 -0400",
-        "description": "Schwartz takes command of a public health agency that has lost thousands of employees, amid layoffs, resignations and leadership turmoil."
-      },
-      {
-        "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
-        "link": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term",
-        "pubDate": "Wed, 05 Aug 2026 13:41:17 -0400",
-        "description": "&lt;em&gt;New York Times&lt;/em&gt; reporter Eric Lipton discusses his Pulitzer Prize-winning investigations into Trump&apos;s conflicts of interest and whether he&apos;s exploiting the power of the p"
+        "description": "Schwartz takes command of a public health agency that has lost thousands of employees amid layoffs, resignations and leadership turmoil."
       }
     ],
     "Canada": []
