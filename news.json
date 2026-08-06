@@ -1,11 +1,35 @@
 {
-  "updated": "2026-08-06T12:25:03.474Z",
+  "updated": "2026-08-06T14:52:25.589Z",
   "world": [
     {
-      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 05:00:54 GMT",
-      "description": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline."
+      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 14:30:43 GMT",
+      "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
+    },
+    {
+      "title": "Ukraine hits two oil refineries deep in Russian territory",
+      "link": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 12:18:48 GMT",
+      "description": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war."
+    },
+    {
+      "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
+      "link": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 14:47:45 GMT",
+      "description": "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the Covid-19 pandemic."
+    },
+    {
+      "title": "DR Congo river boat under quarantine for Ebola after five deaths",
+      "link": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 14:04:27 GMT",
+      "description": "The health minister says all the passengers are being screened as a precautionary measure."
+    },
+    {
+      "title": "EasyJet agrees to £5.7bn takeover by US firm",
+      "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 14:39:21 GMT",
+      "description": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out."
     },
     {
       "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
@@ -14,16 +38,22 @@
       "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway."
     },
     {
-      "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
-      "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 09:49:24 GMT",
-      "description": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court."
+      "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 13:46:27 GMT",
+      "description": "The murder of content creator César Gastélum on Tuesday raises questions about why influencers are coming under attack."
     },
     {
       "title": "Iranian footballers who defied Tehran become Australian citizens",
       "link": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 06 Aug 2026 09:04:17 GMT",
       "description": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran."
+    },
+    {
+      "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
+      "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 09:49:24 GMT",
+      "description": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court."
     },
     {
       "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
@@ -38,16 +68,16 @@
       "description": "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say."
     },
     {
+      "title": "Man charged with killing Scottish aid worker in Greece",
+      "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 12:25:05 GMT",
+      "description": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences."
+    },
+    {
       "title": "Air India's new CEO faces financial and safety turbulence",
       "link": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 06 Aug 2026 08:18:02 GMT",
       "description": "The aftermath of last's year deadly crash and mounting financial losses will be Gebremariam's main challenges."
-    },
-    {
-      "title": "Man charged with killing Scottish aid worker in Greece",
-      "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 11:22:55 GMT",
-      "description": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences."
     },
     {
       "title": "Nigerian security forces rescue more than 300 abductees",
@@ -60,40 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 05 Aug 2026 18:19:51 GMT",
       "description": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages."
-    },
-    {
-      "title": "Meta becomes latest firm to say its AI hacked another company",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 05:53:58 GMT",
-      "description": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns."
-    },
-    {
-      "title": "Drone carrying explosives found at German airport, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 20:01:51 GMT",
-      "description": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air."
-    },
-    {
-      "title": "Israel strikes south Lebanon after two soldiers killed by explosion",
-      "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 20:03:36 GMT",
-      "description": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month."
-    },
-    {
-      "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
-      "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 19:02:06 GMT",
-      "description": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising."
-    },
-    {
-      "title": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 18:38:46 GMT",
-      "description": "The \"cockroach\" movement was one of the biggest public displays of dissent against India's prime minister in years."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Greetings from a wildlife park in central Sri Lanka that&apos;s a haven for elephants",
+        "link": "https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants",
+        "pubDate": "Thu, 06 Aug 2026 10:19:27 -0400",
+        "description": "At a time of increased conflict between elephants and humans, as elephant habitats are converted to intensive agriculture, the Hurulu Eco Park is a place where the animals can graze unimpeded."
+      },
+      {
+        "title": "Trump administration moves to deregulate Head Start, opening door for sweeping change",
+        "link": "https://www.npr.org/2026/08/06/nx-s1-5920386/head-start-regulations-trump",
+        "pubDate": "Thu, 06 Aug 2026 09:30:00 -0400",
+        "description": "It would slim regulation of the 60-year-old anti-poverty program and aim to save money. Advocates worry the changes could undermine the early education program&apos;s mission."
+      },
+      {
+        "title": "How Cambodia became the first Asian country to hit an elusive HIV target",
+        "link": "https://www.npr.org/2026/08/06/g-s1-137460/hiv-aids-cambodia",
+        "pubDate": "Thu, 06 Aug 2026 09:13:28 -0400",
+        "description": "The United Nations has set a goal for near universal HIV diagnosis and treatment for all by 2030. No country in Asia has hit the mark — until this year."
+      },
       {
         "title": "El-Sayed wins Michigan&apos;s primary. And, Fauci faces contempt of Congress vote",
         "link": "https://www.npr.org/2026/08/06/g-s1-137574/up-first-newsletter-anthony-fauci-erica-schwartz-abdul-el-sayed-las-vegas-economy-stewart-rhodes",
@@ -125,34 +143,16 @@
         "description": "Iran says it&apos;s close to a deal with Oman over navigation on the Strait of Hormuz, a look at the challenges both candidates for Michigan&apos;s U.S. Senate seat will face, Trump touts U.S. economy"
       },
       {
-        "title": "Senate committee set to vote on whether to hold Fauci in contempt of Congress",
+        "title": "Senate Homeland Security committee votes to hold Fauci in contempt of Congress",
         "link": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
         "pubDate": "Thu, 06 Aug 2026 03:16:22 -0400",
-        "description": "Republicans on the Senate Homeland Security Committee want to hold Fauci in contempt of Congress after he refused to answer their questions about the government&apos;s response to the COVID-19 pandemi"
+        "description": "Republicans on the Senate Homeland Security Committee voted to hold Fauci in contempt of Congress after he refused to answer their questions about the government&apos;s response to the COVID-19 pandem"
       },
       {
         "title": "Drone with explosives found at German airport, official sees &apos;new quality&apos; of threat",
         "link": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport",
         "pubDate": "Thu, 06 Aug 2026 01:23:08 -0400",
         "description": "Regional police and prosecutors said an airport employee discovered a drone near the airport&apos;s south runway with &quot;an unknown explosive device,&quot; and the object was examined by police"
-      },
-      {
-        "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
-        "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
-        "pubDate": "Wed, 05 Aug 2026 16:43:29 -0400",
-        "description": "Hasina&apos;s speech marked the second anniversary of her ouster. She fled Bangladesh by helicopter following nearly two months of protests in 2024 that left nearly 1,400 people dead, according to the"
-      },
-      {
-        "title": "Small Texas law firm set to receive $150M to represent unaccompanied migrant children",
-        "link": "https://www.npr.org/2026/08/05/nx-s1-5922451/150-million-contract-to-represent-migrant-children-awarded-to-trump-texas-law-firm",
-        "pubDate": "Wed, 05 Aug 2026 16:23:02 -0400",
-        "description": "The firm, Houston-based Burke Law Group has only two attorneys who specialize in immigration and asylum cases. Two of its founders have ties to the Trump administration."
-      },
-      {
-        "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
-        "link": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
-        "pubDate": "Wed, 05 Aug 2026 16:00:24 -0400",
-        "description": "Schwartz takes command of a public health agency that has lost thousands of employees amid layoffs, resignations and leadership turmoil."
       }
     ],
     "Canada": []
