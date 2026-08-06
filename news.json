@@ -1,29 +1,11 @@
 {
-  "updated": "2026-08-06T00:52:28.680Z",
+  "updated": "2026-08-06T04:08:29.001Z",
   "world": [
     {
       "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
       "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 00:32:42 GMT",
+      "pubDate": "Thu, 06 Aug 2026 01:19:59 GMT",
       "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway."
-    },
-    {
-      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 18:19:51 GMT",
-      "description": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages."
-    },
-    {
-      "title": "Drone carrying explosives found at German airport, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 20:01:51 GMT",
-      "description": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air."
-    },
-    {
-      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 20:03:36 GMT",
-      "description": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation."
     },
     {
       "title": "Infantino sorry for errors but stays Fifa president",
@@ -32,16 +14,34 @@
       "description": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans."
     },
     {
-      "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
-      "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 11:19:24 GMT",
-      "description": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions."
+      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 18:19:51 GMT",
+      "description": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages."
     },
     {
-      "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
-      "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 12:33:43 GMT",
-      "description": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn."
+      "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
+      "link": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 23:28:06 GMT",
+      "description": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence."
+    },
+    {
+      "title": "Drone carrying explosives found at German airport, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 20:01:51 GMT",
+      "description": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air."
+    },
+    {
+      "title": "Meta says AI model accessed the internet and hacked another firm",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 02:33:33 GMT",
+      "description": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns."
+    },
+    {
+      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 20:03:36 GMT",
+      "description": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation."
     },
     {
       "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
@@ -62,16 +62,22 @@
       "description": "Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests."
     },
     {
+      "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
+      "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 11:19:24 GMT",
+      "description": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions."
+    },
+    {
+      "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
+      "link": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 05 Aug 2026 12:33:43 GMT",
+      "description": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn."
+    },
+    {
       "title": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
       "link": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 05 Aug 2026 14:58:41 GMT",
       "description": "Jacob Zuma was pictured with a businessmen allegedly at the heart of a corruption scandal in South Africa"
-    },
-    {
-      "title": "Mexican influencer shot dead during livestream",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kg709qd9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 11:00:47 GMT",
-      "description": "César Gastélum, who was known for comedy and lifestyle posts, was killed at close range by a man on a motorbike."
     },
     {
       "title": "El-Sayed's victory sends tremors through Democratic Party",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 04 Aug 2026 23:13:01 GMT",
       "description": "In Colombia, where FGM is still practised by some members of an indigenous group, a landmark bill banning the practice has been enacted."
-    },
-    {
-      "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
-      "link": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 04 Aug 2026 22:09:50 GMT",
-      "description": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community."
     }
   ],
   "regions": {
