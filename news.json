@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-07T08:10:50.236Z",
+  "updated": "2026-08-07T09:30:50.640Z",
   "world": [
     {
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 08:06:40 GMT",
+      "pubDate": "Fri, 07 Aug 2026 09:22:03 GMT",
       "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m."
     },
     {
@@ -30,6 +30,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 06 Aug 2026 18:53:51 GMT",
       "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
+    },
+    {
+      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 08:32:57 GMT",
+      "description": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand."
     },
     {
       "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
@@ -80,20 +86,44 @@
       "description": "Amal Khalil was killed and her colleague Zeinab Faraj wounded in an Israeli attack in April; Israel denied targeting the journalists."
     },
     {
-      "title": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n1eyze05o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 19:17:39 GMT",
-      "description": "Towle was known for chronicling her hopes and struggles as a young person living with cancer."
-    },
-    {
-      "title": "Artificial Intelligence used to design brand new viruses",
-      "link": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 18:01:52 GMT",
-      "description": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence."
+      "title": "German airport drone-bomb: Could Russia be involved?",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 08:48:16 GMT",
+      "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
+        "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
+        "description": "Polls show most Americans think young adults today have it harder financially than past generations. A majority of parents help their grown children with expenses, even if it hurts their own finances."
+      },
+      {
+        "title": "When tragedy strikes, America&apos;s wildland firefighters ask, was it &apos;somebody that we loved?&apos;",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season",
+        "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
+        "description": "Deaths and close calls while fighting wildfires have strained an already on-edge workforce. They&apos;ve also raised questions about policies and priorities amid an intense wildfire season."
+      },
+      {
+        "title": "Who or what is &apos;taking a step back from visibility&apos;? The quiz knows",
+        "link": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz",
+        "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
+        "description": "Plus, if you know what &quot;TMZ&quot; stands for, you&apos;ll get at least on question right this week!"
+      },
+      {
+        "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
+        "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
+        "description": "Hundreds of thousands of civilians in el-Obeid are being battered by relentless drone strikes and face critical water shortages and a worsening cholera outbreak, while women and girls are reporting hi"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief",
+        "pubDate": "Fri, 07 Aug 2026 04:41:55 -0400",
+        "description": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran."
+      },
       {
         "title": "Student kills at least 6 in a shooting at a high school in Thailand, authorities say",
         "link": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
@@ -123,36 +153,6 @@
         "link": "https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation",
         "pubDate": "Thu, 06 Aug 2026 16:40:52 -0400",
         "description": "Earlier this year ICE arrested 600 immigrants over a two week period. Most migrants had no criminal records and, since then, West Virginia has decided to not hold ICE detainees in their jails. A look "
-      },
-      {
-        "title": "Sticky or slippery? Snails can change their slime to meet the moment",
-        "link": "https://www.npr.org/2026/08/06/nx-s1-5920383/snail-slime-mucus-inspire-new-materials",
-        "pubDate": "Thu, 06 Aug 2026 14:26:45 -0400",
-        "description": "Snails are slimy. But there&apos;s more to that goo of theirs than meets the eye. It&apos;s a fact that may help inspire the creation of new materials."
-      },
-      {
-        "title": "The park service says Trump&apos;s arch would obstruct historic sites. Could it be moved?",
-        "link": "https://www.npr.org/2026/08/06/nx-s1-5919628/trump-arch-location-historic-sites-nps",
-        "pubDate": "Thu, 06 Aug 2026 14:19:47 -0400",
-        "description": "President Trump&apos;s proposed arch in Memorial Circle would intrude on dozens of nearby sites, says the National Park Service. But there&apos;s been minimal discussion of alternate locations."
-      },
-      {
-        "title": "European nations say World Cup boycott is still on, keeping FIFA&apos;s Infantino in limbo",
-        "link": "https://www.npr.org/2026/08/06/nx-s1-5923408/uefa-fifa-world-cup-gianni-infantino",
-        "pubDate": "Thu, 06 Aug 2026 13:11:42 -0400",
-        "description": "A continued boycott of the World Cup poses a big threat to FIFA, keeping President Gianni Infantino under intense pressure to resign."
-      },
-      {
-        "title": "A new flu vaccine geared to older people is coming soon",
-        "link": "https://www.npr.org/2026/08/06/nx-s1-5923342/moderna-mrna-flu-vaccine",
-        "pubDate": "Thu, 06 Aug 2026 13:06:41 -0400",
-        "description": "The first mRNA-based flu shot to be approved by the Food and Drug Administration will be ready for the upcoming flu season. Moderna, the vaccine&apos;s maker"
-      },
-      {
-        "title": "Greetings from a wildlife park in central Sri Lanka that&apos;s a haven for elephants",
-        "link": "https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants",
-        "pubDate": "Thu, 06 Aug 2026 10:19:27 -0400",
-        "description": "At a time of increased conflict between elephants and humans, as elephant habitats are converted to intensive agriculture, the Hurulu Eco Park is a place where the animals can graze unimpeded."
       }
     ],
     "Canada": []
