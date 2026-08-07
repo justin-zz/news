@@ -1,23 +1,83 @@
 {
-  "updated": "2026-08-06T14:52:25.589Z",
+  "updated": "2026-08-07T00:22:43.710Z",
   "world": [
     {
       "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
       "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 14:30:43 GMT",
+      "pubDate": "Thu, 06 Aug 2026 18:53:51 GMT",
       "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
+    },
+    {
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 00:06:17 GMT",
+      "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children."
+    },
+    {
+      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 16:11:30 GMT",
+      "description": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa."
+    },
+    {
+      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 17:38:51 GMT",
+      "description": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday."
+    },
+    {
+      "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
+      "link": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 17:36:07 GMT",
+      "description": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco."
+    },
+    {
+      "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
+      "link": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 18:37:12 GMT",
+      "description": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen."
+    },
+    {
+      "title": "Some of Doge's $110bn saving reports are wrong or lack evidence, US watchdog finds",
+      "link": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 23:55:35 GMT",
+      "description": "A review of the body formerly charged with reducing government spending has found several issues with its calculations."
     },
     {
       "title": "Ukraine hits two oil refineries deep in Russian territory",
       "link": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 12:18:48 GMT",
+      "pubDate": "Thu, 06 Aug 2026 15:41:05 GMT",
       "description": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war."
+    },
+    {
+      "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
+      "link": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 14:20:15 GMT",
+      "description": "Amal Khalil was killed and her colleague Zeinab Faraj wounded in an Israeli attack in April; Israel denied targeting the journalists."
+    },
+    {
+      "title": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
+      "link": "https://www.bbc.co.uk/news/articles/cn4n1eyze05o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 19:17:39 GMT",
+      "description": "Towle was known for chronicling her hopes and struggles as a young person living with cancer."
+    },
+    {
+      "title": "Artificial Intelligence used to design brand new viruses",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 18:01:52 GMT",
+      "description": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence."
+    },
+    {
+      "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 22:41:09 GMT",
+      "description": "The Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Hadramawt."
     },
     {
       "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
       "link": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 06 Aug 2026 14:47:45 GMT",
-      "description": "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the Covid-19 pandemic."
+      "description": "The committee will now refer him for possible prosecution for refusing to answer questions about his handling of the Covid-19 pandemic."
     },
     {
       "title": "DR Congo river boat under quarantine for Ebola after five deaths",
@@ -28,72 +88,48 @@
     {
       "title": "EasyJet agrees to £5.7bn takeover by US firm",
       "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 14:39:21 GMT",
+      "pubDate": "Thu, 06 Aug 2026 16:35:32 GMT",
       "description": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out."
-    },
-    {
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 01:19:59 GMT",
-      "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway."
-    },
-    {
-      "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 13:46:27 GMT",
-      "description": "The murder of content creator César Gastélum on Tuesday raises questions about why influencers are coming under attack."
-    },
-    {
-      "title": "Iranian footballers who defied Tehran become Australian citizens",
-      "link": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 09:04:17 GMT",
-      "description": "There were among seven to be granted humanitarian visas while playing in Australia - but the other five changed their minds and returned to Iran."
-    },
-    {
-      "title": "Indian journalist Tarun Tejpal sentenced to 10 years in jail for rape",
-      "link": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 09:49:24 GMT",
-      "description": "Tejpal, who has denied the accusations, can appeal against the verdict in India's Supreme Court."
-    },
-    {
-      "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
-      "link": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 04:44:22 GMT",
-      "description": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said."
-    },
-    {
-      "title": "Outrage as Ugandan football captain beaten to death in street gang attack",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 06:04:28 GMT",
-      "description": "The 27-year-old was killed by suspected robbers after resisting an attempt to rob him, police say."
-    },
-    {
-      "title": "Man charged with killing Scottish aid worker in Greece",
-      "link": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 12:25:05 GMT",
-      "description": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences."
-    },
-    {
-      "title": "Air India's new CEO faces financial and safety turbulence",
-      "link": "https://www.bbc.co.uk/news/articles/c9987kkrnl5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 08:18:02 GMT",
-      "description": "The aftermath of last's year deadly crash and mounting financial losses will be Gebremariam's main challenges."
-    },
-    {
-      "title": "Nigerian security forces rescue more than 300 abductees",
-      "link": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 04:35:33 GMT",
-      "description": "The government says the rescue is the country's largest single-day operation by joint security forces."
-    },
-    {
-      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 05 Aug 2026 18:19:51 GMT",
-      "description": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Trump signs 2 immigration actions to curb &apos;birth tourism,&apos; limit birthright citizenship",
+        "link": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb",
+        "pubDate": "Thu, 06 Aug 2026 18:06:35 -0400",
+        "description": "Additional details weren&apos;t provided, but Trump said he thought his latest actions would be constitutional."
+      },
+      {
+        "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
+        "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
+        "pubDate": "Thu, 06 Aug 2026 16:58:56 -0400",
+        "description": "Iran&apos;s parliament is reviewing a plan to ban ships linked to the U.S., Israel and other &quot;hostile countries&quot; from transiting the Strait of Hormuz. The Trump administration has rejected t"
+      },
+      {
+        "title": "Sticky or slippery? Snails can change their slime to meet the moment",
+        "link": "https://www.npr.org/2026/08/06/nx-s1-5920383/snail-slime-mucus-inspire-new-materials",
+        "pubDate": "Thu, 06 Aug 2026 14:26:45 -0400",
+        "description": "Snails are slimy. But there&apos;s more to that goo of theirs than meets the eye. It&apos;s a fact that may help inspire the creation of new materials."
+      },
+      {
+        "title": "The park service says Trump&apos;s arch would obstruct historic sites. Could it be moved?",
+        "link": "https://www.npr.org/2026/08/06/nx-s1-5919628/trump-arch-location-historic-sites-nps",
+        "pubDate": "Thu, 06 Aug 2026 14:19:47 -0400",
+        "description": "President Trump&apos;s proposed arch in Memorial Circle would intrude on dozens of nearby sites, says the National Park Service. But there&apos;s been minimal discussion of alternate locations."
+      },
+      {
+        "title": "European nations say World Cup boycott is still on, keeping FIFA&apos;s Infantino in limbo",
+        "link": "https://www.npr.org/2026/08/06/nx-s1-5923408/uefa-fifa-world-cup-gianni-infantino",
+        "pubDate": "Thu, 06 Aug 2026 13:11:42 -0400",
+        "description": "A continued boycott of the World Cup poses a big threat to FIFA, keeping President Gianni Infantino under intense pressure to resign."
+      },
+      {
+        "title": "A new flu vaccine geared to older people is coming soon",
+        "link": "https://www.npr.org/2026/08/06/nx-s1-5923342/moderna-mrna-flu-vaccine",
+        "pubDate": "Thu, 06 Aug 2026 13:06:41 -0400",
+        "description": "The first mRNA-based flu shot to be approved by the Food and Drug Administration will be ready for the upcoming flu season. Moderna, the vaccine&apos;s maker"
+      },
       {
         "title": "Greetings from a wildlife park in central Sri Lanka that&apos;s a haven for elephants",
         "link": "https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants",
@@ -107,7 +143,7 @@
         "description": "It would slim regulation of the 60-year-old anti-poverty program and aim to save money. Advocates worry the changes could undermine the early education program&apos;s mission."
       },
       {
-        "title": "How Cambodia became the first Asian country to hit an elusive HIV target",
+        "title": "This country is the latest to hit the elusive 95/95/95 HIV target",
         "link": "https://www.npr.org/2026/08/06/g-s1-137460/hiv-aids-cambodia",
         "pubDate": "Thu, 06 Aug 2026 09:13:28 -0400",
         "description": "The United Nations has set a goal for near universal HIV diagnosis and treatment for all by 2030. No country in Asia has hit the mark — until this year."
@@ -117,42 +153,6 @@
         "link": "https://www.npr.org/2026/08/06/g-s1-137574/up-first-newsletter-anthony-fauci-erica-schwartz-abdul-el-sayed-las-vegas-economy-stewart-rhodes",
         "pubDate": "Thu, 06 Aug 2026 07:30:59 -0400",
         "description": "Abdul El-Sayed has won Michigan&apos;s Democratic Senate primary and will face Republican Congressman Mike Rogers in the midterms. And, today, Dr. Anthony Fauci faces a contempt of Congress vote."
-      },
-      {
-        "title": "Hospital staff said he was faking it and released him. He died from an overdose soon after",
-        "link": "https://www.npr.org/2026/08/06/nx-s1-5845162/addiction-treatment-overdose-deaths",
-        "pubDate": "Thu, 06 Aug 2026 05:52:45 -0400",
-        "description": "Addiction treatments are safe, effective — and rarely offered to patients. That&apos;s because many doctors and nurses still view people with alcohol or drug addiction with suspicion and hostility."
-      },
-      {
-        "title": "Celebrity culture is one thing. For TMZ, Congress is the new &apos;reality show&apos;",
-        "link": "https://www.npr.org/2026/08/06/nx-s1-5922731/tmz-congress",
-        "pubDate": "Thu, 06 Aug 2026 05:00:00 -0400",
-        "description": "TMZ is trading Hollywood gossip for Capitol Hill scoops with a new D.C. bureau, launched in April. The online tabloid&apos;s two-man crew has brought an unconventional reporting style to the Congress "
-      },
-      {
-        "title": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president",
-        "link": "https://www.npr.org/2026/08/06/nx-s1-5923233/infantino-crisis-meeting-fifa",
-        "pubDate": "Thu, 06 Aug 2026 04:52:16 -0400",
-        "description": "FIFA said Wednesday it had apologized for errors made over Gianni Infantino&apos;s failed plan to sell stakes in the World Cup and that senior staff in attendance at a crisis meeting in Morocco &quot;"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/06/nx-s1-5921225/morning-news-brief",
-        "pubDate": "Thu, 06 Aug 2026 04:43:07 -0400",
-        "description": "Iran says it&apos;s close to a deal with Oman over navigation on the Strait of Hormuz, a look at the challenges both candidates for Michigan&apos;s U.S. Senate seat will face, Trump touts U.S. economy"
-      },
-      {
-        "title": "Senate Homeland Security committee votes to hold Fauci in contempt of Congress",
-        "link": "https://www.npr.org/2026/08/06/nx-s1-5921383/anthony-fauci-contempt-of-congress-vote",
-        "pubDate": "Thu, 06 Aug 2026 03:16:22 -0400",
-        "description": "Republicans on the Senate Homeland Security Committee voted to hold Fauci in contempt of Congress after he refused to answer their questions about the government&apos;s response to the COVID-19 pandem"
-      },
-      {
-        "title": "Drone with explosives found at German airport, official sees &apos;new quality&apos; of threat",
-        "link": "https://www.npr.org/2026/08/06/g-s1-137571/germany-drone-explosives-airport",
-        "pubDate": "Thu, 06 Aug 2026 01:23:08 -0400",
-        "description": "Regional police and prosecutors said an airport employee discovered a drone near the airport&apos;s south runway with &quot;an unknown explosive device,&quot; and the object was examined by police"
       }
     ],
     "Canada": []
