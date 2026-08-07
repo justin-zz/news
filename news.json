@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T10:48:34.917Z",
+  "updated": "2026-08-07T11:42:37.195Z",
   "world": [
     {
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
@@ -8,22 +8,28 @@
       "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m."
     },
     {
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 11:38:28 GMT",
+      "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
+    },
+    {
       "title": "Trump again tries to limit US birthright citizenship with new executive orders",
       "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 00:34:14 GMT",
       "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
     },
     {
-      "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 01:57:02 GMT",
-      "description": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa."
-    },
-    {
       "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
       "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 05:44:29 GMT",
       "description": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
+    },
+    {
+      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 18:53:51 GMT",
+      "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
     },
     {
       "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
@@ -84,16 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 06 Aug 2026 14:20:15 GMT",
       "description": "Amal Khalil was killed and her colleague Zeinab Faraj wounded in an Israeli attack in April; Israel denied targeting the journalists."
-    },
-    {
-      "title": "German airport drone-bomb: Could Russia be involved?",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 08:48:16 GMT",
-      "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
+        "link": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
+        "pubDate": "Fri, 07 Aug 2026 07:36:33 -0400",
+        "description": "Over 1 million people a year die from diarrheal disease. Nearly half are kids under age 5. A new vaccine in trials offers great hope."
+      },
+      {
+        "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+        "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
+        "pubDate": "Fri, 07 Aug 2026 06:56:19 -0400",
+        "description": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz."
+      },
       {
         "title": "Kalshi and Polymarket bets on clinical trials criticized as &apos;ghastly&apos;",
         "link": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
@@ -104,7 +116,7 @@
         "title": "Everyone&apos;s talking about hormone therapy for menopause. Should I be on it?",
         "link": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
         "pubDate": "Fri, 07 Aug 2026 06:00:00 -0400",
-        "description": "For years doctors advised women against hormone therapy for women in the menopausal transition. Now everyone&apos;s talking about how great it is. Is it really a wonder drug that women should all be o"
+        "description": "For years, doctors advised against hormone therapy for women in the menopausal transition. Now everyone&apos;s talking about how great it is. Is it really a wonder drug that women should all be on?"
       },
       {
         "title": "When tragedy strikes, America&apos;s wildland firefighters ask, was it &apos;somebody that we loved?&apos;",
@@ -113,16 +125,16 @@
         "description": "Deaths and close calls while fighting wildfires have strained an already on-edge workforce. They&apos;ve also raised questions about policies and priorities amid an intense wildfire season."
       },
       {
-        "title": "Who or what is &apos;taking a step back from visibility&apos;? The quiz knows",
-        "link": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz",
-        "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
-        "description": "Plus, if you know what &quot;TMZ&quot; stands for, you&apos;ll get at least on question right this week!"
-      },
-      {
         "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
         "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
         "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
         "description": "Hundreds of thousands of civilians in el-Obeid are being battered by relentless drone strikes and face critical water shortages and a worsening cholera outbreak, while women and girls are reporting hi"
+      },
+      {
+        "title": "Who or what is &apos;taking a step back from visibility&apos;? The quiz knows",
+        "link": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz",
+        "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
+        "description": "Plus, if you know what &quot;TMZ&quot; stands for, you&apos;ll get at least on question right this week!"
       },
       {
         "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
@@ -137,22 +149,10 @@
         "description": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran."
       },
       {
-        "title": "Student kills at least 6 in a shooting at a high school in Thailand, authorities say",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
-        "pubDate": "Fri, 07 Aug 2026 01:34:15 -0400",
-        "description": "Authorities said the motive was still being investigated."
-      },
-      {
-        "title": "Court orders Instagram and Facebook&apos;s Meta to pay $567M to address kids&apos; mental health online",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5924581/court-orders-instagram-and-facebooks-meta-to-pay-567m-to-address-kids-mental-health-online",
-        "pubDate": "Fri, 07 Aug 2026 01:26:31 -0400",
-        "description": "Judge Bryan Biedscheid said in a ruling late Thursday that the bulk of the money will be used for treatment services for young people.&lt;br&gt;&lt;br&gt;"
-      },
-      {
-        "title": "Trump signs 2 immigration actions to curb &apos;birth tourism,&apos; limit birthright citizenship",
-        "link": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb",
-        "pubDate": "Thu, 06 Aug 2026 18:06:35 -0400",
-        "description": "Additional details weren&apos;t provided, but Trump said he thought his latest actions would be constitutional."
+        "title": "Man reflects on his 70-year career as an ice cream truck driver",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5922508/man-reflects-on-his-70-year-career-as-an-ice-cream-truck-driver",
+        "pubDate": "Fri, 07 Aug 2026 04:41:00 -0400",
+        "description": "For StoryCorps, we hear a conversation with an ice cream truck driver who holds the world record for the longest career as an ice cream distributor."
       }
     ],
     "Canada": []
