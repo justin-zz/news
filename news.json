@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T09:30:50.640Z",
+  "updated": "2026-08-07T10:48:34.917Z",
   "world": [
     {
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
@@ -95,10 +95,16 @@
   "regions": {
     "US": [
       {
-        "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
-        "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
-        "description": "Polls show most Americans think young adults today have it harder financially than past generations. A majority of parents help their grown children with expenses, even if it hurts their own finances."
+        "title": "Kalshi and Polymarket bets on clinical trials criticized as &apos;ghastly&apos;",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
+        "pubDate": "Fri, 07 Aug 2026 06:00:00 -0400",
+        "description": "Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients."
+      },
+      {
+        "title": "Everyone&apos;s talking about hormone therapy for menopause. Should I be on it?",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
+        "pubDate": "Fri, 07 Aug 2026 06:00:00 -0400",
+        "description": "For years doctors advised women against hormone therapy for women in the menopausal transition. Now everyone&apos;s talking about how great it is. Is it really a wonder drug that women should all be o"
       },
       {
         "title": "When tragedy strikes, America&apos;s wildland firefighters ask, was it &apos;somebody that we loved?&apos;",
@@ -117,6 +123,12 @@
         "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
         "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
         "description": "Hundreds of thousands of civilians in el-Obeid are being battered by relentless drone strikes and face critical water shortages and a worsening cholera outbreak, while women and girls are reporting hi"
+      },
+      {
+        "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
+        "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
+        "description": "Polls show most Americans think young adults today have it harder financially than past generations. A majority of parents help their grown children with expenses, even if it hurts their own finances."
       },
       {
         "title": "Morning news brief",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb",
         "pubDate": "Thu, 06 Aug 2026 18:06:35 -0400",
         "description": "Additional details weren&apos;t provided, but Trump said he thought his latest actions would be constitutional."
-      },
-      {
-        "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
-        "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
-        "pubDate": "Thu, 06 Aug 2026 16:58:56 -0400",
-        "description": "Iran&apos;s parliament is reviewing a plan to ban ships linked to the U.S., Israel and other &quot;hostile countries&quot; from transiting the Strait of Hormuz. The Trump administration has rejected t"
-      },
-      {
-        "title": "A look at &apos;Operation Country Roads,&apos; West Virginia&apos;s ICE operation",
-        "link": "https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation",
-        "pubDate": "Thu, 06 Aug 2026 16:40:52 -0400",
-        "description": "Earlier this year ICE arrested 600 immigrants over a two week period. Most migrants had no criminal records and, since then, West Virginia has decided to not hold ICE detainees in their jails. A look "
       }
     ],
     "Canada": []
