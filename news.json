@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T05:13:24.312Z",
+  "updated": "2026-08-07T06:44:12.138Z",
   "world": [
     {
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
@@ -8,10 +8,10 @@
       "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m."
     },
     {
-      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 18:53:51 GMT",
-      "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 00:34:14 GMT",
+      "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
     },
     {
       "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
@@ -22,14 +22,14 @@
     {
       "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
       "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 04:02:18 GMT",
+      "pubDate": "Fri, 07 Aug 2026 05:44:29 GMT",
       "description": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
     },
     {
-      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 00:34:14 GMT",
-      "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
+      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 18:53:51 GMT",
+      "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
     },
     {
       "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Student shoots multiple people at a high school in Thailand, authorities say",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
+        "pubDate": "Fri, 07 Aug 2026 01:34:15 -0400",
+        "description": "The shooter was a student and deaths and injuries were reported.&lt;br&gt;&lt;br&gt;"
+      },
+      {
+        "title": "Court orders Instagram and Facebook&apos;s Meta to pay $567M to address kids&apos; mental health online",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5924581/court-orders-instagram-and-facebooks-meta-to-pay-567m-to-address-kids-mental-health-online",
+        "pubDate": "Fri, 07 Aug 2026 01:26:31 -0400",
+        "description": "Judge Bryan Biedscheid said in a ruling late Thursday that the bulk of the money will be used for treatment services for young people.&lt;br&gt;&lt;br&gt;"
+      },
+      {
         "title": "Trump signs 2 immigration actions to curb &apos;birth tourism,&apos; limit birthright citizenship",
         "link": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb",
         "pubDate": "Thu, 06 Aug 2026 18:06:35 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/06/g-s1-137317/sri-lanka-elephants",
         "pubDate": "Thu, 06 Aug 2026 10:19:27 -0400",
         "description": "At a time of increased conflict between elephants and humans, as elephant habitats are converted to intensive agriculture, the Hurulu Eco Park is a place where the animals can graze unimpeded."
-      },
-      {
-        "title": "Trump administration moves to deregulate Head Start, opening door for sweeping change",
-        "link": "https://www.npr.org/2026/08/06/nx-s1-5920386/head-start-regulations-trump",
-        "pubDate": "Thu, 06 Aug 2026 09:30:00 -0400",
-        "description": "It would slim regulation of the 60-year-old anti-poverty program and aim to save money. Advocates worry the changes could undermine the early education program&apos;s mission."
-      },
-      {
-        "title": "This country is the latest to hit the elusive 95/95/95 HIV target",
-        "link": "https://www.npr.org/2026/08/06/g-s1-137460/hiv-aids-cambodia",
-        "pubDate": "Thu, 06 Aug 2026 09:13:28 -0400",
-        "description": "The United Nations has set a goal for near universal HIV diagnosis and treatment for all by 2030. No country in Asia has hit the mark — until this year."
       }
     ],
     "Canada": []
