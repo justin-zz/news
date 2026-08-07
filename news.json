@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-07T03:26:24.972Z",
+  "updated": "2026-08-07T05:13:24.312Z",
   "world": [
+    {
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 00:54:03 GMT",
+      "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m."
+    },
     {
       "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
       "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 06 Aug 2026 18:53:51 GMT",
       "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
-    },
-    {
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 00:54:03 GMT",
-      "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children."
     },
     {
       "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
@@ -22,14 +22,14 @@
     {
       "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
       "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 02:07:46 GMT",
+      "pubDate": "Fri, 07 Aug 2026 04:02:18 GMT",
       "description": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
     },
     {
-      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 17:38:51 GMT",
-      "description": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday."
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 00:34:14 GMT",
+      "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
     },
     {
       "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
@@ -38,16 +38,22 @@
       "description": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco."
     },
     {
-      "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 18:37:12 GMT",
-      "description": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen."
+      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 17:38:51 GMT",
+      "description": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday."
     },
     {
       "title": "Two people convicted in relation to death of French streamer",
       "link": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 00:51:40 GMT",
       "description": "Raphaël Graven, 46, died in August 2025, with his death live broadcast on the streaming platform Kick."
+    },
+    {
+      "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
+      "link": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 06 Aug 2026 18:37:12 GMT",
+      "description": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen."
     },
     {
       "title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 06 Aug 2026 18:01:52 GMT",
       "description": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence."
-    },
-    {
-      "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 22:41:09 GMT",
-      "description": "The Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Hadramawt."
     }
   ],
   "regions": {
@@ -107,7 +107,7 @@
         "description": "Iran&apos;s parliament is reviewing a plan to ban ships linked to the U.S., Israel and other &quot;hostile countries&quot; from transiting the Strait of Hormuz. The Trump administration has rejected t"
       },
       {
-        "title": "A look at West Virginia after last year&apos;s massive ICE operation",
+        "title": "A look at &apos;Operation Country Roads,&apos; West Virginia&apos;s ICE operation",
         "link": "https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation",
         "pubDate": "Thu, 06 Aug 2026 16:40:52 -0400",
         "description": "Earlier this year ICE arrested 600 immigrants over a two week period. Most migrants had no criminal records and, since then, West Virginia has decided to not hold ICE detainees in their jails. A look "
