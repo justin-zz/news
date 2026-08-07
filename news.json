@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T19:27:46.712Z",
+  "updated": "2026-08-07T20:06:33.069Z",
   "world": [
     {
       "title": "Seven killed after Thai student opens fire at home and school",
@@ -8,10 +8,10 @@
       "description": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school."
     },
     {
-      "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 18:56:33 GMT",
-      "description": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week."
+      "pubDate": "Fri, 07 Aug 2026 19:51:16 GMT",
+      "description": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta."
     },
     {
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Trump renews push to fire Fed Governor Lisa Cook",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
+        "pubDate": "Fri, 07 Aug 2026 15:35:35 -0400",
+        "description": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court."
+      },
+      {
         "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
         "link": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
         "pubDate": "Fri, 07 Aug 2026 14:10:37 -0400",
@@ -141,12 +147,6 @@
         "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
         "pubDate": "Fri, 07 Aug 2026 06:56:19 -0400",
         "description": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz."
-      },
-      {
-        "title": "Kalshi and Polymarket bets on clinical trials criticized as &apos;ghastly&apos;",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
-        "pubDate": "Fri, 07 Aug 2026 06:00:00 -0400",
-        "description": "Researchers warn betting on clinical trials could incentivize insider trading and interfere with drug development. But Kalshi and Polymarket say they provide valuable information to patients."
       },
       {
         "title": "Everyone&apos;s talking about hormone therapy for menopause. Should I be on it?",
