@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T17:21:31.672Z",
+  "updated": "2026-08-07T18:09:57.294Z",
   "world": [
     {
       "title": "Seven killed after Thai student opens fire at home and school",
@@ -16,7 +16,7 @@
     {
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 15:48:49 GMT",
+      "pubDate": "Fri, 07 Aug 2026 17:42:54 GMT",
       "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
     },
     {
@@ -95,7 +95,19 @@
   "regions": {
     "US": [
       {
-        "title": "Colombia&apos;s new president vows to remake the country — and challenge its fragile peace",
+        "title": "Monty Roberts, who trained horses through trust, dies at 91",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5924104/monty-roberts-horse-training",
+        "pubDate": "Fri, 07 Aug 2026 13:48:17 -0400",
+        "description": "The internationally acclaimed horseman defied the conventional method of breaking horses and developed his own gentler approach — based on horses&apos; non-verbal language. Roberts spoke with &lt;em&g"
+      },
+      {
+        "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham",
+        "pubDate": "Fri, 07 Aug 2026 13:33:40 -0400",
+        "description": "The bill is meant to stifle Russia&apos;s economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in "
+      },
+      {
+        "title": "Colombia&apos;s new president vows to remake the country — and challenge rebel groups",
         "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
         "pubDate": "Fri, 07 Aug 2026 11:41:45 -0400",
         "description": "A new political era for Colombia: a hard-right president promises order, growth and confrontation."
@@ -135,18 +147,6 @@
         "link": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
         "pubDate": "Fri, 07 Aug 2026 06:00:00 -0400",
         "description": "For years, doctors advised against hormone therapy for women in the menopausal transition. Now everyone&apos;s talking about how great it is. Is it really a wonder drug that women should all be on?"
-      },
-      {
-        "title": "Who or what is &apos;taking a step back from visibility&apos;? The quiz knows",
-        "link": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz",
-        "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
-        "description": "Plus, if you know what &quot;TMZ&quot; stands for, you&apos;ll get at least on question right this week!"
-      },
-      {
-        "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
-        "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
-        "description": "Polls show most Americans think young adults today have it harder financially than past generations. A majority of parents help their grown children with expenses, even if it hurts their own finances."
       },
       {
         "title": "When tragedy strikes, America&apos;s wildland firefighters ask, was it &apos;somebody that we loved?&apos;",
