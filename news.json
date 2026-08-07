@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T12:54:18.400Z",
+  "updated": "2026-08-07T14:10:44.659Z",
   "world": [
     {
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
@@ -10,7 +10,7 @@
     {
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 12:02:28 GMT",
+      "pubDate": "Fri, 07 Aug 2026 13:18:33 GMT",
       "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
     },
     {
@@ -26,9 +26,9 @@
       "description": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
     },
     {
-      "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
       "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 09:50:54 GMT",
+      "pubDate": "Fri, 07 Aug 2026 13:32:41 GMT",
       "description": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
+        "pubDate": "Fri, 07 Aug 2026 09:10:10 -0400",
+        "description": "U.S. employers cut 23,000 jobs in July, and job gains for the two previous months were weaker than initially reported, according to a report Friday from the Labor Department."
+      },
+      {
         "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
         "link": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
         "pubDate": "Fri, 07 Aug 2026 07:36:33 -0400",
@@ -119,12 +125,6 @@
         "description": "For years, doctors advised against hormone therapy for women in the menopausal transition. Now everyone&apos;s talking about how great it is. Is it really a wonder drug that women should all be on?"
       },
       {
-        "title": "When tragedy strikes, America&apos;s wildland firefighters ask, was it &apos;somebody that we loved?&apos;",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season",
-        "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
-        "description": "Deaths and close calls while fighting wildfires have strained an already on-edge workforce. They&apos;ve also raised questions about policies and priorities amid an intense wildfire season."
-      },
-      {
         "title": "Who or what is &apos;taking a step back from visibility&apos;? The quiz knows",
         "link": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz",
         "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
@@ -137,6 +137,12 @@
         "description": "Polls show most Americans think young adults today have it harder financially than past generations. A majority of parents help their grown children with expenses, even if it hurts their own finances."
       },
       {
+        "title": "When tragedy strikes, America&apos;s wildland firefighters ask, was it &apos;somebody that we loved?&apos;",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season",
+        "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
+        "description": "Deaths and close calls while fighting wildfires have strained an already on-edge workforce. They&apos;ve also raised questions about policies and priorities amid an intense wildfire season."
+      },
+      {
         "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
         "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
         "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief",
         "pubDate": "Fri, 07 Aug 2026 04:41:55 -0400",
         "description": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran."
-      },
-      {
-        "title": "Man reflects on his 70-year career as an ice cream truck driver",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5922508/man-reflects-on-his-70-year-career-as-an-ice-cream-truck-driver",
-        "pubDate": "Fri, 07 Aug 2026 04:41:00 -0400",
-        "description": "For StoryCorps, we hear a conversation with an ice cream truck driver who holds the world record for the longest career as an ice cream distributor."
       }
     ],
     "Canada": []
