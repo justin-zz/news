@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T00:22:43.710Z",
+  "updated": "2026-08-07T03:26:24.972Z",
   "world": [
     {
       "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
@@ -10,14 +10,20 @@
     {
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 00:06:17 GMT",
+      "pubDate": "Fri, 07 Aug 2026 00:54:03 GMT",
       "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children."
     },
     {
       "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
       "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 16:11:30 GMT",
+      "pubDate": "Fri, 07 Aug 2026 01:57:02 GMT",
       "description": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa."
+    },
+    {
+      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 02:07:46 GMT",
+      "description": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
     },
     {
       "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
@@ -38,10 +44,22 @@
       "description": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen."
     },
     {
-      "title": "Some of Doge's $110bn saving reports are wrong or lack evidence, US watchdog finds",
+      "title": "Two people convicted in relation to death of French streamer",
+      "link": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 00:51:40 GMT",
+      "description": "Raphaël Graven, 46, died in August 2025, with his death live broadcast on the streaming platform Kick."
+    },
+    {
+      "title": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
       "link": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 06 Aug 2026 23:55:35 GMT",
       "description": "A review of the body formerly charged with reducing government spending has found several issues with its calculations."
+    },
+    {
+      "title": "Trump imposes 15% tariff on key chip material to counter China",
+      "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 01:03:35 GMT",
+      "description": "The move  aims to protect US firms as they face increasing competition from China's chip industry."
     },
     {
       "title": "Ukraine hits two oil refineries deep in Russian territory",
@@ -72,24 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 06 Aug 2026 22:41:09 GMT",
       "description": "The Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Hadramawt."
-    },
-    {
-      "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
-      "link": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 14:47:45 GMT",
-      "description": "The committee will now refer him for possible prosecution for refusing to answer questions about his handling of the Covid-19 pandemic."
-    },
-    {
-      "title": "DR Congo river boat under quarantine for Ebola after five deaths",
-      "link": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 14:04:27 GMT",
-      "description": "The health minister says all the passengers are being screened as a precautionary measure."
-    },
-    {
-      "title": "EasyJet agrees to £5.7bn takeover by US firm",
-      "link": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 16:35:32 GMT",
-      "description": "The no-frills carrier agrees to be bought by US firm Apollo after a rival suitor drops out."
     }
   ],
   "regions": {
@@ -105,6 +105,12 @@
         "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
         "pubDate": "Thu, 06 Aug 2026 16:58:56 -0400",
         "description": "Iran&apos;s parliament is reviewing a plan to ban ships linked to the U.S., Israel and other &quot;hostile countries&quot; from transiting the Strait of Hormuz. The Trump administration has rejected t"
+      },
+      {
+        "title": "A look at West Virginia after last year&apos;s massive ICE operation",
+        "link": "https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation",
+        "pubDate": "Thu, 06 Aug 2026 16:40:52 -0400",
+        "description": "Earlier this year ICE arrested 600 immigrants over a two week period. Most migrants had no criminal records and, since then, West Virginia has decided to not hold ICE detainees in their jails. A look "
       },
       {
         "title": "Sticky or slippery? Snails can change their slime to meet the moment",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/06/g-s1-137460/hiv-aids-cambodia",
         "pubDate": "Thu, 06 Aug 2026 09:13:28 -0400",
         "description": "The United Nations has set a goal for near universal HIV diagnosis and treatment for all by 2030. No country in Asia has hit the mark — until this year."
-      },
-      {
-        "title": "El-Sayed wins Michigan&apos;s primary. And, Fauci faces contempt of Congress vote",
-        "link": "https://www.npr.org/2026/08/06/g-s1-137574/up-first-newsletter-anthony-fauci-erica-schwartz-abdul-el-sayed-las-vegas-economy-stewart-rhodes",
-        "pubDate": "Thu, 06 Aug 2026 07:30:59 -0400",
-        "description": "Abdul El-Sayed has won Michigan&apos;s Democratic Senate primary and will face Republican Congressman Mike Rogers in the midterms. And, today, Dr. Anthony Fauci faces a contempt of Congress vote."
       }
     ],
     "Canada": []
