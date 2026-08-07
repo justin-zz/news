@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-07T15:23:38.353Z",
+  "updated": "2026-08-07T16:22:40.348Z",
   "world": [
     {
-      "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
+      "title": "Seven killed after Thai student opens fire at home and school",
       "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 15:17:59 GMT",
+      "pubDate": "Fri, 07 Aug 2026 15:51:16 GMT",
       "description": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school."
     },
     {
@@ -16,8 +16,20 @@
     {
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 14:41:15 GMT",
+      "pubDate": "Fri, 07 Aug 2026 15:48:49 GMT",
       "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
+    },
+    {
+      "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 15:59:01 GMT",
+      "description": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week."
+    },
+    {
+      "title": "Mexico and Peru restore diplomatic relations after asylum row",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 15:38:28 GMT",
+      "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025."
     },
     {
       "title": "Trump again tries to limit US birthright citizenship with new executive orders",
@@ -78,22 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 06 Aug 2026 23:55:35 GMT",
       "description": "A review of the body formerly charged with reducing government spending has found several issues with its calculations."
-    },
-    {
-      "title": "German airport drone-bomb: Could Russia be involved?",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 08:48:16 GMT",
-      "description": "The BBC has seen evidence from previous cases that Russian-linked proxies not only handled drones and explosives, but also delivered them to Germany."
-    },
-    {
-      "title": "Sudan's invisible children - born in war with no legal identity",
-      "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 00:26:52 GMT",
-      "description": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Colombia&apos;s new president vows to remake the country — and challenge its fragile peace",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
+        "pubDate": "Fri, 07 Aug 2026 11:41:45 -0400",
+        "description": "A new political era for Colombia: a hard-right president promises order, growth and confrontation."
+      },
       {
         "title": "Blanche&apos;s path to confirmation appears clear after winning key Republican&apos;s support",
         "link": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season",
         "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
         "description": "Deaths and close calls while fighting wildfires have strained an already on-edge workforce. They&apos;ve also raised questions about policies and priorities amid an intense wildfire season."
-      },
-      {
-        "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
-        "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
-        "description": "Hundreds of thousands of civilians in el-Obeid are being battered by relentless drone strikes and face critical water shortages and a worsening cholera outbreak, while women and girls are reporting hi"
       }
     ],
     "Canada": []
