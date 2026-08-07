@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T18:09:57.294Z",
+  "updated": "2026-08-07T19:27:46.712Z",
   "world": [
     {
       "title": "Seven killed after Thai student opens fire at home and school",
@@ -10,7 +10,7 @@
     {
       "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 16:33:50 GMT",
+      "pubDate": "Fri, 07 Aug 2026 18:56:33 GMT",
       "description": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
+        "pubDate": "Fri, 07 Aug 2026 14:10:37 -0400",
+        "description": "A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates."
+      },
+      {
         "title": "Monty Roberts, who trained horses through trust, dies at 91",
         "link": "https://www.npr.org/2026/08/07/nx-s1-5924104/monty-roberts-horse-training",
         "pubDate": "Fri, 07 Aug 2026 13:48:17 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
         "pubDate": "Fri, 07 Aug 2026 06:00:00 -0400",
         "description": "For years, doctors advised against hormone therapy for women in the menopausal transition. Now everyone&apos;s talking about how great it is. Is it really a wonder drug that women should all be on?"
-      },
-      {
-        "title": "When tragedy strikes, America&apos;s wildland firefighters ask, was it &apos;somebody that we loved?&apos;",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season",
-        "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
-        "description": "Deaths and close calls while fighting wildfires have strained an already on-edge workforce. They&apos;ve also raised questions about policies and priorities amid an intense wildfire season."
       }
     ],
     "Canada": []
