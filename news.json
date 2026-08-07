@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-07T14:10:44.659Z",
+  "updated": "2026-08-07T15:23:38.353Z",
   "world": [
+    {
+      "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
+      "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 15:17:59 GMT",
+      "description": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school."
+    },
     {
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss",
@@ -10,7 +16,7 @@
     {
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 13:18:33 GMT",
+      "pubDate": "Fri, 07 Aug 2026 14:41:15 GMT",
       "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
     },
     {
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 00:26:52 GMT",
       "description": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems."
-    },
-    {
-      "title": "'Put your phone down': K-pop band weighs in on concert etiquette",
-      "link": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 22:07:11 GMT",
-      "description": "Cortis's plea has drawn mixed reactions in a fandom that's obsessed with capturing every moment."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Blanche&apos;s path to confirmation appears clear after winning key Republican&apos;s support",
+        "link": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
+        "pubDate": "Fri, 07 Aug 2026 10:12:59 -0400",
+        "description": "A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche&apos;s nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate."
+      },
       {
         "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
         "link": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
         "pubDate": "Fri, 07 Aug 2026 05:00:00 -0400",
         "description": "Hundreds of thousands of civilians in el-Obeid are being battered by relentless drone strikes and face critical water shortages and a worsening cholera outbreak, while women and girls are reporting hi"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief",
-        "pubDate": "Fri, 07 Aug 2026 04:41:55 -0400",
-        "description": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran."
       }
     ],
     "Canada": []
