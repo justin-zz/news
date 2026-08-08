@@ -1,22 +1,16 @@
 {
-  "updated": "2026-08-08T15:36:30.859Z",
+  "updated": "2026-08-08T16:28:05.751Z",
   "world": [
-    {
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 13:29:38 GMT",
-      "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
-    },
     {
       "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
       "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 13:23:16 GMT",
+      "pubDate": "Sat, 08 Aug 2026 15:56:39 GMT",
       "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
     },
     {
-      "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
       "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 13:49:09 GMT",
+      "pubDate": "Sat, 08 Aug 2026 16:19:29 GMT",
       "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"."
     },
     {
@@ -32,16 +26,28 @@
       "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta."
     },
     {
+      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 15:44:08 GMT",
+      "description": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light."
+    },
+    {
       "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
       "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 08 Aug 2026 15:15:17 GMT",
       "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island."
     },
     {
-      "title": "NBA forward Clarke's death due to effects of drugs",
-      "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 12:05:04 GMT",
-      "description": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals."
+      "title": "Messi's father Jorge dies aged 68 after illness",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 15:51:11 GMT",
+      "description": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness."
+    },
+    {
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 15:49:41 GMT",
+      "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
     },
     {
       "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
@@ -62,6 +68,12 @@
       "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons."
     },
     {
+      "title": "NBA forward Clarke's death due to effects of drugs",
+      "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 12:05:04 GMT",
+      "description": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals."
+    },
+    {
       "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
       "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 22:07:00 GMT",
@@ -78,18 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 20:40:56 GMT",
       "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom."
-    },
-    {
-      "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
-      "link": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 21:05:45 GMT",
-      "description": "The announcement came comes after fellow bandmate Manon Bannerman went on a hiatus from the ensemble."
-    },
-    {
-      "title": "Mexico and Peru restore diplomatic relations after asylum row",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 15:38:28 GMT",
-      "description": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025."
     }
   ],
   "regions": {
@@ -143,16 +143,16 @@
         "description": "The Senate confirmed Blanche by a 50-49 vote early Saturday morning, elevating President Trump&apos;s former personal lawyer to head the Justice Department."
       },
       {
+        "title": "Staff at the CDC in Atlanta remember victim of shooting a year ago as RFK jr. attends",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5924799/staff-at-the-cdc-in-atlanta-remember-victim-of-shooting-a-year-ago-as-rfk-jr-attends",
+        "pubDate": "Fri, 07 Aug 2026 16:24:46 -0400",
+        "description": "It&apos;s been a year since a gunman opened fire on the CDC and killed a police officer. RFK Jr. visited the CDC today to remember the victim."
+      },
+      {
         "title": "Women in Maine may choose the victor in this year&apos;s Senate race",
         "link": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
         "pubDate": "Fri, 07 Aug 2026 16:24:38 -0400",
         "description": "The race between Susan Collins and Troy Jackson is one of the nation&apos;s most high-profile Senate contests this year -- and may ultimately be decided by an especially powerful voting bloc: Maine wo"
-      },
-      {
-        "title": "Trump renews push to fire Fed Governor Lisa Cook",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
-        "pubDate": "Fri, 07 Aug 2026 15:35:35 -0400",
-        "description": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court."
       }
     ],
     "Canada": []
