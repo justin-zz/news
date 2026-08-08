@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T11:01:07.885Z",
+  "updated": "2026-08-08T11:53:01.459Z",
   "world": [
     {
       "title": "Child among three killed in Russian missile attacks near Kyiv",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
+        "link": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
+        "pubDate": "Sat, 08 Aug 2026 07:01:00 -0400",
+        "description": "Instead of scrapping its network of bomb shelters after the Cold War, Switzerland kept building them. The country has more than 370,000 nuclear bomb shelters. Some are now used to house migrants."
+      },
+      {
         "title": "The Women&apos;s Professional Baseball League makes its historic debut",
         "link": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
         "pubDate": "Sat, 08 Aug 2026 06:30:00 -0400",
@@ -122,7 +128,7 @@
         "title": "Senate votes to confirm Todd Blanche as attorney general",
         "link": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
         "pubDate": "Sat, 08 Aug 2026 04:46:39 -0400",
-        "description": "The Senate narrowly confirmed Todd Blanche as U.S. attorney general early Saturday morning, elevating President Trump&apos;s former personal lawyer to head the Justice Department."
+        "description": "The Senate confirmed Blanche by a 50-49 vote early Saturday morning, elevating President Trump&apos;s former personal lawyer to head the Justice Department."
       },
       {
         "title": "Women in Maine may choose the victor in this year&apos;s Senate race",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/07/nx-s1-5924104/monty-roberts-horse-training",
         "pubDate": "Fri, 07 Aug 2026 13:48:17 -0400",
         "description": "The internationally acclaimed horseman defied the conventional method of breaking horses and developed his own gentler approach — based on horses&apos; non-verbal language. Roberts spoke with &lt;em&g"
-      },
-      {
-        "title": "Senate passes Russia sanctions bill that was long championed by Lindsey Graham",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham",
-        "pubDate": "Fri, 07 Aug 2026 13:33:40 -0400",
-        "description": "The bill is meant to stifle Russia&apos;s economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in "
       }
     ],
     "Canada": []
