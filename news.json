@@ -1,11 +1,17 @@
 {
-  "updated": "2026-08-08T10:27:15.468Z",
+  "updated": "2026-08-08T11:01:07.885Z",
   "world": [
     {
       "title": "Child among three killed in Russian missile attacks near Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 08 Aug 2026 06:12:56 GMT",
       "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
+    },
+    {
+      "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+      "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 10:19:46 GMT",
+      "description": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off."
     },
     {
       "title": "The phone book that led us to Assad's spy chief in hiding",
@@ -24,12 +30,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 21:19:27 GMT",
       "description": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead."
-    },
-    {
-      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 14:20:27 GMT",
-      "description": "The student says she feared never seeing her mother again after the attack killed five teachers."
     },
     {
       "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "The Women&apos;s Professional Baseball League makes its historic debut",
+        "link": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
+        "pubDate": "Sat, 08 Aug 2026 06:30:00 -0400",
+        "description": "The Los Angeles Queens, the New York Heights, the Boston Hunters and the San Francisco Firebells take the field in Springfield, Ill., as the Women&apos;s Pro Baseball League kicks off its inaugural se"
+      },
+      {
         "title": "Federal funds can&apos;t be used to give test strips to drug users, raising overdose fears",
         "link": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
         "pubDate": "Sat, 08 Aug 2026 06:00:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham",
         "pubDate": "Fri, 07 Aug 2026 13:33:40 -0400",
         "description": "The bill is meant to stifle Russia&apos;s economy by allowing for tough new tariffs against major importers of Russian energy. The legislation was led by Lindsey Graham before his unexpected death in "
-      },
-      {
-        "title": "Colombia&apos;s new president vows to remake the country — and challenge rebel groups",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
-        "pubDate": "Fri, 07 Aug 2026 11:41:45 -0400",
-        "description": "A new political era for Colombia: a hard-right president promises order, growth and confrontation."
       }
     ],
     "Canada": []
