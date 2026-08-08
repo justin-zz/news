@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-08T03:21:21.317Z",
+  "updated": "2026-08-08T04:34:09.406Z",
   "world": [
+    {
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 04:23:33 GMT",
+      "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
+    },
     {
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss",
@@ -20,6 +26,12 @@
       "description": "The student says she feared never seeing her mother again after the attack killed five teachers."
     },
     {
+      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 00:02:49 GMT",
+      "description": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances."
+    },
+    {
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
       "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 17:42:54 GMT",
@@ -32,16 +44,22 @@
       "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons."
     },
     {
-      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
-      "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 20:40:56 GMT",
-      "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom."
-    },
-    {
       "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
       "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 22:07:00 GMT",
       "description": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread."
+    },
+    {
+      "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
+      "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 18:06:58 GMT",
+      "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it."
+    },
+    {
+      "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 20:40:56 GMT",
+      "description": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom."
     },
     {
       "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
@@ -72,28 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 13:32:41 GMT",
       "description": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump."
-    },
-    {
-      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "link": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 00:34:14 GMT",
-      "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship."
-    },
-    {
-      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-      "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 05:44:29 GMT",
-      "description": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C."
-    },
-    {
-      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 06 Aug 2026 18:53:51 GMT",
-      "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Women in Maine may choose the victor in this year&apos;s Senate race",
+        "link": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
+        "pubDate": "Fri, 07 Aug 2026 16:24:38 -0400",
+        "description": "The race between Susan Collins and Troy Jackson is one of the nation&apos;s most high-profile Senate contests this year -- and may ultimately be decided by an especially powerful voting bloc: Maine wo"
+      },
       {
         "title": "Trump renews push to fire Fed Governor Lisa Cook",
         "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
         "pubDate": "Fri, 07 Aug 2026 06:56:19 -0400",
         "description": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz."
-      },
-      {
-        "title": "Everyone&apos;s talking about hormone therapy for menopause. Should I be on it?",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
-        "pubDate": "Fri, 07 Aug 2026 06:00:00 -0400",
-        "description": "For years, doctors advised against hormone therapy for women in the menopausal transition. Now everyone&apos;s talking about how great it is. Is it really a wonder drug that women should all be on?"
       }
     ],
     "Canada": []
