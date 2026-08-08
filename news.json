@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T08:35:30.566Z",
+  "updated": "2026-08-08T09:33:25.043Z",
   "world": [
     {
       "title": "Child among three killed in Russian missile attacks near Kyiv",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
+        "link": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
+        "pubDate": "Sat, 08 Aug 2026 05:00:00 -0400",
+        "description": "Wisconsin Democratic candidate for governor Francesca Hong called for a moratorium on data centers. So did Ohio Republican governor hopeful Vivek Ramaswamy, as data centers begin to dominate campaigns"
+      },
+      {
+        "title": "Senate votes to confirm Todd Blanche as attorney general",
+        "link": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
+        "pubDate": "Sat, 08 Aug 2026 04:46:39 -0400",
+        "description": "The Senate narrowly confirmed Todd Blanche as U.S. attorney general early Saturday morning, elevating President Trump&apos;s former personal lawyer to head the Justice Department."
+      },
+      {
         "title": "Women in Maine may choose the victor in this year&apos;s Senate race",
         "link": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
         "pubDate": "Fri, 07 Aug 2026 16:24:38 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
         "pubDate": "Fri, 07 Aug 2026 09:10:10 -0400",
         "description": "U.S. employers cut 23,000 jobs in July, and job gains for the two previous months were weaker than initially reported, according to a report Friday from the Labor Department."
-      },
-      {
-        "title": "A new vaccine could vanquish a major cause of deadly diarrheal disease",
-        "link": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
-        "pubDate": "Fri, 07 Aug 2026 07:36:33 -0400",
-        "description": "Over 1 million people a year die from diarrheal disease. Nearly half are kids under age 5. A new vaccine in trials offers great hope."
-      },
-      {
-        "title": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
-        "link": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
-        "pubDate": "Fri, 07 Aug 2026 06:56:19 -0400",
-        "description": "President Trump says he has signed two new orders targeting birthright citizenship. And, Iran is aiming to ban U.S. ships from the Strait of Hormuz."
       }
     ],
     "Canada": []
