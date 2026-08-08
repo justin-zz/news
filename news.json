@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T17:03:19.282Z",
+  "updated": "2026-08-08T17:56:07.430Z",
   "world": [
     {
       "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
@@ -28,7 +28,7 @@
     {
       "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
       "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 15:44:08 GMT",
+      "pubDate": "Sat, 08 Aug 2026 17:23:31 GMT",
       "description": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Ukraine mourns &quot;collector of souls&quot; Oleksiy Yukov, killed recovering war dead",
+        "link": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov",
+        "pubDate": "Sat, 08 Aug 2026 13:46:05 -0400",
+        "description": "Oleksiy Yukov spent two decades recovering the bodies of soldiers – including many Russians. He was killed during a recovery mission after stepping on a landmine."
+      },
+      {
         "title": "K-pop&apos;s global wave inspires Chile&apos;s next pop stars",
         "link": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
         "pubDate": "Sat, 08 Aug 2026 09:34:45 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/07/nx-s1-5924799/staff-at-the-cdc-in-atlanta-remember-victim-of-shooting-a-year-ago-as-rfk-jr-attends",
         "pubDate": "Fri, 07 Aug 2026 16:24:46 -0400",
         "description": "It&apos;s been a year since a gunman opened fire on the CDC and killed a police officer. RFK Jr. visited the CDC today to remember the victim."
-      },
-      {
-        "title": "Women in Maine may choose the victor in this year&apos;s Senate race",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
-        "pubDate": "Fri, 07 Aug 2026 16:24:38 -0400",
-        "description": "The race between Susan Collins and Troy Jackson is one of the nation&apos;s most high-profile Senate contests this year -- and may ultimately be decided by an especially powerful voting bloc: Maine wo"
       }
     ],
     "Canada": []
