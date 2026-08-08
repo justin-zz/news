@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-08T12:38:48.345Z",
+  "updated": "2026-08-08T13:41:51.366Z",
   "world": [
     {
       "title": "Child among three killed in Russian missile attacks near Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 06:12:56 GMT",
+      "pubDate": "Sat, 08 Aug 2026 13:29:38 GMT",
       "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
     },
     {
-      "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
       "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 10:19:46 GMT",
-      "description": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off."
+      "pubDate": "Sat, 08 Aug 2026 13:23:16 GMT",
+      "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
     },
     {
       "title": "The phone book that led us to Assad's spy chief in hiding",
@@ -26,22 +26,22 @@
       "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta."
     },
     {
-      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 21:19:27 GMT",
-      "description": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead."
-    },
-    {
-      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 00:02:49 GMT",
-      "description": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances."
-    },
-    {
       "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
       "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 08 Aug 2026 12:01:42 GMT",
       "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"."
+    },
+    {
+      "title": "NBA forward Clarke's death due to effects of drugs",
+      "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 12:05:04 GMT",
+      "description": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals."
+    },
+    {
+      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 21:19:27 GMT",
+      "description": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead."
     },
     {
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
@@ -56,10 +56,10 @@
       "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons."
     },
     {
-      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+      "title": "Hunter Biden tells BBC his pardon was 'not good' for US or his father's legacy",
       "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 22:07:00 GMT",
-      "description": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread."
+      "description": "In a wide-ranging BBC interview, the former president's son denies any interest in running for office and says his father's cancer has spread."
     },
     {
       "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "K-pop&apos;s global wave inspires Chile&apos;s next pop stars",
+        "link": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
+        "pubDate": "Sat, 08 Aug 2026 09:34:45 -0400",
+        "description": "K-pop conquered the world — now Chile&apos;s young creatives are remixing the movement and making it their own."
+      },
       {
         "title": "Opinion: Europe&apos;s summer of heat",
         "link": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
         "pubDate": "Fri, 07 Aug 2026 15:35:35 -0400",
         "description": "Trump is once again threatening to fire Cook over unproven allegations of mortgage fraud after an earlier effort to remove Cook was struck down by the Supreme Court."
-      },
-      {
-        "title": "Another court blocks White House ballroom work, teeing up a Supreme Court review",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
-        "pubDate": "Fri, 07 Aug 2026 14:10:37 -0400",
-        "description": "A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates."
       }
     ],
     "Canada": []
