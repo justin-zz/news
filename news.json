@@ -1,11 +1,17 @@
 {
-  "updated": "2026-08-08T07:44:55.442Z",
+  "updated": "2026-08-08T08:35:30.566Z",
   "world": [
     {
       "title": "Child among three killed in Russian missile attacks near Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 08 Aug 2026 06:12:56 GMT",
       "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
+    },
+    {
+      "title": "The phone book that led us to Assad's spy chief in hiding",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 23:23:12 GMT",
+      "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria."
     },
     {
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 09:22:03 GMT",
       "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m."
-    },
-    {
-      "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-      "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 13:32:41 GMT",
-      "description": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump."
     }
   ],
   "regions": {
