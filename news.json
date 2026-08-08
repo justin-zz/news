@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T09:33:25.043Z",
+  "updated": "2026-08-08T10:27:15.468Z",
   "world": [
     {
       "title": "Child among three killed in Russian missile attacks near Kyiv",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Federal funds can&apos;t be used to give test strips to drug users, raising overdose fears",
+        "link": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
+        "pubDate": "Sat, 08 Aug 2026 06:00:00 -0400",
+        "description": "Drug addiction groups are reeling after Trump officials said federal grants cannot be used to hand out test strips to drug users. The strips help users check street drugs for dangerous adulterants."
+      },
+      {
+        "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
+        "link": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
+        "pubDate": "Sat, 08 Aug 2026 06:00:00 -0400",
+        "description": "That revenue does not include net proceeds of $1.6 billion made by CoreCivic after the recent sale of four of their facilities to the Department of Homeland Security."
+      },
+      {
         "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
         "link": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
         "pubDate": "Sat, 08 Aug 2026 05:00:00 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
         "pubDate": "Fri, 07 Aug 2026 11:41:45 -0400",
         "description": "A new political era for Colombia: a hard-right president promises order, growth and confrontation."
-      },
-      {
-        "title": "Blanche&apos;s path to confirmation appears clear after winning key Republican&apos;s support",
-        "link": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
-        "pubDate": "Fri, 07 Aug 2026 10:12:59 -0400",
-        "description": "A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche&apos;s nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate."
-      },
-      {
-        "title": "Employers unexpectedly cut 23,000 jobs in a sign of a wilting labor market",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
-        "pubDate": "Fri, 07 Aug 2026 09:10:10 -0400",
-        "description": "U.S. employers cut 23,000 jobs in July, and job gains for the two previous months were weaker than initially reported, according to a report Friday from the Labor Department."
       }
     ],
     "Canada": []
