@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T11:53:01.459Z",
+  "updated": "2026-08-08T12:38:48.345Z",
   "world": [
     {
       "title": "Child among three killed in Russian missile attacks near Kyiv",
@@ -36,6 +36,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 08 Aug 2026 00:02:49 GMT",
       "description": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances."
+    },
+    {
+      "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 12:01:42 GMT",
+      "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"."
     },
     {
       "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 08:32:57 GMT",
       "description": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand."
-    },
-    {
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 09:22:03 GMT",
-      "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Opinion: Europe&apos;s summer of heat",
+        "link": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat",
+        "pubDate": "Sat, 08 Aug 2026 08:00:00 -0400",
+        "description": "Europe is in another brutal heat wave. The summer&apos;s earlier record-breaking weather already damaged crops, sparked wildfires and led to increased deaths."
+      },
       {
         "title": "Switzerland is a neutral nation but has more nuclear bunkers than any country in the world",
         "link": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/07/nx-s1-5925123/white-house-ballroom-appeals-court-congress",
         "pubDate": "Fri, 07 Aug 2026 14:10:37 -0400",
         "description": "A federal appeals court says above-ground construction cannot continue without approval from Congress, siding with historic preservation advocates."
-      },
-      {
-        "title": "Monty Roberts, who trained horses through trust, dies at 91",
-        "link": "https://www.npr.org/2026/08/07/nx-s1-5924104/monty-roberts-horse-training",
-        "pubDate": "Fri, 07 Aug 2026 13:48:17 -0400",
-        "description": "The internationally acclaimed horseman defied the conventional method of breaking horses and developed his own gentler approach — based on horses&apos; non-verbal language. Roberts spoke with &lt;em&g"
       }
     ],
     "Canada": []
