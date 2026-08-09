@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-09T10:29:58.804Z",
+  "updated": "2026-08-09T11:03:57.025Z",
   "world": [
-    {
-      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-      "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 23:43:44 GMT",
-      "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank."
-    },
     {
       "title": "Fifa criticises campaign to oust president Infantino",
       "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 08 Aug 2026 22:06:44 GMT",
       "description": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino."
+    },
+    {
+      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 23:43:44 GMT",
+      "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank."
     },
     {
       "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
@@ -42,12 +42,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 08 Aug 2026 15:56:39 GMT",
       "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
-    },
-    {
-      "title": "Messi's father Jorge dies aged 68 after illness",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 15:51:11 GMT",
-      "description": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness."
     },
     {
       "title": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
@@ -90,6 +84,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 17:42:54 GMT",
       "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
+    },
+    {
+      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 07 Aug 2026 16:13:45 GMT",
+      "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons."
     }
   ],
   "regions": {
