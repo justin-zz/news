@@ -1,11 +1,17 @@
 {
-  "updated": "2026-08-09T20:43:23.794Z",
+  "updated": "2026-08-09T21:27:37.938Z",
   "world": [
     {
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
       "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 09 Aug 2026 14:18:10 GMT",
+      "pubDate": "Sun, 09 Aug 2026 21:25:04 GMT",
       "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed."
+    },
+    {
+      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 09 Aug 2026 20:58:18 GMT",
+      "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
     },
     {
       "title": "Ancient Roman shipwreck discovered off Sicily coast",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 08 Aug 2026 18:06:25 GMT",
       "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
-    },
-    {
-      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-      "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 15:15:17 GMT",
-      "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island."
     }
   ],
   "regions": {
