@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T23:56:15.017Z",
+  "updated": "2026-08-09T01:40:51.842Z",
   "world": [
     {
       "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Solar eclipse to occur next week. Here is what to know",
+        "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
+        "pubDate": "Sat, 08 Aug 2026 20:56:21 -0400",
+        "description": "It will be visible in parts of the U.S. on Wednesday."
+      },
+      {
         "title": "Tanker sailors still face danger in the Strait of Hormuz",
         "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
         "pubDate": "Sat, 08 Aug 2026 17:19:54 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
         "pubDate": "Sat, 08 Aug 2026 05:00:00 -0400",
         "description": "Wisconsin Democratic candidate for governor Francesca Hong called for a moratorium on data centers. So did Ohio Republican governor hopeful Vivek Ramaswamy, as data centers begin to dominate campaigns"
-      },
-      {
-        "title": "Senate votes to confirm Todd Blanche as attorney general",
-        "link": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
-        "pubDate": "Sat, 08 Aug 2026 04:46:39 -0400",
-        "description": "The Senate confirmed Blanche by a 50-49 vote early Saturday morning, elevating President Trump&apos;s former personal lawyer to head the Justice Department."
       }
     ],
     "Canada": []
