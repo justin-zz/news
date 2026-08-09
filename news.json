@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-09T11:54:48.999Z",
+  "updated": "2026-08-09T12:41:17.452Z",
   "world": [
+    {
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 09 Aug 2026 12:12:10 GMT",
+      "description": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed."
+    },
+    {
+      "title": "Ancient Roman shipwreck discovered off Sicily coast",
+      "link": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 09 Aug 2026 12:27:26 GMT",
+      "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years."
+    },
     {
       "title": "Fifa criticises campaign to oust president Infantino",
       "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&amp;at_campaign=rss",
@@ -16,13 +28,13 @@
     {
       "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
       "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 09 Aug 2026 10:02:52 GMT",
+      "pubDate": "Sun, 09 Aug 2026 12:39:18 GMT",
       "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
     },
     {
       "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
       "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 09 Aug 2026 06:46:40 GMT",
+      "pubDate": "Sun, 09 Aug 2026 12:40:48 GMT",
       "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km)."
     },
     {
@@ -36,12 +48,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 09 Aug 2026 04:32:06 GMT",
       "description": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family."
-    },
-    {
-      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-      "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 15:56:39 GMT",
-      "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
     },
     {
       "title": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
@@ -84,16 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 17:42:54 GMT",
       "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
-    },
-    {
-      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-      "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 16:13:45 GMT",
-      "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
+        "link": "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran",
+        "pubDate": "Sun, 09 Aug 2026 08:39:47 -0400",
+        "description": "President Trump is confronting a question that has haunted presidents throughout history: how a war - that has gone on longer than predicted - can reshape a presidency."
+      },
+      {
+        "title": "This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon",
+        "link": "https://www.npr.org/2026/08/09/g-s1-137636/paintings-religious-renaissance-old-masters-marc-padeu-african-cameroon-artist",
+        "pubDate": "Sun, 09 Aug 2026 07:58:02 -0400",
+        "description": "A new gallery show in London features the paintings of Marc Padeu, playing with themes from Renaissance art and bringing them to his homeland of Cameroon."
+      },
       {
         "title": "Yemen&apos;s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
         "link": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
         "pubDate": "Sat, 08 Aug 2026 06:30:00 -0400",
         "description": "The Los Angeles Queens, the New York Heights, the Boston Hunters and the San Francisco Firebells take the field in Springfield, Ill., as the Women&apos;s Pro Baseball League kicks off its inaugural se"
-      },
-      {
-        "title": "Federal funds can&apos;t be used to give test strips to drug users, raising overdose fears",
-        "link": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
-        "pubDate": "Sat, 08 Aug 2026 06:00:00 -0400",
-        "description": "Drug addiction groups are reeling after Trump officials said federal grants cannot be used to hand out test strips to drug users. The strips help users check street drugs for dangerous adulterants."
-      },
-      {
-        "title": "Private prisons announce $1.4 billion in revenue as immigration detentions climb",
-        "link": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
-        "pubDate": "Sat, 08 Aug 2026 06:00:00 -0400",
-        "description": "That revenue does not include net proceeds of $1.6 billion made by CoreCivic after the recent sale of four of their facilities to the Department of Homeland Security."
       }
     ],
     "Canada": []
