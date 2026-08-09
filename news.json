@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T17:59:17.066Z",
+  "updated": "2026-08-09T18:52:02.063Z",
   "world": [
     {
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
@@ -22,8 +22,8 @@
     {
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
       "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 09 Aug 2026 13:08:21 GMT",
-      "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 39 sq miles (103 sq km)."
+      "pubDate": "Sun, 09 Aug 2026 18:03:55 GMT",
+      "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km)."
     },
     {
       "title": "Ecuador charges ex-minister over presidential candidate assassination case",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Netanyahu rejects Trump&apos;s Gaza Peace Plan, demands Hamas disarm first",
+        "link": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
+        "pubDate": "Sun, 09 Aug 2026 14:21:45 -0400",
+        "description": "Netanyahu&apos;s comments come just over a week after President Trump said his Board of Peace had reached a &quot;historic&quot; agreement with Hamas to give up its weapons."
+      },
+      {
         "title": "Haunted by Hoover, Trump searches for an endgame in Iran",
         "link": "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran",
         "pubDate": "Sun, 09 Aug 2026 08:39:47 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
         "pubDate": "Sat, 08 Aug 2026 09:34:45 -0400",
         "description": "K-pop conquered the world — now Chile&apos;s young creatives are remixing the movement and making it their own."
-      },
-      {
-        "title": "Opinion: Europe&apos;s summer of heat",
-        "link": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat",
-        "pubDate": "Sat, 08 Aug 2026 08:00:00 -0400",
-        "description": "Europe is in another brutal heat wave. The summer&apos;s earlier record-breaking weather already damaged crops, sparked wildfires and led to increased deaths."
       }
     ],
     "Canada": []
