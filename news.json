@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T09:34:59.133Z",
+  "updated": "2026-08-09T10:29:58.804Z",
   "world": [
     {
       "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
@@ -8,10 +8,22 @@
       "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank."
     },
     {
-      "title": "Hundreds arrested over French wildfires, but who is to blame?",
-      "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 23:59:23 GMT",
-      "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month."
+      "title": "Fifa criticises campaign to oust president Infantino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 22:06:44 GMT",
+      "description": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino."
+    },
+    {
+      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 09 Aug 2026 10:02:52 GMT",
+      "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
+    },
+    {
+      "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
+      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 09 Aug 2026 06:46:40 GMT",
+      "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km)."
     },
     {
       "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
@@ -30,12 +42,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 08 Aug 2026 15:56:39 GMT",
       "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
-    },
-    {
-      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 17:58:42 GMT",
-      "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"."
     },
     {
       "title": "Messi's father Jorge dies aged 68 after illness",
@@ -68,10 +74,10 @@
       "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island."
     },
     {
-      "title": "State of emergency declared as fast-moving Canada wildfire doubles in size",
-      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 09 Aug 2026 06:46:40 GMT",
-      "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km)."
+      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 17:58:42 GMT",
+      "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"."
     },
     {
       "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 17:42:54 GMT",
       "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East."
-    },
-    {
-      "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
-      "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 07 Aug 2026 16:13:45 GMT",
-      "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Yemen&apos;s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news",
+        "link": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
+        "pubDate": "Sun, 09 Aug 2026 05:44:02 -0400",
+        "description": "Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of wea"
+      },
       {
         "title": "Solar eclipse to occur next week. Here is what to know",
         "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
         "pubDate": "Sat, 08 Aug 2026 06:00:00 -0400",
         "description": "That revenue does not include net proceeds of $1.6 billion made by CoreCivic after the recent sale of four of their facilities to the Department of Homeland Security."
-      },
-      {
-        "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
-        "link": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
-        "pubDate": "Sat, 08 Aug 2026 05:00:00 -0400",
-        "description": "Wisconsin Democratic candidate for governor Francesca Hong called for a moratorium on data centers. So did Ohio Republican governor hopeful Vivek Ramaswamy, as data centers begin to dominate campaigns"
       }
     ],
     "Canada": []
