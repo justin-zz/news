@@ -1,11 +1,29 @@
 {
-  "updated": "2026-08-09T03:37:55.737Z",
+  "updated": "2026-08-09T05:00:29.372Z",
   "world": [
+    {
+      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 23:43:44 GMT",
+      "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank."
+    },
+    {
+      "title": "Hundreds arrested over French wildfires, but who is to blame?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 23:59:23 GMT",
+      "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month."
+    },
     {
       "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
       "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 08 Aug 2026 19:18:57 GMT",
       "description": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear."
+    },
+    {
+      "title": "Perez Hilton faces long recovery after self-harm livestream",
+      "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 09 Aug 2026 04:32:06 GMT",
+      "description": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family."
     },
     {
       "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
@@ -26,22 +44,10 @@
       "description": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness."
     },
     {
-      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 17:23:31 GMT",
-      "description": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light."
-    },
-    {
-      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-      "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 15:59:37 GMT",
-      "description": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti."
-    },
-    {
-      "title": "Paris tells e-scooter riders to wear safety gear or face fines",
-      "link": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 20:18:28 GMT",
-      "description": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents."
+      "title": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
+      "link": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 09 Aug 2026 00:15:28 GMT",
+      "description": "A fire destroyed a warehouse, leaving heaps of rotting chicken, poultry and fish to attract flies and rats."
     },
     {
       "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 07 Aug 2026 16:13:45 GMT",
       "description": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons."
-    },
-    {
-      "title": "NBA forward Clarke's death due to effects of drugs",
-      "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 12:05:04 GMT",
-      "description": "Memphis Grizzlies forward Brandon Clarke's death was due to the effects of heroin and cocaine, the Los Angeles medical authority reveals."
     }
   ],
   "regions": {
