@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T21:58:57.123Z",
+  "updated": "2026-08-09T22:37:53.196Z",
   "world": [
     {
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
@@ -22,7 +22,7 @@
     {
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
       "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 09 Aug 2026 18:03:55 GMT",
+      "pubDate": "Sun, 09 Aug 2026 22:27:53 GMT",
       "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km)."
     },
     {
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Crews battle wildfires in western U.S. and Canada",
+        "link": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
+        "pubDate": "Sun, 09 Aug 2026 18:03:09 -0400",
+        "description": "There have been 183 new wildfires, including eight large ones, across the U.S. since Saturday, the National Interagency Fire Center reported on Sunday."
+      },
+      {
+        "title": "Demi Vollering wins Tour de France for the 2nd time",
+        "link": "https://www.npr.org/2026/08/09/g-s1-137991/demi-vollering-tour-de-france-winner",
+        "pubDate": "Sun, 09 Aug 2026 18:00:52 -0400",
+        "description": "Vollering, who first won the competition in 2023, finished the stage more than a minute ahead of Spaniard Paula Blasi Cairol and 2024 champion Polish rider Katarzyna Niewiadoma-Phinney."
+      },
+      {
         "title": "Netanyahu rejects Trump&apos;s Gaza Peace Plan, demands Hamas disarm first",
         "link": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
         "pubDate": "Sun, 09 Aug 2026 14:21:45 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
         "pubDate": "Sat, 08 Aug 2026 17:19:54 -0400",
         "description": "An agreement over the Strait of Hormuz is still far away. Tim Wilkins, who works for a tanker industry group, says the ships stuck around the waterway are in limbo, and transiting is still dangerous."
-      },
-      {
-        "title": "Ukraine mourns &apos;collector of souls&apos; Oleksiy Yukov, killed recovering war dead",
-        "link": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov",
-        "pubDate": "Sat, 08 Aug 2026 13:46:05 -0400",
-        "description": "Oleksiy Yukov spent two decades recovering the bodies of soldiers — including many Russians. He was killed during a recovery mission after stepping on a landmine."
-      },
-      {
-        "title": "K-pop&apos;s global wave inspires Chile&apos;s next pop stars",
-        "link": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
-        "pubDate": "Sat, 08 Aug 2026 09:34:45 -0400",
-        "description": "K-pop conquered the world — now Chile&apos;s young creatives are remixing the movement and making it their own."
       }
     ],
     "Canada": []
