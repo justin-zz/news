@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T19:52:38.145Z",
+  "updated": "2026-08-10T20:37:26.680Z",
   "world": [
     {
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
@@ -38,10 +38,10 @@
       "description": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease."
     },
     {
-      "title": "Trump signs order to limit and split childhood vaccines",
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
       "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 19:35:09 GMT",
-      "description": "The Trump administration has long pushed a discredited link between vaccines and autism."
+      "pubDate": "Mon, 10 Aug 2026 20:16:34 GMT",
+      "description": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits."
     },
     {
       "title": "New train service connects Finland and Sweden for first time in decades",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Trump and RFK Jr. try again to upend vaccines for kids",
+        "link": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order",
+        "pubDate": "Mon, 10 Aug 2026 16:25:02 -0400",
+        "description": "President Trump expected to sign executive order that once again tries to upend the vaccines children receive to protect them against measles, mumps, tetanus, whooping cough and other dangerous diseas"
+      },
+      {
         "title": "&apos;The Nerd Reich&apos; tracks the &apos;unmasking of Silicon Valley&apos;s true politics&apos;",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
         "pubDate": "Mon, 10 Aug 2026 13:38:12 -0400",
@@ -131,28 +137,22 @@
         "description": "Medicaid will have new work requirements next year. But some people with disabilities, who already work, say they&apos;d like to work more, but risk losing their Medicaid coverage if they earn too muc"
       },
       {
-        "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
-        "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-        "description": "In a new report,&lt;strong&gt; &lt;/strong&gt;former Interlochen students detail some 70 allegations of sexual abuse by nearly 50 adults employed or affiliated with the school. One of the former stude"
-      },
-      {
         "title": "In a competitive Maine Senate race, women voters could be the deciders",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
         "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
         "description": "The race between Susan Collins and Troy Jackson is one of this year&apos;s most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine w"
       },
       {
-        "title": "Voters are sick of the 2-party system. A new poll shows they&apos;re open to big changes",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-        "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-        "description": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party&apos;s vote share."
-      },
-      {
         "title": "Who really needs testosterone?",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
         "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
         "description": "The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?"
+      },
+      {
+        "title": "The FAA wants to reboot the nation&apos;s airspace. This airline shows how it might work",
+        "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
+        "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
+        "description": "When Alaska Airlines wanted to optimize its operations, it turned to a small startup called Air Space Intelligence. Now the FAA has hired the company for a major reboot of the entire U.S. airspace."
       }
     ],
     "Canada": []
