@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T15:56:59.686Z",
+  "updated": "2026-08-10T16:54:30.310Z",
   "world": [
     {
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
@@ -18,6 +18,12 @@
       "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 10 Aug 2026 14:43:08 GMT",
       "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election."
+    },
+    {
+      "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 10 Aug 2026 16:10:56 GMT",
+      "description": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region."
     },
     {
       "title": "Evidence that South African special forces murdered top detective shared with BBC",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 10 Aug 2026 03:33:51 GMT",
       "description": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles."
-    },
-    {
-      "title": "Hundreds arrested over French wildfires, but who is to blame?",
-      "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 23:59:23 GMT",
-      "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
+        "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
+        "pubDate": "Mon, 10 Aug 2026 12:08:06 -0400",
+        "description": "Despite wars ranging across the Middle East, more than 20 million Shia pilgrims gather in Iraq shrine city for Arbaeen festival"
+      },
       {
         "title": "Does spending money make you feel bad? Read this comic",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
         "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
         "description": "The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?"
-      },
-      {
-        "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-        "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-        "description": "Lindell, of MyPillow, plays up his ties to Trump, who endorsed him for Tuesday&apos;s primary. But the state Republican convention backed one of his opponents."
       }
     ],
     "Canada": []
