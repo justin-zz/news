@@ -1,17 +1,11 @@
 {
-  "updated": "2026-08-10T21:37:22.520Z",
+  "updated": "2026-08-10T22:32:55.657Z",
   "world": [
     {
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 10 Aug 2026 14:34:25 GMT",
       "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion."
-    },
-    {
-      "title": "World's oceans hit record-high July temperatures",
-      "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 10:24:46 GMT",
-      "description": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe."
     },
     {
       "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
@@ -24,6 +18,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 10 Aug 2026 19:17:11 GMT",
       "description": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region."
+    },
+    {
+      "title": "Canada flight cancelled after child refuses to wear seat belt",
+      "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 10 Aug 2026 21:06:27 GMT",
+      "description": "The incident has sparked a debate over child safety and discipline on commercial planes."
     },
     {
       "title": "30 years later, a former gang member will stand trial for Tupac's murder",
@@ -44,6 +44,12 @@
       "description": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits."
     },
     {
+      "title": "World's oceans hit record-high July temperatures",
+      "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 10 Aug 2026 10:24:46 GMT",
+      "description": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe."
+    },
+    {
       "title": "New train service connects Finland and Sweden for first time in decades",
       "link": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 10 Aug 2026 18:28:11 GMT",
@@ -60,12 +66,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 09 Aug 2026 23:05:29 GMT",
       "description": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men."
-    },
-    {
-      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 15:21:27 GMT",
-      "description": "Chalong Riewrang called a YouTube livestream to say he had shot a government official."
     },
     {
       "title": "Hundreds arrested over French wildfires, but who is to blame?",
@@ -137,7 +137,7 @@
         "description": "A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms."
       },
       {
-        "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
+        "title": "People with disabilities say Medicaid income limits can stifle career advancement",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
         "pubDate": "Mon, 10 Aug 2026 07:00:00 -0400",
         "description": "Medicaid will have new work requirements next year. But some people with disabilities, who already work, say they&apos;d like to work more, but risk losing their Medicaid coverage if they earn too muc"
