@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-09T23:58:47.497Z",
+  "updated": "2026-08-10T02:16:07.258Z",
   "world": [
+    {
+      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 09 Aug 2026 20:58:18 GMT",
+      "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
+    },
     {
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
       "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
@@ -8,10 +14,16 @@
       "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed."
     },
     {
-      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 09 Aug 2026 20:58:18 GMT",
-      "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
+      "title": "Evidence that South African special forces murdered top detective shared with BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 09 Aug 2026 23:05:29 GMT",
+      "description": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men."
+    },
+    {
+      "title": "Drones spotted over German base days after Leipzig bomb incident",
+      "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 09 Aug 2026 16:18:10 GMT",
+      "description": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts."
     },
     {
       "title": "Ancient Roman shipwreck discovered off Sicily coast",
@@ -22,7 +34,7 @@
     {
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
       "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 09 Aug 2026 22:27:53 GMT",
+      "pubDate": "Mon, 10 Aug 2026 00:17:46 GMT",
       "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km)."
     },
     {
@@ -30,12 +42,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 09 Aug 2026 15:34:04 GMT",
       "description": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio."
-    },
-    {
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 09 Aug 2026 16:18:10 GMT",
-      "description": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts."
     },
     {
       "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 08 Aug 2026 14:25:19 GMT",
       "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta."
-    },
-    {
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 18:06:25 GMT",
-      "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
     }
   ],
   "regions": {
@@ -105,6 +105,12 @@
         "link": "https://www.npr.org/2026/08/09/g-s1-137991/demi-vollering-tour-de-france-winner",
         "pubDate": "Sun, 09 Aug 2026 18:00:52 -0400",
         "description": "Vollering, who first won the competition in 2023, finished the stage more than a minute ahead of Spaniard Paula Blasi Cairol and 2024 champion Polish rider Katarzyna Niewiadoma-Phinney."
+      },
+      {
+        "title": "Nearly 30 years after Tupac&apos;s death, the trial over his murder will finally begin",
+        "link": "https://www.npr.org/2026/08/09/nx-s1-5924034/nearly-30-years-after-tupacs-death-the-trial-over-his-murder-will-finally-begin",
+        "pubDate": "Sun, 09 Aug 2026 17:27:16 -0400",
+        "description": "In 2023, police charged Duane Davis, also known as &quot;Keefe D,&quot; with organizing Tupac Shakur&apos;s murder in 1996. Author Ben Westhoff discusses Davis&apos; trial that begins Monday."
       },
       {
         "title": "Netanyahu rejects Trump&apos;s Gaza Peace Plan, demands Hamas disarm first",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/08/nx-s1-5923345/circumnavigate-arctic-ocean-matt-rutherford-10000-mile-odyssey",
         "pubDate": "Sat, 08 Aug 2026 17:30:56 -0400",
         "description": "Matt Rutherford is sailing 10,000 nautical miles, through ice floes and gales, to try and accomplish a world first. He spoke with NPR from the cabin of his boat."
-      },
-      {
-        "title": "Tanker sailors still face danger in the Strait of Hormuz",
-        "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
-        "pubDate": "Sat, 08 Aug 2026 17:19:54 -0400",
-        "description": "An agreement over the Strait of Hormuz is still far away. Tim Wilkins, who works for a tanker industry group, says the ships stuck around the waterway are in limbo, and transiting is still dangerous."
       }
     ],
     "Canada": []
