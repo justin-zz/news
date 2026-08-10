@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T20:37:26.680Z",
+  "updated": "2026-08-10T21:37:22.520Z",
   "world": [
     {
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
@@ -40,7 +40,7 @@
     {
       "title": "Trump signs order to limit childhood vaccines and split MMR shots",
       "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 20:16:34 GMT",
+      "pubDate": "Mon, 10 Aug 2026 21:33:25 GMT",
       "description": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits."
     },
     {
@@ -95,10 +95,16 @@
   "regions": {
     "US": [
       {
+        "title": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
+        "link": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight",
+        "pubDate": "Mon, 10 Aug 2026 16:49:00 -0400",
+        "description": "The ex-Olympian accused of damaging the reflecting pool tells NPR the experience has been &quot;Orwellian&quot; and &quot;Kafkaesque.&quot; And it&apos;s not over yet: His lawyers are fighting to clos"
+      },
+      {
         "title": "Trump and RFK Jr. try again to upend vaccines for kids",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order",
         "pubDate": "Mon, 10 Aug 2026 16:25:02 -0400",
-        "description": "President Trump expected to sign executive order that once again tries to upend the vaccines children receive to protect them against measles, mumps, tetanus, whooping cough and other dangerous diseas"
+        "description": "President Trump signed an executive order on Monday about vaccines, saying children should get fewer. His administration has been blocked in the courts from changing the vaccine schedule."
       },
       {
         "title": "&apos;The Nerd Reich&apos; tracks the &apos;unmasking of Silicon Valley&apos;s true politics&apos;",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
         "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
         "description": "The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?"
-      },
-      {
-        "title": "The FAA wants to reboot the nation&apos;s airspace. This airline shows how it might work",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
-        "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-        "description": "When Alaska Airlines wanted to optimize its operations, it turned to a small startup called Air Space Intelligence. Now the FAA has hired the company for a major reboot of the entire U.S. airspace."
       }
     ],
     "Canada": []
