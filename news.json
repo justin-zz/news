@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T11:29:30.046Z",
+  "updated": "2026-08-10T12:10:41.556Z",
   "world": [
     {
       "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Decades of abuse revealed at Michigan art school. And, the Iran war&apos;s impact on midterms",
+        "link": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
+        "pubDate": "Mon, 10 Aug 2026 07:42:58 -0400",
+        "description": "A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms."
+      },
+      {
         "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
         "pubDate": "Mon, 10 Aug 2026 07:00:00 -0400",
@@ -119,12 +125,6 @@
         "description": "Lindell, of &quot;MyPillow,&quot; plays up his ties to Trump, who endorsed him for Tuesday&apos;s primary. But the state Republican convention backed one of his opponents."
       },
       {
-        "title": "Who really needs testosterone?",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
-        "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-        "description": "The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?"
-      },
-      {
         "title": "The FAA wants to reboot the nation&apos;s airspace. This airline shows how it might work",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
         "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
@@ -137,6 +137,12 @@
         "description": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party&apos;s vote share."
       },
       {
+        "title": "Who really needs testosterone?",
+        "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
+        "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
+        "description": "The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?"
+      },
+      {
         "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia",
         "pubDate": "Mon, 10 Aug 2026 04:58:22 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/10/nx-s1-5921277/morning-news-brief",
         "pubDate": "Mon, 10 Aug 2026 04:41:46 -0400",
         "description": "Iran aims to put pressure on Trump amid negotiations with Oman, Labor Department to release new report on inflation, new report reveals decades of abuse at arts school linked to Epstein."
-      },
-      {
-        "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho",
-        "pubDate": "Mon, 10 Aug 2026 00:01:00 -0400",
-        "description": "A new generation of small nuclear reactors is poised to come online in the next few years. Public opinion remains split.&lt;br&gt;&lt;br&gt;"
       }
     ],
     "Canada": []
