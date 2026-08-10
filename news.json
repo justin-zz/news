@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-10T13:53:48.401Z",
+  "updated": "2026-08-10T14:54:12.790Z",
   "world": [
     {
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 12:54:13 GMT",
-      "description": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion."
+      "pubDate": "Mon, 10 Aug 2026 14:34:25 GMT",
+      "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion."
     },
     {
       "title": "Evidence that South African special forces murdered top detective shared with BBC",
@@ -36,12 +36,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 10 Aug 2026 10:24:46 GMT",
       "description": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe."
-    },
-    {
-      "title": "India police fire tear gas at protesters seeking exam reforms",
-      "link": "https://www.bbc.co.uk/news/articles/c89nkz4vjyxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 10:41:04 GMT",
-      "description": "Thousands of students and job seekers have gathered in Jharkhand state, weeks after the \"cockroach\" protests took place in Delhi."
     },
     {
       "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
@@ -90,10 +84,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 09 Aug 2026 15:34:04 GMT",
       "description": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio."
+    },
+    {
+      "title": "Hundreds arrested over French wildfires, but who is to blame?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 08 Aug 2026 23:59:23 GMT",
+      "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Does spending money make you feel bad? Read this comic",
+        "link": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
+        "pubDate": "Mon, 10 Aug 2026 10:20:35 -0400",
+        "description": "If spending — or not spending — money makes you feel shame or regret, you might be grappling with financial guilt. Financial planner Lauryn Williams breaks down three types and how to deal."
+      },
       {
         "title": "Flood death toll in India&apos;s Assam reaches 100 as thousands lose their homes",
         "link": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
@@ -137,22 +143,16 @@
         "description": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party&apos;s vote share."
       },
       {
-        "title": "Who really needs testosterone?",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
-        "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-        "description": "The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?"
-      },
-      {
         "title": "The FAA wants to reboot the nation&apos;s airspace. This airline shows how it might work",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
         "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
         "description": "When Alaska Airlines wanted to optimize its operations, it turned to a small startup called Air Space Intelligence. Now the FAA has hired the company for a major reboot of the entire U.S. airspace."
       },
       {
-        "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia",
-        "pubDate": "Mon, 10 Aug 2026 04:58:22 -0400",
-        "description": "Ukraine has targeted Russian oil facilities with long-range drones almost daily in recent months. The barrage has caused fuel shortages in Russia and unsettled the Russian public."
+        "title": "Who really needs testosterone?",
+        "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
+        "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
+        "description": "The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?"
       }
     ],
     "Canada": []
