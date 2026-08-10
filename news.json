@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T10:16:22.015Z",
+  "updated": "2026-08-10T11:29:30.046Z",
   "world": [
     {
       "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
@@ -95,16 +95,16 @@
   "regions": {
     "US": [
       {
+        "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
+        "link": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
+        "pubDate": "Mon, 10 Aug 2026 07:00:00 -0400",
+        "description": "Medicaid will have new work requirements next year. But some people with disabilities, who already work, say they&apos;d like to work more, but risk losing their Medicaid coverage if they earn too muc"
+      },
+      {
         "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
         "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
         "description": "In a new report,&lt;strong&gt; &lt;/strong&gt;former Interlochen students detail some 70 allegations of sexual abuse by nearly 50 adults employed or affiliated with the school. One of the former stude"
-      },
-      {
-        "title": "Voters are sick of the two-party system. A new poll shows they&apos;re open to big changes",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-        "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-        "description": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party&apos;s vote share."
       },
       {
         "title": "In a competitive Maine Senate race, women voters could be the deciders",
@@ -131,6 +131,12 @@
         "description": "When Alaska Airlines wanted to optimize its operations, it turned to a small startup called Air Space Intelligence. Now the FAA has hired the company for a major reboot of the entire U.S. airspace."
       },
       {
+        "title": "Voters are sick of the 2-party system. A new poll shows they&apos;re open to big changes",
+        "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
+        "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
+        "description": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party&apos;s vote share."
+      },
+      {
         "title": "Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia",
         "pubDate": "Mon, 10 Aug 2026 04:58:22 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho",
         "pubDate": "Mon, 10 Aug 2026 00:01:00 -0400",
         "description": "A new generation of small nuclear reactors is poised to come online in the next few years. Public opinion remains split.&lt;br&gt;&lt;br&gt;"
-      },
-      {
-        "title": "Crews battle wildfires in western U.S. and Canada",
-        "link": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
-        "pubDate": "Sun, 09 Aug 2026 18:03:09 -0400",
-        "description": "There have been 183 new wildfires, including eight large ones, across the U.S. since Saturday, the National Interagency Fire Center reported on Sunday."
       }
     ],
     "Canada": []
