@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T02:16:07.258Z",
+  "updated": "2026-08-10T04:12:03.586Z",
   "world": [
     {
       "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
@@ -34,8 +34,8 @@
     {
       "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
       "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 00:17:46 GMT",
-      "description": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km)."
+      "pubDate": "Mon, 10 Aug 2026 03:33:51 GMT",
+      "description": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles."
     },
     {
       "title": "Ecuador charges ex-minister over presidential candidate assassination case",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
+        "link": "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho",
+        "pubDate": "Mon, 10 Aug 2026 00:01:00 -0400",
+        "description": "A new generation of small nuclear reactors is poised to come online in the next few years. Public opinion remains split.&lt;br&gt;&lt;br&gt;"
+      },
+      {
         "title": "Crews battle wildfires in western U.S. and Canada",
         "link": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
         "pubDate": "Sun, 09 Aug 2026 18:03:09 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
         "pubDate": "Sat, 08 Aug 2026 20:56:21 -0400",
         "description": "It will be visible in parts of the U.S. on Wednesday."
-      },
-      {
-        "title": "Meet the man circumnavigating the Arctic Ocean, alone",
-        "link": "https://www.npr.org/2026/08/08/nx-s1-5923345/circumnavigate-arctic-ocean-matt-rutherford-10000-mile-odyssey",
-        "pubDate": "Sat, 08 Aug 2026 17:30:56 -0400",
-        "description": "Matt Rutherford is sailing 10,000 nautical miles, through ice floes and gales, to try and accomplish a world first. He spoke with NPR from the cabin of his boat."
       }
     ],
     "Canada": []
