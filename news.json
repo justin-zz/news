@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T16:54:30.310Z",
+  "updated": "2026-08-10T17:48:34.843Z",
   "world": [
     {
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "&apos;The Nerd Reich&apos; tracks the &apos;unmasking of Silicon Valley&apos;s true politics&apos;",
+        "link": "https://www.npr.org/2026/08/10/nx-s1-5925350/the-nerd-reich-tracks-the-unmasking-of-silicon-valleys-true-politics",
+        "pubDate": "Mon, 10 Aug 2026 13:38:12 -0400",
+        "description": "Journalist Gil Durán argues that a small circle of Silicon Valley billionaires and venture capitalists have concluded that democracy is in their way — and that they should be governing in its place."
+      },
+      {
         "title": "Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage",
         "link": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
         "pubDate": "Mon, 10 Aug 2026 12:08:06 -0400",
@@ -141,12 +147,6 @@
         "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
         "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
         "description": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party&apos;s vote share."
-      },
-      {
-        "title": "The FAA wants to reboot the nation&apos;s airspace. This airline shows how it might work",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
-        "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-        "description": "When Alaska Airlines wanted to optimize its operations, it turned to a small startup called Air Space Intelligence. Now the FAA has hired the company for a major reboot of the entire U.S. airspace."
       },
       {
         "title": "Who really needs testosterone?",
