@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T20:09:15.050Z",
+  "updated": "2026-08-11T21:14:04.717Z",
   "world": [
     {
       "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
@@ -8,10 +8,16 @@
       "description": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings."
     },
     {
-      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 11 Aug 2026 14:47:28 GMT",
-      "description": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey."
+      "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+      "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 11 Aug 2026 20:55:54 GMT",
+      "description": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman."
+    },
+    {
+      "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+      "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 11 Aug 2026 20:39:42 GMT",
+      "description": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president."
     },
     {
       "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
@@ -32,12 +38,6 @@
       "description": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment."
     },
     {
-      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 11 Aug 2026 14:50:10 GMT",
-      "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war."
-    },
-    {
       "title": "France bans unsolicited telemarketing calls",
       "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 11 Aug 2026 14:19:45 GMT",
@@ -56,10 +56,10 @@
       "description": "The judge overseeing the state murder trial has set out some rules for public access, but other questions remain about the high-profile case."
     },
     {
-      "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 11 Aug 2026 19:27:17 GMT",
-      "description": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high."
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 11 Aug 2026 14:50:10 GMT",
+      "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war."
     },
     {
       "title": "Thailand suspends new gun permits after mass shooting",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Kennedy Center must pay $250,000 in legal fees to musician who canceled in protest",
+        "link": "https://www.npr.org/2026/08/11/nx-s1-5928311/chuck-redd-kennedy-center",
+        "pubDate": "Tue, 11 Aug 2026 16:23:07 -0400",
+        "description": "Chuck Redd canceled his annual Christmas Eve performance to protest Trump&apos;s name being added to the complex. In June, a superior court judge dismissed the Kennedy Center&apos;s lawsuit against Re"
+      },
+      {
+        "title": "5 questions parents may have after Trump&apos;s latest vaccine move",
+        "link": "https://www.npr.org/2026/08/11/nx-s1-5928121/vaccine-schedule-trump-executive-order-parents-confusion",
+        "pubDate": "Tue, 11 Aug 2026 16:20:25 -0400",
+        "description": "Parents may be confused about the status of vaccines for their kids after President Trump&apos;s new executive order. It&apos;s important to know nothing is changing right away."
+      },
+      {
         "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
         "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
         "pubDate": "Tue, 11 Aug 2026 07:11:14 -0400",
@@ -119,12 +131,6 @@
         "description": "New research from the March of Dimes says more than half of U.S. counties have no labor and delivery hospitals. One Black midwife tries to make a difference for moms in Alabama."
       },
       {
-        "title": "The school year begins in LA with one big change: limited screen time",
-        "link": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
-        "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
-        "description": "As educators in the nation&apos;s second-largest district prepare for the new limits on classroom screen time, some teachers say it will be a difficult adjustment."
-      },
-      {
         "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
         "link": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
         "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
@@ -143,16 +149,10 @@
         "description": "After Alabama redrew its congressional maps in May, voters in several districts saw their primaries pushed to August. Now, it&apos;s time to vote and there are concerns confusion will dampen voter tur"
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief",
-        "pubDate": "Tue, 11 Aug 2026 04:32:41 -0400",
-        "description": "Voters in six states head to the polls Tuesday for high-profile primaries, Trump signals his strategy with Iran is shifting, 7.4 magnitude earthquake kills at least 111 people in Colombia."
-      },
-      {
-        "title": "Turkey&apos;s parliament approves a pardon-like bill for thousands of PKK militants",
-        "link": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
-        "pubDate": "Tue, 11 Aug 2026 02:03:49 -0400",
-        "description": "Turkey&apos;s parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government&apos;s peace initiative with their insurge"
+        "title": "The school year begins in LA with one big change: limited screen time",
+        "link": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
+        "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
+        "description": "As educators in the nation&apos;s second-largest district prepare for the new limits on classroom screen time, some teachers say it will be a difficult adjustment."
       }
     ],
     "Canada": []
