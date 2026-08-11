@@ -1,11 +1,41 @@
 {
-  "updated": "2026-08-11T09:30:05.284Z",
+  "updated": "2026-08-11T10:26:46.289Z",
   "world": [
+    {
+      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 11 Aug 2026 09:58:45 GMT",
+      "description": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say."
+    },
+    {
+      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 11 Aug 2026 09:39:58 GMT",
+      "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally."
+    },
+    {
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 11 Aug 2026 09:42:48 GMT",
+      "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war."
+    },
     {
       "title": "At least 132 killed in Colombia's largest  earthquake in years",
       "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 11 Aug 2026 04:06:07 GMT",
       "description": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings."
+    },
+    {
+      "title": "Libyan authorities battle big blaze at major oil refinery",
+      "link": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 11 Aug 2026 08:28:24 GMT",
+      "description": "Monday's drone strike on the Zawiya refinery was the third such incident in two days."
+    },
+    {
+      "title": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
+      "link": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 11 Aug 2026 07:55:22 GMT",
+      "description": "An ex-Japanese envoy said the \"sexist\" comments \"betrayed the close bond\" between the countries."
     },
     {
       "title": "Canada flight cancelled after child refuses to wear seat belt",
@@ -20,33 +50,9 @@
       "description": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea."
     },
     {
-      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 14:34:25 GMT",
-      "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion."
-    },
-    {
-      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 14:43:08 GMT",
-      "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election."
-    },
-    {
-      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 19:17:11 GMT",
-      "description": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region."
-    },
-    {
-      "title": "30 years later, a former gang member will stand trial for Tupac's murder",
-      "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 16:52:47 GMT",
-      "description": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown."
-    },
-    {
       "title": "Trump signs order to limit childhood vaccines and split MMR shots",
       "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 11 Aug 2026 02:43:01 GMT",
+      "pubDate": "Tue, 11 Aug 2026 10:00:04 GMT",
       "description": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\"."
     },
     {
@@ -84,27 +90,27 @@
       "link": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 10 Aug 2026 22:02:21 GMT",
       "description": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China."
-    },
-    {
-      "title": "Hundreds arrested over French wildfires, but who is to blame?",
-      "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 23:59:23 GMT",
-      "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month."
     }
   ],
   "regions": {
     "US": [
       {
+        "title": "Former Syrian President Assad sentenced to death in absentia",
+        "link": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
+        "pubDate": "Tue, 11 Aug 2026 06:07:14 -0400",
+        "description": "A Syrian court sentenced Assad along with his brother to death in absentia for crimes against humanity and war crimes during Syria&apos;s 14-year conflict that left about half a million people dead."
+      },
+      {
+        "title": "A midwife crosses &apos;maternity deserts&apos; to make a difference for Black moms and babies",
+        "link": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies",
+        "pubDate": "Tue, 11 Aug 2026 06:00:00 -0400",
+        "description": "New research from the March of Dimes says more than half of U.S. counties have no labor and delivery hospitals. One Black midwife tries to make a difference for moms in Alabama."
+      },
+      {
         "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
         "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
         "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
         "description": "After Alabama redrew its congressional maps in May, voters in several districts saw their primaries pushed to August. Now, it&apos;s time to vote and there are concerns confusion will dampen voter tur"
-      },
-      {
-        "title": "A year in, thousands of armed troops have quietly become a fixture of D.C. life",
-        "link": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
-        "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
-        "description": "The deployment is expected to cost in the billions after it was quietly extended until Inauguration Day of 2029."
       },
       {
         "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
@@ -117,6 +123,12 @@
         "link": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
         "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
         "description": "As educators in the nation&apos;s second-largest district prepare for the new limits on classroom screen time, some teachers say it will be a difficult adjustment."
+      },
+      {
+        "title": "A year in, thousands of armed troops have quietly become a fixture of D.C. life",
+        "link": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
+        "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
+        "description": "The deployment is expected to cost in the billions after it was quietly extended until Inauguration Day of 2029."
       },
       {
         "title": "Morning news brief",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
         "pubDate": "Mon, 10 Aug 2026 23:39:40 -0400",
         "description": "Search teams and civilians picked through the remains of destroyed buildings in the country&apos;s third-largest city, Cali, passing large pieces of concrete and rubble down a long line of volunteers."
-      },
-      {
-        "title": "Alabama heads into a second primary election after redistricting",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
-        "pubDate": "Mon, 10 Aug 2026 18:43:05 -0400",
-        "description": "Alabama voters are again selecting candidates for four Congressional districts after the state changed the district map to favor Republicans. The redistricting is causing confusion among voters."
-      },
-      {
-        "title": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight",
-        "pubDate": "Mon, 10 Aug 2026 16:49:00 -0400",
-        "description": "The ex-Olympian accused of damaging the reflecting pool tells NPR the experience has been &quot;Orwellian&quot; and &quot;Kafkaesque.&quot; And it&apos;s not over yet: His lawyers are fighting to clos"
       }
     ],
     "Canada": []
