@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T21:14:04.717Z",
+  "updated": "2026-08-11T22:10:36.478Z",
   "world": [
     {
       "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
@@ -10,7 +10,7 @@
     {
       "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
       "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 11 Aug 2026 20:55:54 GMT",
+      "pubDate": "Tue, 11 Aug 2026 21:14:56 GMT",
       "description": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman."
     },
     {
@@ -50,10 +50,10 @@
       "description": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy."
     },
     {
-      "title": "Luigi Mangione murder trial to have anonymous jury and overflow seating",
+      "title": "Luigi Mangione murder trial to have anonymous jury",
       "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 11 Aug 2026 19:12:54 GMT",
-      "description": "The judge overseeing the state murder trial has set out some rules for public access, but other questions remain about the high-profile case."
+      "description": "The judge overseeing the state murder trial ruled the 12-person jury would remain anonymous because of the intense media spotlight on the case."
     },
     {
       "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "A judge expands a block on U.S. Postal Service work on Trump&apos;s mail-in voting order",
+        "link": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps",
+        "pubDate": "Tue, 11 Aug 2026 17:11:09 -0400",
+        "description": "A federal judge expanded a block on a key part of President Trump&apos;s order to restrict mail-in voting for this fall&apos;s midterms, banning the Postal Service from carrying out directives in ever"
+      },
       {
         "title": "Kennedy Center must pay $250,000 in legal fees to musician who canceled in protest",
         "link": "https://www.npr.org/2026/08/11/nx-s1-5928311/chuck-redd-kennedy-center",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
         "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
         "description": "After Alabama redrew its congressional maps in May, voters in several districts saw their primaries pushed to August. Now, it&apos;s time to vote and there are concerns confusion will dampen voter tur"
-      },
-      {
-        "title": "The school year begins in LA with one big change: limited screen time",
-        "link": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
-        "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
-        "description": "As educators in the nation&apos;s second-largest district prepare for the new limits on classroom screen time, some teachers say it will be a difficult adjustment."
       }
     ],
     "Canada": []
