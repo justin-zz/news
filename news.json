@@ -1,6 +1,18 @@
 {
-  "updated": "2026-08-11T01:21:10.652Z",
+  "updated": "2026-08-11T03:17:17.066Z",
   "world": [
+    {
+      "title": "At least 132 killed in Colombia's largest  earthquake in years",
+      "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 11 Aug 2026 01:59:40 GMT",
+      "description": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away."
+    },
+    {
+      "title": "Canada flight cancelled after child refuses to wear seat belt",
+      "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 10 Aug 2026 21:06:27 GMT",
+      "description": "The incident has sparked a debate over child safety and discipline on commercial planes."
+    },
     {
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&amp;at_campaign=rss",
@@ -20,12 +32,6 @@
       "description": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region."
     },
     {
-      "title": "Canada flight cancelled after child refuses to wear seat belt",
-      "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 21:06:27 GMT",
-      "description": "The incident has sparked a debate over child safety and discipline on commercial planes."
-    },
-    {
       "title": "30 years later, a former gang member will stand trial for Tupac's murder",
       "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 10 Aug 2026 16:52:47 GMT",
@@ -40,7 +46,7 @@
     {
       "title": "Trump signs order to limit childhood vaccines and split MMR shots",
       "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 10 Aug 2026 23:03:52 GMT",
+      "pubDate": "Tue, 11 Aug 2026 02:43:01 GMT",
       "description": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\"."
     },
     {
@@ -62,38 +68,38 @@
       "description": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules."
     },
     {
-      "title": "Evidence that South African special forces murdered top detective shared with BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 09 Aug 2026 23:05:29 GMT",
-      "description": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men."
+      "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 10 Aug 2026 22:31:42 GMT",
+      "description": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions."
+    },
+    {
+      "title": "The transgender controversy surrounding the WNBA",
+      "link": "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 10 Aug 2026 15:34:56 GMT",
+      "description": "After the Indiana Fever's Sophie Cunningham said it was \"common sense\" to ban transgender women from women's sports, a row has emerged in the WNBA - with former NBA players saying eligibility rules me"
+    },
+    {
+      "title": "The lonely Chinese men being conned by fake brides",
+      "link": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 10 Aug 2026 22:02:21 GMT",
+      "description": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China."
     },
     {
       "title": "Hundreds arrested over French wildfires, but who is to blame?",
       "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 08 Aug 2026 23:59:23 GMT",
       "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month."
-    },
-    {
-      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-      "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 08 Aug 2026 19:00:22 GMT",
-      "description": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate."
-    },
-    {
-      "title": "How a schoolteacher's son became Kashmir's first India Test cricketer",
-      "link": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 09 Aug 2026 03:00:44 GMT",
-      "description": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions."
-    },
-    {
-      "title": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 09 Aug 2026 01:10:50 GMT",
-      "description": "The scheme is for couples who cannot afford the significant financial costs associated with marriage."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Alabama heads into a second primary election after redistricting",
+        "link": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
+        "pubDate": "Mon, 10 Aug 2026 18:43:05 -0400",
+        "description": "Alabama voters are again selecting candidates for four Congressional districts after the state changed the district map to favor Republicans. The redistricting is causing confusion among voters."
+      },
       {
         "title": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
         "link": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
         "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
         "description": "The race between Susan Collins and Troy Jackson is one of this year&apos;s most high-profile Senate contests. To win, both candidates will need support from an especially powerful voting bloc: Maine w"
-      },
-      {
-        "title": "Who really needs testosterone?",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
-        "pubDate": "Mon, 10 Aug 2026 05:00:00 -0400",
-        "description": "The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?"
       }
     ],
     "Canada": []
