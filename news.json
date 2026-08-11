@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-11T10:26:46.289Z",
+  "updated": "2026-08-11T11:19:59.667Z",
   "world": [
     {
       "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
       "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 11 Aug 2026 09:58:45 GMT",
-      "description": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say."
+      "description": "The US president was part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey."
     },
     {
       "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
@@ -16,7 +16,7 @@
     {
       "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
       "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 11 Aug 2026 09:42:48 GMT",
+      "pubDate": "Tue, 11 Aug 2026 10:43:07 GMT",
       "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war."
     },
     {
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+        "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
+        "pubDate": "Tue, 11 Aug 2026 07:11:14 -0400",
+        "description": "Today marks one year since the National Guard was deployed to the nation&apos;s capital. Here&apos;s what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colomb"
+      },
+      {
+        "title": "The secret economics inside the new Planet Money board game",
+        "link": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
+        "pubDate": "Tue, 11 Aug 2026 06:30:00 -0400",
+        "description": "From Nobel Prize-winning research to the Laffer Curve, Scabby the Rat, Veblen&apos;s peacock, and more — the economic ideas and inside jokes hiding throughout Planet Money&apos;s new board game."
+      },
+      {
         "title": "Former Syrian President Assad sentenced to death in absentia",
         "link": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
         "pubDate": "Tue, 11 Aug 2026 06:07:14 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
         "pubDate": "Tue, 11 Aug 2026 02:03:49 -0400",
         "description": "Turkey&apos;s parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government&apos;s peace initiative with their insurge"
-      },
-      {
-        "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
-        "link": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
-        "pubDate": "Tue, 11 Aug 2026 01:48:27 -0400",
-        "description": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough."
-      },
-      {
-        "title": "Magnitude 7.4 quake rocks western Colombia, killing at least 111 people",
-        "link": "https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia",
-        "pubDate": "Mon, 10 Aug 2026 23:39:40 -0400",
-        "description": "Search teams and civilians picked through the remains of destroyed buildings in the country&apos;s third-largest city, Cali, passing large pieces of concrete and rubble down a long line of volunteers."
       }
     ],
     "Canada": []
