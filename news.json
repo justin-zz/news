@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T22:10:36.478Z",
+  "updated": "2026-08-11T23:10:58.071Z",
   "world": [
     {
       "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "In South Carolina, GOP Voters decide who they want to replace the late Sen. Lindsey Graham",
+        "link": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
+        "pubDate": "Tue, 11 Aug 2026 18:39:22 -0400",
+        "description": "Sen. Darline Graham, who is serving out the remainder of her brother&apos;s term, faces a crowded field of candidates to replace him on the ballot as the Republican nominee for U.S. Senate in November"
+      },
+      {
         "title": "A judge expands a block on U.S. Postal Service work on Trump&apos;s mail-in voting order",
         "link": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps",
         "pubDate": "Tue, 11 Aug 2026 17:11:09 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
         "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
         "description": "The deployment is expected to cost in the billions after it was quietly extended until Inauguration Day of 2029."
-      },
-      {
-        "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
-        "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
-        "pubDate": "Tue, 11 Aug 2026 05:00:00 -0400",
-        "description": "After Alabama redrew its congressional maps in May, voters in several districts saw their primaries pushed to August. Now, it&apos;s time to vote and there are concerns confusion will dampen voter tur"
       }
     ],
     "Canada": []
