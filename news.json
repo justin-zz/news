@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T06:52:28.824Z",
+  "updated": "2026-08-12T08:13:30.414Z",
   "world": [
     {
       "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
@@ -26,7 +26,7 @@
       "description": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman."
     },
     {
-      "title": "Baby Shark Boy set to make K-pop debut",
+      "title": "Baby Shark boy set to make K-pop debut",
       "link": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 03:26:32 GMT",
       "description": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star."
@@ -35,12 +35,12 @@
       "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
       "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 04:29:02 GMT",
-      "description": "The Portuguese superstar has posted an image of two hands - presumed to be his on top of his wife's - both wearing wedding rings."
+      "description": "The couple have tied the knot after the Portuguese captain played his last ever World Cup this summer."
     },
     {
-      "title": "Boat sinks in Zimbabwe's Lake Kariba with 95 people on board",
+      "title": "At least 15 die as boat sinks in Zimbabwe's Lake Kariba",
       "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 06:21:42 GMT",
+      "pubDate": "Wed, 12 Aug 2026 07:16:44 GMT",
       "description": "The vessel is said to have overturned after being hit by strong waves."
     },
     {
@@ -86,7 +86,7 @@
       "description": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president."
     },
     {
-      "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
+      "title": "Brother of man trapped under rubble in Colombian quake clings on to hope",
       "link": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 11 Aug 2026 21:34:55 GMT",
       "description": "BBC Mundo has gone to the site of Torres del Limonar, a collapsed building in Cali where rescue workers fight to free survivors."
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
+        "link": "https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong",
+        "pubDate": "Wed, 12 Aug 2026 04:06:55 -0400",
+        "description": "David Crowley is the Milwaukee County Executive and could become the state&apos;s first Black governor. He narrowly defeated Francesca Hong, a democratic socialist who drew enthusiastic support."
+      },
       {
         "title": "Former U.S. Marine held in Russia on disputed charges has been released",
         "link": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/11/nx-s1-5928121/vaccine-schedule-trump-executive-order-parents-confusion",
         "pubDate": "Tue, 11 Aug 2026 16:20:25 -0400",
         "description": "Parents may be confused about the status of vaccines for their kids after President Trump&apos;s new executive order. It&apos;s important to know nothing is changing right away."
-      },
-      {
-        "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
-        "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
-        "pubDate": "Tue, 11 Aug 2026 07:11:14 -0400",
-        "description": "Today marks one year since the National Guard was deployed to the nation&apos;s capital. Here&apos;s what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colomb"
       }
     ],
     "Canada": []
