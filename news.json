@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T19:39:45.977Z",
+  "updated": "2026-08-12T20:38:51.370Z",
   "world": [
     {
       "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
@@ -20,10 +20,10 @@
       "description": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used."
     },
     {
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 16:34:01 GMT",
-      "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran."
+      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 20:16:55 GMT",
+      "description": "Leavitt will depart from her role to spend time with her young children and family, the president says."
     },
     {
       "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
@@ -42,6 +42,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 16:35:52 GMT",
       "description": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures."
+    },
+    {
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 16:34:01 GMT",
+      "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran."
     },
     {
       "title": "US inflation eases as food and fuel costs cool",
@@ -84,16 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 04:29:02 GMT",
       "description": "The couple have tied the knot after the Portuguese captain played his last ever World Cup this summer."
-    },
-    {
-      "title": "Tata Group Chairman N Chandrasekaran to step down in February",
-      "link": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 08:50:52 GMT",
-      "description": "Chandrasekaran said he would not seek reappointment when his term ends due to a lack of support from the Tata Sons board."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Controversial group wins $158M-contract to represent unaccompanied immigrant children",
+        "link": "https://www.npr.org/2026/08/12/nx-s1-5929456/migrant-children-our-rescue",
+        "pubDate": "Wed, 12 Aug 2026 16:19:40 -0400",
+        "description": "Utah-based Our Rescue was founded by activist Tim Ballard. It was previously known as Operation Underground Railroad and it says it helps law enforcement perform sting operations and rescues human tra"
+      },
+      {
+        "title": "White House press secretary leaving",
+        "link": "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+        "pubDate": "Wed, 12 Aug 2026 16:05:54 -0400",
+        "description": "Karoline Leavitt will continue to be an outside adviser, Trump said"
+      },
       {
         "title": "Has the U.S. lost its dominance to China?",
         "link": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit",
         "pubDate": "Wed, 12 Aug 2026 05:02:00 -0400",
         "description": "The exercise can help you identify what&apos;s wasting your time — and make room for what matters, says psychotherapist Niro Feliciano. Take a moment to try it. You might be surprised with what you fi"
-      },
-      {
-        "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
-        "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
-        "description": "A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war."
-      },
-      {
-        "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
-        "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
-        "description": "Federal efforts to revive uranium mining in the West and decrease reliance on Russian uranium raise concerns about drinking water for tribal communities reckoning with the industry&apos;s deadly legac"
       }
     ],
     "Canada": []
