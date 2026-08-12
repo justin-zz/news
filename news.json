@@ -1,17 +1,11 @@
 {
-  "updated": "2026-08-12T14:23:11.852Z",
+  "updated": "2026-08-12T15:28:53.455Z",
   "world": [
     {
-      "title": "Trump confirms he switched planes after Nato summit because of possible threat",
-      "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 03:44:55 GMT",
-      "description": "Journalists and White House staff who were on board the jet were unaware the president had left."
-    },
-    {
-      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 00:14:42 GMT",
-      "description": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher."
+      "title": "Members of Trump's cabinet remained on decoy plane, after Trump's quiet exit",
+      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 14:44:48 GMT",
+      "description": "The president boarded a different plane in Turkey during a Nato summit to evade an Iranian threat."
     },
     {
       "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
@@ -38,6 +32,12 @@
       "description": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies."
     },
     {
+      "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
+      "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 07:44:44 GMT",
+      "description": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries."
+    },
+    {
       "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
       "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 12:10:45 GMT",
@@ -48,12 +48,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 13:35:12 GMT",
       "description": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend."
-    },
-    {
-      "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-      "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 07:44:44 GMT",
-      "description": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries."
     },
     {
       "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
@@ -90,6 +84,12 @@
       "link": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 02:59:51 GMT",
       "description": "Police charged Ahmed al Ahmed in June after an alleged incident with his father at a Sydney home."
+    },
+    {
+      "title": "New Zealand PM survives second leadership challenge ahead of election",
+      "link": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 02:51:02 GMT",
+      "description": "Christopher Luxon says he has \"full support\" of his party, after a vote of confidence 12 weeks before a general election."
     }
   ],
   "regions": {
@@ -143,16 +143,16 @@
         "description": "A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war."
       },
       {
-        "title": "Here&apos;s how gyms, salons and ice cream are changing America&apos;s Main Streets",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
-        "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
-        "description": "Shoppers&apos; changing habits are fueling a major shift in what types of businesses are occupying storefronts."
-      },
-      {
         "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
         "link": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
         "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
         "description": "Federal efforts to revive uranium mining in the West and decrease reliance on Russian uranium raise concerns about drinking water for tribal communities reckoning with the industry&apos;s deadly legac"
+      },
+      {
+        "title": "Here&apos;s how gyms, salons and ice cream are changing America&apos;s Main Streets",
+        "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+        "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
+        "description": "Shoppers&apos; changing habits are fueling a major shift in what types of businesses are occupying storefronts."
       }
     ],
     "Canada": []
