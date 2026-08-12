@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T20:38:51.370Z",
+  "updated": "2026-08-12T21:40:47.681Z",
   "world": [
     {
       "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
@@ -14,21 +14,21 @@
       "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday."
     },
     {
-      "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
+      "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
       "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 19:21:22 GMT",
-      "description": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used."
+      "pubDate": "Wed, 12 Aug 2026 20:57:13 GMT",
+      "description": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply."
     },
     {
       "title": "Trump says White House press secretary Karoline Leavitt to leave post",
       "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 20:16:55 GMT",
+      "pubDate": "Wed, 12 Aug 2026 20:57:47 GMT",
       "description": "Leavitt will depart from her role to spend time with her young children and family, the president says."
     },
     {
       "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
       "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 11:28:02 GMT",
+      "pubDate": "Wed, 12 Aug 2026 20:56:11 GMT",
       "description": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete."
     },
     {
@@ -46,7 +46,7 @@
     {
       "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
       "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 16:34:01 GMT",
+      "pubDate": "Wed, 12 Aug 2026 20:58:39 GMT",
       "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran."
     },
     {
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Trump sued over service selling faster access to Truth Social posts",
+        "link": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
+        "pubDate": "Wed, 12 Aug 2026 16:33:10 -0400",
+        "description": "The federal lawsuit alleges that the service from the president&apos;s media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 customers."
+      },
       {
         "title": "Controversial group wins $158M-contract to represent unaccompanied immigrant children",
         "link": "https://www.npr.org/2026/08/12/nx-s1-5929456/migrant-children-our-rescue",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
         "pubDate": "Wed, 12 Aug 2026 06:47:30 -0400",
         "description": "After President Trump took office, Andrew Tate proclaimed, &quot;The Tates will be free.&quot; A year later, Tate is being held in federal prison after he was arrested following a U.K. extradition req"
-      },
-      {
-        "title": "Feel so busy you don&apos;t even realize you&apos;re busy? Try doing a time audit",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit",
-        "pubDate": "Wed, 12 Aug 2026 05:02:00 -0400",
-        "description": "The exercise can help you identify what&apos;s wasting your time — and make room for what matters, says psychotherapist Niro Feliciano. Take a moment to try it. You might be surprised with what you fi"
       }
     ],
     "Canada": []
