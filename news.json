@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T17:29:51.074Z",
+  "updated": "2026-08-12T18:29:00.424Z",
   "world": [
     {
       "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
@@ -20,9 +20,9 @@
       "description": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete."
     },
     {
-      "title": "Major Russian grain export terminal hit in Ukraine Black Sea port attack",
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
       "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 17:20:03 GMT",
+      "pubDate": "Wed, 12 Aug 2026 17:47:01 GMT",
       "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Has the U.S. lost its dominance to China?",
+        "link": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china",
+        "pubDate": "Wed, 12 Aug 2026 14:24:48 -0400",
+        "description": "Beijing may be benefiting from the war in Iran and Trump&apos;s tariffs and has an edge in the competition for tech supremacy. &lt;em&gt;The New Yorker&lt;/em&gt;&apos;s Evan Osnos discusses his story"
+      },
+      {
         "title": "Inflation eases in July as gasoline and grocery prices fall",
         "link": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
         "pubDate": "Wed, 12 Aug 2026 10:00:29 -0400",
@@ -141,12 +147,6 @@
         "link": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
         "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
         "description": "A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war."
-      },
-      {
-        "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
-        "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
-        "description": "Federal efforts to revive uranium mining in the West and decrease reliance on Russian uranium raise concerns about drinking water for tribal communities reckoning with the industry&apos;s deadly legac"
       },
       {
         "title": "Here&apos;s how gyms, salons and ice cream are changing America&apos;s Main Streets",
