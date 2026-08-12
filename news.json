@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-12T18:29:00.424Z",
+  "updated": "2026-08-12T19:39:45.977Z",
   "world": [
     {
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 16:34:01 GMT",
-      "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran."
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 17:47:01 GMT",
+      "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
     },
     {
       "title": "Israeli settlers besieging Palestinian families in West Bank village",
@@ -14,16 +14,22 @@
       "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday."
     },
     {
+      "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
+      "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 19:21:22 GMT",
+      "description": "The US immigration agency is buying enforcement officers and agents $20m worth of gloves, which the maker says are safe when properly used."
+    },
+    {
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 16:34:01 GMT",
+      "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran."
+    },
+    {
       "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
       "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 11:28:02 GMT",
       "description": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete."
-    },
-    {
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 17:47:01 GMT",
-      "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
     },
     {
       "title": "LA Lakers to be sold in record $12.5bn deal",
@@ -32,16 +38,16 @@
       "description": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise."
     },
     {
-      "title": "US inflation eases as food and fuel costs cool",
-      "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 17:03:05 GMT",
-      "description": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher."
-    },
-    {
       "title": "Thousands of Canadians call for US ambassador's expulsion",
       "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 16:35:52 GMT",
       "description": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures."
+    },
+    {
+      "title": "US inflation eases as food and fuel costs cool",
+      "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 17:03:05 GMT",
+      "description": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher."
     },
     {
       "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 08:50:52 GMT",
       "description": "Chandrasekaran said he would not seek reappointment when his term ends due to a lack of support from the Tata Sons board."
-    },
-    {
-      "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-      "link": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 11 Aug 2026 21:14:56 GMT",
-      "description": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman."
     }
   ],
   "regions": {
@@ -149,10 +149,10 @@
         "description": "A recent series of cyberattacks on U.S. water systems has exposed vulnerabilities across critical infrastructure during the Iran war."
       },
       {
-        "title": "Here&apos;s how gyms, salons and ice cream are changing America&apos;s Main Streets",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+        "title": "Nuclear power push ramps up uranium mill — and tribal health concerns",
+        "link": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
         "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
-        "description": "Shoppers&apos; changing habits are fueling a major shift in what types of businesses are occupying storefronts."
+        "description": "Federal efforts to revive uranium mining in the West and decrease reliance on Russian uranium raise concerns about drinking water for tribal communities reckoning with the industry&apos;s deadly legac"
       }
     ],
     "Canada": []
