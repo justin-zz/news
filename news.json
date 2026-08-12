@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T10:57:42.587Z",
+  "updated": "2026-08-12T11:48:47.194Z",
   "world": [
     {
       "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
@@ -26,9 +26,9 @@
       "description": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries."
     },
     {
-      "title": "Wisconsin result halts winning streak for Democratic Party's left wing",
+      "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
       "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 09:55:40 GMT",
+      "pubDate": "Wed, 12 Aug 2026 11:32:17 GMT",
       "description": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump&apos;s secret plane swap",
+        "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
+        "pubDate": "Wed, 12 Aug 2026 07:25:11 -0400",
+        "description": "Yesterday&apos;s primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat"
+      },
+      {
         "title": "Andrew Tate&apos;s extradition fight tests his influence with Trump&apos;s America",
         "link": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
         "pubDate": "Wed, 12 Aug 2026 06:47:30 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/12/nx-s1-5928112/four-takeaways-primaries-six-states",
         "pubDate": "Wed, 12 Aug 2026 04:35:50 -0400",
         "description": "Voters in half a dozen states went to the polls Tuesday, and results highlight the ongoing conflicts within both parties ahead of the November midterms."
-      },
-      {
-        "title": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong",
-        "pubDate": "Wed, 12 Aug 2026 04:06:55 -0400",
-        "description": "David Crowley is the Milwaukee County Executive and could become the state&apos;s first Black governor. He narrowly defeated Francesca Hong, a democratic socialist who drew enthusiastic support."
       }
     ],
     "Canada": []
