@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T05:13:13.054Z",
+  "updated": "2026-08-12T06:52:28.824Z",
   "world": [
     {
       "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
@@ -8,10 +8,10 @@
       "description": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings."
     },
     {
-      "title": "Trump says he switched planes after Nato summit because of possible threat",
+      "title": "Trump confirms he switched planes after Nato summit because of possible threat",
       "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 03:44:55 GMT",
-      "description": "But the president says the jet he boarded instead was at \"greater risk\" than the decoy Air Force One."
+      "description": "Journalists and White House staff who were on board the jet were unaware the president had left."
     },
     {
       "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
@@ -36,6 +36,12 @@
       "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 04:29:02 GMT",
       "description": "The Portuguese superstar has posted an image of two hands - presumed to be his on top of his wife's - both wearing wedding rings."
+    },
+    {
+      "title": "Boat sinks in Zimbabwe's Lake Kariba with 95 people on board",
+      "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 06:21:42 GMT",
+      "description": "The vessel is said to have overturned after being hit by strong waves."
     },
     {
       "title": "Lebanon parliament votes to abolish death penalty",
@@ -68,32 +74,38 @@
       "description": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy."
     },
     {
-      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 11 Aug 2026 16:19:44 GMT",
-      "description": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally."
+      "title": "These seaside apartments were a ghost city - then police say scammers moved in",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 11 Aug 2026 23:31:18 GMT",
+      "description": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations."
     },
     {
-      "title": "Luigi Mangione murder trial to have anonymous jury",
-      "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 11 Aug 2026 19:12:54 GMT",
-      "description": "The judge overseeing the state murder trial ruled the 12-person jury would remain anonymous because of the intense media spotlight on the case."
+      "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+      "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 11 Aug 2026 20:39:42 GMT",
+      "description": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president."
     },
     {
-      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 11 Aug 2026 14:50:10 GMT",
-      "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war."
-    },
-    {
-      "title": "Russia releases former US Marine reported in poor health",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 11 Aug 2026 23:33:45 GMT",
-      "description": "Robert Gilman, who was arrested in 2022, was left in \"life-threatening condition\" after being subjected to \"harsh and abusive treatment\", his family says."
+      "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
+      "link": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 11 Aug 2026 21:34:55 GMT",
+      "description": "BBC Mundo has gone to the site of Torres del Limonar, a collapsed building in Cali where rescue workers fight to free survivors."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Former U.S. Marine held in Russia on disputed charges has been released",
+        "link": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia",
+        "pubDate": "Wed, 12 Aug 2026 01:27:13 -0400",
+        "description": "Russia released an American military veteran, allowing his return to the U.S. after four years of what his family and U.S. officials allege was wrongful incarceration and abusive treatment."
+      },
+      {
+        "title": "Earthquake response strains Colombia&apos;s new government and rescuers",
+        "link": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates",
+        "pubDate": "Wed, 12 Aug 2026 01:13:06 -0400",
+        "description": "The earthquake killed at least 181 people and left 2,595 injured, according to Colombian authorities. At least 195 remained missing, but civilian-run databases put that number closer to 4,000."
+      },
       {
         "title": "Progressive Peggy Flanagan wins Democratic Senate primary in Minnesota",
         "link": "https://www.npr.org/2026/08/11/nx-s1-5927473/2026-minnesota-senate-primary-election-peggy-flanagan",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
         "pubDate": "Tue, 11 Aug 2026 07:11:14 -0400",
         "description": "Today marks one year since the National Guard was deployed to the nation&apos;s capital. Here&apos;s what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colomb"
-      },
-      {
-        "title": "The secret economics inside the new Planet Money board game",
-        "link": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
-        "pubDate": "Tue, 11 Aug 2026 06:30:00 -0400",
-        "description": "From Nobel Prize-winning research to the Laffer Curve, Scabby the Rat, Veblen&apos;s peacock, and more — the economic ideas and inside jokes hiding throughout Planet Money&apos;s new board game."
-      },
-      {
-        "title": "Former Syrian President Assad sentenced to death in absentia",
-        "link": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
-        "pubDate": "Tue, 11 Aug 2026 06:07:14 -0400",
-        "description": "A Syrian court sentenced Assad along with his brother to death in absentia for crimes against humanity and war crimes during Syria&apos;s 14-year conflict that left about half a million people dead."
       }
     ],
     "Canada": []
