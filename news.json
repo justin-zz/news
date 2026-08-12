@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T12:59:56.369Z",
+  "updated": "2026-08-12T14:23:11.852Z",
   "world": [
     {
       "title": "Trump confirms he switched planes after Nato summit because of possible threat",
@@ -22,8 +22,14 @@
     {
       "title": "Israeli settlers besieging Palestinian families in West Bank village",
       "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 12:16:22 GMT",
+      "pubDate": "Wed, 12 Aug 2026 14:03:48 GMT",
       "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday."
+    },
+    {
+      "title": "US inflation eases as food and fuel costs cool",
+      "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 14:09:48 GMT",
+      "description": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher."
     },
     {
       "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
@@ -35,12 +41,12 @@
       "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
       "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 12:10:45 GMT",
-      "description": "Zhu brought China into the WTO and championed reforms that fuelled growth."
+      "description": "The former premier brought China into the WTO and championed reforms that fuelled growth."
     },
     {
       "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
       "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 11:32:17 GMT",
+      "pubDate": "Wed, 12 Aug 2026 13:35:12 GMT",
       "description": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend."
     },
     {
@@ -48,6 +54,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 07:44:44 GMT",
       "description": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries."
+    },
+    {
+      "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
+      "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 13:55:56 GMT",
+      "description": "The vessel is said to have overturned after being hit by strong waves."
     },
     {
       "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
@@ -60,12 +72,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 08:50:52 GMT",
       "description": "Chandrasekaran said he would not seek reappointment when his term ends due to a lack of support from the Tata Sons board."
-    },
-    {
-      "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
-      "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 12:01:34 GMT",
-      "description": "The vessel is said to have overturned after being hit by strong waves."
     },
     {
       "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
@@ -84,16 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 02:59:51 GMT",
       "description": "Police charged Ahmed al Ahmed in June after an alleged incident with his father at a Sydney home."
-    },
-    {
-      "title": "New Zealand PM survives second leadership challenge ahead of election",
-      "link": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 02:51:02 GMT",
-      "description": "Christopher Luxon says he has \"full support\" of his party, after a vote of confidence 12 weeks before a general election."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Inflation eases in July as gasoline and grocery prices fall",
+        "link": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
+        "pubDate": "Wed, 12 Aug 2026 10:00:29 -0400",
+        "description": "Consumer prices in July were up 3.4% from a year ago — a smaller annual increase than in May or June. The news makes it less likely the Fed will feel the need to raise interest rates in September."
+      },
+      {
+        "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
+        "link": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
+        "pubDate": "Wed, 12 Aug 2026 09:38:58 -0400",
+        "description": "The pristine white sand dunes of the Lençóis Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season"
+      },
+      {
+        "title": "His wedding guests gave $6k to fund a health startup. Now it&apos;s won a $3 million prize",
+        "link": "https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi",
+        "pubDate": "Wed, 12 Aug 2026 09:00:19 -0400",
+        "description": "Dr. Raj Panjabi founded Last Mile Health to bring healthcare to people living in remote areas. The group is the 2026 recipient of the Conrad N. Hilton Humanitarian Prize."
+      },
       {
         "title": "Zhu Rongji, who drove China&apos;s 1990s economic reforms, has died at 97",
         "link": "https://www.npr.org/2026/08/12/1196705508/zhu-rongji-china-former-premier-dead",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
         "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
         "description": "Federal efforts to revive uranium mining in the West and decrease reliance on Russian uranium raise concerns about drinking water for tribal communities reckoning with the industry&apos;s deadly legac"
-      },
-      {
-        "title": "How a road could change West Africa&apos;s urban future",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5901327/west-africa-trade-growth-economy-nigeria-ghana-lagos",
-        "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
-        "description": "A 600-mile journey along the shores of Nigeria, Togo, Ghana and Ivory Coast reveals one of the world&apos;s most consequential transformations."
-      },
-      {
-        "title": "AI chatbots are offering financial advice. Should you trust them?",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
-        "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
-        "description": "Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions."
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5927060/morning-news-brief",
-        "pubDate": "Wed, 12 Aug 2026 04:47:50 -0400",
-        "description": "Voters in a half a dozen states went to the polls Tuesday, report suggests President Trump switch aircraft due to threat as he was leaving NATO, Iraq&apos;s leader wants to disarm Iran-backed militias"
       }
     ],
     "Canada": []
