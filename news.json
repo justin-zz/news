@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T09:39:35.826Z",
+  "updated": "2026-08-12T10:57:42.587Z",
   "world": [
     {
       "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
@@ -24,6 +24,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 07:44:44 GMT",
       "description": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries."
+    },
+    {
+      "title": "Wisconsin result halts winning streak for Democratic Party's left wing",
+      "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 09:55:40 GMT",
+      "description": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend."
     },
     {
       "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 11 Aug 2026 23:31:18 GMT",
       "description": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations."
-    },
-    {
-      "title": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
-      "link": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 11 Aug 2026 20:39:42 GMT",
-      "description": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Andrew Tate&apos;s extradition fight tests his influence with Trump&apos;s America",
+        "link": "https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties",
+        "pubDate": "Wed, 12 Aug 2026 06:47:30 -0400",
+        "description": "After President Trump took office, Andrew Tate proclaimed, &quot;The Tates will be free.&quot; A year later, Tate is being held in federal prison after he was arrested following a U.K. extradition req"
+      },
       {
         "title": "Feel so busy you don&apos;t even realize you&apos;re busy? Try doing a time audit",
         "link": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit",
@@ -119,16 +125,16 @@
         "description": "Federal efforts to revive uranium mining in the West and decrease reliance on Russian uranium raise concerns about drinking water for tribal communities reckoning with the industry&apos;s deadly legac"
       },
       {
-        "title": "AI chatbots are offering financial advice. Should you trust them?",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
-        "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
-        "description": "Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions."
-      },
-      {
         "title": "How a road could change West Africa&apos;s urban future",
         "link": "https://www.npr.org/2026/08/12/nx-s1-5901327/west-africa-trade-growth-economy-nigeria-ghana-lagos",
         "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
         "description": "A 600-mile journey along the shores of Nigeria, Togo, Ghana and Ivory Coast reveals one of the world&apos;s most consequential transformations."
+      },
+      {
+        "title": "AI chatbots are offering financial advice. Should you trust them?",
+        "link": "https://www.npr.org/2026/08/12/nx-s1-5924813/ai-chatbots-financial-advice",
+        "pubDate": "Wed, 12 Aug 2026 05:00:00 -0400",
+        "description": "Experts say AI can get personal finance fundamentals right but may struggle with nuanced questions."
       },
       {
         "title": "Morning news brief",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong",
         "pubDate": "Wed, 12 Aug 2026 04:06:55 -0400",
         "description": "David Crowley is the Milwaukee County Executive and could become the state&apos;s first Black governor. He narrowly defeated Francesca Hong, a democratic socialist who drew enthusiastic support."
-      },
-      {
-        "title": "Former U.S. Marine held in Russia on disputed charges has been released",
-        "link": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia",
-        "pubDate": "Wed, 12 Aug 2026 01:27:13 -0400",
-        "description": "Russia released an American military veteran, allowing his return to the U.S. after four years of what his family and U.S. officials allege was wrongful incarceration and abusive treatment."
       }
     ],
     "Canada": []
