@@ -1,17 +1,11 @@
 {
-  "updated": "2026-08-13T15:57:25.758Z",
+  "updated": "2026-08-13T16:57:26.039Z",
   "world": [
     {
       "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
       "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 15:40:31 GMT",
+      "pubDate": "Thu, 13 Aug 2026 16:20:41 GMT",
       "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
-    },
-    {
-      "title": "UK defends seizing shadow fleet tanker after Putin threat",
-      "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 15:05:12 GMT",
-      "description": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
     },
     {
       "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
@@ -26,6 +20,12 @@
       "description": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases."
     },
     {
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 16:30:06 GMT",
+      "description": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since November."
+    },
+    {
       "title": "Person fined after using foghorn to wake sleeping polar bear",
       "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 15:30:57 GMT",
@@ -38,22 +38,46 @@
       "description": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest."
     },
     {
+      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 16:45:06 GMT",
+      "description": "Mangione faces two federal stalking crimes that carry a maximum penalty of life in prison without parole."
+    },
+    {
+      "title": "UK defends seizing shadow fleet tanker after Putin threat",
+      "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 15:05:12 GMT",
+      "description": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
+    },
+    {
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 16:05:35 GMT",
+      "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
+    },
+    {
       "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
       "link": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 14:51:44 GMT",
       "description": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct."
     },
     {
-      "title": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 08:15:10 GMT",
-      "description": "The accusations against Bruno Foucher prompted investigations into a potential security breach."
+      "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
+      "link": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 15:50:49 GMT",
+      "description": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\"."
     },
     {
       "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
       "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 01:19:23 GMT",
       "description": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
+    },
+    {
+      "title": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
+      "link": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 08:15:10 GMT",
+      "description": "The accusations against Bruno Foucher prompted investigations into a potential security breach."
     },
     {
       "title": "BTS star V reveals hearing loss battle during livestream",
@@ -66,34 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 14:29:11 GMT",
       "description": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal."
-    },
-    {
-      "title": "Indian actor's video with endangered gibbon sparks investigation",
-      "link": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 07:05:35 GMT",
-      "description": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India."
-    },
-    {
-      "title": "Three men will be executed on the same day as death penalties rise in US",
-      "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 13:27:00 GMT",
-      "description": "Despite growing opposition to the death penalty, one state is behind the rising numbers."
-    },
-    {
-      "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 09:54:03 GMT",
-      "description": "It was the first time the Russian leader had visited the Kuril islands, according to state media."
-    },
-    {
-      "title": "Australian army whistleblower released on parole after more than two years in jail",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 02:23:39 GMT",
-      "description": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Vladimir Putin&apos;s first visit to disputed Pacific islands draws Tokyo protest",
+        "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
+        "pubDate": "Thu, 13 Aug 2026 12:40:26 -0400",
+        "description": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories."
+      },
       {
         "title": "By sky and sea, Ukraine&apos;s drone strikes challenge Russia&apos;s grip on Crimea",
         "link": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief",
         "pubDate": "Thu, 13 Aug 2026 04:44:44 -0400",
         "description": "Primary results reveal divide among Democratic Party, new inflation report could give the Fed more time to bring inflation under control, rescues teams race to find survivors of Colombia earthquake."
-      },
-      {
-        "title": "Author discusses the common myths and stereotypes about domestic violence",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5922413/author-discusses-the-common-myths-and-stereotypes-about-domestic-violence",
-        "pubDate": "Thu, 13 Aug 2026 04:43:17 -0400",
-        "description": "Allegations of domestic violence against Congressman Max Miller, which he denies, have raised persistent stereotypes about abuse. NPR&apos;s Michel Martin talks to author Leslie Morgan Steiner."
       }
     ],
     "Canada": []
