@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T11:06:08.700Z",
+  "updated": "2026-08-13T12:08:19.330Z",
   "world": [
     {
       "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
@@ -26,16 +26,16 @@
       "description": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases."
     },
     {
-      "title": "Indian actor's video with endangered gibbon sparks investigation",
-      "link": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 07:05:35 GMT",
-      "description": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India."
-    },
-    {
       "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
       "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 01:19:23 GMT",
       "description": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
+    },
+    {
+      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "link": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 11:10:31 GMT",
+      "description": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest."
     },
     {
       "title": "French ambassador to CAR accused of bringing women to official residence faces disciplinary action",
@@ -56,9 +56,15 @@
       "description": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal."
     },
     {
+      "title": "Indian actor's video with endangered gibbon sparks investigation",
+      "link": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 07:05:35 GMT",
+      "description": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India."
+    },
+    {
       "title": "Three men will be executed on the same day as death penalties rise in US",
       "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 20:52:20 GMT",
+      "pubDate": "Thu, 13 Aug 2026 12:04:44 GMT",
       "description": "Despite growing opposition to the death penalty, one state is behind the rising numbers."
     },
     {
@@ -84,16 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 03:28:56 GMT",
       "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
-    },
-    {
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 16:14:08 GMT",
-      "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
+        "link": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
+        "pubDate": "Thu, 13 Aug 2026 07:31:18 -0400",
+        "description": "Inflation cooled a bit last month, according to a new report from the Labor Department. And, ICE plans to equip its officers with electric shock gloves."
+      },
+      {
+        "title": "The drug lenacapavir is a mighty weapon against HIV. Its rollout gets mixed reviews",
+        "link": "https://www.npr.org/2026/08/13/g-s1-137742/hiv-prevention-lenacapavir-uganda",
+        "pubDate": "Thu, 13 Aug 2026 07:18:53 -0400",
+        "description": "It&apos;s a twice-a-year injection that is remarkably effective in preventing an HIV infection. Distribution is starting. But questions are being raised about getting it to the areas that need it most"
+      },
       {
         "title": "U.S. ambassador calls settler siege of Palestinian homes a &apos;horrific act of terror&apos;",
         "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
         "pubDate": "Wed, 12 Aug 2026 21:38:01 -0400",
         "description": "Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain,"
-      },
-      {
-        "title": "ICE plans to outfit officers with electric shock gloves",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5929545/ice-buys-electric-shock-gloves",
-        "pubDate": "Wed, 12 Aug 2026 18:13:57 -0400",
-        "description": "The company that makes the gloves, Compliant Technologies, says they&apos;re a nonlethal tool to make individuals compliant during arrests."
-      },
-      {
-        "title": "Trump sued over service selling faster access to Truth Social posts",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
-        "pubDate": "Wed, 12 Aug 2026 16:33:10 -0400",
-        "description": "The federal lawsuit alleges that the service from the president&apos;s media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 customers."
       }
     ],
     "Canada": []
