@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-13T04:07:53.306Z",
+  "updated": "2026-08-13T05:54:25.687Z",
   "world": [
     {
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 03:28:56 GMT",
-      "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 04:55:58 GMT",
+      "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year."
     },
     {
       "title": "Israeli settlers besieging Palestinian families in West Bank village",
@@ -32,16 +32,22 @@
       "description": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down."
     },
     {
-      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 22:41:46 GMT",
-      "description": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete."
+      "title": "BTS star V reveals hearing loss battle during livestream",
+      "link": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 04:09:12 GMT",
+      "description": "The K-pop star says he has suffered hearing issues for over two years before revealing it publicly this week."
     },
     {
       "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
       "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 01:19:23 GMT",
       "description": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
+    },
+    {
+      "title": "Japan protests against Putin visit to disputed islands",
+      "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 05:34:04 GMT",
+      "description": "The Russian leader visited the Kuril islands for the first time, according to state media."
     },
     {
       "title": "Australian army whistleblower released on parole after more than two years in jail",
@@ -56,6 +62,12 @@
       "description": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures."
     },
     {
+      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 03:28:56 GMT",
+      "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
+    },
+    {
       "title": "Trump says White House press secretary Karoline Leavitt to leave post",
       "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 22:58:45 GMT",
@@ -68,32 +80,26 @@
       "description": "The streaming platform's users criticised the move to allow the use of channel content for AI training."
     },
     {
+      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 12 Aug 2026 22:41:46 GMT",
+      "description": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete."
+    },
+    {
       "title": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
       "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 12 Aug 2026 13:55:56 GMT",
       "description": "The vessel is said to have overturned after being hit by strong waves."
-    },
-    {
-      "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 11:28:05 GMT",
-      "description": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies."
-    },
-    {
-      "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
-      "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 12:10:45 GMT",
-      "description": "The former premier brought China into the WTO and championed reforms that fuelled growth."
-    },
-    {
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 23:19:57 GMT",
-      "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
+        "link": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions",
+        "pubDate": "Thu, 13 Aug 2026 01:43:43 -0400",
+        "description": "Three men in Tennessee, Alabama and Oklahoma are scheduled for lethal injection Thursday in a rare convergence of executions on the same day in the U.S."
+      },
       {
         "title": "Photos: See the best photos from the solar eclipse",
         "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi",
         "pubDate": "Wed, 12 Aug 2026 09:00:19 -0400",
         "description": "Dr. Raj Panjabi founded Last Mile Health to bring healthcare to people living in remote areas. The group is the 2026 recipient of the Conrad N. Hilton Humanitarian Prize."
-      },
-      {
-        "title": "Zhu Rongji, who drove China&apos;s 1990s economic reforms, has died at 97",
-        "link": "https://www.npr.org/2026/08/12/1196705508/zhu-rongji-china-former-premier-dead",
-        "pubDate": "Wed, 12 Aug 2026 08:36:30 -0400",
-        "description": "Zhu was renowned for reforms that sought to transition China from the post-Maoist years to a more global market-oriented financial system, without ceding party control over the economy."
       }
     ],
     "Canada": []
