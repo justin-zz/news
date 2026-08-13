@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T12:08:19.330Z",
+  "updated": "2026-08-13T13:56:06.367Z",
   "world": [
     {
       "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
@@ -38,7 +38,7 @@
       "description": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest."
     },
     {
-      "title": "French ambassador to CAR accused of bringing women to official residence faces disciplinary action",
+      "title": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
       "link": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 08:15:10 GMT",
       "description": "The accusations against Bruno Foucher prompted investigations into a potential security breach."
@@ -64,7 +64,7 @@
     {
       "title": "Three men will be executed on the same day as death penalties rise in US",
       "link": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 12:04:44 GMT",
+      "pubDate": "Thu, 13 Aug 2026 13:27:00 GMT",
       "description": "Despite growing opposition to the death penalty, one state is behind the rising numbers."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+        "link": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
+        "pubDate": "Thu, 13 Aug 2026 09:18:43 -0400",
+        "description": "The drills come amid rising tensions with China, which frequently sends military planes and ships towards Taiwan."
+      },
+      {
         "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
         "link": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
         "pubDate": "Thu, 13 Aug 2026 07:31:18 -0400",
@@ -107,22 +113,28 @@
         "description": "It&apos;s a twice-a-year injection that is remarkably effective in preventing an HIV infection. Distribution is starting. But questions are being raised about getting it to the areas that need it most"
       },
       {
+        "title": "Primary voters send mixed signals about what they want from the Democratic Party",
+        "link": "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
+        "pubDate": "Thu, 13 Aug 2026 06:59:33 -0400",
+        "description": "Primary results this month in Michigan, Minnesota and Wisconsin paint a muddled picture of just how far to the left Democratic voters want their candidates to be come this fall&apos;s midterm election"
+      },
+      {
         "title": "U.S. ambassador calls settler siege of Palestinian homes a &apos;horrific act of terror&apos;",
         "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
         "pubDate": "Thu, 13 Aug 2026 05:58:40 -0400",
         "description": "The U.S. Ambassador to Israel Mike Huckabee condemned the actions of Jewish settlers who are besieging the home of an American Palestinian family in the Israeli-occupied West Bank."
       },
       {
-        "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
-        "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
-        "description": "In online focus groups, 10 of 12 Biden-to-Trump voters said they wouldn&apos;t automatically think negatively of a politician who identifies with socialism."
-      },
-      {
         "title": "Sailors and their families have lives on pause, uncertain if they&apos;ll return to Mideast",
         "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
         "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
         "description": "Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind."
+      },
+      {
+        "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
+        "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
+        "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
+        "description": "In online focus groups, 10 of 12 Biden-to-Trump voters said they wouldn&apos;t automatically think negatively of a politician who identifies with socialism."
       },
       {
         "title": "Morning news brief",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
         "pubDate": "Thu, 13 Aug 2026 02:04:38 -0400",
         "description": "As the sky darkened, gradually at first and then quickly, people broke into applause and cheered. It was the Spain&apos;s first total solar eclipse in more than a century."
-      },
-      {
-        "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
-        "link": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions",
-        "pubDate": "Thu, 13 Aug 2026 01:43:43 -0400",
-        "description": "Three men in Tennessee, Alabama and Oklahoma are scheduled for lethal injection Thursday in a rare convergence of executions on the same day in the U.S."
-      },
-      {
-        "title": "Photos: See the best photos from the solar eclipse",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
-        "pubDate": "Wed, 12 Aug 2026 21:38:01 -0400",
-        "description": "Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain,"
       }
     ],
     "Canada": []
