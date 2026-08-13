@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T16:57:26.039Z",
+  "updated": "2026-08-13T17:58:09.593Z",
   "world": [
     {
       "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
@@ -22,8 +22,8 @@
     {
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 16:30:06 GMT",
-      "description": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been at sea since November."
+      "pubDate": "Thu, 13 Aug 2026 17:21:00 GMT",
+      "description": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been deployed since November."
     },
     {
       "title": "Person fined after using foghorn to wake sleeping polar bear",
@@ -42,6 +42,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 16:45:06 GMT",
       "description": "Mangione faces two federal stalking crimes that carry a maximum penalty of life in prison without parole."
+    },
+    {
+      "title": "Air India to test all pilots for banned substances",
+      "link": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 16:52:15 GMT",
+      "description": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured."
     },
     {
       "title": "UK defends seizing shadow fleet tanker after Putin threat",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 04:09:12 GMT",
       "description": "The K-pop star says he has suffered hearing issues for over two years before revealing it publicly this week."
-    },
-    {
-      "title": "Zambians voting as president bids for second term",
-      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 14:29:11 GMT",
-      "description": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Mangione could plead guilty in federal case ahead of NY murder trial",
+        "link": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
+        "pubDate": "Thu, 13 Aug 2026 13:29:15 -0400",
+        "description": "A surprise hearing Friday in federal court has added to speculation Luigi Mangione could enter a plea, which could derail a state murder trial."
+      },
       {
         "title": "Vladimir Putin&apos;s first visit to disputed Pacific islands draws Tokyo protest",
         "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
@@ -137,22 +143,16 @@
         "description": "The U.S. Ambassador to Israel Mike Huckabee condemned the actions of Jewish settlers who are besieging the home of an American Palestinian family in the Israeli-occupied West Bank."
       },
       {
-        "title": "Sailors and their families have lives on pause, uncertain if they&apos;ll return to Mideast",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
-        "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
-        "description": "Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind."
-      },
-      {
         "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
         "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
         "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
         "description": "In online focus groups, 10 of 12 Biden-to-Trump voters said they wouldn&apos;t automatically think negatively of a politician who identifies with socialism."
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief",
-        "pubDate": "Thu, 13 Aug 2026 04:44:44 -0400",
-        "description": "Primary results reveal divide among Democratic Party, new inflation report could give the Fed more time to bring inflation under control, rescues teams race to find survivors of Colombia earthquake."
+        "title": "Sailors and their families have lives on hold, uncertain if they&apos;ll return to Mideast",
+        "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
+        "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
+        "description": "Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind."
       }
     ],
     "Canada": []
