@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T08:50:06.006Z",
+  "updated": "2026-08-13T09:59:58.921Z",
   "world": [
     {
       "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
@@ -52,7 +52,7 @@
     {
       "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
       "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 08:13:55 GMT",
+      "pubDate": "Thu, 13 Aug 2026 09:54:03 GMT",
       "description": "It was the first time the Russian leader had visited the Kuril islands, according to state media."
     },
     {
@@ -94,6 +94,18 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Sailors and their families have lives on pause, uncertain if they&apos;ll return to Mideast",
+        "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
+        "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
+        "description": "Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind."
+      },
+      {
+        "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
+        "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
+        "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
+        "description": "In online focus groups, 10 of 12 Biden-to-Trump voters said they wouldn&apos;t automatically think negatively of a politician who identifies with socialism."
+      },
       {
         "title": "Morning news brief",
         "link": "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/12/nx-s1-5929456/migrant-children-our-rescue",
         "pubDate": "Wed, 12 Aug 2026 16:19:40 -0400",
         "description": "Utah-based Our Rescue was founded by activist Tim Ballard. It was previously known as Operation Underground Railroad and it says it helps law enforcement perform sting operations and rescues human tra"
-      },
-      {
-        "title": "White House press secretary leaving",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-        "pubDate": "Wed, 12 Aug 2026 16:05:54 -0400",
-        "description": "Karoline Leavitt will continue to be an outside adviser, Trump said"
-      },
-      {
-        "title": "Has the U.S. lost its dominance to China?",
-        "link": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china",
-        "pubDate": "Wed, 12 Aug 2026 14:24:48 -0400",
-        "description": "Beijing may be benefiting from the war in Iran and Trump&apos;s tariffs and has an edge in the competition for tech supremacy. &lt;em&gt;The New Yorker&lt;/em&gt;&apos;s Evan Osnos discusses his story"
       }
     ],
     "Canada": []
