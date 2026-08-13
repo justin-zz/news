@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T05:54:25.687Z",
+  "updated": "2026-08-13T07:20:34.828Z",
   "world": [
     {
       "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
@@ -46,8 +46,8 @@
     {
       "title": "Japan protests against Putin visit to disputed islands",
       "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 05:34:04 GMT",
-      "description": "The Russian leader visited the Kuril islands for the first time, according to state media."
+      "pubDate": "Thu, 13 Aug 2026 06:21:31 GMT",
+      "description": "It was the first time the Russian leader had visited the Kuril islands, according to state media."
     },
     {
       "title": "Australian army whistleblower released on parole after more than two years in jail",
@@ -74,10 +74,10 @@
       "description": "Leavitt will depart from her role to spend time with her young children and family, the president says."
     },
     {
-      "title": "Twitch users can now block Amazon from using their content to train AI",
+      "title": "Twitch users can block Amazon from using content for AI",
       "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 02:46:04 GMT",
-      "description": "The streaming platform's users criticised the move to allow the use of channel content for AI training."
+      "pubDate": "Thu, 13 Aug 2026 06:44:53 GMT",
+      "description": "Fans of the streaming platform criticised Twitch for letting Amazon use their content for AI training."
     },
     {
       "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
@@ -94,6 +94,18 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
+        "link": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment",
+        "pubDate": "Thu, 13 Aug 2026 02:21:25 -0400",
+        "description": "A grand jury has indicted Nick Reiner on murder charges in the killings of his parents, Rob Reiner and Michele Singer Reiner, and adds the allegation that he was lying in wait before attacking them."
+      },
+      {
+        "title": "Millions crowd cities to see Spain&apos;s first total solar eclipse in over a century",
+        "link": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
+        "pubDate": "Thu, 13 Aug 2026 02:04:38 -0400",
+        "description": "As the sky darkened, gradually at first and then quickly, people broke into applause and cheered. It was the Spain&apos;s first total solar eclipse in more than a century."
+      },
       {
         "title": "3 men set for lethal injection on same day in Tennessee, Alabama and Oklahoma",
         "link": "https://www.npr.org/2026/08/13/g-s1-138552/us-same-day-executions",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/12/nx-s1-5929122/inflation-cpi-economy-gas-grocery",
         "pubDate": "Wed, 12 Aug 2026 10:00:29 -0400",
         "description": "Consumer prices in July were up 3.4% from a year ago — a smaller annual increase than in May or June. The news makes it less likely the Fed will feel the need to raise interest rates in September."
-      },
-      {
-        "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
-        "link": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
-        "pubDate": "Wed, 12 Aug 2026 09:38:58 -0400",
-        "description": "The pristine white sand dunes of the Lençóis Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season"
-      },
-      {
-        "title": "His wedding guests gave $6k to fund a health startup. Now it&apos;s won a $3 million prize",
-        "link": "https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi",
-        "pubDate": "Wed, 12 Aug 2026 09:00:19 -0400",
-        "description": "Dr. Raj Panjabi founded Last Mile Health to bring healthcare to people living in remote areas. The group is the 2026 recipient of the Conrad N. Hilton Humanitarian Prize."
       }
     ],
     "Canada": []
