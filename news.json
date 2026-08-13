@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T17:58:09.593Z",
+  "updated": "2026-08-13T19:07:12.232Z",
   "world": [
     {
       "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
@@ -8,22 +8,22 @@
       "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
     },
     {
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 16:05:35 GMT",
+      "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
+    },
+    {
       "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 04:55:58 GMT",
       "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year."
     },
     {
-      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 01:31:21 GMT",
-      "description": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases."
-    },
-    {
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 17:21:00 GMT",
-      "description": "There are reports of food shortages, broken plumbing and other potential harms aboard the USS Abraham Lincoln, which has been deployed since November."
+      "pubDate": "Thu, 13 Aug 2026 18:36:02 GMT",
+      "description": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
     },
     {
       "title": "Person fined after using foghorn to wake sleeping polar bear",
@@ -40,8 +40,8 @@
     {
       "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
       "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 16:45:06 GMT",
-      "description": "Mangione faces two federal stalking crimes that carry a maximum penalty of life in prison without parole."
+      "pubDate": "Thu, 13 Aug 2026 18:45:51 GMT",
+      "description": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison."
     },
     {
       "title": "Air India to test all pilots for banned substances",
@@ -56,16 +56,16 @@
       "description": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
     },
     {
-      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 16:05:35 GMT",
-      "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
-    },
-    {
       "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
       "link": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 14:51:44 GMT",
       "description": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct."
+    },
+    {
+      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 01:31:21 GMT",
+      "description": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases."
     },
     {
       "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
@@ -95,10 +95,16 @@
   "regions": {
     "US": [
       {
-        "title": "Mangione could plead guilty in federal case ahead of NY murder trial",
+        "title": "Kennedy Center Board votes again to shut main building down — and add Trump&apos;s name back",
+        "link": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
+        "pubDate": "Thu, 13 Aug 2026 14:55:30 -0400",
+        "description": "The board voted to close the Washington, D.C., arts complex&apos;s main campus for a $250 million renovation — three months after a federal judge temporarily blocked a similar closure."
+      },
+      {
+        "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
         "link": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
         "pubDate": "Thu, 13 Aug 2026 13:29:15 -0400",
-        "description": "A surprise hearing Friday in federal court has added to speculation Luigi Mangione could enter a plea, which could derail a state murder trial."
+        "description": "A surprise hearing this Friday in federal court has added to speculation that Luigi Mangione could enter a plea, which could derail a state murder trial."
       },
       {
         "title": "Vladimir Putin&apos;s first visit to disputed Pacific islands draws Tokyo protest",
@@ -141,12 +147,6 @@
         "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
         "pubDate": "Thu, 13 Aug 2026 05:58:40 -0400",
         "description": "The U.S. Ambassador to Israel Mike Huckabee condemned the actions of Jewish settlers who are besieging the home of an American Palestinian family in the Israeli-occupied West Bank."
-      },
-      {
-        "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
-        "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
-        "description": "In online focus groups, 10 of 12 Biden-to-Trump voters said they wouldn&apos;t automatically think negatively of a politician who identifies with socialism."
       },
       {
         "title": "Sailors and their families have lives on hold, uncertain if they&apos;ll return to Mideast",
