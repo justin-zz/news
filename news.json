@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-13T14:55:48.871Z",
+  "updated": "2026-08-13T15:57:25.758Z",
   "world": [
+    {
+      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 15:40:31 GMT",
+      "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
+    },
+    {
+      "title": "UK defends seizing shadow fleet tanker after Putin threat",
+      "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 15:05:12 GMT",
+      "description": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
+    },
     {
       "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 04:55:58 GMT",
       "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year."
-    },
-    {
-      "title": "UK defends seizing shadow fleet tanker after Putin threat",
-      "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 11:05:03 GMT",
-      "description": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law."
-    },
-    {
-      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 08:12:53 GMT",
-      "description": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday."
     },
     {
       "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
@@ -26,10 +26,10 @@
       "description": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases."
     },
     {
-      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-      "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 01:19:23 GMT",
-      "description": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
+      "title": "Person fined after using foghorn to wake sleeping polar bear",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 15:30:57 GMT",
+      "description": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\"."
     },
     {
       "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
@@ -38,10 +38,22 @@
       "description": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest."
     },
     {
+      "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
+      "link": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 14:51:44 GMT",
+      "description": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct."
+    },
+    {
       "title": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
       "link": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 08:15:10 GMT",
       "description": "The accusations against Bruno Foucher prompted investigations into a potential security breach."
+    },
+    {
+      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
+      "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 01:19:23 GMT",
+      "description": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
     },
     {
       "title": "BTS star V reveals hearing loss battle during livestream",
@@ -78,22 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 02:23:39 GMT",
       "description": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan."
-    },
-    {
-      "title": "Thousands of Canadians call for US ambassador's expulsion",
-      "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 12 Aug 2026 22:56:44 GMT",
-      "description": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures."
-    },
-    {
-      "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 03:28:56 GMT",
-      "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "By sky and sea, Ukraine&apos;s drone strikes challenge Russia&apos;s grip on Crimea",
+        "link": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
+        "pubDate": "Thu, 13 Aug 2026 11:18:27 -0400",
+        "description": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life."
+      },
       {
         "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
         "link": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
@@ -143,16 +149,10 @@
         "description": "Primary results reveal divide among Democratic Party, new inflation report could give the Fed more time to bring inflation under control, rescues teams race to find survivors of Colombia earthquake."
       },
       {
-        "title": "New indictment alleges Nick Reiner was lying in wait before killing his parents",
-        "link": "https://www.npr.org/2026/08/13/g-s1-138566/reiner-indictment",
-        "pubDate": "Thu, 13 Aug 2026 02:21:25 -0400",
-        "description": "A grand jury has indicted Nick Reiner on murder charges in the killings of his parents, Rob Reiner and Michele Singer Reiner, and adds the allegation that he was lying in wait before attacking them."
-      },
-      {
-        "title": "Millions crowd cities to see Spain&apos;s first total solar eclipse in over a century",
-        "link": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
-        "pubDate": "Thu, 13 Aug 2026 02:04:38 -0400",
-        "description": "As the sky darkened, gradually at first and then quickly, people broke into applause and cheered. It was the Spain&apos;s first total solar eclipse in more than a century."
+        "title": "Author discusses the common myths and stereotypes about domestic violence",
+        "link": "https://www.npr.org/2026/08/13/nx-s1-5922413/author-discusses-the-common-myths-and-stereotypes-about-domestic-violence",
+        "pubDate": "Thu, 13 Aug 2026 04:43:17 -0400",
+        "description": "Allegations of domestic violence against Congressman Max Miller, which he denies, have raised persistent stereotypes about abuse. NPR&apos;s Michel Martin talks to author Leslie Morgan Steiner."
       }
     ],
     "Canada": []
