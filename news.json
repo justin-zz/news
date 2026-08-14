@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T17:26:54.687Z",
+  "updated": "2026-08-14T18:24:51.736Z",
   "world": [
     {
       "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "How Americans deceive ourselves about slavery",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery",
+        "pubDate": "Fri, 14 Aug 2026 14:13:00 -0400",
+        "description": "Clint Smith&apos;s &lt;em&gt;How the Word Is Passed &lt;/em&gt;explores how slavery is — and isn&apos;t — taught. And &lt;em&gt;Above Ground&lt;/em&gt; includes poems to his children about what their "
+      },
+      {
         "title": "As speed cameras spread to more states, so does the backlash from drivers",
         "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
         "pubDate": "Fri, 14 Aug 2026 12:54:58 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
         "pubDate": "Fri, 14 Aug 2026 06:30:17 -0400",
         "description": "At least eight people died in Japan as heavy rains flooded roads and disrupted traffic while firefighters from Britain to France and Croatia struggled to contain blazes in Europe&apos;s fifth heatwave"
-      },
-      {
-        "title": "Fill in the blank on this week&apos;s quiz: Rep. AOC is documenting ____ on Instagram",
-        "link": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz",
-        "pubDate": "Fri, 14 Aug 2026 05:01:00 -0400",
-        "description": "Plus, which beloved animal crossed the rainbow bridge, and what bit of papal paraphernalia did Chicago baseball fans get this week?"
       }
     ],
     "Canada": []
