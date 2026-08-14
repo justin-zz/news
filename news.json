@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T14:15:48.924Z",
+  "updated": "2026-08-14T15:20:38.202Z",
   "world": [
     {
       "title": "'Unprecedented' rain in Japan kills eight people",
@@ -20,7 +20,7 @@
       "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies."
     },
     {
-      "title": "Builders unearth €9m gold loot sealed in walls of Belgian property",
+      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
       "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 14 Aug 2026 13:18:08 GMT",
       "description": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes."
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "We learned 5 important things about the economy this week",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
+        "pubDate": "Fri, 14 Aug 2026 10:47:15 -0400",
+        "description": "&lt;em&gt;From inflation, to credit card debt, to who&apos;s actually doing the spending: These are key takeaways from this week in economic news.&lt;/em&gt;"
+      },
+      {
+        "title": "The Taliban has taken a terrible toll on the education of girls -- and boys as well",
+        "link": "https://www.npr.org/2026/08/14/g-s1-138584/taliban-afghanistan-boys-girls-education-school",
+        "pubDate": "Fri, 14 Aug 2026 10:41:22 -0400",
+        "description": "Saturday marks the 5th anniversary of the current Taliban rule in Aghanistan. They&apos;ve had a devastating impact on girls&apos; education. A lesser told story is their impact on the education of bo"
+      },
+      {
         "title": "U.S. missionary who was kidnapped in Niger is released",
         "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
         "pubDate": "Fri, 14 Aug 2026 08:11:50 -0400",
@@ -105,6 +117,12 @@
         "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
         "pubDate": "Fri, 14 Aug 2026 07:02:42 -0400",
         "description": "Federal regulators are reviewing &apos;mention markets&apos; that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed"
+      },
+      {
+        "title": "Sen. Ruben Gallego on handling of USS Lincoln conditions: &apos;That&apos;s not proper leadership&apos;",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego",
+        "pubDate": "Fri, 14 Aug 2026 06:47:19 -0400",
+        "description": "Lawmakers want answers from the Pentagon chief and the U.S. Navy about living conditions aboard the USS Lincoln. NPR&apos;s Michel Martin speaks with Democratic Sen. Ruben Gallego of Arizona."
       },
       {
         "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/08/14/nx-s1-5927062/morning-news-brief",
         "pubDate": "Fri, 14 Aug 2026 04:45:41 -0400",
         "description": "Lawmakers and families raise concerns about conditions aboard USS Lincoln, as the U.S.-Iran war drags on, Iranians seek a break from the conflict, Russian-held Crimea faces Ukrainian drone campaign."
-      },
-      {
-        "title": "2 workers share how helping kids at a community center has changed their lives",
-        "link": "https://www.npr.org/2026/08/14/nx-s1-5927231/2-workers-share-how-helping-kids-at-a-community-center-has-changed-their-lives",
-        "pubDate": "Fri, 14 Aug 2026 04:43:52 -0400",
-        "description": "Workers at a Louisiana community center talk about how helping children has enriched their lives."
-      },
-      {
-        "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
-        "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
-        "pubDate": "Fri, 14 Aug 2026 02:31:29 -0400",
-        "description": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincol"
-      },
-      {
-        "title": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard University",
-        "link": "https://www.npr.org/2026/08/14/g-s1-138721/trump-antisemitism-harvard",
-        "pubDate": "Fri, 14 Aug 2026 02:15:54 -0400",
-        "description": "The decision from U.S. District Judge Richard G. Stearns said that President Donald Trump&apos;s administration failed to prove an ongoing violation of federal civil rights laws."
       }
     ],
     "Canada": []
