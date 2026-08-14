@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T00:06:25.058Z",
+  "updated": "2026-08-14T03:05:48.767Z",
   "world": [
     {
       "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
@@ -38,16 +38,16 @@
       "description": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\"."
     },
     {
-      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 18:45:51 GMT",
-      "description": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison."
-    },
-    {
       "title": "Family of Irish plane crash victim awarded $29m in damages",
       "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 19:08:49 GMT",
       "description": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his  widow Naoise Connolly Ryan brought a civil suit against Boeing."
+    },
+    {
+      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 18:45:51 GMT",
+      "description": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison."
     },
     {
       "title": "Air India to test all pilots for banned substances",
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Feds probe &apos;mention markets&apos; amid White House Kalshi controversy",
+        "link": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
+        "pubDate": "Thu, 13 Aug 2026 22:06:10 -0400",
+        "description": "Betting on what people say is becoming an increasingly popular category of prediction market sites. Now, federal officials have opened a probe examining whether those markets are a magnet for manipula"
+      },
       {
         "title": "Kennedy Center Board votes again to shut main building down — and add Trump&apos;s name back",
         "link": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
         "pubDate": "Thu, 13 Aug 2026 05:58:40 -0400",
         "description": "The U.S. Ambassador to Israel Mike Huckabee condemned the actions of Jewish settlers who are besieging the home of an American Palestinian family in the Israeli-occupied West Bank."
-      },
-      {
-        "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
-        "pubDate": "Thu, 13 Aug 2026 05:00:00 -0400",
-        "description": "In online focus groups, 10 of 12 Biden-to-Trump voters said they wouldn&apos;t automatically think negatively of a politician who identifies with socialism."
       }
     ],
     "Canada": []
