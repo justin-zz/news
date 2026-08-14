@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-14T08:12:24.678Z",
+  "updated": "2026-08-14T09:34:28.406Z",
   "world": [
     {
-      "title": "'Unprecedented' rains in Japan kill six people",
+      "title": "'Unprecedented' rain in Japan kills six people",
       "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 14 Aug 2026 07:00:56 GMT",
       "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
@@ -16,14 +16,8 @@
     {
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
       "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 14 Aug 2026 03:09:48 GMT",
+      "pubDate": "Fri, 14 Aug 2026 08:39:46 GMT",
       "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies."
-    },
-    {
-      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 19:46:27 GMT",
-      "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
     },
     {
       "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
@@ -38,10 +32,22 @@
       "description": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
     },
     {
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 14 Aug 2026 08:34:19 GMT",
+      "description": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo."
+    },
+    {
       "title": "Person fined after using foghorn to wake sleeping polar bear",
       "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 15:30:57 GMT",
       "description": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\"."
+    },
+    {
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 19:46:27 GMT",
+      "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
     },
     {
       "title": "Air India to test all pilots for banned substances",
@@ -84,16 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 08:15:10 GMT",
       "description": "The accusations against Bruno Foucher prompted investigations into a potential security breach."
-    },
-    {
-      "title": "Indian actor's video with endangered gibbon sparks investigation",
-      "link": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 07:05:35 GMT",
-      "description": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Fill in the blank on this week&apos;s quiz: Rep. AOC is documenting ____ on Instagram",
+        "link": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz",
+        "pubDate": "Fri, 14 Aug 2026 05:01:00 -0400",
+        "description": "Plus, which beloved animal crossed the rainbow bridge, and what bit of papal paraphernalia did Chicago baseball fans get this week?"
+      },
+      {
+        "title": "ICE uses controversial program to boost deportations. Here&apos;s how it works in 1 county",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police",
+        "pubDate": "Fri, 14 Aug 2026 05:00:00 -0400",
+        "description": "Details on how ICE cooperation agreements work in practice have been hard to come by. NPR took a close look at how sheriff&apos;s deputies in Walton County, Fla., approach immigration-related arrests."
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5927062/morning-news-brief",
+        "pubDate": "Fri, 14 Aug 2026 04:45:41 -0400",
+        "description": "Lawmakers and families raise concerns about conditions aboard USS Lincoln, as the U.S.-Iran war drags on, Iranians seek a break from the conflict, Russian-held Crimea faces Ukrainian drone campaign."
+      },
       {
         "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
         "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
         "pubDate": "Thu, 13 Aug 2026 13:29:15 -0400",
         "description": "A surprise hearing this Friday in federal court has added to speculation that Luigi Mangione could enter a plea, which could derail a state murder trial."
-      },
-      {
-        "title": "Vladimir Putin&apos;s first visit to disputed Pacific islands draws Tokyo protest",
-        "link": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
-        "pubDate": "Thu, 13 Aug 2026 12:40:26 -0400",
-        "description": "The four southernmost islands of the chain also are claimed by Japan, which calls them the Northern Territories."
-      },
-      {
-        "title": "By sky and sea, Ukraine&apos;s drone strikes challenge Russia&apos;s grip on Crimea",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
-        "pubDate": "Thu, 13 Aug 2026 11:18:27 -0400",
-        "description": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life."
-      },
-      {
-        "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
-        "link": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
-        "pubDate": "Thu, 13 Aug 2026 09:18:43 -0400",
-        "description": "The drills come amid rising tensions with China, which frequently sends military planes and ships towards Taiwan."
       }
     ],
     "Canada": []
