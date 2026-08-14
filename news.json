@@ -1,17 +1,11 @@
 {
-  "updated": "2026-08-14T09:34:28.406Z",
+  "updated": "2026-08-14T10:54:59.135Z",
   "world": [
     {
-      "title": "'Unprecedented' rain in Japan kills six people",
+      "title": "'Unprecedented' rain in Japan kills eight people",
       "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 14 Aug 2026 07:00:56 GMT",
+      "pubDate": "Fri, 14 Aug 2026 10:36:14 GMT",
       "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
-    },
-    {
-      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 20:12:17 GMT",
-      "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
     },
     {
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
@@ -36,6 +30,18 @@
       "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 14 Aug 2026 08:34:19 GMT",
       "description": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo."
+    },
+    {
+      "title": "US missionary released following kidnap in Niger, Christian group says",
+      "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 14 Aug 2026 10:18:02 GMT",
+      "description": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials."
+    },
+    {
+      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 20:12:17 GMT",
+      "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
     },
     {
       "title": "Person fined after using foghorn to wake sleeping polar bear",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 18:45:51 GMT",
       "description": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison."
-    },
-    {
-      "title": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 08:15:10 GMT",
-      "description": "The accusations against Bruno Foucher prompted investigations into a potential security breach."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
+        "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
+        "pubDate": "Fri, 14 Aug 2026 06:30:17 -0400",
+        "description": "At least eight people died in Japan as heavy rains flooded roads and disrupted traffic while firefighters from Britain to France and Croatia struggled to contain blazes in Europe&apos;s fifth heatwave"
+      },
       {
         "title": "Fill in the blank on this week&apos;s quiz: Rep. AOC is documenting ____ on Instagram",
         "link": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz",
@@ -105,6 +111,12 @@
         "link": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police",
         "pubDate": "Fri, 14 Aug 2026 05:00:00 -0400",
         "description": "Details on how ICE cooperation agreements work in practice have been hard to come by. NPR took a close look at how sheriff&apos;s deputies in Walton County, Fla., approach immigration-related arrests."
+      },
+      {
+        "title": "At Big Bend National Park, bulldozers begin clearing pristine desert land for border barrier work",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5927276/big-bend-border-texas-rio-grande",
+        "pubDate": "Fri, 14 Aug 2026 05:00:00 -0400",
+        "description": "A coalition of landowners, outdoor enthusiasts and business owners that say any work in Big Bend National Park would forever change the place often called &quot;Texas&apos; gift to the nation.&quot;"
       },
       {
         "title": "Morning news brief",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/13/nx-s1-5930188/around-the-clock-search-continues-to-reach-victims-of-the-7-4-earthquake-in-colombia",
         "pubDate": "Thu, 13 Aug 2026 17:39:19 -0400",
         "description": "Search efforts continue though hopes are fading as teams dig for survivors from the 7.4 magnitude earthquake that killed more than 250 people."
-      },
-      {
-        "title": "Kennedy Center Board votes again to shut main building down — and add Trump&apos;s name back",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5930349/kennedy-center-shut-down-board-vote-trump",
-        "pubDate": "Thu, 13 Aug 2026 14:55:30 -0400",
-        "description": "The board voted to close the Washington, D.C., arts complex&apos;s main campus for a $250 million renovation — three months after a federal judge temporarily blocked a similar closure."
-      },
-      {
-        "title": "Mangione could plead guilty in federal case ahead of N.Y. murder trial",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5930397/mangione-federal-court-hearing-guilty-plea",
-        "pubDate": "Thu, 13 Aug 2026 13:29:15 -0400",
-        "description": "A surprise hearing this Friday in federal court has added to speculation that Luigi Mangione could enter a plea, which could derail a state murder trial."
       }
     ],
     "Canada": []
