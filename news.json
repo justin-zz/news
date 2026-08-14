@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T11:41:27.550Z",
+  "updated": "2026-08-14T12:57:01.458Z",
   "world": [
     {
       "title": "'Unprecedented' rain in Japan kills eight people",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "U.S. missionary who was kidnapped in Niger is released",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
+        "pubDate": "Fri, 14 Aug 2026 08:11:50 -0400",
+        "description": "Kevin Rideout &quot;is in good health in the care of US officials,&quot; SIM International said in a statement, adding he would soon be reunited with his family."
+      },
+      {
         "title": "Feds probe &apos;mention markets.&apos; And, lawmakers call for investigation into USS Lincoln",
         "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
         "pubDate": "Fri, 14 Aug 2026 07:02:42 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/14/g-s1-138721/trump-antisemitism-harvard",
         "pubDate": "Fri, 14 Aug 2026 02:15:54 -0400",
         "description": "The decision from U.S. District Judge Richard G. Stearns said that President Donald Trump&apos;s administration failed to prove an ongoing violation of federal civil rights laws."
-      },
-      {
-        "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
-        "link": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election",
-        "pubDate": "Fri, 14 Aug 2026 01:42:35 -0400",
-        "description": "The dismissal marks the latest setback in swing states&apos; efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020."
       }
     ],
     "Canada": []
