@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T10:54:59.135Z",
+  "updated": "2026-08-14T11:41:27.550Z",
   "world": [
     {
       "title": "'Unprecedented' rain in Japan kills eight people",
@@ -28,8 +28,14 @@
     {
       "title": "Stolen Matisse artworks recovered by police in Brazil",
       "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 14 Aug 2026 08:34:19 GMT",
+      "pubDate": "Fri, 14 Aug 2026 10:55:39 GMT",
       "description": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo."
+    },
+    {
+      "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 14 Aug 2026 11:37:31 GMT",
+      "description": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\"."
     },
     {
       "title": "US missionary released following kidnap in Niger, Christian group says",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 01:19:23 GMT",
       "description": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden."
-    },
-    {
-      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 18:45:51 GMT",
-      "description": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Feds probe &apos;mention markets.&apos; And, lawmakers call for investigation into USS Lincoln",
+        "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
+        "pubDate": "Fri, 14 Aug 2026 07:02:42 -0400",
+        "description": "Federal regulators are reviewing &apos;mention markets&apos; that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed"
+      },
       {
         "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
         "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
@@ -125,6 +131,12 @@
         "description": "Lawmakers and families raise concerns about conditions aboard USS Lincoln, as the U.S.-Iran war drags on, Iranians seek a break from the conflict, Russian-held Crimea faces Ukrainian drone campaign."
       },
       {
+        "title": "2 workers share how helping kids at a community center has changed their lives",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5927231/2-workers-share-how-helping-kids-at-a-community-center-has-changed-their-lives",
+        "pubDate": "Fri, 14 Aug 2026 04:43:52 -0400",
+        "description": "Workers at a Louisiana community center talk about how helping children has enriched their lives."
+      },
+      {
         "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
         "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
         "pubDate": "Fri, 14 Aug 2026 02:31:29 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election",
         "pubDate": "Fri, 14 Aug 2026 01:42:35 -0400",
         "description": "The dismissal marks the latest setback in swing states&apos; efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020."
-      },
-      {
-        "title": "Feds probe &apos;mention markets&apos; amid White House Kalshi controversy",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
-        "pubDate": "Thu, 13 Aug 2026 22:06:10 -0400",
-        "description": "Betting on what people say is becoming an increasingly popular category of prediction market sites. Now, federal officials have opened a probe examining whether those markets are a magnet for manipula"
-      },
-      {
-        "title": "Hit hard by the earthquake in western Colombia, the mayor of Cali gets to work",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5930188/around-the-clock-search-continues-to-reach-victims-of-the-7-4-earthquake-in-colombia",
-        "pubDate": "Thu, 13 Aug 2026 17:39:19 -0400",
-        "description": "Search efforts continue though hopes are fading as teams dig for survivors from the 7.4 magnitude earthquake that killed more than 250 people."
       }
     ],
     "Canada": []
