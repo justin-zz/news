@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-14T05:14:07.023Z",
+  "updated": "2026-08-14T06:52:56.161Z",
   "world": [
+    {
+      "title": "'Unprecedented' rains in Japan kill four people",
+      "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 14 Aug 2026 04:54:13 GMT",
+      "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport."
+    },
     {
       "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
       "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&amp;at_campaign=rss",
@@ -26,22 +32,16 @@
       "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany."
     },
     {
-      "title": "Person fined after using foghorn to wake sleeping polar bear",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 15:30:57 GMT",
-      "description": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\"."
-    },
-    {
       "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
       "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 13 Aug 2026 23:06:23 GMT",
       "description": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
     },
     {
-      "title": "Family of Irish plane crash victim awarded $29m in damages",
-      "link": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 19:08:49 GMT",
-      "description": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his  widow Naoise Connolly Ryan brought a civil suit against Boeing."
+      "title": "Person fined after using foghorn to wake sleeping polar bear",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 13 Aug 2026 15:30:57 GMT",
+      "description": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\"."
     },
     {
       "title": "Air India to test all pilots for banned substances",
@@ -95,6 +95,24 @@
   "regions": {
     "US": [
       {
+        "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
+        "pubDate": "Fri, 14 Aug 2026 02:31:29 -0400",
+        "description": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincol"
+      },
+      {
+        "title": "Judge dismisses Trump administration lawsuit alleging antisemitism at Harvard University",
+        "link": "https://www.npr.org/2026/08/14/g-s1-138721/trump-antisemitism-harvard",
+        "pubDate": "Fri, 14 Aug 2026 02:15:54 -0400",
+        "description": "The decision from U.S. District Judge Richard G. Stearns said that President Donald Trump&apos;s administration failed to prove an ongoing violation of federal civil rights laws."
+      },
+      {
+        "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
+        "link": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election",
+        "pubDate": "Fri, 14 Aug 2026 01:42:35 -0400",
+        "description": "The dismissal marks the latest setback in swing states&apos; efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020."
+      },
+      {
         "title": "Feds probe &apos;mention markets&apos; amid White House Kalshi controversy",
         "link": "https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
         "pubDate": "Thu, 13 Aug 2026 22:06:10 -0400",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
         "pubDate": "Thu, 13 Aug 2026 09:18:43 -0400",
         "description": "The drills come amid rising tensions with China, which frequently sends military planes and ships towards Taiwan."
-      },
-      {
-        "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
-        "link": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
-        "pubDate": "Thu, 13 Aug 2026 07:31:18 -0400",
-        "description": "Inflation cooled a bit last month, according to a new report from the Labor Department. And, ICE plans to equip its officers with electric shock gloves."
-      },
-      {
-        "title": "The drug lenacapavir is a mighty weapon against HIV. Its rollout gets mixed reviews",
-        "link": "https://www.npr.org/2026/08/13/g-s1-137742/hiv-prevention-lenacapavir-uganda",
-        "pubDate": "Thu, 13 Aug 2026 07:18:53 -0400",
-        "description": "It&apos;s a twice-a-year injection that is remarkably effective in preventing an HIV infection. Distribution is starting. But questions are being raised about getting it to the areas that need it most"
-      },
-      {
-        "title": "Primary voters send mixed signals about what they want from the Democratic Party",
-        "link": "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
-        "pubDate": "Thu, 13 Aug 2026 06:59:33 -0400",
-        "description": "Primary results this month in Michigan, Minnesota and Wisconsin paint a muddled picture of just how far to the left Democratic voters want their candidates to be come this fall&apos;s midterm election"
       }
     ],
     "Canada": []
