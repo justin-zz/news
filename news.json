@@ -1,11 +1,17 @@
 {
-  "updated": "2026-08-15T04:55:51.034Z",
+  "updated": "2026-08-15T05:21:58.105Z",
   "world": [
     {
       "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
       "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 14 Aug 2026 19:20:43 GMT",
       "description": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
+    },
+    {
+      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 00:01:53 GMT",
+      "description": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021."
     },
     {
       "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
@@ -26,12 +32,6 @@
       "description": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence."
     },
     {
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 14 Aug 2026 17:03:17 GMT",
-      "description": "Two families have been trapped in their homes in the occupied West Bank for several days."
-    },
-    {
       "title": "'Unprecedented' rain in Japan kills eight people",
       "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 14 Aug 2026 10:36:14 GMT",
@@ -42,6 +42,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 14 Aug 2026 13:18:08 GMT",
       "description": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes."
+    },
+    {
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 14 Aug 2026 17:03:17 GMT",
+      "description": "Two families have been trapped in their homes in the occupied West Bank for several days."
     },
     {
       "title": "Dozens injured and thousands evacuated in Croatia wildfire",
@@ -78,12 +84,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 14 Aug 2026 17:00:46 GMT",
       "description": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world."
-    },
-    {
-      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 13 Aug 2026 23:06:23 GMT",
-      "description": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
     },
     {
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
