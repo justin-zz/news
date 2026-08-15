@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T23:16:15.910Z",
+  "updated": "2026-08-15T23:43:16.380Z",
   "world": [
     {
       "title": "Rescuers search for survivors of powerful Indonesia earthquake",
@@ -40,7 +40,7 @@
     {
       "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
       "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 15 Aug 2026 21:56:10 GMT",
+      "pubDate": "Sat, 15 Aug 2026 23:34:24 GMT",
       "description": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island."
     },
     {
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Are robotaxis finally here?",
+        "link": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
+        "pubDate": "Sat, 15 Aug 2026 17:30:21 -0400",
+        "description": "Fully self-driving cars for hire have been hailed as the technology of the future for years now. That future has finally arrived -- but only in some cities."
+      },
+      {
+        "title": "State Department spokesperson on Iran war and U.S. visa revocations",
+        "link": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
+        "pubDate": "Sat, 15 Aug 2026 17:20:51 -0400",
+        "description": "NPR&apos;s Rob Schmitz speaks with State Department spokesperson Tommy Pigott about the with Iran and the hundreds of thousands of foreign nationals who have had their U.S. visa revoked."
+      },
+      {
         "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
         "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
         "pubDate": "Sat, 15 Aug 2026 16:04:13 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
         "pubDate": "Sat, 15 Aug 2026 04:29:20 -0400",
         "description": "A powerful earthquake struck off the coast of Indonesia early Saturday, collapsing buildings as well as causing panic in a region prone to deadly quakes."
-      },
-      {
-        "title": "How Americans deceive ourselves about slavery",
-        "link": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery",
-        "pubDate": "Fri, 14 Aug 2026 14:13:00 -0400",
-        "description": "Clint Smith&apos;s &lt;em&gt;How the Word Is Passed &lt;/em&gt;explores how slavery is — and isn&apos;t — taught. And &lt;em&gt;Above Ground&lt;/em&gt; includes poems to his children about what their "
-      },
-      {
-        "title": "As speed cameras spread to more states, so does the backlash from drivers",
-        "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
-        "pubDate": "Fri, 14 Aug 2026 12:54:58 -0400",
-        "description": "Millions of drivers across the country are encountering speed cameras for the first time, or will soon. Some don&apos;t like it, but advocates say there&apos;s clear evidence that cameras make roads s"
       }
     ],
     "Canada": []
