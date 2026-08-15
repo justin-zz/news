@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T08:53:25.992Z",
+  "updated": "2026-08-15T09:21:18.839Z",
   "world": [
     {
       "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
@@ -83,7 +83,7 @@
       "title": "Europe's scorched landscapes seen from space after summer heatwaves",
       "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 15 Aug 2026 05:01:13 GMT",
-      "description": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains."
+      "description": "From glaciers shrinking to an exposed shipwreck,  satellites capture the impact of extreme heat and drought."
     },
     {
       "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
@@ -94,6 +94,18 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
+        "link": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
+        "pubDate": "Sat, 15 Aug 2026 05:04:00 -0400",
+        "description": "Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy often comes a parade of physical discomfort. Alleviate and prevent common aches with these exercises."
+      },
+      {
+        "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
+        "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
+        "pubDate": "Sat, 15 Aug 2026 05:00:00 -0400",
+        "description": "When the U.S. withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S. troops were brought here to rebuild their lives. But now, some fear the U.S. may want to send them back."
+      },
       {
         "title": "Magnitude 7.7 earthquake strikes off Indonesia&apos;s coast, killing at least 20",
         "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
         "pubDate": "Fri, 14 Aug 2026 08:11:50 -0400",
         "description": "Kevin Rideout &quot;is in good health in the care of US officials,&quot; SIM International said in a statement, adding he would soon be reunited with his family."
-      },
-      {
-        "title": "Feds probe &apos;mention markets.&apos; And, lawmakers call for investigation into USS Lincoln",
-        "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
-        "pubDate": "Fri, 14 Aug 2026 07:02:42 -0400",
-        "description": "Federal regulators are reviewing &apos;mention markets&apos; that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed"
-      },
-      {
-        "title": "Sen. Ruben Gallego on handling of USS Lincoln conditions: &apos;That&apos;s not proper leadership&apos;",
-        "link": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego",
-        "pubDate": "Fri, 14 Aug 2026 06:47:19 -0400",
-        "description": "Lawmakers want answers from the Pentagon chief and the U.S. Navy about living conditions aboard the USS Lincoln. NPR&apos;s Michel Martin speaks with Democratic Sen. Ruben Gallego of Arizona."
       }
     ],
     "Canada": []
