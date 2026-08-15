@@ -1,17 +1,11 @@
 {
-  "updated": "2026-08-15T11:16:15.578Z",
+  "updated": "2026-08-15T11:43:17.960Z",
   "world": [
     {
       "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
       "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 15 Aug 2026 08:52:55 GMT",
       "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
-    },
-    {
-      "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 14 Aug 2026 18:54:58 GMT",
-      "description": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention."
     },
     {
       "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
@@ -24,6 +18,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 14 Aug 2026 17:36:27 GMT",
       "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
+    },
+    {
+      "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 11:24:24 GMT",
+      "description": "Among those killed in the strike on Ansar included three children and two women, state media reports."
     },
     {
       "title": "South Korea proposes talks to officially end war with North",
@@ -86,10 +86,10 @@
       "description": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence."
     },
     {
-      "title": "The Polygamist's creator says women see themselves reflected in her Netflix hit",
-      "link": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 14 Aug 2026 23:17:22 GMT",
-      "description": "Zimbabwean novelist Sue Nyathi self-funded her debut novel and now asks who can afford to write at all."
+      "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 14 Aug 2026 18:54:58 GMT",
+      "description": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention."
     }
   ],
   "regions": {
