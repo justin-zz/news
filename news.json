@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T17:16:54.556Z",
+  "updated": "2026-08-15T17:44:38.016Z",
   "world": [
     {
       "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
@@ -38,10 +38,10 @@
       "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui."
     },
     {
-      "title": "Five injured, one critically, in shooting at Virginia State University",
+      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
       "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 15 Aug 2026 15:09:59 GMT",
-      "description": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said."
+      "pubDate": "Sat, 15 Aug 2026 17:42:36 GMT",
+      "description": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
     },
     {
       "title": "France's top court blocks social media ban for under-15s",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Trump administration wants to allow companies to hack foreign cybercriminals",
+        "link": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
+        "pubDate": "Sat, 15 Aug 2026 13:25:34 -0400",
+        "description": "The White House memorandum is thin on details, but it aims to give private businesses the ability to sabotage or spy on certain foreign actors."
+      },
+      {
         "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
         "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
         "pubDate": "Sat, 15 Aug 2026 13:04:43 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
         "pubDate": "Fri, 14 Aug 2026 12:05:24 -0400",
         "description": "Mangione has pleaded guilty to stalking charges in connection with the death of Brian Thompson, a health care executive. A separate judge will decide the future of Mangione&apos;s state trial."
-      },
-      {
-        "title": "We learned 5 important things about the economy this week",
-        "link": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
-        "pubDate": "Fri, 14 Aug 2026 10:47:15 -0400",
-        "description": "&lt;em&gt;From inflation, to credit card debt, to who&apos;s actually doing the spending: These are key takeaways from this week in economic news.&lt;/em&gt;"
       }
     ],
     "Canada": []
