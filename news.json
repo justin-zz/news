@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T16:48:56.436Z",
+  "updated": "2026-08-15T17:16:54.556Z",
   "world": [
     {
       "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
+        "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
+        "pubDate": "Sat, 15 Aug 2026 13:04:43 -0400",
+        "description": "Arday was 37 when he became Cambridge&apos;s youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London."
+      },
+      {
         "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
         "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
         "pubDate": "Sat, 15 Aug 2026 06:10:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
         "pubDate": "Fri, 14 Aug 2026 10:47:15 -0400",
         "description": "&lt;em&gt;From inflation, to credit card debt, to who&apos;s actually doing the spending: These are key takeaways from this week in economic news.&lt;/em&gt;"
-      },
-      {
-        "title": "The Taliban has taken a terrible toll on the education of girls -- and boys as well",
-        "link": "https://www.npr.org/2026/08/14/g-s1-138584/taliban-afghanistan-boys-girls-education-school",
-        "pubDate": "Fri, 14 Aug 2026 10:41:22 -0400",
-        "description": "Saturday marks the 5th anniversary of the current Taliban rule in Afghanistan. They&apos;ve had a devastating impact on girls&apos; education. A lesser told story is their impact on the education of b"
       }
     ],
     "Canada": []
