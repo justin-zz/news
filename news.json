@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-16T19:43:00.292Z",
+  "updated": "2026-08-16T20:16:55.654Z",
   "world": [
+    {
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 19:58:14 GMT",
+      "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza."
+    },
     {
       "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
@@ -8,22 +14,10 @@
       "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
     },
     {
-      "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
       "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 17:44:23 GMT",
-      "description": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report."
-    },
-    {
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT",
-      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
-    },
-    {
-      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 18:46:12 GMT",
-      "description": "A search-and-rescue operation is under way after properties were uprooted from their foundations."
+      "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT",
+      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control."
     },
     {
       "title": "Teen suspect in Virginia campus shooting found hiding in closet",
@@ -32,10 +26,16 @@
       "description": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police."
     },
     {
-      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 10:53:50 GMT",
-      "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
+      "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 18:46:12 GMT",
+      "description": "A search-and-rescue operation is under way after properties were uprooted from their foundations."
+    },
+    {
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT",
+      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
     },
     {
       "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
@@ -50,6 +50,12 @@
       "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war."
     },
     {
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 10:53:50 GMT",
+      "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
+    },
+    {
       "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
       "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT",
@@ -58,7 +64,7 @@
     {
       "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
       "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 15:25:38 GMT",
+      "pubDate": "Sun, 16 Aug 2026 20:01:51 GMT",
       "description": "Hundreds of firefighters are trying to contain the flames consuming the major park."
     },
     {
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 15 Aug 2026 21:41:43 GMT",
       "description": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms."
-    },
-    {
-      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 15 Aug 2026 13:41:09 GMT",
-      "description": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui."
     }
   ],
   "regions": {
