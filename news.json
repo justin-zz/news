@@ -1,11 +1,17 @@
 {
-  "updated": "2026-08-16T18:54:42.511Z",
+  "updated": "2026-08-16T19:18:02.617Z",
   "world": [
     {
       "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 18:04:25 GMT",
+      "pubDate": "Sun, 16 Aug 2026 19:03:04 GMT",
       "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
+    },
+    {
+      "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 17:44:23 GMT",
+      "description": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report."
     },
     {
       "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
@@ -20,28 +26,22 @@
       "description": "A search-and-rescue operation is under way after properties were uprooted from their foundations."
     },
     {
+      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 19:00:23 GMT",
+      "description": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police."
+    },
+    {
       "title": "Twelve killed as Polish bus veers off Hungarian motorway",
       "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 16 Aug 2026 10:53:50 GMT",
       "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
     },
     {
-      "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 17:44:23 GMT",
-      "description": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report."
-    },
-    {
       "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
       "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 16 Aug 2026 11:35:25 GMT",
       "description": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer."
-    },
-    {
-      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 15:25:38 GMT",
-      "description": "Hundreds of firefighters are trying to contain the flames consuming the major park."
     },
     {
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
@@ -56,6 +56,12 @@
       "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
     },
     {
+      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 15:25:38 GMT",
+      "description": "Hundreds of firefighters are trying to contain the flames consuming the major park."
+    },
+    {
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT",
@@ -66,12 +72,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 15 Aug 2026 19:41:57 GMT",
       "description": "The declaration was made on the national day of the central European country, which has a population of just 44,000."
-    },
-    {
-      "title": "Teenager arrested in Virginia State University shooting that injured five",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 15:22:50 GMT",
-      "description": "The 19-year-old, who was not a student at the university, was found hiding in a closet on campus, according to police."
     },
     {
       "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
+        "link": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
+        "pubDate": "Sun, 16 Aug 2026 14:58:25 -0400",
+        "description": "The left-handed MLB pitcher was 31 years old when he tore the ulnar collateral ligament in his pitching elbow in 1974, an injury that had been a death knell for pitchers&apos; careers up to that point"
+      },
       {
         "title": "A good – and bad – week for Italy&apos;s art police and museum security",
         "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
         "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
         "description": "This fall, we&apos;re asking seniors to send us their stories in audio form. Our judges will pick the best ones and air them on NPR."
-      },
-      {
-        "title": "Are robotaxis finally here?",
-        "link": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
-        "pubDate": "Sat, 15 Aug 2026 17:30:21 -0400",
-        "description": "Fully self-driving cars for hire have been hailed as the technology of the future for years now. That future has finally arrived -- but only in some cities."
       }
     ],
     "Canada": []
