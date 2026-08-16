@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-16T15:44:42.677Z",
+  "updated": "2026-08-16T16:19:21.850Z",
   "world": [
     {
       "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 15:14:01 GMT",
+      "pubDate": "Sun, 16 Aug 2026 15:50:12 GMT",
       "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+        "link": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
+        "pubDate": "Sun, 16 Aug 2026 11:47:58 -0400",
+        "description": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn&apos;t done punishing the Big Island with hurricane-force gusts."
+      },
+      {
         "title": "What really happened in Ceuta? Why we may never find out",
         "link": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
         "pubDate": "Sun, 16 Aug 2026 11:38:22 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
         "pubDate": "Sat, 15 Aug 2026 17:20:51 -0400",
         "description": "NPR&apos;s Rob Schmitz speaks with State Department spokesperson Tommy Pigott about the with Iran and the hundreds of thousands of foreign nationals who have had their U.S. visa revoked."
-      },
-      {
-        "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-        "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
-        "pubDate": "Sat, 15 Aug 2026 16:04:13 -0400",
-        "description": "Indiana, Illinois and surrounding states are preparing for another stretch of flooding through this weekend."
       }
     ],
     "Canada": []
