@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T13:27:19.361Z",
+  "updated": "2026-08-16T13:53:44.057Z",
   "world": [
     {
       "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
@@ -32,16 +32,22 @@
       "description": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer."
     },
     {
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT",
-      "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
-    },
-    {
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 16 Aug 2026 09:27:58 GMT",
       "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war."
+    },
+    {
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT",
+      "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
+    },
+    {
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT",
+      "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
     },
     {
       "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 15 Aug 2026 17:47:42 GMT",
       "description": "The fire burning through the major park was described as the country's worst in recent years."
-    },
-    {
-      "title": "South Korea proposes talks to officially end war with North",
-      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 15 Aug 2026 14:40:15 GMT",
-      "description": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953."
     }
   ],
   "regions": {
