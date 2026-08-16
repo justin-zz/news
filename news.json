@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T09:25:17.107Z",
+  "updated": "2026-08-16T09:51:12.370Z",
   "world": [
     {
       "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
@@ -40,7 +40,7 @@
     {
       "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
       "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 15 Aug 2026 21:03:57 GMT",
+      "pubDate": "Sun, 16 Aug 2026 09:27:58 GMT",
       "description": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war."
     },
     {
@@ -101,6 +101,12 @@
         "description": ""
       },
       {
+        "title": "Doctors and women who&apos;ve had it call for more attention on postpartum psychosis",
+        "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
+        "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
+        "description": "The high-profile murder trial of Lindsay Clancy&apos;s has put the condition in the spotlight. Women who have had it call for more research and understanding of a difficult mental illness."
+      },
+      {
         "title": "65 and older? Have a story to tell? Hit &apos;record&apos; and send NPR your podcast",
         "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
         "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
@@ -111,12 +117,6 @@
         "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
         "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
         "description": "Sunflower sea stars are critically endangered in the Pacific Ocean. University of Washington researchers are working with the Samish Indian Nation to bring this 24-armed creature back from the brink o"
-      },
-      {
-        "title": "Doctors and women who&apos;ve had it call for more attention on postpartum psychosis",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
-        "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
-        "description": "The high-profile murder trial of Lindsay Clancy&apos;s has put the condition in the spotlight. Women who have had it call for more research and understanding of a difficult mental illness."
       },
       {
         "title": "Are robotaxis finally here?",
