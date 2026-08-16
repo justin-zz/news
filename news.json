@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-16T08:56:17.138Z",
+  "updated": "2026-08-16T09:25:17.107Z",
   "world": [
     {
-      "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 08:14:56 GMT",
-      "description": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit."
+      "pubDate": "Sun, 16 Aug 2026 09:04:14 GMT",
+      "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit."
     },
     {
       "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
@@ -95,6 +95,30 @@
   "regions": {
     "US": [
       {
+        "title": "NPR Senior Podcast Challenge: Official Rules",
+        "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
+        "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
+        "description": ""
+      },
+      {
+        "title": "65 and older? Have a story to tell? Hit &apos;record&apos; and send NPR your podcast",
+        "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
+        "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
+        "description": "This fall, we&apos;re asking seniors to send us their stories in audio form. Our judges will pick the best ones and air them on NPR."
+      },
+      {
+        "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
+        "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
+        "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
+        "description": "Sunflower sea stars are critically endangered in the Pacific Ocean. University of Washington researchers are working with the Samish Indian Nation to bring this 24-armed creature back from the brink o"
+      },
+      {
+        "title": "Doctors and women who&apos;ve had it call for more attention on postpartum psychosis",
+        "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
+        "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
+        "description": "The high-profile murder trial of Lindsay Clancy&apos;s has put the condition in the spotlight. Women who have had it call for more research and understanding of a difficult mental illness."
+      },
+      {
         "title": "Are robotaxis finally here?",
         "link": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
         "pubDate": "Sat, 15 Aug 2026 17:30:21 -0400",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
         "pubDate": "Sat, 15 Aug 2026 13:04:43 -0400",
         "description": "Arday was 37 when he became Cambridge&apos;s youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London."
-      },
-      {
-        "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
-        "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
-        "pubDate": "Sat, 15 Aug 2026 06:10:00 -0400",
-        "description": "Homero Calderón&apos;s detention by ICE spotlights the massive backlog in the U.S. immigration system. &lt;strong&gt;  &lt;/strong&gt;"
-      },
-      {
-        "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
-        "link": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
-        "pubDate": "Sat, 15 Aug 2026 05:04:00 -0400",
-        "description": "Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy often comes a parade of physical discomfort. Alleviate and prevent common aches with these exercises."
-      },
-      {
-        "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
-        "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
-        "pubDate": "Sat, 15 Aug 2026 05:00:00 -0400",
-        "description": "When the U.S. withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S. troops were brought here to rebuild their lives. But now, some fear the U.S. may want to send them back."
-      },
-      {
-        "title": "Magnitude 7.7 earthquake strikes off Indonesia&apos;s coast, killing at least 47",
-        "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
-        "pubDate": "Sat, 15 Aug 2026 04:29:20 -0400",
-        "description": "A powerful earthquake struck off the coast of Indonesia early Saturday, collapsing buildings as well as causing panic in a region prone to deadly quakes."
       }
     ],
     "Canada": []
