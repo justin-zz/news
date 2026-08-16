@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T06:33:26.863Z",
+  "updated": "2026-08-16T07:27:25.395Z",
   "world": [
     {
       "title": "Rescuers search for survivors of powerful Indonesia earthquake",
@@ -8,16 +8,22 @@
       "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way."
     },
     {
+      "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 06:53:22 GMT",
+      "description": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years."
+    },
+    {
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 07:04:17 GMT",
+      "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
+    },
+    {
       "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
       "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT",
       "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
-    },
-    {
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 15 Aug 2026 20:21:14 GMT",
-      "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
     },
     {
       "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
@@ -38,10 +44,10 @@
       "description": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
     },
     {
-      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 03:54:11 GMT",
-      "description": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island."
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 15 Aug 2026 20:21:14 GMT",
+      "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
     },
     {
       "title": "Australian state to launch gun buyback after Bondi Beach attack",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 14 Aug 2026 17:36:27 GMT",
       "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard."
-    },
-    {
-      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 14 Aug 2026 23:16:43 GMT",
-      "description": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president."
     }
   ],
   "regions": {
