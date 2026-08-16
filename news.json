@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T10:19:03.530Z",
+  "updated": "2026-08-16T10:48:08.824Z",
   "world": [
     {
       "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+        "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+        "pubDate": "Sun, 16 Aug 2026 06:12:09 -0400",
+        "description": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv&apos;s largest aerial attacks of the war."
+      },
+      {
         "title": "NPR Senior Podcast Challenge: Official Rules",
         "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
         "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
@@ -107,16 +113,16 @@
         "description": "The high-profile murder trial of Lindsay Clancy&apos;s has put the condition in the spotlight. Women who have had it call for more research and understanding of a difficult mental illness."
       },
       {
-        "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
-        "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
-        "description": "Sunflower sea stars are critically endangered in the Pacific Ocean. University of Washington researchers are working with the Samish Indian Nation to bring this 24-armed creature back from the brink o"
-      },
-      {
         "title": "65 and older? Have a story to tell? Hit &apos;record&apos; and send NPR your podcast",
         "link": "https://www.npr.org/2026/08/16/nx-s1-5911853/npr-senior-podcast-challenge-for-65-and-older",
         "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
         "description": "This fall, we&apos;re asking seniors to send us their stories in audio form. Our judges will pick the best ones and air them on NPR."
+      },
+      {
+        "title": "Billions of sea stars have died. A Northwest tribe is trying to save the species",
+        "link": "https://www.npr.org/2026/08/16/nx-s1-5928398/endangered-sea-stars-release-pacific-ocean",
+        "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
+        "description": "Sunflower sea stars are critically endangered in the Pacific Ocean. University of Washington researchers are working with the Samish Indian Nation to bring this 24-armed creature back from the brink o"
       },
       {
         "title": "Are robotaxis finally here?",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
         "pubDate": "Sat, 15 Aug 2026 13:25:34 -0400",
         "description": "The White House memorandum is thin on details, but it aims to give private businesses the ability to sabotage or spy on certain foreign actors."
-      },
-      {
-        "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-        "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
-        "pubDate": "Sat, 15 Aug 2026 13:04:43 -0400",
-        "description": "Arday was 37 when he became Cambridge&apos;s youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London."
       }
     ],
     "Canada": []
