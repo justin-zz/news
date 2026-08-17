@@ -1,23 +1,29 @@
 {
-  "updated": "2026-08-17T08:37:35.089Z",
+  "updated": "2026-08-17T09:36:22.794Z",
   "world": [
-    {
-      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 04:50:56 GMT",
-      "description": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday."
-    },
-    {
-      "title": "Ukrainian strikes kill six in Russia, acting governor says",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 07:41:24 GMT",
-      "description": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says."
-    },
     {
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 17 Aug 2026 06:24:31 GMT",
       "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
+    },
+    {
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 08:43:12 GMT",
+      "description": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday."
+    },
+    {
+      "title": "Ukrainian strikes kill six in Russia, acting governor says",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 08:47:19 GMT",
+      "description": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says."
+    },
+    {
+      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+      "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 08:38:41 GMT",
+      "description": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday."
     },
     {
       "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
@@ -26,15 +32,9 @@
       "description": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo."
     },
     {
-      "title": "Record rains drench South Korean city as landslide kills one",
-      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 04:34:09 GMT",
-      "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain."
-    },
-    {
       "title": "Top Zambian opposition figures arrested days after presidential vote",
       "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 07:31:36 GMT",
+      "pubDate": "Mon, 17 Aug 2026 09:01:06 GMT",
       "description": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life."
     },
     {
@@ -44,22 +44,34 @@
       "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control."
     },
     {
-      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT",
-      "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
-    },
-    {
       "title": "Ferrari's first ever electric car sold for record $40m",
       "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 17 Aug 2026 02:22:04 GMT",
       "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling."
     },
     {
+      "title": "Record rains drench South Korean city as landslide kills one",
+      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 04:34:09 GMT",
+      "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain."
+    },
+    {
+      "title": "Movie that went viral for terrible animation becomes China box office hit",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 08:35:07 GMT",
+      "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet."
+    },
+    {
       "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
       "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 17 Aug 2026 05:46:45 GMT",
       "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday."
+    },
+    {
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT",
+      "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
     },
     {
       "title": "Teen suspect in Virginia campus shooting found hiding in closet",
@@ -78,22 +90,58 @@
       "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT",
       "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
-    },
-    {
-      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 00:20:51 GMT",
-      "description": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash."
-    },
-    {
-      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-      "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 11:35:25 GMT",
-      "description": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "description": "There&apos;s a lot homeowners can do to prepare for wildfires, such as managing flammable plants and using fire-resistant building materials. But some states struggle to pass rules requiring those ste"
+      },
+      {
+        "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "description": "In some wellness circles, tadalafil is promoted as a longevity drug. There is evidence showing a link between it and a lower risk of death in men, but there are no well-controlled trials in humans."
+      },
+      {
+        "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "description": "For 10 years, a Catholic-run home offered young women an affordable place to live in the nation&apos;s capital as they studied and launched careers. Now, that community is saying goodbye."
+      },
+      {
+        "title": "Car problems? No childcare? How an app is helping people get to work",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "description": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference."
+      },
+      {
+        "title": "Elon Musk&apos;s Starbase wants to expand in south Texas",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "description": "Landowners and activists worry about impact to the environment around SpaceX&apos;s complex."
+      },
+      {
+        "title": "Can a student ID be used for voting? More Republican-led states are banning it",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "description": "New bans on using student IDs for voting in Indiana and New Hampshire have sparked lawsuits after creating the latest hurdles to the ballot box for the U.S. voting-age group least likely to vote."
+      },
+      {
+        "title": "Meta heads to court in a landmark trial about kids and social media addiction",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "description": "Four states are suing the parent company of Facebook and Instagram, alleging that the platforms were designed to hook kids and that Meta hid the mental health risks."
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5930235/morning-news-brief",
+        "pubDate": "Mon, 17 Aug 2026 04:49:18 -0400",
+        "description": "USS Washington to relieve USS Lincoln after concerns about conditions, Ukraine launches one of its largest aerial attacks on Russia, a look at where talks stand regarding the future of Gaza."
+      },
       {
         "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
         "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
@@ -105,54 +153,6 @@
         "link": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
         "pubDate": "Sun, 16 Aug 2026 16:38:40 -0400",
         "description": "Some parts of Indiana received more than 11 inches of rainfall over three days, beginning Aug. 11, causing record floods. Several suburbs of Indianapolis also underwater."
-      },
-      {
-        "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
-        "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
-        "pubDate": "Sun, 16 Aug 2026 16:20:22 -0400",
-        "description": "Jared Kushner, President Trump&apos;s son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire."
-      },
-      {
-        "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
-        "link": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
-        "pubDate": "Sun, 16 Aug 2026 14:58:25 -0400",
-        "description": "The left-handed MLB pitcher was 31 years old when he tore the ulnar collateral ligament in his pitching elbow in 1974, an injury that had been a death knell for pitchers&apos; careers up to that point"
-      },
-      {
-        "title": "A good – and bad – week for Italy&apos;s art police and museum security",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
-        "pubDate": "Sun, 16 Aug 2026 12:27:54 -0400",
-        "description": "On Friday, Italian police said they&apos;d recovered three paintings stolen from a museum near the city of Parma. By Saturday night, thieves in Sicily had made off with four more masterpieces."
-      },
-      {
-        "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
-        "link": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
-        "pubDate": "Sun, 16 Aug 2026 11:47:58 -0400",
-        "description": "Hurricane Lala weakened to a tropical storm Sunday after skirting Hawaii without making landfall, but it wasn&apos;t done punishing the Big Island with hurricane-force gusts."
-      },
-      {
-        "title": "What really happened in Ceuta? Why we may never find out",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
-        "pubDate": "Sun, 16 Aug 2026 11:38:22 -0400",
-        "description": "Hundreds of migrants have again attempted to cross from Morocco into the Spanish territory of Ceuta. This time, Moroccan officials fended them off, raising new questions about the crossing of July 30."
-      },
-      {
-        "title": "&apos;What are we going to do?&apos; The mom of a trans teen grapples with Trump&apos;s Medicaid move",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
-        "pubDate": "Sun, 16 Aug 2026 07:54:19 -0400",
-        "description": "A longtime Republican living in California says the Trump administration&apos;s continuing actions to target transgender youth take a personal toll."
-      },
-      {
-        "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
-        "pubDate": "Sun, 16 Aug 2026 06:12:09 -0400",
-        "description": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv&apos;s largest aerial attacks of the war."
-      },
-      {
-        "title": "NPR Senior Podcast Challenge: Official Rules",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
-        "pubDate": "Sun, 16 Aug 2026 05:00:00 -0400",
-        "description": ""
       }
     ],
     "Canada": []
