@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T09:36:22.794Z",
+  "updated": "2026-08-17T10:27:23.143Z",
   "world": [
     {
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
@@ -95,16 +95,10 @@
   "regions": {
     "US": [
       {
-        "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
-        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "description": "There&apos;s a lot homeowners can do to prepare for wildfires, such as managing flammable plants and using fire-resistant building materials. But some states struggle to pass rules requiring those ste"
-      },
-      {
-        "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
-        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "description": "In some wellness circles, tadalafil is promoted as a longevity drug. There is evidence showing a link between it and a lower risk of death in men, but there are no well-controlled trials in humans."
+        "title": "Hayden Panettiere, who starred in &apos;Heroes&apos; and &apos;Nashville,&apos; dies at 36",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
+        "pubDate": "Mon, 17 Aug 2026 06:00:10 -0400",
+        "description": "A child actor since she was cast in various commercials as an 11-month-old, Panettiere was best known for her role as the country music star Juliette Barnes in the series &quot;Nashville.&quot;"
       },
       {
         "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
@@ -119,12 +113,6 @@
         "description": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference."
       },
       {
-        "title": "Elon Musk&apos;s Starbase wants to expand in south Texas",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
-        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "description": "Landowners and activists worry about impact to the environment around SpaceX&apos;s complex."
-      },
-      {
         "title": "Can a student ID be used for voting? More Republican-led states are banning it",
         "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
         "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
@@ -137,6 +125,24 @@
         "description": "Four states are suing the parent company of Facebook and Instagram, alleging that the platforms were designed to hook kids and that Meta hid the mental health risks."
       },
       {
+        "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "description": "In some wellness circles, tadalafil is promoted as a longevity drug. There is evidence showing a link between it and a lower risk of death in men, but there are no well-controlled trials in humans."
+      },
+      {
+        "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "description": "There&apos;s a lot homeowners can do to prepare for wildfires, such as managing flammable plants and using fire-resistant building materials. But some states struggle to pass rules requiring those ste"
+      },
+      {
+        "title": "Elon Musk&apos;s Starbase wants to expand in south Texas",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "description": "Landowners and activists worry about impact to the environment around SpaceX&apos;s complex."
+      },
+      {
         "title": "Morning news brief",
         "link": "https://www.npr.org/2026/08/17/nx-s1-5930235/morning-news-brief",
         "pubDate": "Mon, 17 Aug 2026 04:49:18 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
         "pubDate": "Mon, 17 Aug 2026 01:21:39 -0400",
         "description": "President Trump explained the decision by saying South Korea had declined to help with the &quot;denuclearization&quot; of Iran and he cited his good relationship with North Korea&apos;s leader."
-      },
-      {
-        "title": "Multiple people dead as flooding continues in Indiana",
-        "link": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
-        "pubDate": "Sun, 16 Aug 2026 16:38:40 -0400",
-        "description": "Some parts of Indiana received more than 11 inches of rainfall over three days, beginning Aug. 11, causing record floods. Several suburbs of Indianapolis also underwater."
       }
     ],
     "Canada": []
