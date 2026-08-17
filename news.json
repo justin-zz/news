@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T17:22:31.057Z",
+  "updated": "2026-08-17T17:54:51.547Z",
   "world": [
     {
       "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
@@ -30,6 +30,12 @@
       "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 17 Aug 2026 12:23:26 GMT",
       "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report."
+    },
+    {
+      "title": "Tributes paid to Hayden Panettiere's 'amazing talent' after actress dies at 36",
+      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 17:31:36 GMT",
+      "description": "Police say there were no signs of foul play or suspicious circumstances in the Heroes and Nashville star's death."
     },
     {
       "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 17 Aug 2026 05:46:45 GMT",
       "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday."
-    },
-    {
-      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT",
-      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control."
     }
   ],
   "regions": {
@@ -113,10 +113,10 @@
         "description": "A child actor since she was cast in various commercials as an 11-month-old, Panettiere was best known for her role as the country music star Juliette Barnes in the series &quot;Nashville.&quot;"
       },
       {
-        "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+        "title": "Missed shifts were costly to this McDonald&apos;s. An app has fixed the problem",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
         "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "description": "For 10 years, a Catholic-run home offered young women an affordable place to live in the nation&apos;s capital as they studied and launched careers. Now, that community is saying goodbye."
+        "description": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference."
       },
       {
         "title": "Meta heads to court in a landmark trial about kids and social media addiction",
@@ -125,16 +125,10 @@
         "description": "Four states are suing the parent company of Facebook and Instagram, alleging that the platforms were designed to hook kids and that Meta hid the mental health risks."
       },
       {
-        "title": "Missed shifts were costly to this McDonald&apos;s. An app has fixed the problem",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+        "title": "Advocates worry new bans on student IDs will trip up younger voters",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
         "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "description": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference."
-      },
-      {
-        "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
-        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "description": "In some wellness circles, tadalafil is promoted as a longevity drug. There is evidence showing a link between it and a lower risk of death in men, but there are no well-controlled trials in humans."
+        "description": "New bans on using student IDs for voting in Indiana and New Hampshire have sparked lawsuits after creating the latest hurdles to the ballot box for the U.S. voting-age group least likely to vote."
       },
       {
         "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
@@ -143,16 +137,22 @@
         "description": "There&apos;s a lot homeowners can do to prepare for wildfires, such as managing flammable plants and using fire-resistant building materials. But some states struggle to pass rules requiring those ste"
       },
       {
+        "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "description": "In some wellness circles, tadalafil is promoted as a longevity drug. There is evidence showing a link between it and a lower risk of death in men, but there are no well-controlled trials in humans."
+      },
+      {
         "title": "Elon Musk&apos;s Starbase wants to expand in south Texas",
         "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
         "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
         "description": "Landowners and activists worry about impact to the environment around SpaceX&apos;s complex."
       },
       {
-        "title": "Advocates worry new bans on student IDs will trip up younger voters",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
+        "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
         "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "description": "New bans on using student IDs for voting in Indiana and New Hampshire have sparked lawsuits after creating the latest hurdles to the ballot box for the U.S. voting-age group least likely to vote."
+        "description": "For 10 years, a Catholic-run home offered young women an affordable place to live in the nation&apos;s capital as they studied and launched careers. Now, that community is saying goodbye."
       }
     ],
     "Canada": []
