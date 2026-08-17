@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-17T15:48:22.289Z",
+  "updated": "2026-08-17T16:22:05.113Z",
   "world": [
     {
-      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran issue",
       "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 17 Aug 2026 14:59:02 GMT",
-      "description": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies."
+      "description": "The US and Oman have separately been negotiating to reopen the Strait of Hormuz, a waterway that has been closed during the US war with Iran."
     },
     {
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
@@ -34,8 +34,14 @@
     {
       "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
       "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 13:58:38 GMT",
+      "pubDate": "Mon, 17 Aug 2026 16:02:58 GMT",
       "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan."
+    },
+    {
+      "title": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
+      "link": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 15:33:42 GMT",
+      "description": "The US president has already paid the writer over $5m in damages in the assault and defamation case."
     },
     {
       "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
@@ -56,16 +62,16 @@
       "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling."
     },
     {
-      "title": "Record rains drench South Korean city as landslide kills one",
-      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 04:34:09 GMT",
-      "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain."
-    },
-    {
       "title": "Movie that went viral for terrible animation becomes China box office hit",
       "link": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 17 Aug 2026 08:35:07 GMT",
       "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet."
+    },
+    {
+      "title": "Record rains drench South Korean city as landslide kills one",
+      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 04:34:09 GMT",
+      "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain."
     },
     {
       "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT",
       "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
-    },
-    {
-      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 19:00:23 GMT",
-      "description": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police."
     }
   ],
   "regions": {
