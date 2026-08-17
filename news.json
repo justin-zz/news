@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T13:36:02.692Z",
+  "updated": "2026-08-17T14:22:55.421Z",
   "world": [
     {
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
@@ -10,7 +10,7 @@
     {
       "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
       "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 12:27:11 GMT",
+      "pubDate": "Mon, 17 Aug 2026 13:58:38 GMT",
       "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "DHS defends investigating agency critics and giving them warning notices",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
+        "pubDate": "Mon, 17 Aug 2026 09:31:13 -0400",
+        "description": "Federal officials acknowledged that ICE special agents tracked a New York man to his house, the airport and a hotel to question him about a critical email he sent to the former head of ICE in January."
+      },
+      {
         "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
         "link": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
         "pubDate": "Mon, 17 Aug 2026 07:48:21 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
         "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
         "description": "Landowners and activists worry about impact to the environment around SpaceX&apos;s complex."
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5930235/morning-news-brief",
-        "pubDate": "Mon, 17 Aug 2026 04:49:18 -0400",
-        "description": "USS Washington to relieve USS Lincoln after concerns about conditions, Ukraine launches one of its largest aerial attacks on Russia, a look at where talks stand regarding the future of Gaza."
       }
     ],
     "Canada": []
