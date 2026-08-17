@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T22:19:33.374Z",
+  "updated": "2026-08-17T22:49:07.324Z",
   "world": [
     {
       "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
+        "pubDate": "Mon, 17 Aug 2026 18:37:58 -0400",
+        "description": "A federal judge&apos;s decision in Texas has major implications for the National Firearms Act. What does this mean for certain guns and other weapons?"
+      },
+      {
         "title": "Former federal prosecutor is suing DOJ for &apos;unlawful and retaliatory&apos; firing",
         "link": "https://www.npr.org/2026/08/17/g-s1-138997/former-federal-prosecutor-sue-doj-retaliatory-firing",
         "pubDate": "Mon, 17 Aug 2026 17:01:54 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
         "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
         "description": "In some wellness circles, tadalafil is promoted as a longevity drug. There is evidence showing a link between it and a lower risk of death in men, but there are no well-controlled trials in humans."
-      },
-      {
-        "title": "Meta heads to court in a landmark trial about kids and social media addiction",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
-        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "description": "Four states are suing the parent company of Facebook and Instagram, alleging that the platforms were designed to hook kids and that Meta hid the mental health risks."
       }
     ],
     "Canada": []
