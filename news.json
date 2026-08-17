@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T03:45:47.262Z",
+  "updated": "2026-08-17T04:36:39.335Z",
   "world": [
     {
       "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
@@ -20,6 +20,12 @@
       "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
     },
     {
+      "title": "Actress Hayden Panettiere dies aged 36, US media report",
+      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 04:27:11 GMT",
+      "description": "A representative for the actress confirmed the news to US outlets but did not provide further details of her death."
+    },
+    {
       "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
       "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT",
@@ -30,12 +36,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT",
       "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
-    },
-    {
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT",
-      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
     },
     {
       "title": "Ferrari's first ever electric car sold for record $40m at auction",
@@ -54,6 +54,12 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 16 Aug 2026 10:53:50 GMT",
       "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
+    },
+    {
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT",
+      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
     },
     {
       "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 16 Aug 2026 20:01:51 GMT",
       "description": "Hundreds of firefighters are trying to contain the flames consuming the major park."
-    },
-    {
-      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 15 Aug 2026 20:58:31 GMT",
-      "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
     }
   ],
   "regions": {
