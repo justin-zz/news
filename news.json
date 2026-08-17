@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-17T14:22:55.421Z",
+  "updated": "2026-08-17T14:53:00.719Z",
   "world": [
+    {
+      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 14:36:44 GMT",
+      "description": "The president also told Fox News the US had a direct backchannel with the Islamic Revolutionary Guard Corps - something it denies."
+    },
     {
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 17 Aug 2026 06:24:31 GMT",
       "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
-    },
-    {
-      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 13:58:38 GMT",
-      "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan."
     },
     {
       "title": "Russia and Ukraine trade more deadly strikes",
@@ -26,6 +26,18 @@
       "description": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday."
     },
     {
+      "title": "US hiker dies after being struck by lightning on Mount Etna",
+      "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 12:23:26 GMT",
+      "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report."
+    },
+    {
+      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 13:58:38 GMT",
+      "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan."
+    },
+    {
       "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
       "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 17 Aug 2026 04:41:31 GMT",
@@ -34,14 +46,8 @@
     {
       "title": "Top Zambian opposition figures arrested days after presidential vote",
       "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 12:11:13 GMT",
-      "description": "The leading opposition candidate calls allegations of a planned insurrection as \"total fabrications\"."
-    },
-    {
-      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT",
-      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control."
+      "pubDate": "Mon, 17 Aug 2026 14:23:04 GMT",
+      "description": "The leading opposition candidate calls allegations of a planned insurrection \"total fabrications\"."
     },
     {
       "title": "Ferrari's first ever electric car sold for record $40m",
@@ -68,6 +74,12 @@
       "description": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday."
     },
     {
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 16 Aug 2026 19:50:36 GMT",
+      "description": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control."
+    },
+    {
       "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
       "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 16 Aug 2026 13:34:38 GMT",
@@ -78,18 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 16 Aug 2026 19:00:23 GMT",
       "description": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police."
-    },
-    {
-      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 10:53:50 GMT",
-      "description": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning."
-    },
-    {
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 16 Aug 2026 12:37:21 GMT",
-      "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
     }
   ],
   "regions": {
@@ -125,12 +125,6 @@
         "description": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference."
       },
       {
-        "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
-        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "description": "In some wellness circles, tadalafil is promoted as a longevity drug. There is evidence showing a link between it and a lower risk of death in men, but there are no well-controlled trials in humans."
-      },
-      {
         "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
         "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
         "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
@@ -143,16 +137,22 @@
         "description": "Four states are suing the parent company of Facebook and Instagram, alleging that the platforms were designed to hook kids and that Meta hid the mental health risks."
       },
       {
-        "title": "Advocates worry new bans on student IDs will trip up young voters",
+        "title": "Elon Musk&apos;s Starbase wants to expand in south Texas",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "description": "Landowners and activists worry about impact to the environment around SpaceX&apos;s complex."
+      },
+      {
+        "title": "Advocates worry new bans on student IDs will trip up younger voters",
         "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
         "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
         "description": "New bans on using student IDs for voting in Indiana and New Hampshire have sparked lawsuits after creating the latest hurdles to the ballot box for the U.S. voting-age group least likely to vote."
       },
       {
-        "title": "Elon Musk&apos;s Starbase wants to expand in south Texas",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
+        "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
         "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "description": "Landowners and activists worry about impact to the environment around SpaceX&apos;s complex."
+        "description": "In some wellness circles, tadalafil is promoted as a longevity drug. There is evidence showing a link between it and a lower risk of death in men, but there are no well-controlled trials in humans."
       }
     ],
     "Canada": []
