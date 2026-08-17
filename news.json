@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T11:51:03.345Z",
+  "updated": "2026-08-17T12:35:39.919Z",
   "world": [
     {
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
@@ -10,7 +10,7 @@
     {
       "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
       "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 11:16:31 GMT",
+      "pubDate": "Mon, 17 Aug 2026 12:27:11 GMT",
       "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan."
     },
     {
@@ -34,8 +34,8 @@
     {
       "title": "Top Zambian opposition figures arrested days after presidential vote",
       "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 10:57:09 GMT",
-      "description": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life."
+      "pubDate": "Mon, 17 Aug 2026 12:11:13 GMT",
+      "description": "The leading opposition candidate calls allegations of a planned insurrection as \"total fabrications\"."
     },
     {
       "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
+        "link": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
+        "pubDate": "Mon, 17 Aug 2026 07:48:21 -0400",
+        "description": "The USS Washington is on its way to the Middle East to relieve the USS Lincoln amid concerns about conditions aboard. And, Jared Kushner is expected to meet with Prime Minister Netanyahu to move Gaza "
+      },
+      {
         "title": "Hayden Panettiere, who starred in &apos;Heroes&apos; and &apos;Nashville,&apos; dies at 36",
         "link": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
         "pubDate": "Mon, 17 Aug 2026 06:00:10 -0400",
@@ -105,18 +111,6 @@
         "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
         "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
         "description": "For 10 years, a Catholic-run home offered young women an affordable place to live in the nation&apos;s capital as they studied and launched careers. Now, that community is saying goodbye."
-      },
-      {
-        "title": "Car problems? No childcare? How an app is helping people get to work",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
-        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "description": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference."
-      },
-      {
-        "title": "Can a student ID be used for voting? More Republican-led states are banning it",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
-        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "description": "New bans on using student IDs for voting in Indiana and New Hampshire have sparked lawsuits after creating the latest hurdles to the ballot box for the U.S. voting-age group least likely to vote."
       },
       {
         "title": "Meta heads to court in a landmark trial about kids and social media addiction",
@@ -131,10 +125,22 @@
         "description": "There&apos;s a lot homeowners can do to prepare for wildfires, such as managing flammable plants and using fire-resistant building materials. But some states struggle to pass rules requiring those ste"
       },
       {
+        "title": "Missed shifts were costly to this McDonald&apos;s. An app has fixed the problem",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "description": "Unexpected absences can cost employers tens of thousands of dollars a month. An app that helps workers with last-minute transportation, food and childcare is making a difference."
+      },
+      {
         "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
         "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
         "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
         "description": "In some wellness circles, tadalafil is promoted as a longevity drug. There is evidence showing a link between it and a lower risk of death in men, but there are no well-controlled trials in humans."
+      },
+      {
+        "title": "Advocates worry new bans on student IDs will trip up young voters",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
+        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
+        "description": "New bans on using student IDs for voting in Indiana and New Hampshire have sparked lawsuits after creating the latest hurdles to the ballot box for the U.S. voting-age group least likely to vote."
       },
       {
         "title": "Elon Musk&apos;s Starbase wants to expand in south Texas",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/17/nx-s1-5930235/morning-news-brief",
         "pubDate": "Mon, 17 Aug 2026 04:49:18 -0400",
         "description": "USS Washington to relieve USS Lincoln after concerns about conditions, Ukraine launches one of its largest aerial attacks on Russia, a look at where talks stand regarding the future of Gaza."
-      },
-      {
-        "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
-        "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
-        "pubDate": "Mon, 17 Aug 2026 01:21:39 -0400",
-        "description": "President Trump explained the decision by saying South Korea had declined to help with the &quot;denuclearization&quot; of Iran and he cited his good relationship with North Korea&apos;s leader."
       }
     ],
     "Canada": []
