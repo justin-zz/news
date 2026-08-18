@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T18:31:55.789Z",
+  "updated": "2026-08-18T19:24:11.594Z",
   "world": [
     {
       "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
@@ -11,7 +11,7 @@
       "title": "Earthquake rocks Spain's historic Granada, injuring three",
       "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 17:15:39 GMT",
-      "description": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has closed temporarily."
+      "description": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed."
     },
     {
       "title": "Brazil's President Lula hails oil discovery near Amazon river",
@@ -20,7 +20,7 @@
       "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon."
     },
     {
-      "title": "US mother begged for help before her children's killings, mother-in-law testifies",
+      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
       "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 17:54:46 GMT",
       "description": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis."
@@ -64,7 +64,7 @@
     {
       "title": "US announces new sanctions on top ICC figures",
       "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 17:40:09 GMT",
+      "pubDate": "Tue, 18 Aug 2026 19:18:30 GMT",
       "description": "The Trump administration has vowed to dismantle the international court \"brick by brick\"."
     },
     {
@@ -125,6 +125,12 @@
         "description": "Soap box derbies send motorless cars down a steep incline. At one event, contestants make their cars look like cartoon characters, subway cars, food, and giant animals (among other outlandish shapes)."
       },
       {
+        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+        "description": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?"
+      },
+      {
         "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
         "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
         "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
@@ -135,12 +141,6 @@
         "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
         "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
         "description": "The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?"
-      },
-      {
-        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
-        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "description": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?"
       },
       {
         "title": "Morning news brief",
