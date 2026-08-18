@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T23:17:47.712Z",
+  "updated": "2026-08-18T23:45:22.778Z",
   "world": [
     {
       "title": "Meta hooked children on Facebook and Instagram, court hears",
@@ -38,22 +38,34 @@
       "description": "Recovery efforts continue in what is the country's deadliest transport disaster."
     },
     {
+      "title": "ZZ Top drummer Frank Beard dies aged 77",
+      "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 22:25:46 GMT",
+      "description": "A statement on the blues-rock band's website said he died on Monday in hospice"
+    },
+    {
+      "title": "US announces new sanctions on top ICC figures",
+      "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 20:21:49 GMT",
+      "description": "The Trump administration has vowed to dismantle the international court \"brick by brick\"."
+    },
+    {
       "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
       "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 16:00:30 GMT",
       "description": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated."
     },
     {
-      "title": "Judge swapped in Trump's defamation case against BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 19:52:32 GMT",
-      "description": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC."
-    },
-    {
       "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
       "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 08:44:10 GMT",
       "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday."
+    },
+    {
+      "title": "Judge swapped in Trump's defamation case against BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 19:52:32 GMT",
+      "description": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC."
     },
     {
       "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
@@ -74,22 +86,10 @@
       "description": "\"It was just weird, like some twisted game\": At least half a dozen people were threatened near City Hall last week."
     },
     {
-      "title": "US announces new sanctions on top ICC figures",
-      "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 20:21:49 GMT",
-      "description": "The Trump administration has vowed to dismantle the international court \"brick by brick\"."
-    },
-    {
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 08:07:37 GMT",
       "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
-    },
-    {
-      "title": "Inside secret police warehouse as Germany targets small boats gangs",
-      "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 05:02:58 GMT",
-      "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling."
     }
   ],
   "regions": {
@@ -137,10 +137,10 @@
         "description": "Soap box derbies send motorless cars down a steep incline. At one event, contestants make their cars look like cartoon characters, subway cars, food, and giant animals (among other outlandish shapes)."
       },
       {
-        "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
         "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "description": "The GOP primary in Florida&apos;s 19th District includes candidates who are new to the state, candidates who&apos;ve run for Congress before and two candidates who have received pardons from President"
+        "description": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?"
       },
       {
         "title": "Many recent grads say AI is making it harder to get a job. Economists aren&apos;t so sure",
@@ -149,10 +149,10 @@
         "description": "The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?"
       },
       {
-        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+        "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
         "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "description": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?"
+        "description": "The GOP primary in Florida&apos;s 19th District includes candidates who are new to the state, candidates who&apos;ve run for Congress before and two candidates who have received pardons from President"
       }
     ],
     "Canada": []
