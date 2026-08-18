@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T16:30:11.825Z",
+  "updated": "2026-08-18T17:22:38.953Z",
   "world": [
     {
       "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
@@ -38,6 +38,18 @@
       "description": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated."
     },
     {
+      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 16:22:54 GMT",
+      "description": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\"."
+    },
+    {
+      "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
+      "link": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 16:26:22 GMT",
+      "description": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network."
+    },
+    {
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 08:07:37 GMT",
@@ -50,21 +62,21 @@
       "description": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule."
     },
     {
-      "title": "Student killed in Philippines Catholic school shooting",
-      "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 03:43:53 GMT",
-      "description": "The alleged shooter, also a student, later took his own life."
-    },
-    {
       "title": "Indian student leader ends hunger strike after 16 days",
       "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 07:27:32 GMT",
       "description": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state."
     },
     {
+      "title": "Student killed in Philippines Catholic school shooting",
+      "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 03:43:53 GMT",
+      "description": "The alleged shooter, also a student, later took his own life."
+    },
+    {
       "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
       "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 10:59:22 GMT",
+      "pubDate": "Tue, 18 Aug 2026 17:00:29 GMT",
       "description": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians."
     },
     {
@@ -78,18 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 06:53:11 GMT",
       "description": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record."
-    },
-    {
-      "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-      "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 05:24:15 GMT",
-      "description": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified."
-    },
-    {
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 19:25:05 GMT",
-      "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires."
     }
   ],
   "regions": {
@@ -143,16 +143,16 @@
         "description": "Jared Kushner and Israel&apos;s prime minister meet in attempt to move Gaza ceasefire plan forward, U.S. focus on Iran draws key resources from Asia, voters head to the polls for primaries Tuesday."
       },
       {
+        "title": "Jason Arday&apos;s rise and fall tells a larger story about academia, a critic says",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5935396/jason-arday-former-cambridge-professor-found-dead-after-allegations-about-his-work",
+        "pubDate": "Tue, 18 Aug 2026 04:41:14 -0400",
+        "description": "What can academia learn from Jason Arday&apos;s rise and fall? Atlantic staff writer and former academic Tyler Austin Harper weighs the questions his story left behind."
+      },
+      {
         "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur&apos;s 1996 killing",
         "link": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
         "pubDate": "Tue, 18 Aug 2026 01:56:44 -0400",
         "description": "A prosecutor said that while few have been willing to speak about the 1996 killing of Tupac Shakur, Duane &quot;Keffe D&quot; Davis is the &quot;one person who has a hard time being silent.&quot;"
-      },
-      {
-        "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
-        "pubDate": "Tue, 18 Aug 2026 01:51:50 -0400",
-        "description": "The Palestinian American whose home in the occupied West Bank has been besieged by Israeli settlers traveled to his property on Monday to join other family members who have been defending it."
       }
     ],
     "Canada": []
