@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-18T11:20:59.932Z",
+  "updated": "2026-08-18T11:50:11.821Z",
   "world": [
     {
-      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
       "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 09:55:00 GMT",
-      "description": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression."
+      "pubDate": "Tue, 18 Aug 2026 11:41:23 GMT",
+      "description": "Prime Minister Andy Burnham vows to support Ukraine in its \"hour of need\" after Russia accuses the UK of escalating the Ukraine war by supplying British-made drones."
     },
     {
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
+        "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
+        "pubDate": "Tue, 18 Aug 2026 07:40:35 -0400",
+        "description": "The U.S. and Iran missed a deadline to begin peace talks this week. The monthslong war has depleted U.S. resources. And, what to know about Alaska&apos;s U.S. Senate seat primary."
+      },
+      {
         "title": "The grueling fight over who profits from AI music",
         "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
         "pubDate": "Tue, 18 Aug 2026 06:30:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
         "pubDate": "Mon, 17 Aug 2026 18:37:58 -0400",
         "description": "A federal judge&apos;s decision in Texas has major implications for the National Firearms Act. What does this mean for certain guns and other weapons?"
-      },
-      {
-        "title": "Palestinian family in West Bank fear settler violence will rob them of home",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home",
-        "pubDate": "Mon, 17 Aug 2026 17:27:58 -0400",
-        "description": "The family of a Palestinian-American man remain holed up in his West Bank home for more than a week, after Israeli settlers laid siege to the house and the Israeli army then turned it into a closed mi"
       }
     ],
     "Canada": []
