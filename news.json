@@ -1,11 +1,17 @@
 {
-  "updated": "2026-08-18T06:35:50.469Z",
+  "updated": "2026-08-18T07:34:39.250Z",
   "world": [
     {
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 05:00:04 GMT",
       "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
+    },
+    {
+      "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 06:40:00 GMT",
+      "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine."
     },
     {
       "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
@@ -18,12 +24,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 05:02:58 GMT",
       "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling."
-    },
-    {
-      "title": "Russia warns UK over supplying drones to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 04:59:25 GMT",
-      "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine."
     },
     {
       "title": "Watch: Why has Trump shifted on North Korea?",
@@ -62,16 +62,16 @@
       "description": "The prime minister announced on Monday €12m worth of aid to French regions that had been worst affected by the fires."
     },
     {
-      "title": "Russia and Ukraine trade more deadly strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 13:16:50 GMT",
-      "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths."
-    },
-    {
       "title": "US hiker dies after being struck by lightning on Mount Etna",
       "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 17 Aug 2026 12:23:26 GMT",
       "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report."
+    },
+    {
+      "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
+      "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 06:53:11 GMT",
+      "description": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record."
     },
     {
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
@@ -80,16 +80,16 @@
       "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
     },
     {
+      "title": "Russia and Ukraine trade more deadly strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 13:16:50 GMT",
+      "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths."
+    },
+    {
       "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
       "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 17 Aug 2026 16:02:58 GMT",
       "description": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan."
-    },
-    {
-      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
-      "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 10:39:24 GMT",
-      "description": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday."
     }
   ],
   "regions": {
