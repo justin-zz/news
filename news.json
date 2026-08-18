@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T08:31:13.333Z",
+  "updated": "2026-08-18T09:28:10.160Z",
   "world": [
     {
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
@@ -8,9 +8,9 @@
       "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
     },
     {
-      "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
+      "title": "Russia warns UK will pay for supplying drones to Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 06:40:00 GMT",
+      "pubDate": "Tue, 18 Aug 2026 09:11:57 GMT",
       "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine."
     },
     {
@@ -38,22 +38,28 @@
       "description": "The alleged shooter, also a student, later took his own life."
     },
     {
-      "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-      "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 23:28:54 GMT",
-      "description": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville."
-    },
-    {
-      "title": "Zambia's president wins second term with 60% of the vote",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 07:46:55 GMT",
-      "description": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians."
+      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 08:44:10 GMT",
+      "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday."
     },
     {
       "title": "Doctors remove 3.1kg stone from man's bladder and claim record",
       "link": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 06:53:11 GMT",
       "description": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record."
+    },
+    {
+      "title": "Indian student leader ends hunger strike after 16 days",
+      "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 07:27:32 GMT",
+      "description": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state."
+    },
+    {
+      "title": "Zambia's president wins second term with 60% of the vote",
+      "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 07:46:55 GMT",
+      "description": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians."
     },
     {
       "title": "Norway's king admitted to hospital and put on sick leave",
@@ -84,16 +90,34 @@
       "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 17 Aug 2026 12:23:26 GMT",
       "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report."
-    },
-    {
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 18:39:39 GMT",
-      "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+        "description": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?"
+      },
+      {
+        "title": "Many recent grads say AI is making it harder to get a job. Economists aren&apos;t so sure",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+        "description": "The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?"
+      },
+      {
+        "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+        "description": "The GOP primary in Florida&apos;s 19th District includes candidates who are new to the state, candidates who&apos;ve run for Congress before and two candidates who have received pardons from President"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
+        "pubDate": "Tue, 18 Aug 2026 04:41:19 -0400",
+        "description": "Jared Kushner and Israel&apos;s prime minister meet in attempt to move Gaza ceasefire plan forward, U.S. focus on Iran draws key resources from Asia, voters head to the polls for primaries Tuesday."
+      },
       {
         "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur&apos;s 1996 killing",
         "link": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation",
         "pubDate": "Mon, 17 Aug 2026 15:53:37 -0400",
         "description": "The California Democrat has admitted to &quot;personal mistakes&quot; outside his marriage but also says his actions were consensual in nature and did not violate House ethics rules."
-      },
-      {
-        "title": "DHS defends investigating agency critics and giving them warning notices",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
-        "pubDate": "Mon, 17 Aug 2026 09:31:13 -0400",
-        "description": "Federal officials acknowledged that ICE special agents tracked a New York man to his house, the airport and a hotel to question him about a critical email he sent to the former head of ICE in January."
-      },
-      {
-        "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
-        "link": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
-        "pubDate": "Mon, 17 Aug 2026 07:48:21 -0400",
-        "description": "The USS Washington is on its way to the Middle East to relieve the USS Lincoln amid concerns about conditions aboard. And, Jared Kushner is expected to meet with Prime Minister Netanyahu to move Gaza "
-      },
-      {
-        "title": "Sen. Mark Kelly says USS Lincoln sailors &apos;can&apos;t get basic needs met&apos;",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5933015/mark-kelly-navy-lincoln-sailors-investigation",
-        "pubDate": "Mon, 17 Aug 2026 06:49:59 -0400",
-        "description": "NPR&apos;s Sacha Pfeiffer talks with Democratic Sen. Mark Kelly of Arizona about conditions aboard the USS Lincoln and his calls for an investigation into sailors&apos; treatment."
-      },
-      {
-        "title": "Hayden Panettiere, who starred in &apos;Heroes&apos; and &apos;Nashville,&apos; dies at 36",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
-        "pubDate": "Mon, 17 Aug 2026 06:00:10 -0400",
-        "description": "A child actor since she was cast in various commercials as an 11-month-old, Panettiere was best known for her role as the country music star Juliette Barnes in the series &lt;em&gt;Nashville&lt;/em&gt"
       }
     ],
     "Canada": []
