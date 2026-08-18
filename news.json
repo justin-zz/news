@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T19:48:00.999Z",
+  "updated": "2026-08-18T20:18:31.960Z",
   "world": [
     {
       "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
@@ -38,16 +38,22 @@
       "description": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated."
     },
     {
+      "title": "Judge swapped in Trump's defamation case against BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 19:52:32 GMT",
+      "description": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC."
+    },
+    {
       "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
       "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 08:44:10 GMT",
       "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday."
     },
     {
-      "title": "Inside secret police warehouse as Germany targets small boats gangs",
-      "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 05:02:58 GMT",
-      "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling."
+      "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
+      "link": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 16:26:22 GMT",
+      "description": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network."
     },
     {
       "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
@@ -56,10 +62,10 @@
       "description": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\"."
     },
     {
-      "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
-      "link": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 16:26:22 GMT",
-      "description": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network."
+      "title": "Man in Chucky-style mask terrorises Philadelphia residents",
+      "link": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 20:01:34 GMT",
+      "description": "\"It was just weird, like some twisted game.\""
     },
     {
       "title": "US announces new sanctions on top ICC figures",
@@ -74,26 +80,32 @@
       "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
     },
     {
+      "title": "Inside secret police warehouse as Germany targets small boats gangs",
+      "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 05:02:58 GMT",
+      "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling."
+    },
+    {
       "title": "China censors public mourning as it holds former premier's funeral",
       "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 07:17:07 GMT",
       "description": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule."
-    },
-    {
-      "title": "Indian student leader ends hunger strike after 16 days",
-      "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 07:27:32 GMT",
-      "description": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state."
-    },
-    {
-      "title": "Student killed in Philippines Catholic school shooting",
-      "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 03:43:53 GMT",
-      "description": "The alleged shooter, also a student, later took his own life."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
+        "pubDate": "Tue, 18 Aug 2026 16:04:18 -0400",
+        "description": "Mills is the latest lawmaker in a recent string of congressional members facing scandals and allegations of domestic abuse while running for elected office."
+      },
+      {
+        "title": "ABC and Disney sue FCC, alleging First Amendment violations",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations",
+        "pubDate": "Tue, 18 Aug 2026 15:51:27 -0400",
+        "description": "The ABC Network has sued the Federal Communications Commission, alleging that the Trump administration is violating its First Amendment rights by challenging ABC broadcast licenses and investigating t"
+      },
       {
         "title": "&apos;Profits won.&apos; The child safety trial against Meta kicks off in federal court",
         "link": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
         "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
         "description": "The GOP primary in Florida&apos;s 19th District includes candidates who are new to the state, candidates who&apos;ve run for Congress before and two candidates who have received pardons from President"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
-        "pubDate": "Tue, 18 Aug 2026 04:41:19 -0400",
-        "description": "Jared Kushner and Israel&apos;s prime minister meet in attempt to move Gaza ceasefire plan forward, U.S. focus on Iran draws key resources from Asia, voters head to the polls for primaries Tuesday."
-      },
-      {
-        "title": "Jason Arday&apos;s rise and fall tells a larger story about academia, a critic says",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5935396/britain-cambridge-professor-jason-arday-hiring-questions",
-        "pubDate": "Tue, 18 Aug 2026 04:41:14 -0400",
-        "description": "What can academia learn from Jason Arday&apos;s rise and fall? Atlantic staff writer and former academic Tyler Austin Harper weighs the questions his story left behind."
       }
     ],
     "Canada": []
