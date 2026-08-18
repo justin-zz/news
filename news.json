@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T17:52:57.080Z",
+  "updated": "2026-08-18T18:31:55.789Z",
   "world": [
     {
       "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
@@ -8,10 +8,10 @@
       "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\"."
     },
     {
-      "title": "Inside secret police warehouse as Germany targets small boats gangs",
-      "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 05:02:58 GMT",
-      "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling."
+      "title": "Earthquake rocks Spain's historic Granada, injuring three",
+      "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 17:15:39 GMT",
+      "description": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has closed temporarily."
     },
     {
       "title": "Brazil's President Lula hails oil discovery near Amazon river",
@@ -20,10 +20,10 @@
       "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon."
     },
     {
-      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
-      "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 08:44:10 GMT",
-      "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday."
+      "title": "US mother begged for help before her children's killings, mother-in-law testifies",
+      "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 17:54:46 GMT",
+      "description": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis."
     },
     {
       "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
@@ -36,6 +36,18 @@
       "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 16:00:30 GMT",
       "description": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated."
+    },
+    {
+      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 08:44:10 GMT",
+      "description": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday."
+    },
+    {
+      "title": "Inside secret police warehouse as Germany targets small boats gangs",
+      "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 05:02:58 GMT",
+      "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling."
     },
     {
       "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
@@ -78,18 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 03:43:53 GMT",
       "description": "The alleged shooter, also a student, later took his own life."
-    },
-    {
-      "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 17:00:29 GMT",
-      "description": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians."
-    },
-    {
-      "title": "Norway's king admitted to hospital and put on sick leave",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 21:34:26 GMT",
-      "description": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition."
     }
   ],
   "regions": {
@@ -131,16 +131,16 @@
         "description": "The GOP primary in Florida&apos;s 19th District includes candidates who are new to the state, candidates who&apos;ve run for Congress before and two candidates who have received pardons from President"
       },
       {
-        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
-        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "description": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?"
-      },
-      {
         "title": "Many recent grads say AI is making it harder to get a job. Economists aren&apos;t so sure",
         "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
         "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
         "description": "The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?"
+      },
+      {
+        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+        "description": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?"
       },
       {
         "title": "Morning news brief",
