@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T09:28:10.160Z",
+  "updated": "2026-08-18T09:58:56.755Z",
   "world": [
     {
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
@@ -10,8 +10,8 @@
     {
       "title": "Russia warns UK will pay for supplying drones to Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 09:11:57 GMT",
-      "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine."
+      "pubDate": "Tue, 18 Aug 2026 09:55:00 GMT",
+      "description": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression."
     },
     {
       "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
@@ -95,22 +95,28 @@
   "regions": {
     "US": [
       {
+        "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
+        "pubDate": "Tue, 18 Aug 2026 05:30:00 -0400",
+        "description": "Soap box derbies send motorless cars down a steep incline. At one event, contestants make their cars look like cartoon characters, subway cars, food, and giant animals (among other outlandish shapes)."
+      },
+      {
         "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
         "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
         "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
         "description": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?"
       },
       {
-        "title": "Many recent grads say AI is making it harder to get a job. Economists aren&apos;t so sure",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
-        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "description": "The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?"
-      },
-      {
         "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
         "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
         "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
         "description": "The GOP primary in Florida&apos;s 19th District includes candidates who are new to the state, candidates who&apos;ve run for Congress before and two candidates who have received pardons from President"
+      },
+      {
+        "title": "Many recent grads say AI is making it harder to get a job. Economists aren&apos;t so sure",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
+        "description": "The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?"
       },
       {
         "title": "Morning news brief",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/17/g-s1-138997/former-federal-prosecutor-sue-doj-retaliatory-firing",
         "pubDate": "Mon, 17 Aug 2026 17:01:54 -0400",
         "description": "A federal prosecutor who was fired earlier this year is suing the DOJ, alleging she was unlawfully dismissed for political reasons tied to her work prosecuting a case against anti-abortion activists."
-      },
-      {
-        "title": "Democratic Rep. Jimmy Gomez being investigated over sexual misconduct allegations",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation",
-        "pubDate": "Mon, 17 Aug 2026 15:53:37 -0400",
-        "description": "The California Democrat has admitted to &quot;personal mistakes&quot; outside his marriage but also says his actions were consensual in nature and did not violate House ethics rules."
       }
     ],
     "Canada": []
