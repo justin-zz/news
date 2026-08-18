@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T05:54:02.799Z",
+  "updated": "2026-08-18T06:35:50.469Z",
   "world": [
     {
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
@@ -26,7 +26,7 @@
       "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine."
     },
     {
-      "title": "BBC breaks down Trump's latest shift on North and South Korea",
+      "title": "Watch: Why has Trump shifted on North Korea?",
       "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 17 Aug 2026 23:42:38 GMT",
       "description": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un."
@@ -38,16 +38,16 @@
       "description": "The 89-year-old - one of Europe's longest-serving monarchs - is suffering from a rare blood condition."
     },
     {
-      "title": "Russia's prominent anti-war politician jailed for 11 years",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 17 Aug 2026 16:17:34 GMT",
-      "description": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position."
-    },
-    {
       "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
       "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 17 Aug 2026 23:28:54 GMT",
       "description": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville."
+    },
+    {
+      "title": "Russia's prominent anti-war politician jailed for 11 years",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 17 Aug 2026 16:17:34 GMT",
+      "description": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position."
     },
     {
       "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
@@ -95,10 +95,28 @@
   "regions": {
     "US": [
       {
+        "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur&apos;s 1996 killing",
+        "link": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
+        "pubDate": "Tue, 18 Aug 2026 01:56:44 -0400",
+        "description": "A prosecutor said that while few have been willing to speak about the 1996 killing of Tupac Shakur, Duane &quot;Keffe D&quot; Davis is the &quot;one person who has a hard time being silent.&quot;"
+      },
+      {
+        "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+        "pubDate": "Tue, 18 Aug 2026 01:51:50 -0400",
+        "description": "The Palestinian American whose home in the occupied West Bank has been besieged by Israeli settlers traveled to his property on Monday to join other family members who have been defending it."
+      },
+      {
         "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
         "link": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
         "pubDate": "Mon, 17 Aug 2026 18:37:58 -0400",
         "description": "A federal judge&apos;s decision in Texas has major implications for the National Firearms Act. What does this mean for certain guns and other weapons?"
+      },
+      {
+        "title": "Palestinian family in West Bank fear settler violence will rob them of home",
+        "link": "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home",
+        "pubDate": "Mon, 17 Aug 2026 17:27:58 -0400",
+        "description": "The family of a Palestinian-American man remain holed up in his West Bank home for more than a week, after Israeli settlers laid siege to the house and the Israeli army then turned it into a closed mi"
       },
       {
         "title": "Former federal prosecutor is suing DOJ for &apos;unlawful and retaliatory&apos; firing",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
         "pubDate": "Mon, 17 Aug 2026 06:00:10 -0400",
         "description": "A child actor since she was cast in various commercials as an 11-month-old, Panettiere was best known for her role as the country music star Juliette Barnes in the series &lt;em&gt;Nashville&lt;/em&gt"
-      },
-      {
-        "title": "As wildfires get worse, some states are struggling to pass fire protection rules",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection",
-        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "description": "There&apos;s a lot homeowners can do to prepare for wildfires, such as managing flammable plants and using fire-resistant building materials. But some states struggle to pass rules requiring those ste"
-      },
-      {
-        "title": "Elon Musk&apos;s Starbase wants to expand in south Texas",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
-        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "description": "Landowners and activists worry about impact to the environment around SpaceX&apos;s complex."
-      },
-      {
-        "title": "Cialis is an erectile dysfunction drug. Could it also help you live longer?",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health",
-        "pubDate": "Mon, 17 Aug 2026 05:00:00 -0400",
-        "description": "In some wellness circles, tadalafil is promoted as a longevity drug. There is evidence showing a link between it and a lower risk of death in men, but there are no well-controlled trials in humans."
       }
     ],
     "Canada": []
