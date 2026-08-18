@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T15:03:01.133Z",
+  "updated": "2026-08-18T15:56:19.410Z",
   "world": [
     {
       "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
+        "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
+        "pubDate": "Tue, 18 Aug 2026 11:19:40 -0400",
+        "description": "Lee&apos;s comments Tuesday come as many South Koreans remain baffled and concerned about U.S. President Donald Trump&apos;s abrupt order to &quot;substantially reduce&quot; military exercises with So"
+      },
+      {
         "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
         "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
         "pubDate": "Tue, 18 Aug 2026 07:40:35 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
         "pubDate": "Tue, 18 Aug 2026 01:51:50 -0400",
         "description": "The Palestinian American whose home in the occupied West Bank has been besieged by Israeli settlers traveled to his property on Monday to join other family members who have been defending it."
-      },
-      {
-        "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
-        "link": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
-        "pubDate": "Mon, 17 Aug 2026 18:37:58 -0400",
-        "description": "A federal judge&apos;s decision in Texas has major implications for the National Firearms Act. What does this mean for certain guns and other weapons?"
       }
     ],
     "Canada": []
