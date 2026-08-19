@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T16:30:58.974Z",
+  "updated": "2026-08-19T17:22:22.158Z",
   "world": [
     {
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
@@ -20,9 +20,9 @@
       "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods."
     },
     {
-      "title": "Israel opens up tenders for controversial West Bank settlement project",
+      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
       "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 15:50:22 GMT",
+      "pubDate": "Wed, 19 Aug 2026 17:16:28 GMT",
       "description": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned."
     },
     {
@@ -34,7 +34,7 @@
     {
       "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
       "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 12:47:53 GMT",
+      "pubDate": "Wed, 19 Aug 2026 16:31:48 GMT",
       "description": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022."
     },
     {
@@ -71,7 +71,7 @@
       "title": "Trump administration can target Ethiopians for deportation",
       "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 15:11:19 GMT",
-      "description": "A judge's ruling on Tuesday removed the last remaining block on Trump officials' efforts to cancel Temporary Protected Status for Ethiopians."
+      "description": "A judge has cleared the way for the Trump administration to cancel Temporary Protected Status for Ethiopians living in the US."
     },
     {
       "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
@@ -88,12 +88,18 @@
     {
       "title": "Retail giant Target receives $1bn boost from tariff refunds",
       "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 14:47:02 GMT",
+      "pubDate": "Wed, 19 Aug 2026 17:07:49 GMT",
       "description": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Why Aitana&apos;s &apos;Superestrella&apos; is the surprise Latin hit song of the summer",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5937925/aitana-superestrella-song-of-the-summer",
+        "pubDate": "Wed, 19 Aug 2026 13:03:41 -0400",
+        "description": "The escapist hit from singer Aitana has swept most of the Spanish-language world."
+      },
       {
         "title": "Why does the U.S. military seem stymied in the war with Iran?",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
         "pubDate": "Wed, 19 Aug 2026 05:02:00 -0400",
         "description": "Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest."
-      },
-      {
-        "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
-        "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
-        "description": "The Child Care and Development Fund, the U.S. government&apos;s main source of funding to help low-income families pay for childcare, serves over 1.6 million children in a typical month."
       }
     ],
     "Canada": []
