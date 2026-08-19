@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-19T04:06:37.355Z",
+  "updated": "2026-08-19T05:02:16.509Z",
   "world": [
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 01:31:15 GMT",
+      "pubDate": "Wed, 19 Aug 2026 04:44:41 GMT",
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
     },
     {
@@ -20,10 +20,10 @@
       "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started."
     },
     {
-      "title": "South Korea shortens war games with US citing Washington request",
+      "title": "South Korea shortens war games with US, citing Washington request",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 03:39:41 GMT",
-      "description": "It comes after Trump announced plans to curtail joint exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
+      "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
     },
     {
       "title": "Husband and mother-in-law charged over Indian bride's death",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
+        "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+        "pubDate": "Wed, 19 Aug 2026 00:55:08 -0400",
+        "description": "President Trump said he was delaying the 50% U.S. tariffs on Canadian imports after the two countries reached a last-minute deal less than two hours before the sanctions were to go into effect."
+      },
+      {
         "title": "Key results from Florida primaries, so far",
         "link": "https://www.npr.org/2026/08/18/nx-s1-5936403/what-to-watch-for-in-the-florida-primaries",
         "pubDate": "Tue, 18 Aug 2026 17:01:17 -0400",
@@ -143,16 +149,10 @@
         "description": "Soap box derbies send motorless cars down a steep incline. At one event, contestants make their cars look like cartoon characters, subway cars, food, and giant animals (among other outlandish shapes)."
       },
       {
-        "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
         "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "description": "The GOP primary in Florida&apos;s 19th District includes candidates who are new to the state, candidates who&apos;ve run for Congress before and two candidates who have received pardons from President"
-      },
-      {
-        "title": "Many recent grads say AI is making it harder to get a job. Economists aren&apos;t so sure",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
-        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "description": "The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?"
+        "description": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?"
       }
     ],
     "Canada": []
