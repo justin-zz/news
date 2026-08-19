@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T09:28:58.358Z",
+  "updated": "2026-08-19T09:59:29.173Z",
   "world": [
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
@@ -95,16 +95,16 @@
   "regions": {
     "US": [
       {
+        "title": "Congo&apos;s Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
+        "link": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
+        "pubDate": "Wed, 19 Aug 2026 05:29:40 -0400",
+        "description": "Government data showed the outbreak had so far recorded 5,021 cases, including 2,378 deaths. The outbreak has infected and killed more people at a greater speed than any other outbreak in history."
+      },
+      {
         "title": "Feeling restless? Level up your life by starting a side quest",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
         "pubDate": "Wed, 19 Aug 2026 05:02:00 -0400",
         "description": "Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest."
-      },
-      {
-        "title": "15 states have laws that allow corporal punishment in schools. Here&apos;s where, and why",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
-        "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
-        "description": "There is broad consensus among psychologists that corporal punishment can be harmful to children, but the U.S. has no federal laws banning it in public schools."
       },
       {
         "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
@@ -117,6 +117,12 @@
         "link": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
         "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
         "description": "Elbridge Gerry was an important early figure in the American Revolution, but his decision to approve a &quot;gerrymandered&quot; state legislative map inadvertently won him lasting infamy."
+      },
+      {
+        "title": "15 states have laws that allow corporal punishment in schools. Here&apos;s where, and why",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
+        "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
+        "description": "There is broad consensus among psychologists that corporal punishment can be harmful to children, but the U.S. has no federal laws banning it in public schools."
       },
       {
         "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
         "pubDate": "Tue, 18 Aug 2026 16:04:18 -0400",
         "description": "Mills is the latest lawmaker in a recent string of congressional members facing scandals and allegations of domestic abuse while trying to run for elected office."
-      },
-      {
-        "title": "ABC and Disney sue FCC, alleging First Amendment violations",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations",
-        "pubDate": "Tue, 18 Aug 2026 15:51:27 -0400",
-        "description": "The ABC network has sued the Federal Communications Commission, alleging that the Trump administration is violating its First Amendment rights by challenging ABC broadcast licenses and investigating t"
       }
     ],
     "Canada": []
