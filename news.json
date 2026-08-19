@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-19T10:36:21.040Z",
+  "updated": "2026-08-19T11:20:51.213Z",
   "world": [
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 09:02:08 GMT",
+      "pubDate": "Wed, 19 Aug 2026 11:00:21 GMT",
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
     },
     {
@@ -26,10 +26,10 @@
       "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
     },
     {
-      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 05:00:39 GMT",
-      "description": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories."
+      "title": "Apparent human remains found in US reservoir as water levels hit record low",
+      "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 10:10:09 GMT",
+      "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says."
     },
     {
       "title": "Meta hooked children on Facebook and Instagram, US court hears",
@@ -38,10 +38,10 @@
       "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started."
     },
     {
-      "title": "Apparent human remains found in US reservoir as water levels hit record low",
-      "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 10:10:09 GMT",
-      "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says."
+      "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
+      "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT",
+      "description": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation."
     },
     {
       "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida&apos;s primaries",
+        "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
+        "pubDate": "Wed, 19 Aug 2026 07:14:31 -0400",
+        "description": "President Trump has announced that the U.S. is delaying a 50% tariff on Canadian imports after reaching a deal. And, how progressive Democrats fared in Florida&apos;s primary elections yesterday."
+      },
+      {
         "title": "How India&apos;s blocking of a film exposing real-life police abuses backfired",
         "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
         "pubDate": "Wed, 19 Aug 2026 06:02:00 -0400",
@@ -104,7 +110,7 @@
         "title": "Striking hospital employees sound alarm over workplace violence",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5930385/nurses-strike-hospital-workplace-violence-patient-attacks",
         "pubDate": "Wed, 19 Aug 2026 06:00:00 -0400",
-        "description": "In addition to pay, striking hospital workers say patient violence is an issue. Hospital workers are 7 times more likely to be injured at work due to violent acts than the general working population."
+        "description": "In addition to pay, striking hospital workers say patient violence is an issue. Hospital workers are seven times more likely to be injured at work due to violent acts than the general working populati"
       },
       {
         "title": "Congo&apos;s Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
@@ -119,6 +125,12 @@
         "description": "Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest."
       },
       {
+        "title": "15 states have laws that allow corporal punishment in schools. Here&apos;s where, and why",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
+        "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
+        "description": "There is broad consensus among psychologists that corporal punishment can be harmful to children, but the U.S. has no federal laws banning it in public schools."
+      },
+      {
         "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
         "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
@@ -131,12 +143,6 @@
         "description": "Elbridge Gerry was an important early figure in the American Revolution, but his decision to approve a &quot;gerrymandered&quot; state legislative map inadvertently won him lasting infamy."
       },
       {
-        "title": "15 states have laws that allow corporal punishment in schools. Here&apos;s where, and why",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
-        "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
-        "description": "There is broad consensus among psychologists that corporal punishment can be harmful to children, but the U.S. has no federal laws banning it in public schools."
-      },
-      {
         "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
         "pubDate": "Wed, 19 Aug 2026 03:51:59 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
         "pubDate": "Wed, 19 Aug 2026 02:57:51 -0400",
         "description": "The 1,200 deportees will include Africans as well as nationals from North America, South America and the Caribbean, with the first batch of 20 expected on Thursday."
-      },
-      {
-        "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
-        "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
-        "pubDate": "Wed, 19 Aug 2026 00:55:08 -0400",
-        "description": "President Trump said he was delaying the 50% U.S. tariffs on Canadian imports after the two countries reached a last-minute deal less than two hours before the sanctions were to go into effect."
       }
     ],
     "Canada": []
