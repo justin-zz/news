@@ -1,11 +1,17 @@
 {
-  "updated": "2026-08-19T08:32:11.448Z",
+  "updated": "2026-08-19T09:28:58.358Z",
   "world": [
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 07:14:50 GMT",
+      "pubDate": "Wed, 19 Aug 2026 09:02:08 GMT",
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
+    },
+    {
+      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+      "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 08:25:03 GMT",
+      "description": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms."
     },
     {
       "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
@@ -44,16 +50,16 @@
       "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security."
     },
     {
+      "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
+      "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 07:21:51 GMT",
+      "description": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event."
+    },
+    {
       "title": "Husband and mother-in-law charged over Indian bride's death",
       "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 03:04:07 GMT",
       "description": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May."
-    },
-    {
-      "title": "Brazil's President Lula hails oil discovery near Amazon river",
-      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 13:13:54 GMT",
-      "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon."
     },
     {
       "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
@@ -68,6 +74,12 @@
       "description": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis."
     },
     {
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 13:13:54 GMT",
+      "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon."
+    },
+    {
       "title": "Five Australian rules footy players suspended amid police investigation",
       "link": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 03:36:59 GMT",
@@ -78,22 +90,34 @@
       "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 22:25:46 GMT",
       "description": "A statement on the blues-rock band's website said he died on Monday in hospice"
-    },
-    {
-      "title": "Families' agonising search for answers as thousands still missing in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 05:04:00 GMT",
-      "description": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing."
-    },
-    {
-      "title": "The Indian activist jailed after taking on a luxury hotel plan",
-      "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 22:18:50 GMT",
-      "description": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Feeling restless? Level up your life by starting a side quest",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
+        "pubDate": "Wed, 19 Aug 2026 05:02:00 -0400",
+        "description": "Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest."
+      },
+      {
+        "title": "15 states have laws that allow corporal punishment in schools. Here&apos;s where, and why",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
+        "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
+        "description": "There is broad consensus among psychologists that corporal punishment can be harmful to children, but the U.S. has no federal laws banning it in public schools."
+      },
+      {
+        "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
+        "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
+        "description": "The Child Care and Development Fund, the U.S. government&apos;s main source of funding to help low-income families pay for childcare, serves over 1.6 million children in a typical month."
+      },
+      {
+        "title": "Elbridge who? How the name of a forgotten founder lives on in the word &apos;gerrymander&apos;",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
+        "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
+        "description": "Elbridge Gerry was an important early figure in the American Revolution, but his decision to approve a &quot;gerrymandered&quot; state legislative map inadvertently won him lasting infamy."
+      },
       {
         "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations",
         "pubDate": "Tue, 18 Aug 2026 15:51:27 -0400",
         "description": "The ABC network has sued the Federal Communications Commission, alleging that the Trump administration is violating its First Amendment rights by challenging ABC broadcast licenses and investigating t"
-      },
-      {
-        "title": "&apos;Profits won.&apos; The child safety trial against Meta kicks off in federal court",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
-        "pubDate": "Tue, 18 Aug 2026 13:39:29 -0400",
-        "description": "Opening arguments are underway in a trial that pits four states against the company that owns Facebook and Instagram. They allege that Meta knew its products could hook kids — and lied about the dange"
-      },
-      {
-        "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
-        "link": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
-        "pubDate": "Tue, 18 Aug 2026 11:19:40 -0400",
-        "description": "Lee&apos;s comments Tuesday come as many South Koreans remain baffled and concerned about U.S. President Donald Trump&apos;s abrupt order to &quot;substantially reduce&quot; military exercises with So"
-      },
-      {
-        "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
-        "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
-        "pubDate": "Tue, 18 Aug 2026 07:40:35 -0400",
-        "description": "The U.S. and Iran missed a deadline to begin peace talks this week. The monthslong war has depleted U.S. resources. And, what to know about Alaska&apos;s U.S. Senate seat primary."
-      },
-      {
-        "title": "The grueling fight over who profits from AI music",
-        "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
-        "pubDate": "Tue, 18 Aug 2026 06:30:00 -0400",
-        "description": "AI can generate songs in seconds. But behind every AI track is a complicated question: Who should get paid? And, how? The fights have started."
       }
     ],
     "Canada": []
