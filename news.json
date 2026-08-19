@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T23:19:00.007Z",
+  "updated": "2026-08-19T23:45:43.564Z",
   "world": [
     {
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
@@ -52,7 +52,7 @@
     {
       "title": "Canada and US say they are finalising a trade deal, but details remain murky",
       "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 19:59:14 GMT",
+      "pubDate": "Wed, 19 Aug 2026 23:32:37 GMT",
       "description": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
+        "pubDate": "Wed, 19 Aug 2026 19:19:12 -0400",
+        "description": "California has adopted the toughest new rules in the country that require homeowners to manage the plants around their houses. Fire experts say it helps protect houses from burning, but public pushbac"
+      },
+      {
         "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
         "pubDate": "Wed, 19 Aug 2026 17:27:51 -0400",
@@ -107,10 +113,10 @@
         "description": "The former Meta employee testified that the company culture prioritized user numbers over child safety measures."
       },
       {
-        "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
+        "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
         "pubDate": "Wed, 19 Aug 2026 16:09:39 -0400",
-        "description": "The federal debt reached $40 trillion as the government adds red ink at a rapid rate. That&apos;s leading nervous investors to demand higher interest rates —pushing up borrowing costs for everyone els"
+        "description": "The federal debt reached $40 trillion as the government adds red ink at a rapid rate. That&apos;s leading nervous investors to demand higher interest rates — pushing up borrowing costs for everyone el"
       },
       {
         "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety",
         "pubDate": "Wed, 19 Aug 2026 11:22:35 -0400",
         "description": "Oregon was the first state to establish a legalized and regulated psilocybin industry. Since then, thousands have tried magic mushrooms. Here is the latest data from the state&apos;s real-life experim"
-      },
-      {
-        "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
-        "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
-        "pubDate": "Wed, 19 Aug 2026 10:19:20 -0400",
-        "description": "The Normandy beach town of Trouville-sur-Mer is a two-hour train ride from Paris, but feels a world away, with English Channel breezes and the sound of seagulls screeching through the cobbled streets."
       }
     ],
     "Canada": []
