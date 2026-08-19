@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T23:45:22.778Z",
+  "updated": "2026-08-19T01:00:03.219Z",
   "world": [
     {
       "title": "Meta hooked children on Facebook and Instagram, court hears",
@@ -32,12 +32,6 @@
       "description": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis."
     },
     {
-      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 12:04:11 GMT",
-      "description": "Recovery efforts continue in what is the country's deadliest transport disaster."
-    },
-    {
       "title": "ZZ Top drummer Frank Beard dies aged 77",
       "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 22:25:46 GMT",
@@ -54,6 +48,24 @@
       "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 16:00:30 GMT",
       "description": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated."
+    },
+    {
+      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 12:04:11 GMT",
+      "description": "Recovery efforts continue in what is the country's deadliest transport disaster."
+    },
+    {
+      "title": "Harvard agrees to pay millions after morgue manager sold body parts",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 00:07:37 GMT",
+      "description": "Harvard Medical School has agreed to pay $53 million to families who alleged the school mishandled the donated remains of loved ones."
+    },
+    {
+      "title": "China censors public mourning as it holds former premier's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 07:17:07 GMT",
+      "description": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule."
     },
     {
       "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
@@ -78,33 +90,21 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 18 Aug 2026 20:39:36 GMT",
       "description": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\"."
-    },
-    {
-      "title": "Man in Chucky-style mask terrorises Philadelphia residents",
-      "link": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 20:27:44 GMT",
-      "description": "\"It was just weird, like some twisted game\": At least half a dozen people were threatened near City Hall last week."
-    },
-    {
-      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-      "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 08:07:37 GMT",
-      "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Embattled Florida Republican Rep. Cory Mills fights to keep his House seat",
+        "title": "Embattled Florida Republican Rep. Cory Mills loses his fight to keep his House seat",
         "link": "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-republican-primary",
         "pubDate": "Tue, 18 Aug 2026 16:04:18 -0400",
-        "description": "Mills is the latest lawmaker in a recent string of congressional members facing scandals and allegations of domestic abuse while running for elected office."
+        "description": "Mills is the latest lawmaker in a recent string of congressional members facing scandals and allegations of domestic abuse while trying to run for elected office."
       },
       {
         "title": "ABC and Disney sue FCC, alleging First Amendment violations",
         "link": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations",
         "pubDate": "Tue, 18 Aug 2026 15:51:27 -0400",
-        "description": "The ABC Network has sued the Federal Communications Commission, alleging that the Trump administration is violating its First Amendment rights by challenging ABC broadcast licenses and investigating t"
+        "description": "The ABC network has sued the Federal Communications Commission, alleging that the Trump administration is violating its First Amendment rights by challenging ABC broadcast licenses and investigating t"
       },
       {
         "title": "&apos;Profits won.&apos; The child safety trial against Meta kicks off in federal court",
@@ -137,10 +137,10 @@
         "description": "Soap box derbies send motorless cars down a steep incline. At one event, contestants make their cars look like cartoon characters, subway cars, food, and giant animals (among other outlandish shapes)."
       },
       {
-        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+        "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
         "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "description": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?"
+        "description": "The GOP primary in Florida&apos;s 19th District includes candidates who are new to the state, candidates who&apos;ve run for Congress before and two candidates who have received pardons from President"
       },
       {
         "title": "Many recent grads say AI is making it harder to get a job. Economists aren&apos;t so sure",
@@ -149,10 +149,10 @@
         "description": "The unemployment rate for young adults with new degrees is higher than the rate for all workers, according to the New York Fed. Is AI the problem, or is it more complicated?"
       },
       {
-        "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
+        "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+        "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
         "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "description": "The GOP primary in Florida&apos;s 19th District includes candidates who are new to the state, candidates who&apos;ve run for Congress before and two candidates who have received pardons from President"
+        "description": "A 29-year-old woman confided her suicidal thoughts to an AI chatbot — not to her therapist, not to her parents, not to her best friend. What can AI learn from her death?"
       }
     ],
     "Canada": []
