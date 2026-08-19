@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T07:34:10.225Z",
+  "updated": "2026-08-19T08:32:11.448Z",
   "world": [
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
+        "pubDate": "Wed, 19 Aug 2026 03:51:59 -0400",
+        "description": "Israel struck an air base in northwest Syria early Tuesday, saying it aimed to prevent Turkish troops from deploying there. Turkey, which has close ties with the Syrian government and has been providi"
+      },
+      {
         "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
         "pubDate": "Wed, 19 Aug 2026 02:57:51 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
         "pubDate": "Tue, 18 Aug 2026 06:30:00 -0400",
         "description": "AI can generate songs in seconds. But behind every AI track is a complicated question: Who should get paid? And, how? The fights have started."
-      },
-      {
-        "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
-        "pubDate": "Tue, 18 Aug 2026 05:30:00 -0400",
-        "description": "Soap box derbies send motorless cars down a steep incline. At one event, contestants make their cars look like cartoon characters, subway cars, food, and giant animals (among other outlandish shapes)."
       }
     ],
     "Canada": []
