@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-19T21:21:04.615Z",
+  "updated": "2026-08-19T21:49:44.378Z",
   "world": [
     {
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
       "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 15:33:32 GMT",
-      "description": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives."
+      "description": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives."
     },
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
@@ -34,7 +34,7 @@
     {
       "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
       "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 20:34:41 GMT",
+      "pubDate": "Wed, 19 Aug 2026 21:32:15 GMT",
       "description": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash."
     },
     {
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
+        "pubDate": "Wed, 19 Aug 2026 17:27:51 -0400",
+        "description": "A Trump-aligned think tank has ties to a highly unusual Census Bureau report that the president is using to renew false claims of widespread voting by non-U.S. citizens in 2020, NPR has learned."
+      },
+      {
+        "title": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
+        "pubDate": "Wed, 19 Aug 2026 17:20:15 -0400",
+        "description": "The former Meta employee testified that the company culture prioritized user numbers over child safety measures."
+      },
+      {
         "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
         "pubDate": "Wed, 19 Aug 2026 16:09:39 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
         "pubDate": "Wed, 19 Aug 2026 10:19:20 -0400",
         "description": "The Normandy beach town of Trouville-sur-Mer is a two-hour train ride from Paris, but feels a world away, with English Channel breezes and the sound of seagulls screeching through the cobbled streets."
-      },
-      {
-        "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida&apos;s primaries",
-        "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
-        "pubDate": "Wed, 19 Aug 2026 07:14:31 -0400",
-        "description": "President Trump has announced that the U.S. is delaying a 50% tariff on Canadian imports after reaching a deal. And, how progressive Democrats fared in Florida&apos;s primary elections yesterday."
-      },
-      {
-        "title": "How India&apos;s blocking of a film exposing real-life police abuses backfired",
-        "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
-        "pubDate": "Wed, 19 Aug 2026 06:02:00 -0400",
-        "description": "When Indian authorities scrubbed the biopic of activist Jaswant Singh Khalra, local villagers and activists turned its censorship into a grassroots movement."
       }
     ],
     "Canada": []
