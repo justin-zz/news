@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T15:56:39.104Z",
+  "updated": "2026-08-19T16:30:58.974Z",
   "world": [
     {
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
@@ -20,6 +20,12 @@
       "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods."
     },
     {
+      "title": "Israel opens up tenders for controversial West Bank settlement project",
+      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 15:50:22 GMT",
+      "description": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned."
+    },
+    {
       "title": "South Korea shortens war games with US, citing Washington request",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 14:16:27 GMT",
@@ -38,22 +44,22 @@
       "description": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed."
     },
     {
-      "title": "Apparent human remains found in US reservoir as water levels hit record low",
-      "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 10:10:09 GMT",
-      "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says."
-    },
-    {
       "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
       "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 12:25:30 GMT",
       "description": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning."
     },
     {
-      "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
-      "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 15:01:57 GMT",
-      "description": "A SpaceX rocket that blasted off from Texas in July and crashed into the Indian Ocean hadn't been seen since - but now Christmas Island residents say they have spotted it being towed just off their co"
+      "title": "Two detained after French influencer's scorched body found in vineyard",
+      "link": "https://www.bbc.co.uk/news/articles/c3r058eeqv2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 16:04:39 GMT",
+      "description": "Sonia Bellina's body was \"abandoned\" after \"a murder of rare savagery\", the family's lawyer says."
+    },
+    {
+      "title": "Apparent human remains found in US reservoir as water levels hit record low",
+      "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 10:10:09 GMT",
+      "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says."
     },
     {
       "title": "'I was born in South Africa', says beauty queen facing legal bid to deport her",
@@ -68,6 +74,12 @@
       "description": "A judge's ruling on Tuesday removed the last remaining block on Trump officials' efforts to cancel Temporary Protected Status for Ethiopians."
     },
     {
+      "title": "Watch: SpaceX rocket spotted off Christmas Island coast",
+      "link": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 15:01:57 GMT",
+      "description": "A SpaceX rocket that blasted off from Texas in July and crashed into the Indian Ocean hadn't been seen since - but now Christmas Island residents say they have spotted it being towed just off their co"
+    },
+    {
       "title": "Angélique Kidjo becomes first African musician with Hollywood Walk of Fame star",
       "link": "https://www.bbc.co.uk/news/articles/c62xyg6527go?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 14:36:25 GMT",
@@ -78,22 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 14:47:02 GMT",
       "description": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn."
-    },
-    {
-      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-      "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 00:48:16 GMT",
-      "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security."
-    },
-    {
-      "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
-      "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT",
-      "description": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Why does the U.S. military seem stymied in the war with Iran?",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
+        "pubDate": "Wed, 19 Aug 2026 12:18:35 -0400",
+        "description": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly."
+      },
       {
         "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
@@ -101,10 +107,10 @@
         "description": "Researchers have identified a speed demon at the heart of the Milky Way. This fast-moving star may yield insights into the black hole parked at the center of our galaxy."
       },
       {
-        "title": "Real-world study of Oregon&apos;s nonmedical psilocybin program shows promise",
+        "title": "A real-world study of Oregon&apos;s nonmedical psilocybin program shows promise",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety",
         "pubDate": "Wed, 19 Aug 2026 11:22:35 -0400",
-        "description": "Oregon was the first state to establish a legalized and regulated psilocybin industry. Since then, thousands have tried magic mushrooms. Here is the latest data from the state&apos;s real life experim"
+        "description": "Oregon was the first state to establish a legalized and regulated psilocybin industry. Since then, thousands have tried magic mushrooms. Here is the latest data from the state&apos;s real-life experim"
       },
       {
         "title": "Greetings from Trouville-sur-Mer, a beach town little changed since Monet painted it",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
         "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
         "description": "The Child Care and Development Fund, the U.S. government&apos;s main source of funding to help low-income families pay for childcare, serves over 1.6 million children in a typical month."
-      },
-      {
-        "title": "15 states have laws that allow corporal punishment in schools. Here&apos;s where, and why",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
-        "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
-        "description": "There is broad consensus among psychologists that corporal punishment can be harmful to children, but the U.S. has no federal laws banning it in public schools."
       }
     ],
     "Canada": []
