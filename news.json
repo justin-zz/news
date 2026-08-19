@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T19:03:21.242Z",
+  "updated": "2026-08-19T19:48:23.127Z",
   "world": [
     {
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
+        "pubDate": "Wed, 19 Aug 2026 15:45:11 -0400",
+        "description": "Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-1 pandemic."
+      },
+      {
         "title": "In new filings, Kennedy Center says it won&apos;t try to put Trump&apos;s name on facade until Sept. 8",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
         "pubDate": "Wed, 19 Aug 2026 14:01:03 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/19/nx-s1-5930385/nurses-strike-hospital-workplace-violence-patient-attacks",
         "pubDate": "Wed, 19 Aug 2026 06:00:00 -0400",
         "description": "In addition to pay, striking hospital workers say patient violence is an issue. Hospital workers are seven times more likely to be injured at work due to violent acts than the general working populati"
-      },
-      {
-        "title": "Congo&apos;s Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
-        "link": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
-        "pubDate": "Wed, 19 Aug 2026 05:29:40 -0400",
-        "description": "Government data showed the outbreak had so far recorded 5,021 cases, including 2,378 deaths. The outbreak has infected and killed more people at a greater speed than any other outbreak in history."
       }
     ],
     "Canada": []
