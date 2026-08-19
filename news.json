@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T17:49:16.040Z",
+  "updated": "2026-08-19T18:28:28.074Z",
   "world": [
     {
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
@@ -12,12 +12,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 17:23:42 GMT",
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
-    },
-    {
-      "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 15:47:31 GMT",
-      "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods."
     },
     {
       "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
@@ -42,6 +36,12 @@
       "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 13:00:09 GMT",
       "description": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed."
+    },
+    {
+      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 17:47:52 GMT",
+      "description": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline."
     },
     {
       "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "In new filings, Kennedy Center says it won&apos;t try to put Trump&apos;s name on facade until Sept. 8",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
+        "pubDate": "Wed, 19 Aug 2026 14:01:03 -0400",
+        "description": "Lawyers for Rep. Joyce Beatty asked a judge to rule speedily on the complex&apos;s renovation and entrance tarp. The National Symphony Orchestra also announced its new season, away from the Kennedy Ce"
+      },
+      {
         "title": "Why Aitana&apos;s &apos;Superestrella&apos; is the surprise Latin hit song of the summer",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937925/aitana-superestrella-song-of-the-summer",
         "pubDate": "Wed, 19 Aug 2026 13:03:41 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
         "pubDate": "Wed, 19 Aug 2026 05:29:40 -0400",
         "description": "Government data showed the outbreak had so far recorded 5,021 cases, including 2,378 deaths. The outbreak has infected and killed more people at a greater speed than any other outbreak in history."
-      },
-      {
-        "title": "Feeling restless? Level up your life by starting a side quest",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest",
-        "pubDate": "Wed, 19 Aug 2026 05:02:00 -0400",
-        "description": "Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest."
       }
     ],
     "Canada": []
