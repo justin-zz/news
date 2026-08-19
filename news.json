@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T14:29:01.863Z",
+  "updated": "2026-08-19T15:03:09.944Z",
   "world": [
     {
       "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
@@ -56,10 +56,22 @@
       "description": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning."
     },
     {
-      "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
-      "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT",
-      "description": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation."
+      "title": "Retail giant Target receives $1bn boost from tariff refunds",
+      "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 14:47:02 GMT",
+      "description": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn."
+    },
+    {
+      "title": "Angélique Kidjo makes history for Africa with star on Hollywood Walk of Fame",
+      "link": "https://www.bbc.co.uk/news/articles/c62xyg6527go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 14:36:25 GMT",
+      "description": "Without Africans, no music is possible on this planet, says the 66-year-old musical icon from Benin."
+    },
+    {
+      "title": "Trump administration can target Ethiopians for deportation",
+      "link": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 14:38:11 GMT",
+      "description": "A judge's ruling on Tuesday removed the last remaining block on Trump officials' efforts to cancel Temporary Protected Status for Ethiopians."
     },
     {
       "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
@@ -68,28 +80,16 @@
       "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security."
     },
     {
+      "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
+      "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT",
+      "description": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation."
+    },
+    {
       "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
       "link": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 11:30:40 GMT",
       "description": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film."
-    },
-    {
-      "title": "Meta hooked children on Facebook and Instagram, US court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT",
-      "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started."
-    },
-    {
-      "title": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 03:00:35 GMT",
-      "description": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis."
-    },
-    {
-      "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
-      "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 09:48:16 GMT",
-      "description": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says."
     }
   ],
   "regions": {
@@ -131,10 +131,10 @@
         "description": "Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest."
       },
       {
-        "title": "Elbridge who? How the name of a forgotten founder lives on in the word &apos;gerrymander&apos;",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
+        "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
         "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
-        "description": "Elbridge Gerry was an important early figure in the American Revolution, but his decision to approve a &quot;gerrymandered&quot; state legislative map inadvertently won him lasting infamy."
+        "description": "The Child Care and Development Fund, the U.S. government&apos;s main source of funding to help low-income families pay for childcare, serves over 1.6 million children in a typical month."
       },
       {
         "title": "15 states have laws that allow corporal punishment in schools. Here&apos;s where, and why",
@@ -143,10 +143,10 @@
         "description": "There is broad consensus among psychologists that corporal punishment can be harmful to children, but the U.S. has no federal laws banning it in public schools."
       },
       {
-        "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
+        "title": "Elbridge who? How the name of a forgotten founder lives on in the word &apos;gerrymander&apos;",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5930301/gerrymandering-elbridge-gerry-redistricting",
         "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
-        "description": "The Child Care and Development Fund, the U.S. government&apos;s main source of funding to help low-income families pay for childcare, serves over 1.6 million children in a typical month."
+        "description": "Elbridge Gerry was an important early figure in the American Revolution, but his decision to approve a &quot;gerrymandered&quot; state legislative map inadvertently won him lasting infamy."
       },
       {
         "title": "FCC head Brendan Carr says Disney free speech lawsuit is &apos;without merit&apos;",
