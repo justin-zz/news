@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-19T06:36:33.180Z",
+  "updated": "2026-08-19T07:34:10.225Z",
   "world": [
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 04:44:41 GMT",
+      "pubDate": "Wed, 19 Aug 2026 07:14:50 GMT",
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
     },
     {
-      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
       "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 03:56:35 GMT",
-      "description": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal."
+      "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods."
     },
     {
       "title": "Meta hooked children on Facebook and Instagram, US court hears",
@@ -24,6 +24,24 @@
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 05:53:53 GMT",
       "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
+    },
+    {
+      "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+      "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 05:00:39 GMT",
+      "description": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories."
+    },
+    {
+      "title": "Thai teen found in suitcase died from suffocation, police reveal",
+      "link": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 05:04:27 GMT",
+      "description": "New evidence sheds more light on the death of Tunchanok Donholma, who was allegedly murdered in June."
+    },
+    {
+      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+      "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 00:48:16 GMT",
+      "description": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security."
     },
     {
       "title": "Husband and mother-in-law charged over Indian bride's death",
@@ -62,38 +80,26 @@
       "description": "A statement on the blues-rock band's website said he died on Monday in hospice"
     },
     {
-      "title": "Earthquake rocks Spain's historic Granada, injuring three",
-      "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 17:15:39 GMT",
-      "description": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed."
+      "title": "Families' agonising search for answers as thousands still missing in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 05:04:00 GMT",
+      "description": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing."
     },
     {
-      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "link": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 17:54:46 GMT",
-      "description": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis."
-    },
-    {
-      "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
-      "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 16:00:30 GMT",
-      "description": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated."
-    },
-    {
-      "title": "US announces new sanctions on top ICC figures",
-      "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 20:21:49 GMT",
-      "description": "The Trump administration has vowed to dismantle the international court \"brick by brick\"."
-    },
-    {
-      "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 12:04:11 GMT",
-      "description": "Recovery efforts continue in what is the country's deadliest transport disaster."
+      "title": "The Indian activist jailed after taking on a luxury hotel plan",
+      "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 22:18:50 GMT",
+      "description": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
+        "pubDate": "Wed, 19 Aug 2026 02:57:51 -0400",
+        "description": "The 1,200 deportees will include Africans as well as nationals from North America, South America and the Caribbean, with the first batch of 20 expected on Thursday."
+      },
       {
         "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
         "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
         "pubDate": "Tue, 18 Aug 2026 05:30:00 -0400",
         "description": "Soap box derbies send motorless cars down a steep incline. At one event, contestants make their cars look like cartoon characters, subway cars, food, and giant animals (among other outlandish shapes)."
-      },
-      {
-        "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-        "link": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
-        "pubDate": "Tue, 18 Aug 2026 05:00:00 -0400",
-        "description": "The GOP primary in Florida&apos;s 19th District includes candidates who are new to the state, candidates who&apos;ve run for Congress before and two candidates who have received pardons from President"
       }
     ],
     "Canada": []
