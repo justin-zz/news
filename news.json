@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-19T11:49:27.713Z",
+  "updated": "2026-08-19T12:38:00.074Z",
   "world": [
+    {
+      "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 12:34:10 GMT",
+      "description": "The six-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024."
+    },
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
@@ -20,6 +26,12 @@
       "description": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods."
     },
     {
+      "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
+      "link": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 11:30:40 GMT",
+      "description": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film."
+    },
+    {
       "title": "South Korea shortens war games with US, citing Washington request",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 05:53:53 GMT",
@@ -32,16 +44,16 @@
       "description": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached, a witness says."
     },
     {
-      "title": "Meta hooked children on Facebook and Instagram, US court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT",
-      "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started."
-    },
-    {
       "title": "Liberia agrees to accept 1,200 foreign deportees from the US",
       "link": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 10:47:22 GMT",
       "description": "Liberia says the deal is a \"humanitarian arrangement\" and is receiving no compensation."
+    },
+    {
+      "title": "Meta hooked children on Facebook and Instagram, US court hears",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 18 Aug 2026 22:11:07 GMT",
+      "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started."
     },
     {
       "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
@@ -54,6 +66,12 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 03:00:35 GMT",
       "description": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis."
+    },
+    {
+      "title": "Helicopter crashes at Mount Ololokwe in Kenya, killing six people",
+      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 12:07:59 GMT",
+      "description": "The Aircraft Accident Investigation Department tells the BBC the identities of those on board are not yet known."
     },
     {
       "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
@@ -72,24 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 03:04:07 GMT",
       "description": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May."
-    },
-    {
-      "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
-      "link": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 07:21:51 GMT",
-      "description": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event."
-    },
-    {
-      "title": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 03:12:06 GMT",
-      "description": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran."
-    },
-    {
-      "title": "Brazil's President Lula hails oil discovery near Amazon river",
-      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 18 Aug 2026 13:13:54 GMT",
-      "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon."
     }
   ],
   "regions": {
@@ -125,10 +125,10 @@
         "description": "Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest."
       },
       {
-        "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
+        "title": "15 states have laws that allow corporal punishment in schools. Here&apos;s where, and why",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
         "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
-        "description": "The Child Care and Development Fund, the U.S. government&apos;s main source of funding to help low-income families pay for childcare, serves over 1.6 million children in a typical month."
+        "description": "There is broad consensus among psychologists that corporal punishment can be harmful to children, but the U.S. has no federal laws banning it in public schools."
       },
       {
         "title": "Elbridge who? How the name of a forgotten founder lives on in the word &apos;gerrymander&apos;",
@@ -137,10 +137,10 @@
         "description": "Elbridge Gerry was an important early figure in the American Revolution, but his decision to approve a &quot;gerrymandered&quot; state legislative map inadvertently won him lasting infamy."
       },
       {
-        "title": "15 states have laws that allow corporal punishment in schools. Here&apos;s where, and why",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
+        "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
         "pubDate": "Wed, 19 Aug 2026 05:00:00 -0400",
-        "description": "There is broad consensus among psychologists that corporal punishment can be harmful to children, but the U.S. has no federal laws banning it in public schools."
+        "description": "The Child Care and Development Fund, the U.S. government&apos;s main source of funding to help low-income families pay for childcare, serves over 1.6 million children in a typical month."
       },
       {
         "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
