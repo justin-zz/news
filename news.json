@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T19:48:23.127Z",
+  "updated": "2026-08-19T20:21:36.109Z",
   "world": [
     {
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
@@ -34,13 +34,13 @@
     {
       "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
       "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 18:43:11 GMT",
+      "pubDate": "Wed, 19 Aug 2026 19:53:05 GMT",
       "description": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash."
     },
     {
       "title": "Canada and US say they are finalising a trade deal, but details remain murky",
       "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 17:47:52 GMT",
+      "pubDate": "Wed, 19 Aug 2026 19:59:14 GMT",
       "description": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
+        "pubDate": "Wed, 19 Aug 2026 16:09:39 -0400",
+        "description": "The federal debt reached $40 trillion as the government adds red ink at a rapid rate. That&apos;s leading nervous investors to demand higher interest rates —pushing up borrowing costs for everyone els"
+      },
+      {
         "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
         "link": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
         "pubDate": "Wed, 19 Aug 2026 15:45:11 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
         "pubDate": "Wed, 19 Aug 2026 06:02:00 -0400",
         "description": "When Indian authorities scrubbed the biopic of activist Jaswant Singh Khalra, local villagers and activists turned its censorship into a grassroots movement."
-      },
-      {
-        "title": "Striking hospital employees sound alarm over workplace violence",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5930385/nurses-strike-hospital-workplace-violence-patient-attacks",
-        "pubDate": "Wed, 19 Aug 2026 06:00:00 -0400",
-        "description": "In addition to pay, striking hospital workers say patient violence is an issue. Hospital workers are seven times more likely to be injured at work due to violent acts than the general working populati"
       }
     ],
     "Canada": []
