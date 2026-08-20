@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T16:00:47.748Z",
+  "updated": "2026-08-20T17:00:27.554Z",
   "world": [
     {
       "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
@@ -20,10 +20,10 @@
       "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector."
     },
     {
-      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-      "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 10:14:47 GMT",
-      "description": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony."
+      "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+      "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 16:53:20 GMT",
+      "description": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month."
     },
     {
       "title": "Assad officer extradited to Syria on war crimes charges for first time",
@@ -58,7 +58,7 @@
     {
       "title": "Togo charges two French journalists over incorrect documents, rights group says",
       "link": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 15:16:44 GMT",
+      "pubDate": "Thu, 20 Aug 2026 16:00:27 GMT",
       "description": "Gaël Mocaër and Sebastian Perez Pezzani's detention is \"unjustified and disproportionate\", Reporters Without Borders says."
     },
     {
@@ -94,6 +94,18 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Three things to know about the $40 trillion federal debt",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
+        "pubDate": "Thu, 20 Aug 2026 12:50:41 -0400",
+        "description": "The U.S. federal debt hit a record $40 trillion this week. The debt has doubled since 2017, and just paying interest on the accumulated debt now costs the government more than $1 trillion a year."
+      },
+      {
+        "title": "What to know about Dr. Heidi Overton, Trump&apos;s pick to lead the FDA",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
+        "pubDate": "Thu, 20 Aug 2026 12:49:11 -0400",
+        "description": "Dr. Heidi Overton is currently working as a White House policy aide. If confirmed, she would lead an agency of 18,000 staffers who study and regulate food, drugs, medical devices, tobacco and more."
+      },
       {
         "title": "D.C.&apos;s IndyCar race will zoom past museums. Some worry it could harm the art inside",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
@@ -131,28 +143,16 @@
         "description": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded."
       },
       {
-        "title": "The system meant to protect ICE detainees has collapsed",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "description": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes."
-      },
-      {
         "title": "Privacy advocates call on Maryland to investigate data brokers",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
         "description": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies."
       },
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
-        "pubDate": "Thu, 20 Aug 2026 04:52:29 -0400",
-        "description": "Gulf countries react to protracted Iran war, U.S. debt tops $40 trillion, U.S. oil companies sign first deals with Venezuela."
-      },
-      {
-        "title": "Tech billionaires push back against proposed wealth tax in California",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5935597/tech-billionaires-push-back-against-proposed-wealth-tax-in-california",
-        "pubDate": "Thu, 20 Aug 2026 04:45:47 -0400",
-        "description": "Tech billionaires in California are fighting a proposed one-time wealth tax. A Google co-founder is leading the charge against the tax, which would generate revenue for health-care services."
+        "title": "The system meant to protect ICE detainees has collapsed",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+        "description": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes."
       }
     ],
     "Canada": []
