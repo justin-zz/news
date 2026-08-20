@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T08:33:02.396Z",
+  "updated": "2026-08-20T09:29:25.824Z",
   "world": [
     {
       "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 07:59:55 GMT",
+      "pubDate": "Thu, 20 Aug 2026 09:14:56 GMT",
       "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say."
     },
     {
@@ -16,7 +16,7 @@
     {
       "title": "Trump vows tougher economic measures on Iran and supporting countries",
       "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 03:22:57 GMT",
+      "pubDate": "Thu, 20 Aug 2026 09:13:18 GMT",
       "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict."
     },
     {
@@ -68,6 +68,12 @@
       "description": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering."
     },
     {
+      "title": "Canadian marathon route was 674m too long",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 07:15:48 GMT",
+      "description": "The organisers of the Edmonton Marathon admit the course for the 2026 edition was measured more than half a kilometre too long."
+    },
+    {
       "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
       "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 00:53:20 GMT",
@@ -84,16 +90,46 @@
       "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 19 Aug 2026 16:31:48 GMT",
       "description": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022."
-    },
-    {
-      "title": "Two detained after French influencer's scorched body found in vineyard",
-      "link": "https://www.bbc.co.uk/news/articles/c3r058eeqv2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 16:04:39 GMT",
-      "description": "Sonia Bellina's body was \"abandoned\" after \"a murder of rare savagery\", the family's lawyer says."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Privacy advocates call on Maryland to investigate data brokers",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+        "description": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege data brokers are violating the law by selling data to police and federal immigration agencies."
+      },
+      {
+        "title": "Here&apos;s how the system to report problems in ICE detention has failed immigrants",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+        "description": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes."
+      },
+      {
+        "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+        "description": "Many people don&apos;t pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy."
+      },
+      {
+        "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+        "description": "One of the most famous dishes across West Africa is Jollof Rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out."
+      },
+      {
+        "title": "Disabled adults learn and work in their communities. That right is under threat",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+        "description": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded."
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
+        "pubDate": "Thu, 20 Aug 2026 04:52:29 -0400",
+        "description": "Gulf countries react to protracted Iran war, U.S. debt tops $40 trillion, U.S. oil companies sign first deals with Venezuela."
+      },
       {
         "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
@@ -117,42 +153,6 @@
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
         "pubDate": "Wed, 19 Aug 2026 19:19:12 -0400",
         "description": "California has adopted the toughest new rules in the country that require homeowners to manage the plants around their houses. Fire experts say it helps protect houses from burning, but public pushbac"
-      },
-      {
-        "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
-        "pubDate": "Wed, 19 Aug 2026 17:27:51 -0400",
-        "description": "A Trump-aligned think tank has ties to a highly unusual Census Bureau report that the president is using to renew false claims of widespread voting by non-U.S. citizens in 2020, NPR has learned."
-      },
-      {
-        "title": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
-        "pubDate": "Wed, 19 Aug 2026 17:20:15 -0400",
-        "description": "The former Meta employee testified that the company culture prioritized user numbers over child safety measures."
-      },
-      {
-        "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
-        "pubDate": "Wed, 19 Aug 2026 16:09:39 -0400",
-        "description": "The federal debt reached $40 trillion as the government adds red ink at a rapid rate. That&apos;s leading nervous investors to demand higher interest rates — pushing up borrowing costs for everyone el"
-      },
-      {
-        "title": "Former Fauci adviser Dr. David Morens pleads guilty to concealing COVID-related records",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-morens-foia-guilty",
-        "pubDate": "Wed, 19 Aug 2026 15:45:11 -0400",
-        "description": "Dr. David Morens, a former aide to Dr. Anthony Fauci, has pleaded guilty to violating federal law by trying to conceal emails about the origins of the COVID-1 pandemic."
-      },
-      {
-        "title": "In new filings, Kennedy Center says it won&apos;t try to put Trump&apos;s name on facade until Sept. 8",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
-        "pubDate": "Wed, 19 Aug 2026 14:01:03 -0400",
-        "description": "Lawyers for Rep. Joyce Beatty asked a judge to rule speedily on the complex&apos;s renovation and entrance tarp. The National Symphony Orchestra also announced its new season, away from the Kennedy Ce"
-      },
-      {
-        "title": "Why Aitana&apos;s &apos;Superestrella&apos; is the surprise Latin hit song of the summer",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5937925/aitana-superestrella-song-of-the-summer",
-        "pubDate": "Wed, 19 Aug 2026 13:03:41 -0400",
-        "description": "There&apos;s a reason why the escapist hit from singer Aitana has swept most of the Spanish-language world."
       }
     ],
     "Canada": []
