@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-20T09:29:25.824Z",
+  "updated": "2026-08-20T10:02:16.182Z",
   "world": [
     {
       "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 09:14:56 GMT",
+      "pubDate": "Thu, 20 Aug 2026 09:37:31 GMT",
       "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "North Korea fires a suspected missile toward the sea, Japan says",
+        "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
+        "pubDate": "Thu, 20 Aug 2026 05:24:45 -0400",
+        "description": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy."
+      },
+      {
         "title": "Privacy advocates call on Maryland to investigate data brokers",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
         "pubDate": "Thu, 20 Aug 2026 01:50:53 -0400",
         "description": "Israel&apos;s military on Wednesday announced its first criminal investigations into troop conduct in Gaza, focusing on the killings of 5-year-old Hind Rajab and her family and of 15 Palestinian param"
-      },
-      {
-        "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
-        "pubDate": "Wed, 19 Aug 2026 19:19:12 -0400",
-        "description": "California has adopted the toughest new rules in the country that require homeowners to manage the plants around their houses. Fire experts say it helps protect houses from burning, but public pushbac"
       }
     ],
     "Canada": []
