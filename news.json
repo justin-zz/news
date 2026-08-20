@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-20T17:00:27.554Z",
+  "updated": "2026-08-20T17:55:24.616Z",
   "world": [
     {
-      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 13:56:25 GMT",
-      "description": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say."
+      "pubDate": "Thu, 20 Aug 2026 17:14:55 GMT",
+      "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted."
     },
     {
       "title": "Trump vows tougher economic measures on Iran and supporting countries",
@@ -125,6 +125,24 @@
         "description": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy."
       },
       {
+        "title": "They grew up with disability rights. Now, they&apos;re fighting to keep them",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+        "description": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded."
+      },
+      {
+        "title": "The system meant to protect ICE detainees has collapsed",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+        "description": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes."
+      },
+      {
+        "title": "Privacy advocates call on Maryland to investigate data brokers",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+        "description": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies."
+      },
+      {
         "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
         "description": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out."
-      },
-      {
-        "title": "They grew up with disability rights. Now, they&apos;re fighting to keep them",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "description": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded."
-      },
-      {
-        "title": "Privacy advocates call on Maryland to investigate data brokers",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "description": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies."
-      },
-      {
-        "title": "The system meant to protect ICE detainees has collapsed",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "description": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes."
       }
     ],
     "Canada": []
