@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-20T05:55:56.870Z",
+  "updated": "2026-08-20T06:42:07.793Z",
   "world": [
     {
       "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
       "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 05:10:09 GMT",
+      "pubDate": "Thu, 20 Aug 2026 06:39:14 GMT",
       "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision."
     },
     {
       "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
       "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 05:07:00 GMT",
+      "pubDate": "Thu, 20 Aug 2026 06:08:02 GMT",
       "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Prince Harry and Meghan are returning to the U.K. with their children",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
+        "pubDate": "Thu, 20 Aug 2026 02:17:42 -0400",
+        "description": "Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall, but they won&apos;t resume their roles as working members of the royal family."
+      },
+      {
         "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
         "pubDate": "Thu, 20 Aug 2026 01:50:53 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
         "pubDate": "Wed, 19 Aug 2026 12:18:35 -0400",
         "description": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly."
-      },
-      {
-        "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
-        "pubDate": "Wed, 19 Aug 2026 11:38:57 -0400",
-        "description": "Researchers have identified a speed demon at the heart of the Milky Way. This fast-moving star may yield insights into the black hole parked at the center of our galaxy."
       }
     ],
     "Canada": []
