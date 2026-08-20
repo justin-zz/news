@@ -1,17 +1,23 @@
 {
-  "updated": "2026-08-20T18:34:17.616Z",
+  "updated": "2026-08-20T19:27:29.734Z",
   "world": [
+    {
+      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 19:19:20 GMT",
+      "description": "The US treasury secretary says allies will need to decide whether they \"are with us or against us\"."
+    },
+    {
+      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 18:55:14 GMT",
+      "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank."
+    },
     {
       "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 17:14:55 GMT",
       "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted."
-    },
-    {
-      "title": "Trump vows tougher economic measures on Iran and supporting countries",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 09:13:18 GMT",
-      "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict."
     },
     {
       "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
@@ -30,12 +36,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 12:38:35 GMT",
       "description": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime."
-    },
-    {
-      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 07:08:35 GMT",
-      "description": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole."
     },
     {
       "title": "Giant whales move into Greenland waters as ice disappears",
@@ -68,6 +68,12 @@
       "description": "Four members of an indigenous family are among the dead, witnesses said."
     },
     {
+      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 07:08:35 GMT",
+      "description": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole."
+    },
+    {
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
       "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 04:17:53 GMT",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 11:08:19 GMT",
       "description": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations."
-    },
-    {
-      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 07:33:11 GMT",
-      "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
+        "pubDate": "Thu, 20 Aug 2026 15:22:20 -0400",
+        "description": "In some tight midterm races, how farmers frustrated with the war and rising costs vote could make a difference."
+      },
       {
         "title": "Three things to know about the $40 trillion federal debt",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
@@ -125,6 +131,12 @@
         "description": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy."
       },
       {
+        "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+        "description": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out."
+      },
+      {
         "title": "They grew up with disability rights. Now, they&apos;re fighting to keep them",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
@@ -137,22 +149,10 @@
         "description": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies."
       },
       {
-        "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "description": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out."
-      },
-      {
         "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
         "description": "Many people don&apos;t pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy."
-      },
-      {
-        "title": "The system meant to protect ICE detainees has collapsed",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "description": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes."
       }
     ],
     "Canada": []
