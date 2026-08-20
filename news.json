@@ -1,10 +1,16 @@
 {
-  "updated": "2026-08-20T04:06:45.964Z",
+  "updated": "2026-08-20T05:03:35.750Z",
   "world": [
+    {
+      "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
+      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 04:46:32 GMT",
+      "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine."
+    },
     {
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
       "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 15:33:32 GMT",
+      "pubDate": "Thu, 20 Aug 2026 04:17:53 GMT",
       "description": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives."
     },
     {
@@ -32,12 +38,6 @@
       "description": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering."
     },
     {
-      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 21:32:15 GMT",
-      "description": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash."
-    },
-    {
       "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
       "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 00:53:20 GMT",
@@ -50,9 +50,15 @@
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
     },
     {
+      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 19 Aug 2026 21:32:15 GMT",
+      "description": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash."
+    },
+    {
       "title": "Missing teen hiker found dead in Australian bush after eight-day search",
       "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 03:16:22 GMT",
+      "pubDate": "Thu, 20 Aug 2026 04:49:52 GMT",
       "description": "Lily Hooper was reported missing on 12 August after failing to return from a hike in a Sydney national park."
     },
     {
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 03:10:48 GMT",
       "description": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline."
-    },
-    {
-      "title": "South Korea shortens war games with US, citing Washington request",
-      "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 17:39:49 GMT",
-      "description": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un."
     }
   ],
   "regions": {
