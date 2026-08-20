@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T19:56:14.420Z",
+  "updated": "2026-08-20T20:26:12.325Z",
   "world": [
     {
       "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
@@ -26,10 +26,10 @@
       "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector."
     },
     {
-      "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+      "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
       "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 16:53:20 GMT",
-      "description": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month."
+      "pubDate": "Thu, 20 Aug 2026 20:08:29 GMT",
+      "description": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\"."
     },
     {
       "title": "Assad officer extradited to Syria on war crimes charges for first time",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Record cyclosporiasis outbreak tests the response of a &apos;weakened&apos; health system",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
+        "pubDate": "Thu, 20 Aug 2026 15:54:19 -0400",
+        "description": "From state and local food-safety response to the federal health agencies that fund that work, a record-breaking year for cyclosporiasis cases runs up against the Trump administration&apos;s cuts last "
+      },
+      {
         "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
         "pubDate": "Thu, 20 Aug 2026 15:22:20 -0400",
@@ -131,28 +137,22 @@
         "description": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy."
       },
       {
-        "title": "They grew up with disability rights. Now, they&apos;re fighting to keep them",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "description": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded."
-      },
-      {
         "title": "Privacy advocates call on Maryland to investigate data brokers",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
         "description": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies."
       },
       {
-        "title": "The system meant to protect ICE detainees has collapsed",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "description": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes."
-      },
-      {
         "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
         "description": "Many people don&apos;t pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy."
+      },
+      {
+        "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+        "description": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out."
       }
     ],
     "Canada": []
