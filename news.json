@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T11:25:23.828Z",
+  "updated": "2026-08-20T11:52:45.975Z",
   "world": [
     {
       "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
@@ -20,6 +20,12 @@
       "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict."
     },
     {
+      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
+      "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 10:14:47 GMT",
+      "description": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony."
+    },
+    {
       "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
       "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 07:08:35 GMT",
@@ -30,12 +36,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 07:33:11 GMT",
       "description": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision."
-    },
-    {
-      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-      "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 05:45:53 GMT",
-      "description": "The state premier initially said Lily Hooper had been found alive before police confirmed her death."
     },
     {
       "title": "Giant whales move into Greenland waters as ice disappears",
@@ -56,22 +56,28 @@
       "description": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives."
     },
     {
+      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 05:45:53 GMT",
+      "description": "The state premier initially said Lily Hooper had been found alive before police confirmed her death."
+    },
+    {
       "title": "Former Liberian vice-president charged in drug-trafficking probe",
       "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 11:08:19 GMT",
       "description": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations."
     },
     {
-      "title": "Four workers dead after being hit by train in Japan",
-      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 10:32:31 GMT",
-      "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say."
-    },
-    {
       "title": "Canadian marathon route was 674m too long",
       "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 07:15:48 GMT",
       "description": "The organisers of the Edmonton Marathon admit the course for the 2026 edition was measured more than half a kilometre too long."
+    },
+    {
+      "title": "Four workers dead after being hit by train in Japan",
+      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 10:32:31 GMT",
+      "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say."
     },
     {
       "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 10:30:52 GMT",
       "description": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\"."
-    },
-    {
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 19 Aug 2026 20:34:39 GMT",
-      "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
+        "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
+        "pubDate": "Thu, 20 Aug 2026 07:30:18 -0400",
+        "description": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts."
+      },
       {
         "title": "North Korea fires a suspected missile toward the sea, Japan says",
         "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
         "pubDate": "Thu, 20 Aug 2026 03:31:55 -0400",
         "description": "Chinese property developer Hui Ka Yan has been sentenced to life in prison. The decision marks a milestone in Evergrande&apos;s saga after it collapsed with more than $300 billion in liabilities."
-      },
-      {
-        "title": "Prince Harry and Meghan are returning to the U.K. with their children",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
-        "pubDate": "Thu, 20 Aug 2026 02:17:42 -0400",
-        "description": "Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall, but they won&apos;t resume their roles as working members of the royal family."
       }
     ],
     "Canada": []
