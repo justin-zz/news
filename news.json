@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T05:28:33.879Z",
+  "updated": "2026-08-21T05:59:33.670Z",
   "world": [
     {
       "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
@@ -22,7 +22,7 @@
     {
       "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
       "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 04:17:05 GMT",
+      "pubDate": "Fri, 21 Aug 2026 05:30:18 GMT",
       "description": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,"
     },
     {
@@ -34,7 +34,7 @@
     {
       "title": "Hong Kong's Tiananmen activists guilty in national security trial",
       "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 02:59:46 GMT",
+      "pubDate": "Fri, 21 Aug 2026 05:47:32 GMT",
       "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law."
     },
     {
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe",
+        "pubDate": "Fri, 21 Aug 2026 01:49:48 -0400",
+        "description": "Federal agents seized electronic devices from former Rep. Eric Swalwell and searched his Washington home as part of an investigation into allegations of sexual misconduct by the ex-Democratic congress"
+      },
+      {
+        "title": "Jurors hear &apos;Keffe D&apos; say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5940538/jurors-hear-keffe-d-say-his-nephew-fired-fatal-shots-at-tupac-shakur-in-1996-drive-by-shooting",
+        "pubDate": "Fri, 21 Aug 2026 01:41:15 -0400",
+        "description": "Jurors on Thursday heard Duane &quot;Keffe D&quot; Davis tell detectives in 2008 that his nephew Orlando &quot;Baby Lane&quot; Anderson fired the shots that killed Tupac Shakur."
+      },
+      {
         "title": "Record cyclosporiasis outbreak tests the response of a &apos;weakened&apos; health system",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
         "pubDate": "Thu, 20 Aug 2026 15:54:19 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
         "description": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies."
-      },
-      {
-        "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "description": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out."
-      },
-      {
-        "title": "They grew up with disability rights. Now, they&apos;re fighting to keep them",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "description": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded."
       }
     ],
     "Canada": []
