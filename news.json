@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T04:33:29.253Z",
+  "updated": "2026-08-21T05:28:33.879Z",
   "world": [
     {
       "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
@@ -20,6 +20,12 @@
       "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record."
     },
     {
+      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+      "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 04:17:05 GMT",
+      "description": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,"
+    },
+    {
       "title": "Why the US economy is ringing alarm bells",
       "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 23:15:15 GMT",
@@ -35,19 +41,19 @@
       "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
       "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 02:33:27 GMT",
-      "description": "The 26-year-old sparked anger with an expletive-laden post about the sacred holiday."
-    },
-    {
-      "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-      "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 20:08:29 GMT",
-      "description": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\"."
+      "description": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday."
     },
     {
       "title": "Japan executes man who killed five in Pachinko parlour fire",
       "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 02:49:27 GMT",
       "description": "This is the first time since June 2025 that the country has enacted capital punishment."
+    },
+    {
+      "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+      "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 20 Aug 2026 20:08:29 GMT",
+      "description": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\"."
     },
     {
       "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 20:27:36 GMT",
       "description": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children."
-    },
-    {
-      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-      "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 10:14:47 GMT",
-      "description": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony."
     }
   ],
   "regions": {
@@ -137,22 +137,22 @@
         "description": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy."
       },
       {
+        "title": "Privacy advocates call on Maryland to investigate data brokers",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+        "description": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies."
+      },
+      {
         "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
         "description": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out."
       },
       {
-        "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+        "title": "They grew up with disability rights. Now, they&apos;re fighting to keep them",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "description": "Many people don&apos;t pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy."
-      },
-      {
-        "title": "Privacy advocates call on Maryland to investigate data brokers",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "description": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies."
+        "description": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded."
       }
     ],
     "Canada": []
