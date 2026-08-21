@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T10:56:32.137Z",
+  "updated": "2026-08-21T11:25:16.893Z",
   "world": [
     {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
@@ -38,6 +38,12 @@
       "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision."
     },
     {
+      "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
+      "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 10:03:17 GMT",
+      "description": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded."
+    },
+    {
       "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
       "link": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 06:33:32 GMT",
@@ -56,10 +62,10 @@
       "description": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday."
     },
     {
-      "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-      "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 10:03:17 GMT",
-      "description": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded."
+      "title": "'We are devastated' - Nigerian villagers bury bodies after overloaded boat capsizes",
+      "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 10:48:01 GMT",
+      "description": "The overloaded boat was taking people, including many children, to farms to harvest rice."
     },
     {
       "title": "Japan executes man who killed five in Pachinko parlour fire",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 20:08:29 GMT",
       "description": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\"."
-    },
-    {
-      "title": "What happened to Harry and Meghan's American dream?",
-      "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 02:57:34 GMT",
-      "description": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived."
     }
   ],
   "regions": {
@@ -113,22 +113,28 @@
         "description": "Experts warn Trump&apos;s transactional approach to alliance will erode political trust"
       },
       {
-        "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
-        "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-        "description": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental-health challenges of prolonged confinement and isolation aboard an aircraft carrier."
-      },
-      {
         "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
         "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
         "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
         "description": "In dozens of states around the country, people are vandalizing, blocking and taking down Flock cameras. A surge in such activity underscores the growing resistance to this police surveillance technolo"
       },
       {
+        "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+        "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
+        "description": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental-health challenges of prolonged confinement and isolation aboard an aircraft carrier."
+      },
+      {
         "title": "Morning news brief",
         "link": "https://www.npr.org/2026/08/21/nx-s1-5931262/morning-news-brief",
         "pubDate": "Fri, 21 Aug 2026 04:46:00 -0400",
         "description": "Trump threatens economic pressure campaign against Iran, SCOTUS to weigh in on whether Trump&apos;s ballroom project, investors dump stocks and bonds despite government&apos;s efforts to calm market."
+      },
+      {
+        "title": "Mom and best friend remember girl killed in a mass shooting one year later",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5938076/mom-and-best-friend-remember-girl-killed-in-a-mass-shooting-one-year-later",
+        "pubDate": "Fri, 21 Aug 2026 04:44:49 -0400",
+        "description": "For StoryCorps, a mother remembers her daughter who was killed in a mass shooting by speaking with her daughter&apos;s best friend."
       },
       {
         "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe",
         "pubDate": "Fri, 21 Aug 2026 01:49:48 -0400",
         "description": "Federal agents seized electronic devices from former Rep. Eric Swalwell and searched his Washington home as part of an investigation into allegations of sexual misconduct by the ex-Democratic congress"
-      },
-      {
-        "title": "Jurors hear &apos;Keffe D&apos; say his nephew fired fatal shots at Tupac Shakur in 1996 drive-by shooting",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5940538/jurors-hear-keffe-d-say-his-nephew-fired-fatal-shots-at-tupac-shakur-in-1996-drive-by-shooting",
-        "pubDate": "Fri, 21 Aug 2026 01:41:15 -0400",
-        "description": "Jurors on Thursday heard Duane &quot;Keffe D&quot; Davis tell detectives in 2008 that his nephew Orlando &quot;Baby Lane&quot; Anderson fired the shots that killed Tupac Shakur."
       }
     ],
     "Canada": []
