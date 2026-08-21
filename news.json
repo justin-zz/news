@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T20:20:49.848Z",
+  "updated": "2026-08-21T20:48:41.248Z",
   "world": [
     {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
@@ -12,6 +12,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 19:49:56 GMT",
       "description": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head."
+    },
+    {
+      "title": "One killed in sword attack at Swedish school",
+      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 19:22:05 GMT",
+      "description": "One person remains in a critical condition, while another suffered minor injuries in the attack."
     },
     {
       "title": "Hong Kong's Tiananmen activists guilty in national security trial",
@@ -36,12 +42,6 @@
       "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 13:44:43 GMT",
       "description": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says."
-    },
-    {
-      "title": "One killed in sword attack at Swedish school",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 19:22:05 GMT",
-      "description": "One person remains in a critical condition, while another suffered minor injuries in the attack."
     },
     {
       "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
@@ -86,10 +86,10 @@
       "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination."
     },
     {
-      "title": "Two Mexicans arrested as police uncover big meth lab on South African farm",
-      "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 11:57:37 GMT",
-      "description": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe."
+      "title": "How Israel is expanding settlements in drive to reshape West Bank",
+      "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 19:31:47 GMT",
+      "description": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years."
     }
   ],
   "regions": {
