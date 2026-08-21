@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T16:42:32.551Z",
+  "updated": "2026-08-21T17:24:05.848Z",
   "world": [
     {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
@@ -32,16 +32,28 @@
       "description": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says."
     },
     {
-      "title": "Five missing after fire in Swiss Alpine town",
-      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 13:10:39 GMT",
-      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated."
+      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 15:58:57 GMT",
+      "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024."
+    },
+    {
+      "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 16:26:53 GMT",
+      "description": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say."
     },
     {
       "title": "Peru earthquake damages buildings and causes power cuts",
       "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 11:14:38 GMT",
       "description": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says."
+    },
+    {
+      "title": "Five missing after fire in Swiss Alpine town",
+      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 13:10:39 GMT",
+      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated."
     },
     {
       "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
@@ -78,22 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 10:48:01 GMT",
       "description": "The overloaded boat was taking people, including many children, to farms to harvest rice."
-    },
-    {
-      "title": "Ex-Abercrombie & Fitch chief fit to stand trial in sex trafficking case, judge says",
-      "link": "https://www.bbc.co.uk/news/articles/cdx81edn9g4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 14:23:22 GMT",
-      "description": "Jeffries was declared \"mentally incompetent\" by a court last year and said to be suffering with dementia and late onset of Alzheimer's disease."
-    },
-    {
-      "title": "Panama Canal to cut number of ships passing through due to El Niño",
-      "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 06:46:08 GMT",
-      "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Beatty files emergency request to stop Trump&apos;s name from returning to Kennedy Center",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
+        "pubDate": "Fri, 21 Aug 2026 12:40:59 -0400",
+        "description": "Joyce Beatty, a Democratic representative from Ohio, asked a federal judge to stop the Kennedy Center trustees from putting President Trump&apos;s name up in three places at the arts complex."
+      },
       {
         "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
         "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/21/nx-s1-5938076/mom-and-best-friend-remember-girl-killed-in-a-mass-shooting-one-year-later",
         "pubDate": "Fri, 21 Aug 2026 04:44:49 -0400",
         "description": "For StoryCorps, a mother remembers her daughter who was killed in a mass shooting by speaking with her daughter&apos;s best friend."
-      },
-      {
-        "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
-        "pubDate": "Fri, 21 Aug 2026 02:41:33 -0400",
-        "description": "A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the U.S. military said."
       }
     ],
     "Canada": []
