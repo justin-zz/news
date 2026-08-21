@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T05:59:33.670Z",
+  "updated": "2026-08-21T06:58:55.948Z",
   "world": [
     {
       "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
@@ -44,6 +44,12 @@
       "description": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday."
     },
     {
+      "title": "Panama Canal to cut number of ships passing through due to El Niño",
+      "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 06:46:08 GMT",
+      "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision."
+    },
+    {
       "title": "Japan executes man who killed five in Pachinko parlour fire",
       "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 02:49:27 GMT",
@@ -84,16 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 02:06:28 GMT",
       "description": "An international socialist institute and Cuba's construction ministry are subject to the latest US sanctions, Marco Rubio announces."
-    },
-    {
-      "title": "Dozens dead after boat capsizes in north-western Nigeria",
-      "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 20:27:36 GMT",
-      "description": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Charter plane crash kills 8 near remote radar site in western Alaska, military says",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
+        "pubDate": "Fri, 21 Aug 2026 02:41:33 -0400",
+        "description": "A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the U.S. military said."
+      },
+      {
+        "title": "&apos;Survival mode&apos;: Indiana residents endure a ninth day without power",
+        "link": "https://www.npr.org/2026/08/21/g-s1-139527/indiana-storm-outages",
+        "pubDate": "Fri, 21 Aug 2026 02:40:26 -0400",
+        "description": "Tens of thousands of people in Indiana are entering a second week without power after a deadly storm toppled trees and power lines. Schools remain closed and businesses have been unable to reopen."
+      },
       {
         "title": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
         "link": "https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
         "pubDate": "Thu, 20 Aug 2026 07:30:18 -0400",
         "description": "The U.S. debt has surpassed $40 trillion. And, a new census report on noncitizen voting that President Trump is touting has ties to a think tank aligned with him, raising concerns among experts."
-      },
-      {
-        "title": "North Korea fires a suspected missile toward the sea, Japan says",
-        "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-        "pubDate": "Thu, 20 Aug 2026 05:24:45 -0400",
-        "description": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy."
-      },
-      {
-        "title": "Privacy advocates call on Maryland to investigate data brokers",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "description": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies."
       }
     ],
     "Canada": []
