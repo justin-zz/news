@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T09:32:23.444Z",
+  "updated": "2026-08-21T10:25:11.163Z",
   "world": [
     {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
@@ -20,16 +20,10 @@
       "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law."
     },
     {
-      "title": "Five missing after fire in Swiss Alpine town",
-      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 07:06:16 GMT",
-      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated."
-    },
-    {
-      "title": "Meghan could return to acting once back in UK",
-      "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 02:52:29 GMT",
-      "description": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK."
+      "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
+      "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 09:53:47 GMT",
+      "description": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast."
     },
     {
       "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
@@ -44,22 +38,28 @@
       "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision."
     },
     {
-      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-      "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 05:30:18 GMT",
-      "description": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others."
-    },
-    {
       "title": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
       "link": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 06:33:32 GMT",
       "description": "The collection documents key moments in Gandhi’s freedom movement as well as his personal relationship with close aide."
     },
     {
+      "title": "Five missing after fire in Swiss Alpine town",
+      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 07:06:16 GMT",
+      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated."
+    },
+    {
       "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
       "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 02:33:27 GMT",
       "description": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday."
+    },
+    {
+      "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
+      "link": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 10:03:17 GMT",
+      "description": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded."
     },
     {
       "title": "Japan executes man who killed five in Pachinko parlour fire",
@@ -74,6 +74,12 @@
       "description": "The body of Lily Hooper, 18, has been airlifted from a national park in the Southern Highlands following an eight-day search."
     },
     {
+      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+      "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 05:30:18 GMT",
+      "description": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others."
+    },
+    {
       "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
       "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 20:08:29 GMT",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 02:57:34 GMT",
       "description": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived."
-    },
-    {
-      "title": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 00:04:10 GMT",
-      "description": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP)."
     }
   ],
   "regions": {
@@ -99,6 +99,12 @@
         "link": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
         "pubDate": "Fri, 21 Aug 2026 05:01:00 -0400",
         "description": "Why is the car race in this part of D.C.? Will it be streaming? Who&apos;s paying for it? Here&apos;s what to know before the Freedom 250 Grand Prix hits the National Mall this weekend."
+      },
+      {
+        "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+        "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
+        "description": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental-health challenges of prolonged confinement and isolation aboard an aircraft carrier."
       },
       {
         "title": "Federal government thins the herds of wild horses in Colorado",
@@ -117,12 +123,6 @@
         "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
         "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
         "description": "Experts warn Trump&apos;s transactional approach to alliance will erode political trust"
-      },
-      {
-        "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
-        "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-        "description": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental-health challenges of prolonged confinement and isolation aboard an aircraft carrier."
       },
       {
         "title": "Morning news brief",
