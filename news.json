@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T03:46:40.476Z",
+  "updated": "2026-08-21T04:33:29.253Z",
   "world": [
     {
       "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
@@ -44,6 +44,12 @@
       "description": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\"."
     },
     {
+      "title": "Japan executes man who killed five in Pachinko parlour fire",
+      "link": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 02:49:27 GMT",
+      "description": "This is the first time since June 2025 that the country has enacted capital punishment."
+    },
+    {
       "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
       "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 22:01:26 GMT",
@@ -62,10 +68,10 @@
       "description": "Prosecutors say the Albany woman had pledged allegiance to the Islamic State group, and wanted to bomb the statehouse to kill lawmakers."
     },
     {
-      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
       "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 22:43:42 GMT",
-      "description": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party."
+      "pubDate": "Fri, 21 Aug 2026 04:27:13 GMT",
+      "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination."
     },
     {
       "title": "US sanctions more Cuban companies and officials",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 20 Aug 2026 10:14:47 GMT",
       "description": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony."
-    },
-    {
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 02:05:20 GMT",
-      "description": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\"."
     }
   ],
   "regions": {
@@ -137,16 +137,16 @@
         "description": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy."
       },
       {
-        "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-        "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
-        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
-        "description": "Many people don&apos;t pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy."
-      },
-      {
         "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
         "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
         "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
         "description": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out."
+      },
+      {
+        "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
+        "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+        "pubDate": "Thu, 20 Aug 2026 05:00:00 -0400",
+        "description": "Many people don&apos;t pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy."
       },
       {
         "title": "Privacy advocates call on Maryland to investigate data brokers",
