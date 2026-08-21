@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T11:25:16.893Z",
+  "updated": "2026-08-21T11:51:19.480Z",
   "world": [
     {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
@@ -8,10 +8,10 @@
       "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
     },
     {
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 20 Aug 2026 23:16:45 GMT",
-      "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 11:31:51 GMT",
+      "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day."
     },
     {
       "title": "Hong Kong's Tiananmen activists guilty in national security trial",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
+        "pubDate": "Fri, 21 Aug 2026 07:42:10 -0400",
+        "description": "The Iranian regime has dismissed President Trump&apos;s threats to crush the country economically, saying that years of U.S. sanctions have failed."
+      },
+      {
+        "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
+        "link": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
+        "pubDate": "Fri, 21 Aug 2026 07:25:10 -0400",
+        "description": "President Trump has declared economic warfare on Iran in an effort to pressure the country back into negotiations. And, the Supreme Court is set to decide on the future of Trump&apos;s ballroom."
+      },
+      {
         "title": "What to know about this weekend&apos;s IndyCar race on the National Mall",
         "link": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
         "pubDate": "Fri, 21 Aug 2026 05:01:00 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
         "pubDate": "Fri, 21 Aug 2026 02:41:33 -0400",
         "description": "A charter aircraft carrying eight people crashed at a remote radar site in western Alaska on Thursday, killing all on board, the U.S. military said."
-      },
-      {
-        "title": "&apos;Survival mode&apos;: Indiana residents endure a ninth day without power",
-        "link": "https://www.npr.org/2026/08/21/g-s1-139527/indiana-storm-outages",
-        "pubDate": "Fri, 21 Aug 2026 02:40:26 -0400",
-        "description": "Tens of thousands of people in Indiana are entering a second week without power after a deadly storm toppled trees and power lines. Schools remain closed and businesses have been unable to reopen."
-      },
-      {
-        "title": "Federal agents seize devices from ex-Rep. Eric Swalwell in sexual misconduct probe, AP source says",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5940542/federal-agents-seize-eric-swalwell-sexual-misconduct-probe",
-        "pubDate": "Fri, 21 Aug 2026 01:49:48 -0400",
-        "description": "Federal agents seized electronic devices from former Rep. Eric Swalwell and searched his Washington home as part of an investigation into allegations of sexual misconduct by the ex-Democratic congress"
       }
     ],
     "Canada": []
