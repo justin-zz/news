@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T18:31:00.460Z",
+  "updated": "2026-08-21T19:22:22.528Z",
   "world": [
     {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
@@ -8,10 +8,10 @@
       "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
     },
     {
-      "title": "Russian double-tap drone strikes kill 14 in Ukrainian mall, officials say",
+      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 18:23:11 GMT",
-      "description": "Another 121 people were injured when the shopping centre was hit, according to the regional head."
+      "pubDate": "Fri, 21 Aug 2026 18:51:43 GMT",
+      "description": "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head."
     },
     {
       "title": "Hong Kong's Tiananmen activists guilty in national security trial",
@@ -26,16 +26,22 @@
       "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024."
     },
     {
-      "title": "Two teenagers seriously injured after sword attack at Swedish school",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 16:32:37 GMT",
-      "description": "Police say one man has been arrested, while several other local schools were locked down."
+      "title": "Two injured in stabbing attack at Canada Sikh temple",
+      "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 18:27:15 GMT",
+      "description": "One suspect is in custody, but police have not disclosed a possible motive."
     },
     {
       "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
       "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 13:44:43 GMT",
       "description": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says."
+    },
+    {
+      "title": "Two teenagers seriously injured after sword attack at Swedish school",
+      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 21 Aug 2026 16:32:37 GMT",
+      "description": "Police say one man has been arrested, while several other local schools were locked down."
     },
     {
       "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 11:57:37 GMT",
       "description": "The overnight raid of the multi-million dollar drug operation took place near the border with Zimbabwe."
-    },
-    {
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 13:07:00 GMT",
-      "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Supreme Court allows Trump&apos;s ballroom construction to continue for now",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
+        "pubDate": "Fri, 21 Aug 2026 14:47:48 -0400",
+        "description": "The ruling comes after months of back and forth between the Trump administration and the National Trust for Historic Preservation."
+      },
       {
         "title": "Beatty files emergency request to stop Trump&apos;s name from returning to Kennedy Center",
         "link": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/21/nx-s1-5931262/morning-news-brief",
         "pubDate": "Fri, 21 Aug 2026 04:46:00 -0400",
         "description": "Trump threatens economic pressure campaign against Iran, SCOTUS to weigh in on whether Trump&apos;s ballroom project, investors dump stocks and bonds despite government&apos;s efforts to calm market."
-      },
-      {
-        "title": "Mom and best friend remember girl killed in a mass shooting one year later",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5938076/mom-and-best-friend-remember-girl-killed-in-a-mass-shooting-one-year-later",
-        "pubDate": "Fri, 21 Aug 2026 04:44:49 -0400",
-        "description": "For StoryCorps, a mother remembers her daughter who was killed in a mass shooting by speaking with her daughter&apos;s best friend."
       }
     ],
     "Canada": []
