@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-22T04:04:32.852Z",
+  "updated": "2026-08-22T04:59:20.966Z",
   "world": [
     {
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 22 Aug 2026 00:40:47 GMT",
-      "description": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline."
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 22 Aug 2026 04:46:33 GMT",
+      "description": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks."
     },
     {
       "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
@@ -36,6 +36,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 15:58:57 GMT",
       "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024."
+    },
+    {
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT",
+      "description": "They will not be working royals when they come back. So what could they be doing instead?"
     },
     {
       "title": "Two injured in stabbing attack at Canada Sikh temple",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 13:10:39 GMT",
       "description": "Eight others were injured, local police say, with the cause of the fire still being investigated."
-    },
-    {
-      "title": "Ethiopia's Virgin Mary festival in Tigray cancelled over drone strike fears",
-      "link": "https://www.bbc.co.uk/news/articles/c24me64n31qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 16:20:55 GMT",
-      "description": "An eagerly anticipated gathering of women will not be taking place following recent aerial strikes."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
+        "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+        "pubDate": "Sat, 22 Aug 2026 00:36:27 -0400",
+        "description": "The United States imposed 50% tariffs on $20 billion worth of Canadian products early Saturday, and Canada immediately said it would retaliate, after last-ditch negotiations failed."
+      },
       {
         "title": "Supreme Court allows Trump&apos;s ballroom construction to continue for now",
         "link": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
         "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
         "description": "In dozens of states around the country, people are vandalizing, blocking and taking down Flock cameras. A surge in such activity underscores the growing resistance to this police surveillance technolo"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5931262/morning-news-brief",
-        "pubDate": "Fri, 21 Aug 2026 04:46:00 -0400",
-        "description": "Trump threatens economic pressure campaign against Iran, SCOTUS to weigh in on whether Trump&apos;s ballroom project, investors dump stocks and bonds despite government&apos;s efforts to calm market."
       }
     ],
     "Canada": []
