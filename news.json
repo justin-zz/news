@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T20:47:49.261Z",
+  "updated": "2026-08-22T21:17:36.433Z",
   "world": [
     {
       "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Trump administration&apos;s 75-country visa ban was illegal, judge rules",
+        "link": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
+        "pubDate": "Sat, 22 Aug 2026 16:53:19 -0400",
+        "description": "The U.S. stopped issuing visas for citizens of 75 countries because it said they were likely to need public assistance. A judge ruled the policy illegally discriminated on the basis of nationality."
+      },
+      {
         "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
         "link": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
         "pubDate": "Sat, 22 Aug 2026 08:00:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
         "pubDate": "Fri, 21 Aug 2026 05:01:00 -0400",
         "description": "Why is the car race in this part of D.C.? Will it be streaming? Who&apos;s paying for it? Here&apos;s what to know before the Freedom 250 Grand Prix hits the National Mall this weekend."
-      },
-      {
-        "title": "Federal government thins the herds of wild horses in Colorado",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
-        "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-        "description": "U.S. officials say the ever-growing population of wild horses that roam federal lands in Colorado is depleting natural resources. But some activists say efforts to remove the horses are inhumane."
       }
     ],
     "Canada": []
