@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-22T15:16:12.814Z",
+  "updated": "2026-08-22T15:44:36.431Z",
   "world": [
+    {
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 22 Aug 2026 15:00:27 GMT",
+      "description": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences."
+    },
     {
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
       "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&amp;at_campaign=rss",
@@ -32,16 +38,16 @@
       "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
     },
     {
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT",
+      "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
+    },
+    {
       "title": "One killed in sword attack at Swedish school",
       "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 21:03:24 GMT",
       "description": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested."
-    },
-    {
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT",
-      "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
     },
     {
       "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 16:26:53 GMT",
       "description": "German intelligence believes guns found last year were for carrying out assassinations on behalf of Moscow, reports say."
-    },
-    {
-      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-      "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 05:47:32 GMT",
-      "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law."
     }
   ],
   "regions": {
