@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-22T11:44:07.497Z",
+  "updated": "2026-08-22T12:30:37.923Z",
   "world": [
     {
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
       "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 22 Aug 2026 11:21:05 GMT",
+      "pubDate": "Sat, 22 Aug 2026 12:20:46 GMT",
       "description": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
     },
     {
@@ -95,10 +95,16 @@
   "regions": {
     "US": [
       {
+        "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
+        "link": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
+        "pubDate": "Sat, 22 Aug 2026 08:00:00 -0400",
+        "description": "MLB catcher Jake Rogers probably didn&apos;t know if he was coming or going the last several weeks: he&apos;s been a Detroit Tiger, a Baltimore Oriole, a Boston Red Sox, and now he&apos;s a Chicago Wh"
+      },
+      {
         "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
         "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
         "pubDate": "Sat, 22 Aug 2026 00:36:27 -0400",
-        "description": "The midnight deadline means that U.S. will impose 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada &quot;will match those tariffs dollar for dollar.&quot;"
+        "description": "The midnight deadline means the U.S. has imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada &quot;will match those tariffs dollar for dollar.&quot;"
       },
       {
         "title": "A battle over &apos;Italian brainrot&apos; could shape who owns AI art",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
         "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
         "description": "In dozens of states around the country, people are vandalizing, blocking and taking down Flock cameras. A surge in such activity underscores the growing resistance to this police surveillance technolo"
-      },
-      {
-        "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
-        "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
-        "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-        "description": "Experts warn that President Trump&apos;s transactional approach to an alliance will erode political trust."
       }
     ],
     "Canada": []
