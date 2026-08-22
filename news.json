@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T13:27:54.100Z",
+  "updated": "2026-08-22T13:53:17.714Z",
   "world": [
     {
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
@@ -12,6 +12,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 22:36:12 GMT",
       "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
+    },
+    {
+      "title": "Fourteen killed in strike on Myanmar monastery",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 22 Aug 2026 13:48:06 GMT",
+      "description": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat."
     },
     {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 05:47:32 GMT",
       "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law."
-    },
-    {
-      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-      "link": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 13:44:43 GMT",
-      "description": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says."
     }
   ],
   "regions": {
@@ -143,16 +143,16 @@
         "description": "Why is the car race in this part of D.C.? Will it be streaming? Who&apos;s paying for it? Here&apos;s what to know before the Freedom 250 Grand Prix hits the National Mall this weekend."
       },
       {
-        "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
-        "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
+        "title": "Federal government thins the herds of wild horses in Colorado",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
         "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-        "description": "Experts warn that President Trump&apos;s transactional approach to an alliance will erode political trust."
+        "description": "U.S. officials say the ever-growing population of wild horses that roam federal lands in Colorado is depleting natural resources. But some activists say efforts to remove the horses are inhumane."
       },
       {
-        "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+        "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
         "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-        "description": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental health challenges of prolonged confinement and isolation aboard an aircraft carrier."
+        "description": "In dozens of states around the country, people are vandalizing, blocking and taking down Flock cameras. A surge in such activity underscores the growing resistance to this police surveillance technolo"
       }
     ],
     "Canada": []
