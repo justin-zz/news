@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T09:26:12.503Z",
+  "updated": "2026-08-22T09:51:11.307Z",
   "world": [
     {
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
@@ -95,10 +95,10 @@
   "regions": {
     "US": [
       {
-        "title": "U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect",
+        "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
         "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
         "pubDate": "Sat, 22 Aug 2026 00:36:27 -0400",
-        "description": "Trade negotiations between the United States and Canada fell apart on Friday night, shortly before a midnight deadline for 50% tariffs to take effect on $20 billion worth of Canadian products."
+        "description": "The midnight deadline means that U.S. will impose 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada &quot;will match those tariffs dollar for dollar.&quot;"
       },
       {
         "title": "A battle over &apos;Italian brainrot&apos; could shape who owns AI art",
@@ -137,22 +137,22 @@
         "description": "Why is the car race in this part of D.C.? Will it be streaming? Who&apos;s paying for it? Here&apos;s what to know before the Freedom 250 Grand Prix hits the National Mall this weekend."
       },
       {
-        "title": "Federal government thins the herds of wild horses in Colorado",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
-        "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-        "description": "U.S. officials say the ever-growing population of wild horses that roam federal lands in Colorado is depleting natural resources. But some activists say efforts to remove the horses are inhumane."
-      },
-      {
-        "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
-        "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-        "description": "In dozens of states around the country, people are vandalizing, blocking and taking down Flock cameras. A surge in such activity underscores the growing resistance to this police surveillance technolo"
-      },
-      {
         "title": "As Trump courts Kim, Pyongyang ups the price, while Seoul fears being sidelined",
         "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
         "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
         "description": "Experts warn that President Trump&apos;s transactional approach to an alliance will erode political trust."
+      },
+      {
+        "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
+        "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
+        "description": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental health challenges of prolonged confinement and isolation aboard an aircraft carrier."
+      },
+      {
+        "title": "Federal government thins the herds of wild horses in Colorado",
+        "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
+        "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
+        "description": "U.S. officials say the ever-growing population of wild horses that roam federal lands in Colorado is depleting natural resources. But some activists say efforts to remove the horses are inhumane."
       }
     ],
     "Canada": []
