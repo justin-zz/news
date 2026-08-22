@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T06:32:55.317Z",
+  "updated": "2026-08-22T07:28:02.410Z",
   "world": [
     {
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
@@ -20,10 +20,16 @@
       "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
     },
     {
-      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+      "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 22 Aug 2026 05:15:58 GMT",
-      "description": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall."
+      "pubDate": "Sat, 22 Aug 2026 06:40:30 GMT",
+      "description": "Nine people are still missing after the attack which left 130 injured, including a number of children."
+    },
+    {
+      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+      "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 22 Aug 2026 03:43:26 GMT",
+      "description": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis."
     },
     {
       "title": "One killed in sword attack at Swedish school",
@@ -38,16 +44,16 @@
       "description": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024."
     },
     {
-      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT",
-      "description": "They will not be working royals when they come back. So what could they be doing instead?"
-    },
-    {
       "title": "Two injured in stabbing attack at Canada Sikh temple",
       "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 22:45:01 GMT",
       "description": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate."
+    },
+    {
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 22 Aug 2026 00:03:10 GMT",
+      "description": "They will not be working royals when they come back. So what could they be doing instead?"
     },
     {
       "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 21 Aug 2026 11:14:38 GMT",
       "description": "A magnitude 6.7 earthquake struck the Ayacucho region on Thursday, the US Geological Survey says."
-    },
-    {
-      "title": "Five missing after fire in Swiss Alpine town",
-      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 21 Aug 2026 13:10:39 GMT",
-      "description": "Eight others were injured, local police say, with the cause of the fire still being investigated."
     }
   ],
   "regions": {
@@ -99,6 +99,12 @@
         "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
         "pubDate": "Sat, 22 Aug 2026 00:36:27 -0400",
         "description": "The United States imposed 50% tariffs on $20 billion worth of Canadian products early Saturday, and Canada immediately said it would retaliate, after last-ditch negotiations failed."
+      },
+      {
+        "title": "A battle over &apos;Italian brainrot&apos; could shape who owns AI art",
+        "link": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
+        "pubDate": "Fri, 21 Aug 2026 18:16:46 -0400",
+        "description": "A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters."
       },
       {
         "title": "Supreme Court allows Trump&apos;s ballroom construction to continue for now",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
         "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
         "description": "Experts warn that President Trump&apos;s transactional approach to an alliance will erode political trust."
-      },
-      {
-        "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
-        "pubDate": "Fri, 21 Aug 2026 05:00:00 -0400",
-        "description": "The USS Abraham Lincoln is now on its way home after spending nine months at sea. Experts weigh in on the mental health challenges of prolonged confinement and isolation aboard an aircraft carrier."
       }
     ],
     "Canada": []
