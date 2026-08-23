@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T17:44:16.444Z",
+  "updated": "2026-08-23T18:22:23.787Z",
   "world": [
     {
       "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
@@ -14,22 +14,16 @@
       "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
     },
     {
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 23 Aug 2026 18:17:37 GMT",
+      "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says."
+    },
+    {
       "title": "DR Congo and M23 rebels agree roadmap for peace talks",
       "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 23 Aug 2026 12:52:08 GMT",
       "description": "Representatives met in Switzerland to work out next steps to resolve the conflict."
-    },
-    {
-      "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 23 Aug 2026 17:31:29 GMT",
-      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
-    },
-    {
-      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 23 Aug 2026 11:50:59 GMT",
-      "description": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\"."
     },
     {
       "title": "France links sharp rise in drownings to heatwaves",
@@ -38,16 +32,22 @@
       "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June."
     },
     {
+      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+      "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 23 Aug 2026 11:50:59 GMT",
+      "description": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\"."
+    },
+    {
+      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 23 Aug 2026 18:17:34 GMT",
+      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
+    },
+    {
       "title": "Thousands struggling without power in Indiana 12 days after severe storms",
       "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 23 Aug 2026 15:54:32 GMT",
       "description": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\"."
-    },
-    {
-      "title": "The hotel booking mix-up that could free mushroom murderer",
-      "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 22 Aug 2026 19:03:03 GMT",
-      "description": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions."
     },
     {
       "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
@@ -80,16 +80,16 @@
       "description": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained."
     },
     {
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT",
-      "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
-    },
-    {
       "title": "Man completes 2,800 mile scoot across Australia",
       "link": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 23 Aug 2026 06:01:16 GMT",
       "description": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney."
+    },
+    {
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT",
+      "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
     }
   ],
   "regions": {
