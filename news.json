@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T16:19:11.659Z",
+  "updated": "2026-08-23T16:50:12.713Z",
   "world": [
     {
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
+        "link": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
+        "pubDate": "Sun, 23 Aug 2026 12:15:30 -0400",
+        "description": "A nonprofit and a local public health agency are subsidizing marketplace health insurance for Austin musicians , even as rising healthcare costs make the program more expensive."
+      },
+      {
         "title": "Becerra, running for governor of California, faces a health insurance problem",
         "link": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
         "pubDate": "Sun, 23 Aug 2026 08:50:09 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
         "pubDate": "Fri, 21 Aug 2026 14:47:48 -0400",
         "description": "The ruling comes after months of back-and-forth between the Trump administration and the National Trust for Historic Preservation."
-      },
-      {
-        "title": "Beatty files emergency request to stop Trump&apos;s name from returning to Kennedy Center",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
-        "pubDate": "Fri, 21 Aug 2026 12:40:59 -0400",
-        "description": "Joyce Beatty, a Democratic representative from Ohio, asked a federal judge to stop the Kennedy Center trustees from putting President Trump&apos;s name up in three places at the arts complex."
       }
     ],
     "Canada": []
