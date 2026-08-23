@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T08:34:59.545Z",
+  "updated": "2026-08-23T09:23:07.676Z",
   "world": [
     {
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -16,7 +16,7 @@
     {
       "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 23 Aug 2026 08:02:22 GMT",
+      "pubDate": "Sun, 23 Aug 2026 08:47:47 GMT",
       "description": "The sacked former defence minister has also called for elections to be held in Ukraine."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Body cam shows federal agent was &apos;unjustified&apos; in Memphis shooting, attorney says",
+        "link": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
+        "pubDate": "Sun, 23 Aug 2026 05:00:00 -0400",
+        "description": "The family of Jonah Neal and their attorney were recently shown video from the day that Neal was shot by a federal agent while he experienced a mental health crisis."
+      },
+      {
         "title": "Trump administration&apos;s 75-country visa ban was illegal, judge rules",
         "link": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
         "pubDate": "Sat, 22 Aug 2026 16:53:19 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
         "pubDate": "Fri, 21 Aug 2026 07:25:10 -0400",
         "description": "President Trump has declared economic warfare on Iran in an effort to pressure the country back into negotiations. And, the Supreme Court is set to decide on the future of Trump&apos;s ballroom."
-      },
-      {
-        "title": "What to know about this weekend&apos;s IndyCar race on the National Mall",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
-        "pubDate": "Fri, 21 Aug 2026 05:01:00 -0400",
-        "description": "Why is the car race in this part of D.C.? Will it be streaming? Who&apos;s paying for it? Here&apos;s what to know before the Freedom 250 Grand Prix hits the National Mall this weekend."
       }
     ],
     "Canada": []
