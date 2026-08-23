@@ -1,12 +1,6 @@
 {
-  "updated": "2026-08-23T16:50:12.713Z",
+  "updated": "2026-08-23T17:16:26.147Z",
   "world": [
-    {
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 23 Aug 2026 05:46:43 GMT",
-      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
-    },
     {
       "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&amp;at_campaign=rss",
@@ -14,10 +8,22 @@
       "description": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine."
     },
     {
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 23 Aug 2026 05:46:43 GMT",
+      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
+    },
+    {
       "title": "DR Congo and M23 rebels agree roadmap for peace talks",
       "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 23 Aug 2026 12:52:08 GMT",
       "description": "Representatives met in Switzerland to work out next steps to resolve the conflict."
+    },
+    {
+      "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 23 Aug 2026 16:57:05 GMT",
+      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
     },
     {
       "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
@@ -62,16 +68,16 @@
       "description": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium."
     },
     {
-      "title": "Girl, 17, killed in Swedish sword attack, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 23 Aug 2026 01:34:15 GMT",
-      "description": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained."
-    },
-    {
       "title": "'New season, new trim' - Haaland reveals buzzcut",
       "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 23 Aug 2026 12:36:54 GMT",
       "description": "Manchester City striker Erling Haaland reveals his new buzz cut on social media."
+    },
+    {
+      "title": "Girl, 17, killed in Swedish sword attack, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 23 Aug 2026 01:34:15 GMT",
+      "description": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained."
     },
     {
       "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 23 Aug 2026 06:01:16 GMT",
       "description": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney."
-    },
-    {
-      "title": "Syria says Israeli strike near Damascus violation of international law",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 22 Aug 2026 21:42:42 GMT",
-      "description": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
+        "link": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
+        "pubDate": "Sun, 23 Aug 2026 12:55:37 -0400",
+        "description": "A round of storms impacted the region on Aug. 11"
+      },
       {
         "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
         "link": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
         "pubDate": "Fri, 21 Aug 2026 18:16:46 -0400",
         "description": "A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters."
-      },
-      {
-        "title": "Supreme Court allows Trump&apos;s ballroom construction to continue for now",
-        "link": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
-        "pubDate": "Fri, 21 Aug 2026 14:47:48 -0400",
-        "description": "The ruling comes after months of back-and-forth between the Trump administration and the National Trust for Historic Preservation."
       }
     ],
     "Canada": []
