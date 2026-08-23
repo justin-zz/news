@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T14:48:09.273Z",
+  "updated": "2026-08-23T15:18:03.687Z",
   "world": [
     {
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -26,6 +26,12 @@
       "description": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\"."
     },
     {
+      "title": "France links rise in drownings to heatwaves",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 23 Aug 2026 15:00:17 GMT",
+      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June."
+    },
+    {
       "title": "The hotel booking mix-up that could free mushroom murderer",
       "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 22 Aug 2026 19:03:03 GMT",
@@ -38,16 +44,16 @@
       "description": "Manchester City striker Erling Haaland reveals his new buzz cut on social media."
     },
     {
-      "title": "Golf brand apologises for advert that shows woman being pushed over",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 23 Aug 2026 12:25:40 GMT",
-      "description": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club."
-    },
-    {
       "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
       "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 23 Aug 2026 13:35:06 GMT",
       "description": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of  56 minutes 51 seconds in a World Athletics road race in Buenos Aires."
+    },
+    {
+      "title": "Golf brand apologises for advert that shows woman being pushed over",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 23 Aug 2026 12:25:40 GMT",
+      "description": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club."
     },
     {
       "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 22 Aug 2026 13:13:16 GMT",
       "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
-    },
-    {
-      "title": "Fourteen killed in strike on Myanmar monastery",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 22 Aug 2026 13:48:06 GMT",
-      "description": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat."
     }
   ],
   "regions": {
