@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T22:21:11.855Z",
+  "updated": "2026-08-24T22:52:29.596Z",
   "world": [
     {
       "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Six months on, U.S. Navy families who evacauated Bahrain remain in limbo",
+        "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+        "pubDate": "Mon, 24 Aug 2026 18:22:13 -0400",
+        "description": "When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is."
+      },
+      {
+        "title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
+        "link": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
+        "pubDate": "Mon, 24 Aug 2026 17:17:31 -0400",
+        "description": "A drug bust involving an alleged cocaine ring at Penn State has drawn attention to drug use on college campuses, but research shows the big risk to students is alcohol."
+      },
+      {
         "title": "Supreme Court pauses lower court ruling on Trump&apos;s mail voting order as hurdles loom",
         "link": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
         "pubDate": "Mon, 24 Aug 2026 16:53:45 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/24/nx-s1-5939518/u-s-businesses-are-getting-tariff-refunds-will-customers-get-any-money-back",
         "pubDate": "Mon, 24 Aug 2026 04:45:49 -0400",
         "description": "Companies have received tariff refunds. What about consumers? Some companies are providing refunds while others decline."
-      },
-      {
-        "title": "High-intensity sprints can trigger molecular changes in the bloodstream",
-        "link": "https://www.npr.org/2026/08/23/nx-s1-5939943/high-intensity-hiit-heart-health-exercise",
-        "pubDate": "Mon, 24 Aug 2026 04:45:44 -0400",
-        "description": "A new study finds that an all-out sprint may have unique benefits when it comes to the proteins and tiny molecules in your bloodstream."
-      },
-      {
-        "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
-        "link": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
-        "pubDate": "Sun, 23 Aug 2026 23:47:04 -0400",
-        "description": "Officials say the fire, which has now burned more than 15,000 acres and is zero percent contained, was human caused. Nearly 90,000 people have been told to evacuate or prepare to leave."
       }
     ],
     "Canada": []
