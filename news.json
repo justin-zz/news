@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T03:51:13.738Z",
+  "updated": "2026-08-24T04:40:02.035Z",
   "world": [
     {
       "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
@@ -16,7 +16,7 @@
     {
       "title": "Shein aims for almost $27bn valuation in stock market debut",
       "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 02:05:04 GMT",
+      "pubDate": "Mon, 24 Aug 2026 04:06:54 GMT",
       "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
+        "link": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
+        "pubDate": "Sun, 23 Aug 2026 23:47:04 -0400",
+        "description": "Officials say the fire, which has now burned more than 15,000 acres and is zero percent contained, was human caused. Nearly 90,000 people have been told to evacuate or prepare to leave."
+      },
+      {
         "title": "Learning to live in a post-American world",
         "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
         "pubDate": "Sun, 23 Aug 2026 17:21:23 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/22/nx-s1-5931446/flock-fallout-competitors-see-opportunity",
         "pubDate": "Sat, 22 Aug 2026 07:43:32 -0400",
         "description": "Dozens of cities have canceled their contracts with Flock. Some are switching to other companies, but privacy experts say they&apos;re no better than Flock."
-      },
-      {
-        "title": "As Canada readies retaliatory tariffs, Mark Carney says his nation is &apos;at war&apos; with U.S.",
-        "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-        "pubDate": "Sat, 22 Aug 2026 00:36:27 -0400",
-        "description": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs &quot;dollar for dollar&quot; starting Sept. 8."
       }
     ],
     "Canada": []
