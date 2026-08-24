@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-24T14:37:27.855Z",
+  "updated": "2026-08-24T15:34:58.050Z",
   "world": [
+    {
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 13:35:07 GMT",
+      "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated."
+    },
     {
       "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
       "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&amp;at_campaign=rss",
@@ -8,10 +14,10 @@
       "description": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes."
     },
     {
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 13:35:07 GMT",
-      "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated."
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 13:56:22 GMT",
+      "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza."
     },
     {
       "title": "King of Norway's health has worsened, palace says",
@@ -26,16 +32,16 @@
       "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
     },
     {
-      "title": "Access to Zambian courts prevented as election petition deadline looms",
-      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 14:02:17 GMT",
-      "description": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing."
-    },
-    {
       "title": "Sonya Massey's killer Sean Grayson dies in US prison",
       "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 13:14:10 GMT",
       "description": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer."
+    },
+    {
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 14:02:17 GMT",
+      "description": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing."
     },
     {
       "title": "Four arrested over suspected poisoning of elephants in Kenya",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 23 Aug 2026 19:11:30 GMT",
       "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
-    },
-    {
-      "title": "Shein aims for almost $27bn valuation in stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 07:00:53 GMT",
-      "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September."
     }
   ],
   "regions": {
@@ -131,6 +131,12 @@
         "description": "Treasury secretary to detail new round of economic pressure on Iran, Iran warns of &apos;seismic&apos; retaliation if U.S. follow through with economic threat, Canada vows to impose retaliatory tariff"
       },
       {
+        "title": "High-intensity sprints can trigger molecular changes in the bloodstream",
+        "link": "https://www.npr.org/2026/08/23/nx-s1-5939943/high-intensity-hiit-heart-health-exercise",
+        "pubDate": "Mon, 24 Aug 2026 04:45:44 -0400",
+        "description": "A new study finds that an all-out sprint may have unique benefits when it comes to the proteins and tiny molecules in your bloodstream."
+      },
+      {
         "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
         "link": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
         "pubDate": "Sun, 23 Aug 2026 23:47:04 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
         "pubDate": "Sun, 23 Aug 2026 17:21:23 -0400",
         "description": "In a recent article for &lt;em&gt;Foregin Affairs&lt;/em&gt;, Mark Leonard makes that argument that America&apos;s leading role in the world order is fading. He discusses his argument with NPR&apos;s "
-      },
-      {
-        "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
-        "link": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
-        "pubDate": "Sun, 23 Aug 2026 12:55:37 -0400",
-        "description": "A round of storms impacted the region on Aug. 11"
       }
     ],
     "Canada": []
