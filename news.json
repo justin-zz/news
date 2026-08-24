@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T01:02:40.042Z",
+  "updated": "2026-08-24T02:42:55.981Z",
   "world": [
     {
       "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
@@ -38,10 +38,10 @@
       "description": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\"."
     },
     {
-      "title": "Trump waves green flag to start IndyCar race through Washington streets",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 23 Aug 2026 20:19:36 GMT",
-      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
+      "title": "Australian shark attack victim grateful for 'second chance at life'",
+      "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 00:34:59 GMT",
+      "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs."
     },
     {
       "title": "Frustration builds in Indiana town struggling without power for 12 days",
@@ -60,6 +60,12 @@
       "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 23 Aug 2026 12:25:40 GMT",
       "description": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club."
+    },
+    {
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 23 Aug 2026 20:19:36 GMT",
+      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
     },
     {
       "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/clylqlkq5e5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 23 Aug 2026 06:01:16 GMT",
       "description": "Bob Brown from Saltash has ridden a non-electric scooter from Perth to Sydney."
-    },
-    {
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 22 Aug 2026 14:35:11 GMT",
-      "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Learning to live in a post-American world",
+        "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
+        "pubDate": "Sun, 23 Aug 2026 17:21:23 -0400",
+        "description": "In a recent article for &lt;em&gt;Foregin Affairs&lt;/em&gt;, Mark Leonard makes that argument that America&apos;s leading role in the world order is fading. He discusses his argument with NPR&apos;s "
+      },
       {
         "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
         "link": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
         "pubDate": "Sat, 22 Aug 2026 00:36:27 -0400",
         "description": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs &quot;dollar for dollar&quot; starting Sept. 8."
-      },
-      {
-        "title": "A battle over &apos;Italian brainrot&apos; could shape who owns AI art",
-        "link": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
-        "pubDate": "Fri, 21 Aug 2026 18:16:46 -0400",
-        "description": "A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters."
       }
     ],
     "Canada": []
