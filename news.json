@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T17:27:00.860Z",
+  "updated": "2026-08-24T17:57:47.744Z",
   "world": [
     {
       "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
@@ -10,7 +10,7 @@
     {
       "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
       "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 17:22:23 GMT",
+      "pubDate": "Mon, 24 Aug 2026 17:29:59 GMT",
       "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
     },
     {
@@ -30,6 +30,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 08:31:55 GMT",
       "description": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection."
+    },
+    {
+      "title": "Outrage in Nepal over rape and murder of three-year-old girl",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 17:24:25 GMT",
+      "description": "There have been protests since the girl was found dead last week, three days after she went missing."
     },
     {
       "title": "Nearly three million Teslas recalled in China over hidden door handles",
@@ -84,18 +90,12 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 06:55:06 GMT",
       "description": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction."
-    },
-    {
-      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 03:55:35 GMT",
-      "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Treasury Secretary Scott Bessent is set to unveil new economic sanctions on Iran",
+        "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran",
         "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
         "pubDate": "Mon, 24 Aug 2026 08:26:00 -0400",
         "description": "The Trump administration calls this &quot;economic D-Day&quot; on Iran. Iran vows to respond to fresh sanctions in a &quot;seismic manner.&quot;"
