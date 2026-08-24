@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T21:33:09.064Z",
+  "updated": "2026-08-24T22:21:11.855Z",
   "world": [
     {
       "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
@@ -137,6 +137,12 @@
         "description": "Treasury secretary to detail new round of economic pressure on Iran, Iran warns of &apos;seismic&apos; retaliation if U.S. follow through with economic threat, Canada vows to impose retaliatory tariff"
       },
       {
+        "title": "U.S. businesses are getting tariff refunds. Will customers get any money back?",
+        "link": "https://www.npr.org/2026/08/24/nx-s1-5939518/u-s-businesses-are-getting-tariff-refunds-will-customers-get-any-money-back",
+        "pubDate": "Mon, 24 Aug 2026 04:45:49 -0400",
+        "description": "Companies have received tariff refunds. What about consumers? Some companies are providing refunds while others decline."
+      },
+      {
         "title": "High-intensity sprints can trigger molecular changes in the bloodstream",
         "link": "https://www.npr.org/2026/08/23/nx-s1-5939943/high-intensity-hiit-heart-health-exercise",
         "pubDate": "Mon, 24 Aug 2026 04:45:44 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
         "pubDate": "Sun, 23 Aug 2026 23:47:04 -0400",
         "description": "Officials say the fire, which has now burned more than 15,000 acres and is zero percent contained, was human caused. Nearly 90,000 people have been told to evacuate or prepare to leave."
-      },
-      {
-        "title": "Climate change is unearthing archaeological discoveries, while also threatening them",
-        "link": "https://www.npr.org/2026/08/23/nx-s1-5938809/climate-change-is-unearthing-new-archeological-discoveries-while-also-threating-them",
-        "pubDate": "Sun, 23 Aug 2026 17:23:05 -0400",
-        "description": "NPR&apos;s Danielle Kurtzleben speaks with Jørgen Hollesen, a Senior Researcher at the National Museum of Denmark, about how climate change is impacting the study of archaeology."
       }
     ],
     "Canada": []
