@@ -1,11 +1,17 @@
 {
-  "updated": "2026-08-24T15:34:58.050Z",
+  "updated": "2026-08-24T16:32:13.263Z",
   "world": [
     {
       "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 13:35:07 GMT",
       "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated."
+    },
+    {
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 15:54:16 GMT",
+      "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
     },
     {
       "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
@@ -84,18 +90,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 03:55:35 GMT",
       "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment."
-    },
-    {
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 23 Aug 2026 19:11:30 GMT",
-      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+        "title": "Treasury Secretary Scott Bessent is set to unveil new economic sanctions on Iran",
         "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
         "pubDate": "Mon, 24 Aug 2026 08:26:00 -0400",
         "description": "The Trump administration calls this &quot;economic D-Day&quot; on Iran. Iran vows to respond to fresh sanctions in a &quot;seismic manner.&quot;"
