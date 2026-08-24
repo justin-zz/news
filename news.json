@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T09:41:58.262Z",
+  "updated": "2026-08-24T10:33:25.332Z",
   "world": [
     {
       "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
@@ -10,7 +10,7 @@
     {
       "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
       "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 08:34:26 GMT",
+      "pubDate": "Mon, 24 Aug 2026 10:08:40 GMT",
       "description": "The fire has burned around 10,500 acres and is completely uncontained, officials say."
     },
     {
@@ -20,16 +20,16 @@
       "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
     },
     {
-      "title": "Nearly three million Teslas recalled in China over hidden door handles",
-      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 05:01:17 GMT",
-      "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
-    },
-    {
       "title": "King of Norway's health has worsened, palace says",
       "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 08:31:55 GMT",
       "description": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection."
+    },
+    {
+      "title": "Zambia courts sealed off as election petition deadline looms",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 10:22:45 GMT",
+      "description": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing."
     },
     {
       "title": "China probes use of formaldehyde to keep cabbages fresh",
@@ -42,6 +42,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 03:55:35 GMT",
       "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment."
+    },
+    {
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
+      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 05:01:17 GMT",
+      "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
     },
     {
       "title": "Maradona's 'Hand of God' ball sells for £2.5m",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 23 Aug 2026 12:52:08 GMT",
       "description": "Representatives met in Switzerland to work out next steps to resolve the conflict."
-    },
-    {
-      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 23 Aug 2026 12:56:43 GMT",
-      "description": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Washington, D.C.&apos;s first IndyCar race packed the National Mall",
+        "link": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
+        "pubDate": "Mon, 24 Aug 2026 05:36:13 -0400",
+        "description": "IndyCar drivers zoomed past some of the nation&apos;s most famous landmarks this weekend. They faced novel challenges on an unconventional route."
+      },
       {
         "title": "&apos;It embarrasses me to be involved&apos;: Inside the National Guard D.C. deployment",
         "link": "https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
         "pubDate": "Sun, 23 Aug 2026 08:48:05 -0400",
         "description": "More than a foot of rain could fall across Big Island of Hawaii, according to NOAA."
-      },
-      {
-        "title": "Body cam shows federal agent was &apos;unjustified&apos; in Memphis shooting, attorney says",
-        "link": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
-        "pubDate": "Sun, 23 Aug 2026 05:00:00 -0400",
-        "description": "The family of Jonah Neal and their attorney were recently shown video from the day that Neal was shot by a federal agent while he experienced a mental health crisis."
       }
     ],
     "Canada": []
