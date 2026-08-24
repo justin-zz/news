@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T13:47:20.550Z",
+  "updated": "2026-08-24T14:37:27.855Z",
   "world": [
     {
       "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
@@ -28,7 +28,7 @@
     {
       "title": "Access to Zambian courts prevented as election petition deadline looms",
       "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 11:17:28 GMT",
+      "pubDate": "Mon, 24 Aug 2026 14:02:17 GMT",
       "description": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing."
     },
     {
@@ -62,6 +62,12 @@
       "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says."
     },
     {
+      "title": "Four arrested over boxing champion's murder in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 24 Aug 2026 08:32:46 GMT",
+      "description": "One of the suspects is due in court on Monday to be charged with murder and attempted murder."
+    },
+    {
       "title": "Maradona's 'Hand of God' ball sells for £2.5m",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 06:55:06 GMT",
@@ -78,12 +84,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 23 Aug 2026 19:11:30 GMT",
       "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
-    },
-    {
-      "title": "Four arrested over boxing champion's murder in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 08:32:46 GMT",
-      "description": "One of the suspects is due in court on Monday to be charged with murder and attempted murder."
     },
     {
       "title": "Shein aims for almost $27bn valuation in stock market debut",
@@ -137,6 +137,12 @@
         "description": "Officials say the fire, which has now burned more than 15,000 acres and is zero percent contained, was human caused. Nearly 90,000 people have been told to evacuate or prepare to leave."
       },
       {
+        "title": "Climate change is unearthing archaeological discoveries, while also threatening them",
+        "link": "https://www.npr.org/2026/08/23/nx-s1-5938809/climate-change-is-unearthing-new-archeological-discoveries-while-also-threating-them",
+        "pubDate": "Sun, 23 Aug 2026 17:23:05 -0400",
+        "description": "NPR&apos;s Danielle Kurtzleben speaks with Jørgen Hollesen, a Senior Researcher at the National Museum of Denmark, about how climate change is impacting the study of archaeology."
+      },
+      {
         "title": "Learning to live in a post-American world",
         "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
         "pubDate": "Sun, 23 Aug 2026 17:21:23 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
         "pubDate": "Sun, 23 Aug 2026 12:55:37 -0400",
         "description": "A round of storms impacted the region on Aug. 11"
-      },
-      {
-        "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
-        "link": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
-        "pubDate": "Sun, 23 Aug 2026 12:15:30 -0400",
-        "description": "A nonprofit and a local public health agency are subsidizing marketplace health insurance for Austin musicians , even as rising healthcare costs make the program more expensive."
       }
     ],
     "Canada": []
