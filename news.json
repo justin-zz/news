@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T20:58:00.675Z",
+  "updated": "2026-08-24T21:33:09.064Z",
   "world": [
     {
       "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Supreme Court pauses lower court ruling on Trump&apos;s mail voting order as hurdles loom",
+        "link": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+        "pubDate": "Mon, 24 Aug 2026 16:53:45 -0400",
+        "description": "The Supreme Court paused a lower court&apos;s ruling that blocked key parts of Trump&apos;s order to limit voting by mail for the midterms. But U.S. Postal Service work on the order remains blocked na"
+      },
+      {
         "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
         "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
         "pubDate": "Mon, 24 Aug 2026 08:26:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/23/nx-s1-5938809/climate-change-is-unearthing-new-archeological-discoveries-while-also-threating-them",
         "pubDate": "Sun, 23 Aug 2026 17:23:05 -0400",
         "description": "NPR&apos;s Danielle Kurtzleben speaks with Jørgen Hollesen, a Senior Researcher at the National Museum of Denmark, about how climate change is impacting the study of archaeology."
-      },
-      {
-        "title": "Learning to live in a post-American world",
-        "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
-        "pubDate": "Sun, 23 Aug 2026 17:21:23 -0400",
-        "description": "In a recent article for &lt;em&gt;Foregin Affairs&lt;/em&gt;, Mark Leonard makes that argument that America&apos;s leading role in the world order is fading. He discusses his argument with NPR&apos;s "
       }
     ],
     "Canada": []
