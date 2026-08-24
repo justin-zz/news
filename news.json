@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T11:23:18.716Z",
+  "updated": "2026-08-24T11:53:01.637Z",
   "world": [
     {
       "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
@@ -16,7 +16,7 @@
     {
       "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
       "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 10:08:40 GMT",
+      "pubDate": "Mon, 24 Aug 2026 11:25:21 GMT",
       "description": "The fire has burned around 10,500 acres and is completely uncontained, officials say."
     },
     {
@@ -58,7 +58,7 @@
     {
       "title": "Guinea rubbish landfill collapse kills 31",
       "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 09:03:43 GMT",
+      "pubDate": "Mon, 24 Aug 2026 11:26:19 GMT",
       "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says."
     },
     {
@@ -95,13 +95,19 @@
   "regions": {
     "US": [
       {
+        "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
+        "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
+        "pubDate": "Mon, 24 Aug 2026 07:27:44 -0400",
+        "description": "Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S."
+      },
+      {
         "title": "Washington, D.C.&apos;s first IndyCar race packed the National Mall",
         "link": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
         "pubDate": "Mon, 24 Aug 2026 05:36:13 -0400",
         "description": "IndyCar drivers zoomed past some of the nation&apos;s most famous landmarks this weekend. They faced novel challenges on an unconventional route."
       },
       {
-        "title": "&apos;It embarrasses me to be involved&apos;: Inside the National Guard D.C. deployment",
+        "title": "In candid interviews, National Guard members speak out about D.C. deployment",
         "link": "https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment",
         "pubDate": "Mon, 24 Aug 2026 05:00:00 -0400",
         "description": "As President Trump&apos;s deployment of the National Guard to Washington, D.C., enters its second year, three guard members who served many months on the mission share their reactions with NPR."
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
         "pubDate": "Sun, 23 Aug 2026 08:50:09 -0400",
         "description": "The nation&apos;s uninsured rate hit a historical low when Xavier Becerra was health secretary. Now he wants to be California&apos;s next governor as Trump&apos;s actions have driven people off health"
-      },
-      {
-        "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
-        "link": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
-        "pubDate": "Sun, 23 Aug 2026 08:48:05 -0400",
-        "description": "More than a foot of rain could fall across Big Island of Hawaii, according to NOAA."
       }
     ],
     "Canada": []
