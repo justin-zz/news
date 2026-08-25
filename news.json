@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T08:36:51.456Z",
+  "updated": "2026-08-25T09:31:06.608Z",
   "world": [
     {
       "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
@@ -10,11 +10,11 @@
     {
       "title": "Lockerbie bombing trial postponed days before it was due to start",
       "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 06:59:03 GMT",
+      "pubDate": "Tue, 25 Aug 2026 09:08:13 GMT",
       "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago."
     },
     {
-      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+      "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
       "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 04:06:34 GMT",
       "description": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine."
@@ -95,6 +95,54 @@
   "regions": {
     "US": [
       {
+        "title": "Can Trump&apos;s economic war against Iran do what airstrikes and negotiations couldn&apos;t?",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+        "pubDate": "Tue, 25 Aug 2026 05:07:09 -0400",
+        "description": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran — and years of economic pressure on the country."
+      },
+      {
+        "title": "How to understand this heat wave (as told by NPR&apos;s senior climate editor)",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "description": "As the senior climate editor at NPR, when extreme weather impacts us, I often send out guidance to the newsroom to help everyone understand the role of climate change. Here&apos;s what I tell them."
+      },
+      {
+        "title": "Spokane wildfire evacuees return home, but it&apos;s &apos;still a hazmat situation&apos;",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "description": "Most evacuees have been allowed to return to their homes near burn zones in Spokane, despite concerns about lingering toxins."
+      },
+      {
+        "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "description": "A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, as well as grants to states to help such patients, is in limbo."
+      },
+      {
+        "title": "When is suspending students discrimination? Education Dept. renews an old fight",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "description": "President Trump&apos;s Education Department is telling schools to stop considering race when it comes to school discipline."
+      },
+      {
+        "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "description": "Playing football has long been linked to the brain disease known as CTE, but how prevalent it is is still unknown. A new study of former NFL players who died recently found that at least 25% had CTE."
+      },
+      {
+        "title": "DHS conducted far-reaching surveillance during Minnesota ICE surge, court documents show",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "description": "DHS allegedly went undercover at community meetings, subpoenaed the financial records of labor unions, and created dossiers on people at a church gathering, according to court filings."
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5942903/morning-news-brief",
+        "pubDate": "Tue, 25 Aug 2026 04:44:36 -0400",
+        "description": "A look at the new round of U.S. economic sanctions on Iran, Iran vows to retaliate, SCOTUS hands President Trump a temporary win on his efforts to restrict voting by mail."
+      },
+      {
         "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
         "pubDate": "Tue, 25 Aug 2026 01:24:16 -0400",
@@ -105,54 +153,6 @@
         "link": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
         "pubDate": "Tue, 25 Aug 2026 01:14:03 -0400",
         "description": "Burnham, who was in Kyiv for Ukraine&apos;s Independence Day, said defense firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons."
-      },
-      {
-        "title": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
-        "pubDate": "Tue, 25 Aug 2026 00:56:29 -0400",
-        "description": "The Trump administration is preparing to revoke the business and tourism visas of up to 200,000 foreigners who have applied for or are currently seeking asylum status in the United States."
-      },
-      {
-        "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
-        "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
-        "pubDate": "Mon, 24 Aug 2026 18:22:13 -0400",
-        "description": "When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is."
-      },
-      {
-        "title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
-        "link": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
-        "pubDate": "Mon, 24 Aug 2026 17:17:31 -0400",
-        "description": "A drug bust involving an alleged cocaine ring at Penn State has drawn attention to drug use on college campuses, but research shows the big risk to students is alcohol."
-      },
-      {
-        "title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom",
-        "link": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
-        "pubDate": "Mon, 24 Aug 2026 16:53:45 -0400",
-        "description": "The Supreme Court paused a lower court&apos;s ruling that blocked key parts of Trump&apos;s order to limit voting by mail for the midterms. But U.S. Postal Service work on the order remains blocked na"
-      },
-      {
-        "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
-        "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
-        "pubDate": "Mon, 24 Aug 2026 08:26:00 -0400",
-        "description": "The Trump administration calls this an &quot;economic D-Day&quot; on Iran. Iran vows to respond to fresh sanctions in a &quot;seismic manner.&quot;"
-      },
-      {
-        "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
-        "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
-        "pubDate": "Mon, 24 Aug 2026 07:27:44 -0400",
-        "description": "Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S."
-      },
-      {
-        "title": "Washington, D.C.&apos;s first IndyCar race packed the National Mall",
-        "link": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
-        "pubDate": "Mon, 24 Aug 2026 05:36:13 -0400",
-        "description": "IndyCar drivers zoomed past some of the nation&apos;s most famous landmarks this weekend. They faced novel challenges on an unconventional route."
-      },
-      {
-        "title": "In candid interviews, National Guard members speak out about D.C. deployment",
-        "link": "https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment",
-        "pubDate": "Mon, 24 Aug 2026 05:00:00 -0400",
-        "description": "As President Trump&apos;s deployment of the National Guard to Washington, D.C., enters its second year, three guard members who served many months on the mission share their reactions with NPR."
       }
     ],
     "Canada": []
