@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-25T11:00:02.800Z",
+  "updated": "2026-08-25T11:35:33.775Z",
   "world": [
     {
-      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 08:08:26 GMT",
-      "description": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them."
+      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 10:56:03 GMT",
+      "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing."
     },
     {
       "title": "Lockerbie bombing trial postponed days before it was due to start",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
+        "link": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
+        "pubDate": "Tue, 25 Aug 2026 07:09:01 -0400",
+        "description": "President Trump is calling on world leaders to join his economic war against Iran. And, the Supreme Court is backing the president for now on his order to restrict mail-in voting."
+      },
+      {
         "title": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
         "link": "https://www.npr.org/sections/planet-money/2026/08/25/g-s1-139946/how-the-aids-crisis-helped-create-a-multibillion-dollar-death-speculation-market",
         "pubDate": "Tue, 25 Aug 2026 06:30:00 -0400",
@@ -125,12 +131,6 @@
         "description": "A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, as well as grants to states to help such patients, is in limbo."
       },
       {
-        "title": "Spokane wildfire evacuees return home, but it&apos;s &apos;still a hazmat situation&apos;",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
-        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
-        "description": "Most evacuees have been allowed to return to their homes near burn zones in Spokane, despite concerns about lingering toxins."
-      },
-      {
         "title": "DHS conducted far-reaching surveillance during Minnesota ICE surge, court documents show",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
@@ -143,16 +143,16 @@
         "description": "As the senior climate editor at NPR, when extreme weather impacts us, I often send out guidance to the newsroom to help everyone understand the role of climate change. Here&apos;s what I tell them."
       },
       {
+        "title": "Spokane wildfire evacuees return home, but it&apos;s &apos;still a hazmat situation&apos;",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "description": "Most evacuees have been allowed to return to their homes near burn zones in Spokane, despite concerns about lingering toxins."
+      },
+      {
         "title": "Morning news brief",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5942903/morning-news-brief",
         "pubDate": "Tue, 25 Aug 2026 04:44:36 -0400",
         "description": "A look at the new round of U.S. economic sanctions on Iran, Iran vows to retaliate, SCOTUS hands President Trump a temporary win on his efforts to restrict voting by mail."
-      },
-      {
-        "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
-        "pubDate": "Tue, 25 Aug 2026 01:24:16 -0400",
-        "description": "Huge blazes in central and western regions of Indonesia have scorched wide areas of forests and peatland, creating a choking haze that blanketed some cities."
       }
     ],
     "Canada": []
