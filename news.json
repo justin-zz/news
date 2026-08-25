@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T17:27:37.490Z",
+  "updated": "2026-08-25T17:57:09.280Z",
   "world": [
     {
       "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
@@ -131,12 +131,6 @@
         "description": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran — and years of economic pressure on the country."
       },
       {
-        "title": "Churches, libraries and breweries: Inside DHS&apos; covert surveillance operation",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
-        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
-        "description": "DHS allegedly went undercover at community meetings, subpoenaed the financial records of labor unions, and created dossiers on people at a church gathering, according to court filings."
-      },
-      {
         "title": "Spokane wildfire evacuees return home, but it&apos;s &apos;still a hazmat situation&apos;",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
@@ -153,6 +147,12 @@
         "link": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
         "description": "President Trump&apos;s Education Department is telling schools to stop considering race when it comes to school discipline."
+      },
+      {
+        "title": "Churches, libraries and breweries: Inside DHS&apos; covert surveillance operation",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "description": "DHS allegedly went undercover at community meetings, subpoenaed the financial records of labor unions, and created dossiers on people at a church gathering, according to court filings."
       }
     ],
     "Canada": []
