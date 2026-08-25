@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T16:32:21.053Z",
+  "updated": "2026-08-25T17:27:37.490Z",
   "world": [
     {
       "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
@@ -8,16 +8,16 @@
       "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing."
     },
     {
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 16:56:20 GMT",
+      "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
+    },
+    {
       "title": "Brain disease in dead NFL players 'higher than previously shown'",
       "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 11:54:40 GMT",
       "description": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher."
-    },
-    {
-      "title": "CIA chief in Moscow for unannounced talks, US media reports",
-      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 16:08:26 GMT",
-      "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
     },
     {
       "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
@@ -28,7 +28,7 @@
     {
       "title": "Two unvaccinated people die of measles in Pennsylvania",
       "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 14:54:34 GMT",
+      "pubDate": "Tue, 25 Aug 2026 16:43:08 GMT",
       "description": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline."
     },
     {
@@ -131,12 +131,6 @@
         "description": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran — and years of economic pressure on the country."
       },
       {
-        "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
-        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
-        "description": "A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, as well as grants to states to help such patients, is in limbo."
-      },
-      {
         "title": "Churches, libraries and breweries: Inside DHS&apos; covert surveillance operation",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
@@ -153,6 +147,12 @@
         "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
         "description": "As the senior climate editor at NPR, when extreme weather impacts us, I often send out guidance to the newsroom to help everyone understand the role of climate change. Here&apos;s what I tell them."
+      },
+      {
+        "title": "When is suspending students discrimination? Education Department renews an old fight",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "description": "President Trump&apos;s Education Department is telling schools to stop considering race when it comes to school discipline."
       }
     ],
     "Canada": []
