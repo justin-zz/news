@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T09:31:06.608Z",
+  "updated": "2026-08-25T10:27:10.726Z",
   "world": [
     {
       "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
@@ -88,7 +88,7 @@
     {
       "title": "Sonya Massey's killer Sean Grayson dies in US prison",
       "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 13:14:10 GMT",
+      "pubDate": "Tue, 25 Aug 2026 09:50:42 GMT",
       "description": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer."
     }
   ],
@@ -101,22 +101,10 @@
         "description": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran — and years of economic pressure on the country."
       },
       {
-        "title": "How to understand this heat wave (as told by NPR&apos;s senior climate editor)",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
+        "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
-        "description": "As the senior climate editor at NPR, when extreme weather impacts us, I often send out guidance to the newsroom to help everyone understand the role of climate change. Here&apos;s what I tell them."
-      },
-      {
-        "title": "Spokane wildfire evacuees return home, but it&apos;s &apos;still a hazmat situation&apos;",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
-        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
-        "description": "Most evacuees have been allowed to return to their homes near burn zones in Spokane, despite concerns about lingering toxins."
-      },
-      {
-        "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
-        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
-        "description": "A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, as well as grants to states to help such patients, is in limbo."
+        "description": "Playing football has long been linked to the brain disease known as CTE, but how prevalent it is is still unknown. A new study of former NFL players who died recently found that at least 25% had CTE."
       },
       {
         "title": "When is suspending students discrimination? Education Dept. renews an old fight",
@@ -125,16 +113,28 @@
         "description": "President Trump&apos;s Education Department is telling schools to stop considering race when it comes to school discipline."
       },
       {
-        "title": "At least 25% of former NFL players who died between 2016 and 2021 had CTE, study finds",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5943168/cte-nfl-concussions-deaths-study",
+        "title": "Kids with brain injuries thrive at this camp. But federal research funding is in flux",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5936617/camp-cranium-tbi-act-brain-injury-concussion-trauma-cdc",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
-        "description": "Playing football has long been linked to the brain disease known as CTE, but how prevalent it is is still unknown. A new study of former NFL players who died recently found that at least 25% had CTE."
+        "description": "A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, as well as grants to states to help such patients, is in limbo."
+      },
+      {
+        "title": "Spokane wildfire evacuees return home, but it&apos;s &apos;still a hazmat situation&apos;",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "description": "Most evacuees have been allowed to return to their homes near burn zones in Spokane, despite concerns about lingering toxins."
       },
       {
         "title": "DHS conducted far-reaching surveillance during Minnesota ICE surge, court documents show",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
         "description": "DHS allegedly went undercover at community meetings, subpoenaed the financial records of labor unions, and created dossiers on people at a church gathering, according to court filings."
+      },
+      {
+        "title": "How to understand this heat wave (as told by NPR&apos;s senior climate editor)",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "description": "As the senior climate editor at NPR, when extreme weather impacts us, I often send out guidance to the newsroom to help everyone understand the role of climate change. Here&apos;s what I tell them."
       },
       {
         "title": "Morning news brief",
