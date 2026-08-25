@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T05:27:33.624Z",
+  "updated": "2026-08-25T05:58:45.320Z",
   "world": [
     {
       "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
@@ -44,6 +44,12 @@
       "description": "The tornado has injured more than 40 people and destroyed homes in villages."
     },
     {
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+      "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 02:51:53 GMT",
+      "description": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\"."
+    },
+    {
       "title": "King of Norway's health has worsened, palace says",
       "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 08:31:55 GMT",
@@ -62,38 +68,38 @@
       "description": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes."
     },
     {
+      "title": "NZ religious sect leader jailed over death of Chinese follower",
+      "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 03:07:34 GMT",
+      "description": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024."
+    },
+    {
+      "title": "Songs created by AI banned from Australia's music charts",
+      "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 04:54:01 GMT",
+      "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts."
+    },
+    {
       "title": "Outrage in Nepal over rape and murder of three-year-old girl",
       "link": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 17:24:25 GMT",
       "description": "There have been protests since the girl was found dead last week, three days after she went missing."
     },
     {
-      "title": "Nearly three million Teslas recalled in China over hidden door handles",
-      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 23:53:32 GMT",
-      "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
-    },
-    {
       "title": "Sonya Massey's killer Sean Grayson dies in US prison",
       "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 13:14:10 GMT",
       "description": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer."
-    },
-    {
-      "title": "Access to Zambian courts prevented as election petition deadline looms",
-      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 14:02:17 GMT",
-      "description": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing."
-    },
-    {
-      "title": "Four arrested over suspected poisoning of elephants in Kenya",
-      "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 11:08:27 GMT",
-      "description": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
+        "pubDate": "Tue, 25 Aug 2026 01:24:16 -0400",
+        "description": "Huge blazes in central and western regions of Indonesia have scorched wide areas of forests and peatland, creating a choking haze that blanketed some cities."
+      },
       {
         "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment",
         "pubDate": "Mon, 24 Aug 2026 05:00:00 -0400",
         "description": "As President Trump&apos;s deployment of the National Guard to Washington, D.C., enters its second year, three guard members who served many months on the mission share their reactions with NPR."
-      },
-      {
-        "title": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
-        "link": "https://www.npr.org/2026/08/24/g-s1-139734/sonya-massey-convicted-deputy",
-        "pubDate": "Mon, 24 Aug 2026 04:53:36 -0400",
-        "description": "Sean Grayson, a former Illinois sheriff&apos;s deputy whose fatal shooting of Sonya Massey inside her home became a flashpoint over police use of force, died Sunday while serving a 20-year prison sent"
       }
     ],
     "Canada": []
