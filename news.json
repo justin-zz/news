@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T22:53:54.713Z",
+  "updated": "2026-08-25T23:21:34.603Z",
   "world": [
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
+        "pubDate": "Tue, 25 Aug 2026 18:50:57 -0400",
+        "description": "The social media giant is being sued by four states who allege it designed Facebook and Instagram to hook kids — and lied to the public about the risks."
+      },
+      {
         "title": "South Carolina U.S. senate runoff election will test Trump&apos;s endorsement",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
         "pubDate": "Tue, 25 Aug 2026 16:47:54 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
         "pubDate": "Tue, 25 Aug 2026 05:07:09 -0400",
         "description": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran — and years of economic pressure on the country."
-      },
-      {
-        "title": "Spokane wildfire evacuees return home, but it&apos;s &apos;still a hazmat situation&apos;",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
-        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
-        "description": "Most evacuees have been allowed to return to their homes near burn zones in Spokane, despite concerns about lingering toxins."
       }
     ],
     "Canada": []
