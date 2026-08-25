@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-25T17:57:09.280Z",
+  "updated": "2026-08-25T18:40:41.126Z",
   "world": [
+    {
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 17:54:03 GMT",
+      "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
+    },
     {
       "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
       "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&amp;at_campaign=rss",
@@ -84,16 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 09:50:42 GMT",
       "description": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer."
-    },
-    {
-      "title": "King of Norway's health has worsened, palace says",
-      "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 08:31:55 GMT",
-      "description": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Dolly Parton, one of country music&apos;s most singular performers, has died at age 80",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
+        "pubDate": "Tue, 25 Aug 2026 14:17:32 -0400",
+        "description": "The artist was a star performer in country music, and went on to become one of the genre&apos;s most recognizable and universally adored ambassadors to broader popular culture."
+      },
+      {
+        "title": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call",
+        "pubDate": "Tue, 25 Aug 2026 14:15:23 -0400",
+        "description": "The Trump administration claimed to have found 250,000 noncitizens on the voter rolls in four states. But the agency&apos;s communications with states since then indicate that data was preliminary."
+      },
       {
         "title": "Canada announces retaliatory tariffs on the U.S. as the countries&apos; trade fight deepens",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
         "description": "As the senior climate editor at NPR, when extreme weather impacts us, I often send out guidance to the newsroom to help everyone understand the role of climate change. Here&apos;s what I tell them."
-      },
-      {
-        "title": "When is suspending students discrimination? Education Department renews an old fight",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
-        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
-        "description": "President Trump&apos;s Education Department is telling schools to stop considering race when it comes to school discipline."
-      },
-      {
-        "title": "Churches, libraries and breweries: Inside DHS&apos; covert surveillance operation",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
-        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
-        "description": "DHS allegedly went undercover at community meetings, subpoenaed the financial records of labor unions, and created dossiers on people at a church gathering, according to court filings."
       }
     ],
     "Canada": []
