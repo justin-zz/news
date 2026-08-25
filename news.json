@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T15:38:13.560Z",
+  "updated": "2026-08-25T16:32:21.053Z",
   "world": [
     {
       "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
@@ -16,7 +16,7 @@
     {
       "title": "CIA chief in Moscow for unannounced talks, US media reports",
       "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 15:27:48 GMT",
+      "pubDate": "Tue, 25 Aug 2026 16:08:26 GMT",
       "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
     },
     {
@@ -32,22 +32,28 @@
       "description": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline."
     },
     {
+      "title": "European rights court orders Turkey to free imprisoned businessman",
+      "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 15:58:20 GMT",
+      "description": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated."
+    },
+    {
       "title": "Lockerbie bombing trial postponed days before it was due to start",
       "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 11:54:03 GMT",
       "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago."
     },
     {
+      "title": "Swedish military seeks to take over Russian-owned estate near naval base",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 15:18:50 GMT",
+      "description": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones."
+    },
+    {
       "title": "French tourist dies in Death Valley after car gets stuck in mud",
       "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 02:08:57 GMT",
       "description": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat."
-    },
-    {
-      "title": "British man charged in Singapore two years after alleged theft at airport",
-      "link": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 09:01:35 GMT",
-      "description": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024."
     },
     {
       "title": "US firefighters say major blaze near Reno about a quarter contained",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 08:31:55 GMT",
       "description": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection."
-    },
-    {
-      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 13:56:22 GMT",
-      "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza."
     }
   ],
   "regions": {
@@ -137,6 +137,12 @@
         "description": "A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, as well as grants to states to help such patients, is in limbo."
       },
       {
+        "title": "Churches, libraries and breweries: Inside DHS&apos; covert surveillance operation",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "description": "DHS allegedly went undercover at community meetings, subpoenaed the financial records of labor unions, and created dossiers on people at a church gathering, according to court filings."
+      },
+      {
         "title": "Spokane wildfire evacuees return home, but it&apos;s &apos;still a hazmat situation&apos;",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
         "description": "As the senior climate editor at NPR, when extreme weather impacts us, I often send out guidance to the newsroom to help everyone understand the role of climate change. Here&apos;s what I tell them."
-      },
-      {
-        "title": "When is suspending students discrimination? Education Department renews an old fight",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
-        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
-        "description": "President Trump&apos;s Education Department is telling schools to stop considering race when it comes to school discipline."
       }
     ],
     "Canada": []
