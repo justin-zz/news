@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T04:34:17.095Z",
+  "updated": "2026-08-25T05:27:33.624Z",
   "world": [
     {
       "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
@@ -30,6 +30,12 @@
       "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 02:08:57 GMT",
       "description": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat."
+    },
+    {
+      "title": "Songs created by AI banned from Australia's music charts",
+      "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 04:54:01 GMT",
+      "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts."
     },
     {
       "title": "Moment tornado tears through southern France",
@@ -84,16 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 11:08:27 GMT",
       "description": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops."
-    },
-    {
-      "title": "China probes use of formaldehyde to keep cabbages fresh",
-      "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 24 Aug 2026 05:40:48 GMT",
-      "description": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
+        "pubDate": "Tue, 25 Aug 2026 01:14:03 -0400",
+        "description": "Burnham, who was in Kyiv for Ukraine&apos;s Independence Day, said defense firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons."
+      },
+      {
+        "title": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
+        "pubDate": "Tue, 25 Aug 2026 00:56:29 -0400",
+        "description": "The Trump administration is preparing to revoke the business and tourism visas of up to 200,000 foreigners who have applied for or are currently seeking asylum status in the United States."
+      },
       {
         "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
         "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/24/g-s1-139734/sonya-massey-convicted-deputy",
         "pubDate": "Mon, 24 Aug 2026 04:53:36 -0400",
         "description": "Sean Grayson, a former Illinois sheriff&apos;s deputy whose fatal shooting of Sonya Massey inside her home became a flashpoint over police use of force, died Sunday while serving a 20-year prison sent"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/24/nx-s1-5939834/morning-news-brief",
-        "pubDate": "Mon, 24 Aug 2026 04:46:05 -0400",
-        "description": "Treasury secretary to detail new round of economic pressure on Iran, Iran warns of &apos;seismic&apos; retaliation if U.S. follow through with economic threat, Canada vows to impose retaliatory tariff"
-      },
-      {
-        "title": "U.S. businesses are getting tariff refunds. Will customers get any money back?",
-        "link": "https://www.npr.org/2026/08/24/nx-s1-5939518/u-s-businesses-are-getting-tariff-refunds-will-customers-get-any-money-back",
-        "pubDate": "Mon, 24 Aug 2026 04:45:49 -0400",
-        "description": "Companies have received tariff refunds. What about consumers? Some companies are providing refunds while others decline."
       }
     ],
     "Canada": []
