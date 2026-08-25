@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T13:45:23.794Z",
+  "updated": "2026-08-25T14:40:23.848Z",
   "world": [
     {
       "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
@@ -14,10 +14,10 @@
       "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago."
     },
     {
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 00:17:25 GMT",
-      "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa."
+      "title": "Brain disease in dead NFL players 'higher than previously shown'",
+      "link": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 11:54:40 GMT",
+      "description": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher."
     },
     {
       "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
@@ -32,16 +32,22 @@
       "description": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues."
     },
     {
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-      "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 02:51:53 GMT",
-      "description": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\"."
-    },
-    {
       "title": "French tourist dies in Death Valley after car gets stuck in mud",
       "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 02:08:57 GMT",
       "description": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat."
+    },
+    {
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 00:17:25 GMT",
+      "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa."
+    },
+    {
+      "title": "British man charged in Singapore two years after alleged theft at airport",
+      "link": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 09:01:35 GMT",
+      "description": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024."
     },
     {
       "title": "US firefighters say major blaze near Reno about a quarter contained",
@@ -56,16 +62,10 @@
       "description": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024."
     },
     {
-      "title": "British man charged in Singapore two years after alleged theft at airport",
-      "link": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 09:01:35 GMT",
-      "description": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024."
-    },
-    {
-      "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
-      "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 04:06:34 GMT",
-      "description": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine."
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 09:50:42 GMT",
+      "description": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer."
     },
     {
       "title": "King of Norway's health has worsened, palace says",
@@ -80,16 +80,16 @@
       "description": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza."
     },
     {
+      "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
+      "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 04:06:34 GMT",
+      "description": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine."
+    },
+    {
       "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
       "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 24 Aug 2026 10:40:22 GMT",
       "description": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes."
-    },
-    {
-      "title": "Songs created by AI banned from Australia's music charts",
-      "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 04:54:01 GMT",
-      "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts."
     }
   ],
   "regions": {
@@ -125,6 +125,12 @@
         "description": "A Pennsylvania summer camp helps children who have survived brain injuries. But the future of federal funding for brain injury research, as well as grants to states to help such patients, is in limbo."
       },
       {
+        "title": "Churches, libraries and breweries: Inside DHS&apos; covert surveillance operation",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
+        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
+        "description": "DHS allegedly went undercover at community meetings, subpoenaed the financial records of labor unions, and created dossiers on people at a church gathering, according to court filings."
+      },
+      {
         "title": "Spokane wildfire evacuees return home, but it&apos;s &apos;still a hazmat situation&apos;",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
@@ -141,12 +147,6 @@
         "link": "https://www.npr.org/2026/08/25/nx-s1-5936474/discrimination-school-discipline-suspension-race-education-department-civil-rights",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
         "description": "President Trump&apos;s Education Department is telling schools to stop considering race when it comes to school discipline."
-      },
-      {
-        "title": "Churches, libraries and breweries: Inside DHS&apos; covert surveillance operation",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5941135/dhs-surveillance-minnesota-ice-surge",
-        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
-        "description": "DHS allegedly went undercover at community meetings, subpoenaed the financial records of labor unions, and created dossiers on people at a church gathering, according to court filings."
       },
       {
         "title": "Morning news brief",
