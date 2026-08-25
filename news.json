@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T21:24:25.080Z",
+  "updated": "2026-08-25T21:52:18.326Z",
   "world": [
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "South Carolina U.S. senate runoff election will test Trump&apos;s endorsement",
+        "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
+        "pubDate": "Tue, 25 Aug 2026 16:47:54 -0400",
+        "description": "The primary runoff in South Carolina between Sen. Darline Graham and Rep. Ralph Norman is another test of President Trump&apos;s influence. He&apos;s backing Darline, sister of the late Sen. Lindsey G"
+      },
+      {
         "title": "Dolly Parton, one of country music&apos;s most singular performers, has died at age 80",
         "link": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
         "pubDate": "Tue, 25 Aug 2026 14:17:32 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/25/nx-s1-5943574/spokane-wildfire-evacuees-return-home-but-its-still-a-hazmat-situation",
         "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
         "description": "Most evacuees have been allowed to return to their homes near burn zones in Spokane, despite concerns about lingering toxins."
-      },
-      {
-        "title": "Did climate change cause this heat wave? Most likely, and here&apos;s why",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5940053/heat-wave-extreme-forecast-climate",
-        "pubDate": "Tue, 25 Aug 2026 05:00:00 -0400",
-        "description": "As the senior climate editor at NPR, when extreme weather impacts us, I often send out guidance to the newsroom to help everyone understand the role of climate change. Here&apos;s what I tell them."
       }
     ],
     "Canada": []
