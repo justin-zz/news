@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-25T19:27:32.892Z",
+  "updated": "2026-08-25T19:56:01.208Z",
   "world": [
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 17:54:03 GMT",
+      "pubDate": "Tue, 25 Aug 2026 19:50:57 GMT",
       "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
     },
     {
@@ -16,8 +16,14 @@
     {
       "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
       "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 16:56:20 GMT",
+      "pubDate": "Tue, 25 Aug 2026 19:48:14 GMT",
       "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
+    },
+    {
+      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 19:30:37 GMT",
+      "description": "The operation included the arrest of 39 people in South Africa for romance and investment scams."
     },
     {
       "title": "Brain disease in dead NFL players 'higher than previously shown'",
@@ -32,16 +38,16 @@
       "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital."
     },
     {
-      "title": "Two unvaccinated people die of measles in Pennsylvania",
-      "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 16:43:08 GMT",
-      "description": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline."
-    },
-    {
       "title": "European rights court orders Turkey to free imprisoned businessman",
       "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 15:58:20 GMT",
       "description": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated."
+    },
+    {
+      "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
+      "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 16:40:11 GMT",
+      "description": "The footage shows dozens of men, women and children sitting in a forest."
     },
     {
       "title": "Lockerbie bombing trial postponed days before it was due to start",
@@ -54,6 +60,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 15:18:50 GMT",
       "description": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones."
+    },
+    {
+      "title": "Two unvaccinated people die of measles in Pennsylvania",
+      "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 16:43:08 GMT",
+      "description": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline."
     },
     {
       "title": "French tourist dies in Death Valley after car gets stuck in mud",
@@ -78,18 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 03:07:34 GMT",
       "description": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024."
-    },
-    {
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 00:17:25 GMT",
-      "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa."
-    },
-    {
-      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
-      "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 09:50:42 GMT",
-      "description": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer."
     }
   ],
   "regions": {
@@ -107,7 +107,7 @@
         "description": "The Trump administration claimed to have found 250,000 noncitizens on the voter rolls in four states. But the agency&apos;s communications with states since then indicate that data was preliminary."
       },
       {
-        "title": "Canada announces retaliatory tariffs on the U.S. as the countries&apos; trade fight deepens",
+        "title": "Canada hits back at the U.S. with tariffs as the countries&apos; trade fight escalates",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
         "pubDate": "Tue, 25 Aug 2026 11:20:18 -0400",
         "description": "The measures come after President Trump imposed 50% tariffs on many Canadian goods and threatened more after trade talks broke down on Friday."
