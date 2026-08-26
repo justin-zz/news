@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T12:44:26.101Z",
+  "updated": "2026-08-26T13:51:44.790Z",
   "world": [
     {
       "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Dolly Parton didn&apos;t just write hits — she created an American songbook",
+        "link": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
+        "pubDate": "Wed, 26 Aug 2026 09:46:34 -0400",
+        "description": "Parton, who died at 80 on Tuesday, had charm, depth, beauty, wit and  radiant goodness. She was also a songwriter whose work told the story not just of country music but of the country itself."
+      },
+      {
+        "title": "California says states, Meta agree to $17 billion settlement in child safety trial",
+        "link": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
+        "pubDate": "Wed, 26 Aug 2026 09:33:39 -0400",
+        "description": "The social media giant also agreed to make sweeping changes to Instagram and Facebook."
+      },
+      {
         "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
         "link": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods",
         "pubDate": "Wed, 26 Aug 2026 08:27:19 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
         "pubDate": "Wed, 26 Aug 2026 01:45:58 -0400",
         "description": "Retailer Target pulled a children&apos;s Halloween costume from its shelves after widespread social media backlash, apologizing for selling a garment critics said evoked racist minstrel caricatures."
-      },
-      {
-        "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
-        "pubDate": "Wed, 26 Aug 2026 01:45:34 -0400",
-        "description": "It is believed to be one of the largest mass kidnappings in Haiti in recent years, and one gang leader is threatening to kill the hostages if authorities kill any gang members as they try to secure th"
-      },
-      {
-        "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
-        "pubDate": "Tue, 25 Aug 2026 18:50:57 -0400",
-        "description": "The social media giant is being sued by four states who allege it designed Facebook and Instagram to hook kids — and lied to the public about the risks."
       }
     ],
     "Canada": []
