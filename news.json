@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T16:14:24.369Z",
+  "updated": "2026-08-26T18:13:02.356Z",
   "world": [
     {
       "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
@@ -46,7 +46,7 @@
     {
       "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
       "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 13:55:22 GMT",
+      "pubDate": "Wed, 26 Aug 2026 17:08:04 GMT",
       "description": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport."
     },
     {
@@ -95,6 +95,30 @@
   "regions": {
     "US": [
       {
+        "title": "Immigration arrests soar, hitting 50,000 in July",
+        "link": "https://www.npr.org/2026/08/26/nx-s1-5945127/immigration-arrests-record",
+        "pubDate": "Wed, 26 Aug 2026 14:08:05 -0400",
+        "description": "Since taking over in March, DHS Secretary Markwayne Mullin has pivoted from the confrontational style of immigration enforcement of his predecessor, Kristi Noem. The latest data is reflective of a str"
+      },
+      {
+        "title": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
+        "link": "https://www.npr.org/2026/08/26/g-s1-138982/karbala-iraq-arbaeen-shia-muslims",
+        "pubDate": "Wed, 26 Aug 2026 13:36:13 -0400",
+        "description": "Pilgrims came to Iraq from all over the world in August. Many Iraqi and Iranian pilgrims walked hundreds of miles in extreme heat to mark the event. Outside the shrines, the atmosphere is almost festi"
+      },
+      {
+        "title": "States try new tactics to bring down high hospital prices",
+        "link": "https://www.npr.org/2026/08/26/nx-s1-5939965/medical-price-hospital-healthcare-indiana",
+        "pubDate": "Wed, 26 Aug 2026 13:29:13 -0400",
+        "description": "Indiana is the latest state to experiment with limiting what hospitals can charge, to try to get a handle on high health costs."
+      },
+      {
+        "title": "Judge clears the way for Postal Service work on Trump&apos;s mail-in voting order for now",
+        "link": "https://www.npr.org/2026/08/26/nx-s1-5945260/trump-mail-in-voting-ballots",
+        "pubDate": "Wed, 26 Aug 2026 13:15:17 -0400",
+        "description": "A federal judge in Boston canceled a nationwide ruling that blocked U.S. Postal Service work on President Trump&apos;s order to limit mail-in voting for the midterm election. But a new block may come "
+      },
+      {
         "title": "Will Trump&apos;s latest beef plan make your hamburger cheaper? Not much, experts say",
         "link": "https://www.npr.org/2026/08/26/nx-s1-5944265/ground-beef-trump-tariffs",
         "pubDate": "Wed, 26 Aug 2026 10:58:58 -0400",
@@ -113,7 +137,7 @@
         "description": "The social media giant also agreed to make sweeping changes to Instagram and Facebook."
       },
       {
-        "title": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
+        "title": "At least 98 killed and hundreds missing after flash floods in Nepal and China",
         "link": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
         "pubDate": "Wed, 26 Aug 2026 08:27:19 -0400",
         "description": "The disaster is linked to climate change, with experts noting the region&apos;s vulnerability to extreme weather."
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
         "pubDate": "Wed, 26 Aug 2026 05:02:00 -0400",
         "description": "This illustrated guide has evidence-backed advice on how to support fertility for both men and women, including which foods to eat and which activities to avoid."
-      },
-      {
-        "title": "She got an electric bill for $1,373. She&apos;s not alone",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
-        "pubDate": "Wed, 26 Aug 2026 05:01:00 -0400",
-        "description": "The price of electricity is soaring in the summer heat, when fans and air conditioners are working nonstop. In Tulsa, Okla., people are having their power cut when they can&apos;t pay their bills."
-      },
-      {
-        "title": "Hollywood&apos;s summer box office is glowing, but the numbers come with startling caveats",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
-        "pubDate": "Wed, 26 Aug 2026 05:00:00 -0400",
-        "description": "Theaters have had something for everyone this summer, and fans are paying top dollar for premium formats like IMAX. There are also fewer moviegoers, fewer movies and fewer screens than there were pre-"
-      },
-      {
-        "title": "Hospital nursery fire kills 14 newborns in Pakistan&apos;s capital, officials order immediate inquiry",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
-        "pubDate": "Wed, 26 Aug 2026 03:34:59 -0400",
-        "description": "A fire erupted early Wednesday in a nursery for newborns at a major government hospital in Pakistan&apos;s capital, killing 14 babies, according to hospital officials and the government."
-      },
-      {
-        "title": "Test your global economic knowledge with this quick Planet Money quiz!",
-        "link": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
-        "pubDate": "Wed, 26 Aug 2026 03:30:00 -0400",
-        "description": "Every country tells a different economic story. It&apos;s time to test your knowledge of the big ideas we&apos;ve collected on our World Tour. Eight questions stand between you and your Summer School "
       }
     ],
     "Canada": []
