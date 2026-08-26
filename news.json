@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T05:30:13.349Z",
+  "updated": "2026-08-26T06:40:56.017Z",
   "world": [
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Target faces renewed backlash for Halloween costume with &apos;minstrel show features&apos;",
+        "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
+        "pubDate": "Wed, 26 Aug 2026 01:45:58 -0400",
+        "description": "Retailer Target pulled a children&apos;s Halloween costume from its shelves after widespread social media backlash, apologizing for selling a garment critics said evoked racist minstrel caricatures."
+      },
+      {
+        "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead",
+        "link": "https://www.npr.org/2026/08/26/nx-s1-5944787/50-kidnapped-haiti-gang-attack-47-dead",
+        "pubDate": "Wed, 26 Aug 2026 01:45:34 -0400",
+        "description": "It is believed to be one of the largest mass kidnappings in Haiti in recent years, and one gang leader is threatening to kill the hostages if authorities kill any gang members as they try to secure th"
+      },
+      {
         "title": "Instagram head Adam Mosseri testifies in defense of Meta in child safety trial",
         "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
         "pubDate": "Tue, 25 Aug 2026 18:50:57 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
         "pubDate": "Tue, 25 Aug 2026 07:09:01 -0400",
         "description": "President Trump is calling on world leaders to join his economic war against Iran. And, the Supreme Court is backing the president for now on his order to restrict mail-in voting."
-      },
-      {
-        "title": "How the AIDS crisis helped create a multibillion-dollar death-speculation market",
-        "link": "https://www.npr.org/sections/planet-money/2026/08/25/g-s1-139946/how-the-aids-crisis-helped-create-a-multibillion-dollar-death-speculation-market",
-        "pubDate": "Tue, 25 Aug 2026 06:30:00 -0400",
-        "description": "Investors will buy your life insurance policy today — and collect the payout when you die."
-      },
-      {
-        "title": "Can Trump&apos;s economic war against Iran do what airstrikes and negotiations couldn&apos;t?",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
-        "pubDate": "Tue, 25 Aug 2026 05:07:09 -0400",
-        "description": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran — and years of economic pressure on the country."
       }
     ],
     "Canada": []
