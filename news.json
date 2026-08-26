@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T14:39:47.422Z",
+  "updated": "2026-08-26T16:14:24.369Z",
   "world": [
     {
       "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
@@ -10,8 +10,14 @@
     {
       "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
       "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 12:32:47 GMT",
-      "description": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies."
+      "pubDate": "Wed, 26 Aug 2026 14:42:03 GMT",
+      "description": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies."
+    },
+    {
+      "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+      "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 15:42:45 GMT",
+      "description": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order."
     },
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -44,16 +50,16 @@
       "description": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport."
     },
     {
-      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
-      "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 12:17:12 GMT",
-      "description": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan."
-    },
-    {
       "title": "Indian jewellery ad pulled after backlash over actor's outfit",
       "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 07:26:03 GMT",
       "description": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi."
+    },
+    {
+      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+      "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 12:17:12 GMT",
+      "description": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan."
     },
     {
       "title": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
@@ -84,18 +90,18 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 07:01:45 GMT",
       "description": "A police sergeant has been arrested following accusations that he lied to victims' families and prematurely closed missing persons cases."
-    },
-    {
-      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 19:48:14 GMT",
-      "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Dolly Parton didn&apos;t just write hits — she created an American songbook",
+        "title": "Will Trump&apos;s latest beef plan make your hamburger cheaper? Not much, experts say",
+        "link": "https://www.npr.org/2026/08/26/nx-s1-5944265/ground-beef-trump-tariffs",
+        "pubDate": "Wed, 26 Aug 2026 10:58:58 -0400",
+        "description": "The proposal comes weeks before the midterm elections, when food prices and the cost of living are expected to be major issues on voters&apos; minds."
+      },
+      {
+        "title": "How Dolly Parton wrote the story of a changing America",
         "link": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
         "pubDate": "Wed, 26 Aug 2026 09:46:34 -0400",
         "description": "Parton, who died at 80 on Tuesday, had charm, depth, beauty, wit and  radiant goodness. She was also a songwriter whose work told the story not just of country music but of the country itself."
@@ -107,8 +113,8 @@
         "description": "The social media giant also agreed to make sweeping changes to Instagram and Facebook."
       },
       {
-        "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
-        "link": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods",
+        "title": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
+        "link": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
         "pubDate": "Wed, 26 Aug 2026 08:27:19 -0400",
         "description": "The disaster is linked to climate change, with experts noting the region&apos;s vulnerability to extreme weather."
       },
@@ -119,7 +125,7 @@
         "description": "Canada has announced it plans to hit the U.S. with countertariffs that mirror its actions &quot;dollar for dollar.&quot; And, remembering the legacy of country star and icon Dolly Parton, who died at "
       },
       {
-        "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
+        "title": "COMIC: Trying for a baby? These lifestyle habits may boost your fertility odds",
         "link": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
         "pubDate": "Wed, 26 Aug 2026 05:02:00 -0400",
         "description": "This illustrated guide has evidence-backed advice on how to support fertility for both men and women, including which foods to eat and which activities to avoid."
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
         "pubDate": "Wed, 26 Aug 2026 03:30:00 -0400",
         "description": "Every country tells a different economic story. It&apos;s time to test your knowledge of the big ideas we&apos;ve collected on our World Tour. Eight questions stand between you and your Summer School "
-      },
-      {
-        "title": "Target faces renewed backlash for Halloween costume with &apos;minstrel show features&apos;",
-        "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
-        "pubDate": "Wed, 26 Aug 2026 01:45:58 -0400",
-        "description": "Retailer Target pulled a children&apos;s Halloween costume from its shelves after widespread social media backlash, apologizing for selling a garment critics said evoked racist minstrel caricatures."
       }
     ],
     "Canada": []
