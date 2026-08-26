@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-26T11:55:28.716Z",
+  "updated": "2026-08-26T12:44:26.101Z",
   "world": [
     {
-      "title": "At least 14 babies die in Pakistan hospital fire",
-      "link": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 10:42:00 GMT",
-      "description": "The fire broke out in an air conditioning unit at the mother and child unit in one of Islamabad's main hospitals."
+      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 12:32:47 GMT",
+      "description": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies."
     },
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -30,6 +30,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 08:01:56 GMT",
       "description": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family."
+    },
+    {
+      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+      "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 12:17:12 GMT",
+      "description": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan."
     },
     {
       "title": "Radiation link in flight attendant's breast cancer, French court finds",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 11:53:36 GMT",
       "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing."
-    },
-    {
-      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 19:30:37 GMT",
-      "description": "The operation included the arrest of 39 people in South Africa for romance and investment scams."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
+        "link": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods",
+        "pubDate": "Wed, 26 Aug 2026 08:27:19 -0400",
+        "description": "The disaster is linked to climate change, with experts noting the region&apos;s vulnerability to extreme weather."
+      },
       {
         "title": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
         "link": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
@@ -107,7 +113,7 @@
         "description": "This illustrated guide has evidence-backed advice on how to support fertility for both men and women, including which foods to eat and which activities to avoid."
       },
       {
-        "title": "Soaring summer power bills spark protests — and even disconnections",
+        "title": "She got an electric bill for $1,373. She&apos;s not alone",
         "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
         "pubDate": "Wed, 26 Aug 2026 05:01:00 -0400",
         "description": "The price of electricity is soaring in the summer heat, when fans and air conditioners are working nonstop. In Tulsa, Okla., people are having their power cut when they can&apos;t pay their bills."
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/25/nx-s1-5944266/adam-mosseri-instagram-meta-child-safety-trial",
         "pubDate": "Tue, 25 Aug 2026 18:50:57 -0400",
         "description": "The social media giant is being sued by four states who allege it designed Facebook and Instagram to hook kids — and lied to the public about the risks."
-      },
-      {
-        "title": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
-        "pubDate": "Tue, 25 Aug 2026 16:47:54 -0400",
-        "description": "In a major win for President Trump who went all in for the political newcomer, Sen. Darline Graham beat out longtime Congressman Ralph Norman in a special election primary runoff in South Carolina."
       }
     ],
     "Canada": []
