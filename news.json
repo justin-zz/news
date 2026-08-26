@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-26T11:25:25.249Z",
+  "updated": "2026-08-26T11:55:28.716Z",
   "world": [
     {
-      "title": "Seventeen dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 10:56:50 GMT",
-      "description": "The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages."
+      "title": "At least 14 babies die in Pakistan hospital fire",
+      "link": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 10:42:00 GMT",
+      "description": "The fire broke out in an air conditioning unit at the mother and child unit in one of Islamabad's main hospitals."
     },
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -14,16 +14,28 @@
       "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
     },
     {
-      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 08:01:56 GMT",
-      "description": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family."
+      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+      "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 11:02:22 GMT",
+      "description": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport."
     },
     {
       "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
       "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 08:17:45 GMT",
       "description": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu."
+    },
+    {
+      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 08:01:56 GMT",
+      "description": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family."
+    },
+    {
+      "title": "Radiation link in flight attendant's breast cancer, French court finds",
+      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 10:29:36 GMT",
+      "description": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease."
     },
     {
       "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
@@ -78,18 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 19:30:37 GMT",
       "description": "The operation included the arrest of 39 people in South Africa for romance and investment scams."
-    },
-    {
-      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
-      "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 08:52:17 GMT",
-      "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital."
-    },
-    {
-      "title": "European rights court orders Turkey to free imprisoned businessman",
-      "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 15:58:20 GMT",
-      "description": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated."
     }
   ],
   "regions": {
@@ -116,7 +116,7 @@
         "title": "Hollywood&apos;s summer box office is glowing, but the numbers come with startling caveats",
         "link": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
         "pubDate": "Wed, 26 Aug 2026 05:00:00 -0400",
-        "description": "Theaters have had something for everyone this summer, and fans are paying top dollar for premium formats like IMAX. There are also fewer moviegoers, fewer movies, and fewer screens than there were pre"
+        "description": "Theaters have had something for everyone this summer, and fans are paying top dollar for premium formats like IMAX. There are also fewer moviegoers, fewer movies and fewer screens than there were pre-"
       },
       {
         "title": "Hospital nursery fire kills 14 newborns in Pakistan&apos;s capital, officials order immediate inquiry",
