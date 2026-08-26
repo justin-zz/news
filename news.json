@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-26T10:30:54.747Z",
+  "updated": "2026-08-26T11:25:25.249Z",
   "world": [
     {
-      "title": "At least 17 killed as flash flood sweeps part of Nepal-Tibet border",
+      "title": "Seventeen dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border",
       "link": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 09:47:08 GMT",
+      "pubDate": "Wed, 26 Aug 2026 10:56:50 GMT",
       "description": "The flood in Rasuwa - an area north of Kathmandu bordering Tibet - is feared to have swept away villages."
     },
     {
@@ -24,6 +24,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 08:17:45 GMT",
       "description": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu."
+    },
+    {
+      "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
+      "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 25 Aug 2026 17:12:21 GMT",
+      "description": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says."
     },
     {
       "title": "Indian jewellery ad pulled after backlash over actor's outfit",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 15:58:20 GMT",
       "description": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated."
-    },
-    {
-      "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
-      "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 16:40:11 GMT",
-      "description": "The footage shows dozens of men, women and children sitting in a forest."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
+        "link": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
+        "pubDate": "Wed, 26 Aug 2026 07:05:46 -0400",
+        "description": "Canada has announced it plans to hit the U.S. with countertariffs that mirror its actions &quot;dollar for dollar.&quot; And, remembering the legacy of country star and icon Dolly Parton, who died at "
+      },
       {
         "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
         "link": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
@@ -101,10 +107,10 @@
         "description": "This illustrated guide has evidence-backed advice on how to support fertility for both men and women, including which foods to eat and which activities to avoid."
       },
       {
-        "title": "Soaring summer power bills spark protests -- and even disconnections",
+        "title": "Soaring summer power bills spark protests — and even disconnections",
         "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
         "pubDate": "Wed, 26 Aug 2026 05:01:00 -0400",
-        "description": "The price of electricity is soaring in the summer heat, when fans and air conditioners are working nonstop. In Tulsa, Oklahoma, people are having their power cut when they can&apos;t pay their bills."
+        "description": "The price of electricity is soaring in the summer heat, when fans and air conditioners are working nonstop. In Tulsa, Okla., people are having their power cut when they can&apos;t pay their bills."
       },
       {
         "title": "Hollywood&apos;s summer box office is glowing, but the numbers come with startling caveats",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
         "pubDate": "Tue, 25 Aug 2026 16:47:54 -0400",
         "description": "In a major win for President Trump who went all in for the political newcomer, Sen. Darline Graham beat out longtime Congressman Ralph Norman in a special election primary runoff in South Carolina."
-      },
-      {
-        "title": "Dolly Parton, one of country music&apos;s most singular performers, has died at age 80",
-        "link": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
-        "pubDate": "Tue, 25 Aug 2026 14:17:32 -0400",
-        "description": "The artist was a star performer in country music and went on to become one of the genre&apos;s most recognizable and universally adored ambassadors to broader popular culture."
       }
     ],
     "Canada": []
