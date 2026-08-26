@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T06:40:56.017Z",
+  "updated": "2026-08-26T07:41:59.715Z",
   "world": [
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Test your global economic knowledge with this quick Planet Money quiz!",
+        "link": "https://www.npr.org/2026/08/26/g-s1-138847/planet-money-summer-school-quiz-2026",
+        "pubDate": "Wed, 26 Aug 2026 03:30:00 -0400",
+        "description": "Every country tells a different economic story. It&apos;s time to test your knowledge of the big ideas we&apos;ve collected on our World Tour. Eight questions stand between you and your Summer School "
+      },
+      {
         "title": "Target faces renewed backlash for Halloween costume with &apos;minstrel show features&apos;",
         "link": "https://www.npr.org/2026/08/26/g-s1-140195/target-halloween-costume-backlash",
         "pubDate": "Wed, 26 Aug 2026 01:45:58 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/25/nx-s1-5940004/voter-id-citizenship-ballot-measures",
         "pubDate": "Tue, 25 Aug 2026 10:40:36 -0400",
         "description": "Voters in at least six states will soon decide ballot measures related to voter ID — the largest number of voter ID measures in a single year. The tally includes three prominent swing states."
-      },
-      {
-        "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
-        "link": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
-        "pubDate": "Tue, 25 Aug 2026 07:09:01 -0400",
-        "description": "President Trump is calling on world leaders to join his economic war against Iran. And, the Supreme Court is backing the president for now on his order to restrict mail-in voting."
       }
     ],
     "Canada": []
