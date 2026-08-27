@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T20:30:32.695Z",
+  "updated": "2026-08-27T00:24:23.656Z",
   "world": [
     {
       "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
@@ -20,16 +20,16 @@
       "description": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order."
     },
     {
+      "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+      "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 22:02:18 GMT",
+      "description": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers."
+    },
+    {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 19:50:57 GMT",
       "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
-    },
-    {
-      "title": "Radiation link in flight attendant's breast cancer, French court finds",
-      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 10:29:36 GMT",
-      "description": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease."
     },
     {
       "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
@@ -54,6 +54,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 18:22:41 GMT",
       "description": "It is believed the mosquitoes arrived at Germany's busiest airport on a plane, according to German public health officials."
+    },
+    {
+      "title": "Radiation link in flight attendant's breast cancer, French court finds",
+      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 10:29:36 GMT",
+      "description": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease."
     },
     {
       "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 25 Aug 2026 21:23:41 GMT",
       "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide."
-    },
-    {
-      "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 01:32:07 GMT",
-      "description": "It will be the firm's biggest site yet and aims to send rockets to space in 2029."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Drugstores say Medicare&apos;s $50 obesity drug program is catching on",
+        "link": "https://www.npr.org/2026/08/26/nx-s1-5940761/medicare-weight-loss-drugs",
+        "pubDate": "Wed, 26 Aug 2026 17:11:42 -0400",
+        "description": "The Bridge program, which began July 1, makes some Medicare beneficiaries eligible for obesity drugs for $50 a month. CVS and Walgreens say they&apos;ve each already filled 100,000 such prescriptions."
+      },
       {
         "title": "Immigration arrests soar, hitting 50,000 in July",
         "link": "https://www.npr.org/2026/08/26/nx-s1-5945127/immigration-arrests-record",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
         "pubDate": "Wed, 26 Aug 2026 07:05:46 -0400",
         "description": "Canada has announced it plans to hit the U.S. with countertariffs that mirror its actions &quot;dollar for dollar.&quot; And, remembering the legacy of country star and icon Dolly Parton, who died at "
-      },
-      {
-        "title": "COMIC: Trying for a baby? These lifestyle habits may boost your fertility odds",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5843276/lifestyle-habits-that-boost-fertility-pregnancy",
-        "pubDate": "Wed, 26 Aug 2026 05:02:00 -0400",
-        "description": "This illustrated guide has evidence-backed advice on how to support fertility for both men and women, including which foods to eat and which activities to avoid."
       }
     ],
     "Canada": []
