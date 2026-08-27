@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-27T00:24:23.656Z",
+  "updated": "2026-08-27T10:05:38.017Z",
   "world": [
+    {
+      "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+      "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 27 Aug 2026 09:50:10 GMT",
+      "description": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice."
+    },
+    {
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 27 Aug 2026 09:55:02 GMT",
+      "description": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet."
+    },
+    {
+      "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 27 Aug 2026 08:59:53 GMT",
+      "description": "The 89-year-old has been in hospital for over a week receiving treatment for a rare blood condition."
+    },
     {
       "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
       "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&amp;at_campaign=rss",
@@ -20,10 +38,22 @@
       "description": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order."
     },
     {
+      "title": "At least 12 dead as wildfires sweep through northern Algeria",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 27 Aug 2026 02:10:18 GMT",
+      "description": "Northern Africa has experienced severe heatwaves this summer, leading to hundreds of fires across the region."
+    },
+    {
       "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
       "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 26 Aug 2026 22:02:18 GMT",
       "description": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers."
+    },
+    {
+      "title": "Two dead and 10 hurt after car rams into crowd in northern France",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 27 Aug 2026 07:07:34 GMT",
+      "description": "A suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar."
     },
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -44,115 +74,85 @@
       "description": "A 50-year-old Thai suspect was arrested with the eggs in a \"homemade incubator\" carried as hand luggage."
     },
     {
-      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 08:01:56 GMT",
-      "description": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family."
+      "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
+      "link": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 27 Aug 2026 07:09:52 GMT",
+      "description": "One woman says her father, mother, sister and sister's children were carried away before her eyes."
     },
     {
-      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
-      "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 18:22:41 GMT",
-      "description": "It is believed the mosquitoes arrived at Germany's busiest airport on a plane, according to German public health officials."
+      "title": "Key moments from Lindsay Clancy's five-week trial over children's killings",
+      "link": "https://www.bbc.co.uk/news/articles/cg7mlmg475go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 27 Aug 2026 06:41:10 GMT",
+      "description": "Closing arguments are about to start in a trial which has drawn global attention to the rare condition postpartum psychosis."
     },
     {
-      "title": "Radiation link in flight attendant's breast cancer, French court finds",
-      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 10:29:36 GMT",
-      "description": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease."
-    },
-    {
-      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
-      "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 12:17:12 GMT",
-      "description": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan."
-    },
-    {
-      "title": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 13:49:55 GMT",
-      "description": "It is thought to be part of efforts to consolidate the former coup leader's control."
-    },
-    {
-      "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
-      "link": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 17:12:21 GMT",
-      "description": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says."
-    },
-    {
-      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
-      "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 26 Aug 2026 07:26:03 GMT",
-      "description": "Kriti Sanon has defended the ad in which she was seen celebrating the upcoming Hindu festival of Rakhi."
-    },
-    {
-      "title": "Trump says all mines cleared from Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 25 Aug 2026 21:23:41 GMT",
-      "description": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide."
+      "title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
+      "link": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 26 Aug 2026 23:08:43 GMT",
+      "description": "On Saturday, Iceland will vote on EU membership talks, amid economic and geopolitical tensions."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Drugstores say Medicare&apos;s $50 obesity drug program is catching on",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5940761/medicare-weight-loss-drugs",
-        "pubDate": "Wed, 26 Aug 2026 17:11:42 -0400",
-        "description": "The Bridge program, which began July 1, makes some Medicare beneficiaries eligible for obesity drugs for $50 a month. CVS and Walgreens say they&apos;ve each already filled 100,000 such prescriptions."
+        "title": "School districts face a back-to-school math problem: The high price of diesel",
+        "link": "https://www.npr.org/2026/08/27/nx-s1-5944429/school-buses-fuel-diesel-prices",
+        "pubDate": "Thu, 27 Aug 2026 05:01:00 -0400",
+        "description": "With the war in Iran driving up fuel prices, diesel is now nearly $5.60 a gallon, affecting school districts at the start of the year."
       },
       {
-        "title": "Immigration arrests soar, hitting 50,000 in July",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5945127/immigration-arrests-record",
-        "pubDate": "Wed, 26 Aug 2026 14:08:05 -0400",
-        "description": "Since taking over in March, DHS Secretary Markwayne Mullin has pivoted from the confrontational style of immigration enforcement of his predecessor, Kristi Noem. The latest data is reflective of a str"
+        "title": "Andrew Tate is seeking bail in his extradition fight. Here&apos;s why that&apos;s unlikely",
+        "link": "https://www.npr.org/2026/08/27/nx-s1-5918058/andrew-tate-extradition",
+        "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
+        "description": "There&apos;s a fear that people facing international extradition granted bail could flee. Andrew Tate and his brother face a total of 59 criminal charges in the U.K., including rape and human traffick"
       },
       {
-        "title": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
-        "link": "https://www.npr.org/2026/08/26/g-s1-138982/karbala-iraq-arbaeen-shia-muslims",
-        "pubDate": "Wed, 26 Aug 2026 13:36:13 -0400",
-        "description": "Pilgrims came to Iraq from all over the world in August. Many Iraqi and Iranian pilgrims walked hundreds of miles in extreme heat to mark the event. Outside the shrines, the atmosphere is almost festi"
+        "title": "Before an emergency hearing, the Kennedy Center&apos;s board threatens to demolish it",
+        "link": "https://www.npr.org/2026/08/27/nx-s1-5945238/emergency-hearing-kennedy-center-demolish-threat",
+        "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
+        "description": "A lawsuit seeks to block President Trump&apos;s name from going back on the center. The center&apos;s board warns that if renovation plans don&apos;t go forward, it may be demolished."
       },
       {
-        "title": "States try new tactics to bring down high hospital prices",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5939965/medical-price-hospital-healthcare-indiana",
-        "pubDate": "Wed, 26 Aug 2026 13:29:13 -0400",
-        "description": "Indiana is the latest state to experiment with limiting what hospitals can charge, to try to get a handle on high health costs."
+        "title": "Nuclear regulator prepares to abandon decades-old radiation safety rule",
+        "link": "https://www.npr.org/2026/08/27/nx-s1-5920368/nrc-nuclear-radiation-safety-rules-alara-update",
+        "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
+        "description": "A push by President Trump could mean the elimination of a safety standard designed to keep radiation exposure as low as possible."
       },
       {
-        "title": "Judge clears the way for Postal Service work on Trump&apos;s mail-in voting order for now",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5945260/trump-mail-in-voting-ballots",
-        "pubDate": "Wed, 26 Aug 2026 13:15:17 -0400",
-        "description": "A federal judge in Boston canceled a nationwide ruling that blocked U.S. Postal Service work on President Trump&apos;s order to limit mail-in voting for the midterm election. But a new block may come "
+        "title": "Jon Ossoff, usually a head down senator, has found a formula to excite Democrats",
+        "link": "https://www.npr.org/2026/08/27/nx-s1-5935282/jon-ossoff-georgia-senate-race",
+        "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
+        "description": "Ossoff should be among the most vulnerable Senate incumbents this year. Instead, the Georgia Democrat has opened a steady lead in polls and is increasingly seen as a potential 2028 contender."
       },
       {
-        "title": "Will Trump&apos;s latest beef plan make your hamburger cheaper? Not much, experts say",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5944265/ground-beef-trump-tariffs",
-        "pubDate": "Wed, 26 Aug 2026 10:58:58 -0400",
-        "description": "The proposal comes weeks before the midterm elections, when food prices and the cost of living are expected to be major issues on voters&apos; minds."
+        "title": "Tech companies and local officials are covering data center talks in NDAs",
+        "link": "https://www.npr.org/2026/08/27/nx-s1-5879528/data-center-nda-disclosure-louisiana",
+        "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
+        "description": "Nondisclosure agreements covered up negotiations between a tech company and several local and state officials, surprising local residents. It&apos;s a tactic used around the country in data center dea"
       },
       {
-        "title": "How Dolly Parton wrote the story of a changing America",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
-        "pubDate": "Wed, 26 Aug 2026 09:46:34 -0400",
-        "description": "Parton, who died at 80 on Tuesday, had charm, depth, beauty, wit and  radiant goodness. She was also a songwriter whose work told the story not just of country music but of the country itself."
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/08/27/nx-s1-5942910/morning-news-brief",
+        "pubDate": "Thu, 27 Aug 2026 04:47:33 -0400",
+        "description": "Trump faces mounting pressure at home and abroad, Meta and states agree to $17 billion settlement in child safety trial, death toll continues to rise after flash flood hit area of Nepal and China."
       },
       {
-        "title": "Meta, states agree to $17 billion settlement in child safety trial",
-        "link": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
-        "pubDate": "Wed, 26 Aug 2026 09:33:39 -0400",
-        "description": "The social media giant also agreed to make sweeping changes to Instagram and Facebook."
+        "title": "Why Meta&apos;s settlement could be an &apos;inflection point&apos; for reining in Big Tech",
+        "link": "https://www.npr.org/2026/08/27/nx-s1-5945278/meta-settlement-child-safety-big-tech",
+        "pubDate": "Thu, 27 Aug 2026 03:00:00 -0400",
+        "description": "2026 has already brought a wave of setbacks for social media giants as pressure grows on Big Tech from regulators and lawmakers around the world."
       },
       {
-        "title": "At least 98 killed and hundreds missing after flash floods in Nepal and China",
-        "link": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
-        "pubDate": "Wed, 26 Aug 2026 08:27:19 -0400",
-        "description": "The disaster is linked to climate change, with experts noting the region&apos;s vulnerability to extreme weather."
+        "title": "FDA approves landmark pancreatic cancer drug that&apos;s shown to improve survival",
+        "link": "https://www.npr.org/2026/08/27/g-s1-140410/fda-approves-landmark-pancreatic-cancer-drug",
+        "pubDate": "Thu, 27 Aug 2026 02:54:35 -0400",
+        "description": "U.S. health officials have approved a groundbreaking pancreatic cancer drug that offers a new approach to treating the deadly form of cancer, by blocking a protein that fuels tumor growth in the vast "
       },
       {
-        "title": "Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton",
-        "link": "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
-        "pubDate": "Wed, 26 Aug 2026 07:05:46 -0400",
-        "description": "Canada has announced it plans to hit the U.S. with countertariffs that mirror its actions &quot;dollar for dollar.&quot; And, remembering the legacy of country star and icon Dolly Parton, who died at "
+        "title": "Official leading Trump&apos;s Gaza ceasefire effort criticizes Israel for its attacks",
+        "link": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire",
+        "pubDate": "Thu, 27 Aug 2026 02:04:56 -0400",
+        "description": "The official in charge of President  Trump&apos;s ceasefire plan for Gaza criticized Israel for its attacks on the Palestinian territory and warned that the alternative to the U.S. proposal is the nex"
       }
     ],
     "Canada": []
