@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-27T20:39:08.171Z",
+  "updated": "2026-08-28T05:04:19.037Z",
   "world": [
     {
       "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
       "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 27 Aug 2026 09:50:10 GMT",
+      "pubDate": "Fri, 28 Aug 2026 03:23:56 GMT",
       "description": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice."
     },
     {
       "title": "What we know about deadly Nepal-Tibet floods",
       "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 27 Aug 2026 09:55:02 GMT",
-      "description": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet."
+      "pubDate": "Fri, 28 Aug 2026 03:15:35 GMT",
+      "description": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet."
     },
     {
       "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
@@ -22,7 +22,7 @@
     {
       "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
       "link": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 27 Aug 2026 17:46:21 GMT",
+      "pubDate": "Thu, 27 Aug 2026 20:39:16 GMT",
       "description": "Prosecutors argued Clancy made a calculated decision to murder the children, while the defence argued that she was suffering from postpartum psychosis."
     },
     {
@@ -56,16 +56,16 @@
       "description": "The Treasure of Villena is a unique trove of almost ten kilos of gold, bowls, bottles and bracelets dating back to the Bronze Age."
     },
     {
+      "title": "Trump signs order to rename Lake Ontario as Lake America",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 27 Aug 2026 23:14:43 GMT",
+      "description": "Trump's order comes after the trade talks between the US and Canada collapsed late last week."
+    },
+    {
       "title": "Optimus Prime and Eeyore voice actor Peter Cullen dies",
       "link": "https://www.bbc.co.uk/news/articles/c15844gwe0wo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 27 Aug 2026 16:00:12 GMT",
       "description": "Cullen voiced the heroic Optimus Prime in the Transformers TV series and then the Hollywood films."
-    },
-    {
-      "title": "'Silence is complicity' - top footballer hits out over Cameroon femicides",
-      "link": "https://www.bbc.co.uk/news/articles/cgjq49g8wwqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 27 Aug 2026 14:26:15 GMT",
-      "description": "The killing of at least eight women in a week has sparked outrage in Cameroon."
     },
     {
       "title": "Jellyfish force partial shutdown of French nuclear plant",
@@ -82,7 +82,7 @@
     {
       "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
       "link": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 27 Aug 2026 07:09:52 GMT",
+      "pubDate": "Fri, 28 Aug 2026 03:23:21 GMT",
       "description": "One woman says her father, mother, sister and sister's children were carried away before her eyes."
     },
     {
@@ -94,6 +94,24 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Judge says Pentagon&apos;s measures against Anthropic were &apos;illegal and baseless&apos;",
+        "link": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal",
+        "pubDate": "Fri, 28 Aug 2026 00:25:08 -0400",
+        "description": "A judge issued a written order Thursday night that the Pentagon acted illegally by punishing the AI company for its criticism of the Department of Defense&apos;s views on AI use. The government is exp"
+      },
+      {
+        "title": "The role of climate change in the Nepal floods",
+        "link": "https://www.npr.org/2026/08/27/nx-s1-5946703/the-role-of-climate-change-in-the-nepal-floods",
+        "pubDate": "Thu, 27 Aug 2026 17:43:57 -0400",
+        "description": "The deadly flash floods in Nepal are not a surprise to many scientists. Glacial melt is accelerating because of climate change, putting millions of people at risk."
+      },
+      {
+        "title": "Helicopter pilot describes what he&apos;s seen rescuing people in Nepal",
+        "link": "https://www.npr.org/2026/08/27/nx-s1-5946443/helicopter-pilot-describes-what-hes-seen-rescuing-people-in-nepal",
+        "pubDate": "Thu, 27 Aug 2026 16:01:44 -0400",
+        "description": "Andy Thapa is a charter and rescue pilot for a Nepali helicopter company. He&apos;s been rescuing people stranded by the catastrophic flooding, and carrying them to safety."
+      },
       {
         "title": "Trump directs federal government to rename Lake Ontario to Lake America",
         "link": "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
@@ -131,28 +149,10 @@
         "description": "A big glass of moo juice — no, make that several glasses a day — is common in Rwanda. Is that too much of a good thing?"
       },
       {
-        "title": "Floods kill nearly 400 people in Nepal and Tibet, with 90 Americans among the missing",
+        "title": "Floods kill more than 400 people in Nepal and Tibet, with 90 Americans among the missing",
         "link": "https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods",
         "pubDate": "Thu, 27 Aug 2026 06:50:35 -0400",
         "description": "Many of the missing are foreign tourists after deadly floods hit the Nepal-Tibet border, sweeping away entire villages."
-      },
-      {
-        "title": "School districts face a back-to-school math problem: The high price of diesel",
-        "link": "https://www.npr.org/2026/08/27/nx-s1-5944429/school-buses-fuel-diesel-prices",
-        "pubDate": "Thu, 27 Aug 2026 05:01:00 -0400",
-        "description": "With the war in Iran driving up fuel prices, diesel is now nearly $5.60 a gallon, affecting school districts at the start of the year."
-      },
-      {
-        "title": "NDAs are hiding data center deals, drawing ire from locals — and attention from lawmakers",
-        "link": "https://www.npr.org/2026/08/27/nx-s1-5879528/data-center-nda-disclosure-louisiana",
-        "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
-        "description": "Nondisclosure agreements covered up negotiations between a tech company and several local and state officials, surprising local residents. It&apos;s a tactic used around the country in data center dea"
-      },
-      {
-        "title": "Jon Ossoff, usually a head down senator, has found a formula to excite Democrats",
-        "link": "https://www.npr.org/2026/08/27/nx-s1-5935282/jon-ossoff-georgia-senate-race",
-        "pubDate": "Thu, 27 Aug 2026 05:00:00 -0400",
-        "description": "Ossoff should be among the most vulnerable Senate incumbents this year. Instead, the Georgia Democrat has opened a steady lead in polls and is increasingly seen as a potential 2028 contender."
       }
     ],
     "Canada": []
