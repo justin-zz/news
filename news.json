@@ -1,11 +1,41 @@
 {
-  "updated": "2026-08-28T17:34:06.904Z",
+  "updated": "2026-08-29T01:25:05.826Z",
   "world": [
     {
-      "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-      "link": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 10:35:06 GMT",
-      "description": "Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood."
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 22:05:41 GMT",
+      "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
+    },
+    {
+      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 01:21:43 GMT",
+      "description": "Venezuela's interim president, Delcy Rodriguez, hailed the deal as significant to her country's revival."
+    },
+    {
+      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 00:32:17 GMT",
+      "description": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC."
+    },
+    {
+      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+      "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 19:40:45 GMT",
+      "description": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\"."
+    },
+    {
+      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+      "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 00:46:02 GMT",
+      "description": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past."
+    },
+    {
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 00:56:19 GMT",
+      "description": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry."
     },
     {
       "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
@@ -14,10 +44,22 @@
       "description": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday."
     },
     {
-      "title": "Violence breaks out in Ceuta as migrant crisis continues",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 16:30:59 GMT",
-      "description": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach."
+      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 19:05:23 GMT",
+      "description": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action."
+    },
+    {
+      "title": "Canada poaches dozens of top US researchers for its universities",
+      "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 23:47:38 GMT",
+      "description": "Researchers in fields like climate and medicine are being lured north by new research funding."
+    },
+    {
+      "title": "Berlin is being blackmailed by hackers, mayor says",
+      "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 21:29:01 GMT",
+      "description": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack."
     },
     {
       "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
@@ -26,74 +68,44 @@
       "description": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery."
     },
     {
+      "title": "Greenland says findings on genocide allegation not final",
+      "link": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 19:57:50 GMT",
+      "description": "Experts examined the use of forced contraception on the Inuit community during the 1960s and 70s."
+    },
+    {
+      "title": "Violence breaks out in Ceuta as migrant crisis continues",
+      "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 16:30:59 GMT",
+      "description": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach."
+    },
+    {
       "title": "World's youngest reigning traditional monarch dies aged 34",
       "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 28 Aug 2026 11:13:24 GMT",
       "description": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old."
     },
     {
-      "title": "Trump signs order to rename Lake Ontario as Lake America",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 08:26:09 GMT",
-      "description": "Canada has rejected the new name of the lake, which straddles both countries, as their row deepens."
-    },
-    {
-      "title": "Two-year curfew lifted in Sudan's capital",
-      "link": "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 14:18:53 GMT",
-      "description": "The military authorities retook control of the city 18 months ago, but the conflict continues elsewhere."
-    },
-    {
-      "title": "Shootings surge as drug gangs torment Brussels",
-      "link": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 13:41:18 GMT",
-      "description": "This year alone there have been more than 65 shootings in the Belgian capital, as drug crime soars."
-    },
-    {
-      "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 01:43:41 GMT",
-      "description": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk."
-    },
-    {
-      "title": "Dutch court sentences man to life over Rwanda genocide",
-      "link": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 12:15:46 GMT",
-      "description": "The court in The Hague convicted the 66-year-old of war crimes and the crime of genocide."
-    },
-    {
-      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-      "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 03:41:59 GMT",
-      "description": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military."
-    },
-    {
-      "title": "Optimus Prime and Eeyore voice actor Peter Cullen dies",
-      "link": "https://www.bbc.co.uk/news/articles/c15844gwe0wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 27 Aug 2026 16:00:12 GMT",
-      "description": "Cullen voiced the heroic Optimus Prime in the Transformers TV series and then the Hollywood films."
-    },
-    {
-      "title": "Two killed in 'domestic violence incident' at school near Berlin",
-      "link": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 27 Aug 2026 17:07:32 GMT",
-      "description": "Police have arrested a 19-year-old male suspect after an incident in which two people were killed near the German capital."
-    },
-    {
-      "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 15:15:26 GMT",
-      "description": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high."
-    },
-    {
-      "title": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
-      "link": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 27 Aug 2026 11:23:28 GMT",
-      "description": "A Jerusalem court said the Jewish attacker was having a psychotic episode when he assaulted the nun, in an incident which caused outrage."
+      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
+      "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 28 Aug 2026 19:45:39 GMT",
+      "description": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
+        "link": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon",
+        "pubDate": "Fri, 28 Aug 2026 20:06:04 -0400",
+        "description": "His removal order was triggered by two convictions from over 15 years ago, when he struggled with untreated PTSD. New York&apos;s governor said Park earned a &quot;second chance through rehabilitation"
+      },
+      {
+        "title": "After 6 months of war, Iran&apos;s battered regime remains entrenched",
+        "link": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
+        "pubDate": "Fri, 28 Aug 2026 15:35:24 -0400",
+        "description": "Instead of collapsing, the Iranian regime has dug in its heels and taken an even harder line."
+      },
       {
         "title": "Fed&apos;s Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
         "link": "https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates",
@@ -119,6 +131,12 @@
         "description": "Men in the tech industry are covering up their legs, even as their counterparts in finance are increasingly open to showing them off."
       },
       {
+        "title": "&apos;It&apos;s essentially been one long day&apos;: A daughter details search for parents in Nepal",
+        "link": "https://www.npr.org/2026/08/28/nx-s1-5946690/nepal-floods-missing-parents-shreya-ahuja",
+        "pubDate": "Fri, 28 Aug 2026 06:54:22 -0400",
+        "description": "Shreya Ahuja is searching for her parents after devastating floods struck Nepal. She is calling for international help and communications access as her family waits for news."
+      },
+      {
         "title": "NASA is about to launch a space telescope that could change how we see the universe",
         "link": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
         "pubDate": "Fri, 28 Aug 2026 06:00:00 -0400",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/08/28/nx-s1-5946751/cant-stop-fixating-on-the-way-you-look-these-4-mental-exercises-may-help",
         "pubDate": "Fri, 28 Aug 2026 05:01:00 -0400",
         "description": "Obsessing over your looks should not take up all your energy, says psychologist Diana Hill. If you&apos;re struggling with uncomfortable thoughts about your body, ground yourself with these techniques"
-      },
-      {
-        "title": "This house trumpets its history in the face of gentrification. Now it&apos;s a landmark",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5921391/san-francisco-latin-rock-house-gentrification",
-        "pubDate": "Fri, 28 Aug 2026 05:00:00 -0400",
-        "description": "A house in San Francisco covered in the painted faces of Latin rock artists was formally landmarked by the city. Its neighborhood has seen skyrocketing home prices and decades of redevelopment.&lt;br&"
-      },
-      {
-        "title": "The Social Security trust fund is running out, and yet it&apos;s not a top campaign issue",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5898447/social-security-trust-fund-voters",
-        "pubDate": "Fri, 28 Aug 2026 05:00:00 -0400",
-        "description": "Limited public discussion of the trust fund&apos;s shortfall has experts worried that most Americans don&apos;t fully understand the problems Social Security faces — let alone be able to weigh in on s"
-      },
-      {
-        "title": "Businesses are getting tariff refunds. Why aren&apos;t consumers getting their cut?",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5946782/businesses-getting-tariff-refunds-why-arent-consumers-getting-their-cut",
-        "pubDate": "Fri, 28 Aug 2026 05:00:00 -0400",
-        "description": "A slew of American companies are getting billions of dollars back in tariff refunds after a Supreme Court ruling. Many consumers, though, may never get anything back."
       }
     ],
     "Canada": []
