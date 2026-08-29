@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T08:03:42.931Z",
+  "updated": "2026-08-29T13:55:10.376Z",
   "world": [
     {
       "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
@@ -8,9 +8,15 @@
       "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
     },
     {
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 12:55:39 GMT",
+      "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
+    },
+    {
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 02:42:27 GMT",
+      "pubDate": "Sat, 29 Aug 2026 13:16:43 GMT",
       "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
     },
     {
@@ -32,16 +38,22 @@
       "description": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past."
     },
     {
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 00:56:19 GMT",
+      "description": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry."
+    },
+    {
       "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
       "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 29 Aug 2026 07:11:04 GMT",
       "description": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets."
     },
     {
-      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-      "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 00:56:19 GMT",
-      "description": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry."
+      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
+      "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 08:48:34 GMT",
+      "description": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says."
     },
     {
       "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
@@ -78,22 +90,46 @@
       "link": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 28 Aug 2026 19:57:50 GMT",
       "description": "Experts examined the use of forced contraception on the Inuit community during the 1960s and 70s."
-    },
-    {
-      "title": "Violence breaks out in Ceuta as migrant crisis continues",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 16:30:59 GMT",
-      "description": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach."
-    },
-    {
-      "title": "World's youngest reigning traditional monarch dies aged 34",
-      "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 11:13:24 GMT",
-      "description": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Opinion: Remembering Dolly Parton",
+        "link": "https://www.npr.org/2026/08/29/nx-s1-5941650/opinion-remembering-dolly-parton",
+        "pubDate": "Sat, 29 Aug 2026 08:00:00 -0400",
+        "description": "She said she wasn&apos;t offended by dumb blonde jokes because &quot;I know I&apos;m not dumb...and I also know I&apos;m not blonde!&quot; We take a moment to remember the smart, funny and uniquely ta"
+      },
+      {
+        "title": "The bridges of Rwanda open up new worlds",
+        "link": "https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-rwanda",
+        "pubDate": "Sat, 29 Aug 2026 07:54:36 -0400",
+        "description": "A charity built 96 bridges to connect communities separated by rivers and gorges. A new study looks at the life-changing impact of a concrete-and-steel pedestrian crossing."
+      },
+      {
+        "title": "Lights out, Instagram off? The changes to Meta for teens could be a big deal",
+        "link": "https://www.npr.org/2026/08/29/nx-s1-5947960/instagram-meta-social-media-teens",
+        "pubDate": "Sat, 29 Aug 2026 07:00:00 -0400",
+        "description": "Researchers and advocates are applauding the changes that Meta agreed to make for minors on Instagram and Facebook. Cutting kids off at night and during the school day are two big changes."
+      },
+      {
+        "title": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
+        "link": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
+        "pubDate": "Sat, 29 Aug 2026 06:00:00 -0400",
+        "description": "The federal government recruits top experts to volunteer to advise on pressing research issues of the day. Since President Trump took office, hundreds of these experts have been dismissed."
+      },
+      {
+        "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+        "link": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
+        "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
+        "description": "The great Dolly Parton died earlier this week and tributes have poured in from across the country. &lt;br&gt;&lt;br&gt;Fans are mourning the loss of a country music icon who not only changed the music"
+      },
+      {
+        "title": "Why is one WNBA team calling in national security experts?",
+        "link": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security",
+        "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
+        "description": "The WNBA&apos;s popularity has risen in recent years, but so have threats and abuse directed at its players. One team is taking a novel approach to this, by partnering with national security specialis"
+      },
       {
         "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
         "link": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
@@ -117,42 +153,6 @@
         "link": "https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates",
         "pubDate": "Fri, 28 Aug 2026 12:05:40 -0400",
         "description": "Fed Chair Kevin Warsh reiterated his commitment to fighting inflation in a major speech — raising expectations that rate hikes may be coming, though he did not clearly spell out a path going forward."
-      },
-      {
-        "title": "New Jersey is a fossil hotspot, with answers about the day the dinosaurs died",
-        "link": "https://www.npr.org/2024/08/16/g-s1-140898/paleontologist-ken-lacovara-and-the-fifth-extinction-that-killed-the-dinosaurs",
-        "pubDate": "Fri, 28 Aug 2026 10:38:25 -0400",
-        "description": "Paleontologist Ken Lacovara never expected to find critical fossil data in a New Jersey suburb—let alone info about the asteroid that killed the dinosaurs. His dig site is now a fossil park and museum"
-      },
-      {
-        "title": "Experts warn more flooding might hit Nepal. And, Fed chairman to give key address",
-        "link": "https://www.npr.org/2026/08/28/g-s1-140866/up-first-newsletter-nepal-tibet-floods-kevin-warsh-kennedy-center",
-        "pubDate": "Fri, 28 Aug 2026 07:01:11 -0400",
-        "description": "As the death toll rises from flash floods that hit the Nepal-Tibet border, experts are warning more flooding could be on the way. And, Fed Chairman Kevin Warsh is expected to give a key address today."
-      },
-      {
-        "title": "So long to shorts? In Silicon Valley, tech workers are showing less leg",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5943596/shorts-work-office-silicon-valley-bloomberg",
-        "pubDate": "Fri, 28 Aug 2026 07:00:00 -0400",
-        "description": "Men in the tech industry are covering up their legs, even as their counterparts in finance are increasingly open to showing them off."
-      },
-      {
-        "title": "&apos;It&apos;s essentially been one long day&apos;: A daughter details search for parents in Nepal",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5946690/nepal-floods-missing-parents-shreya-ahuja",
-        "pubDate": "Fri, 28 Aug 2026 06:54:22 -0400",
-        "description": "Shreya Ahuja is searching for her parents after devastating floods struck Nepal. She is calling for international help and communications access as her family waits for news."
-      },
-      {
-        "title": "NASA is about to launch a space telescope that could change how we see the universe",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
-        "pubDate": "Fri, 28 Aug 2026 06:00:00 -0400",
-        "description": "NASA&apos;s Nancy Grace Roman Space Telescope launches Aug. 30 on a mission to explore some of the most pressing mysteries of the cosmos."
-      },
-      {
-        "title": "This week&apos;s quiz includes two Dolly Parton questions, because she deserves it",
-        "link": "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
-        "pubDate": "Fri, 28 Aug 2026 05:01:00 -0400",
-        "description": "The singer, actress and philanthropist could have filled a whole quiz, but we had to give other people a chance."
       }
     ],
     "Canada": []
