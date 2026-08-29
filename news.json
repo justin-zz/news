@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T17:29:09.700Z",
+  "updated": "2026-08-29T19:57:17.163Z",
   "world": [
     {
       "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
@@ -16,14 +16,20 @@
     {
       "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
       "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 17:25:01 GMT",
+      "pubDate": "Sat, 29 Aug 2026 17:52:42 GMT",
       "description": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE)."
     },
     {
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 16:15:56 GMT",
-      "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
+      "title": "Norway's new king remembers 'my dear father' in first speech",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 19:06:28 GMT",
+      "description": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign."
+    },
+    {
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "link": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 19:44:54 GMT",
+      "description": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant."
     },
     {
       "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
@@ -32,16 +38,16 @@
       "description": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC."
     },
     {
-      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-      "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 19:40:45 GMT",
-      "description": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\"."
-    },
-    {
       "title": "Close race as Iceland votes on whether to restart talks on joining EU",
       "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 29 Aug 2026 00:56:19 GMT",
       "description": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry."
+    },
+    {
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 16:15:56 GMT",
+      "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
     },
     {
       "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 28 Aug 2026 17:29:16 GMT",
       "description": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery."
-    },
-    {
-      "title": "Greenland says findings on genocide allegation not final",
-      "link": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 19:57:50 GMT",
-      "description": "Experts examined the use of forced contraception on the Inuit community during the 1960s and 70s."
     }
   ],
   "regions": {
@@ -131,16 +131,16 @@
         "description": "The federal government recruits top experts to volunteer to advise on pressing research issues of the day. Since President Trump took office, hundreds of these experts have been dismissed."
       },
       {
-        "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-        "link": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
-        "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
-        "description": "The great Dolly Parton died earlier this week and tributes have poured in from across the country. &lt;br&gt;&lt;br&gt;Fans are mourning the loss of a country music icon who not only changed the music"
-      },
-      {
         "title": "Why is one WNBA team calling in national security experts?",
         "link": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security",
         "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
         "description": "The WNBA&apos;s popularity has risen in recent years, but so have threats and abuse directed at its players. One team is taking a novel approach to this, by partnering with national security specialis"
+      },
+      {
+        "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+        "link": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
+        "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
+        "description": "The great Dolly Parton died earlier this week and tributes have poured in from across the country. &lt;br&gt;&lt;br&gt;Fans are mourning the loss of a country music icon who not only changed the music"
       },
       {
         "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
