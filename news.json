@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T13:55:10.376Z",
+  "updated": "2026-08-29T17:29:09.700Z",
   "world": [
     {
       "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
@@ -10,13 +10,19 @@
     {
       "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
       "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 12:55:39 GMT",
+      "pubDate": "Sat, 29 Aug 2026 15:27:56 GMT",
       "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
+    },
+    {
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 17:25:01 GMT",
+      "description": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE)."
     },
     {
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 13:16:43 GMT",
+      "pubDate": "Sat, 29 Aug 2026 16:15:56 GMT",
       "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
     },
     {
@@ -30,12 +36,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 28 Aug 2026 19:40:45 GMT",
       "description": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\"."
-    },
-    {
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 00:46:02 GMT",
-      "description": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past."
     },
     {
       "title": "Close race as Iceland votes on whether to restart talks on joining EU",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Russian strike near Kyiv kills 37, in one of the year&apos;s deadliest attacks",
+        "link": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
+        "pubDate": "Sat, 29 Aug 2026 11:54:40 -0400",
+        "description": "The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life."
+      },
+      {
+        "title": "Photos: See the aftermath of deadly flash floods in Nepal",
+        "link": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
+        "pubDate": "Sat, 29 Aug 2026 10:22:19 -0400",
+        "description": "Nepal officials say the death toll has continues to rise in Wednesday&apos;s floods that washed away communities in Nepal and Tibet, which is held by China. About 2,500 people are missing in both area"
+      },
+      {
         "title": "Opinion: Remembering Dolly Parton",
         "link": "https://www.npr.org/2026/08/29/nx-s1-5941650/opinion-remembering-dolly-parton",
         "pubDate": "Sat, 29 Aug 2026 08:00:00 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon",
         "pubDate": "Fri, 28 Aug 2026 20:06:04 -0400",
         "description": "His removal order was triggered by two convictions from over 15 years ago, when he struggled with untreated PTSD. New York&apos;s governor said Park earned a &quot;second chance through rehabilitation"
-      },
-      {
-        "title": "After 6 months of war, Iran&apos;s battered regime remains entrenched",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
-        "pubDate": "Fri, 28 Aug 2026 15:35:24 -0400",
-        "description": "Instead of collapsing, the Iranian regime has dug in its heels and taken an even harder line."
-      },
-      {
-        "title": "Fed&apos;s Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates",
-        "pubDate": "Fri, 28 Aug 2026 12:05:40 -0400",
-        "description": "Fed Chair Kevin Warsh reiterated his commitment to fighting inflation in a major speech — raising expectations that rate hikes may be coming, though he did not clearly spell out a path going forward."
       }
     ],
     "Canada": []
