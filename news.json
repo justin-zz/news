@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-29T01:25:05.826Z",
+  "updated": "2026-08-29T08:03:42.931Z",
   "world": [
     {
       "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
       "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 22:05:41 GMT",
+      "pubDate": "Sat, 29 Aug 2026 03:54:11 GMT",
       "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
     },
     {
-      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 01:21:43 GMT",
-      "description": "Venezuela's interim president, Delcy Rodriguez, hailed the deal as significant to her country's revival."
+      "pubDate": "Sat, 29 Aug 2026 02:42:27 GMT",
+      "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
     },
     {
       "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
@@ -30,6 +30,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 29 Aug 2026 00:46:02 GMT",
       "description": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past."
+    },
+    {
+      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 07:11:04 GMT",
+      "description": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets."
     },
     {
       "title": "Close race as Iceland votes on whether to restart talks on joining EU",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 28 Aug 2026 11:13:24 GMT",
       "description": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old."
-    },
-    {
-      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-      "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 19:45:39 GMT",
-      "description": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+        "link": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
+        "pubDate": "Fri, 28 Aug 2026 22:07:55 -0400",
+        "description": "President Trump says his administration has entered a sweeping agreement with Venezuela that could give the U.S. access to vast amounts of the South American country&apos;s untapped oil reserves, at c"
+      },
       {
         "title": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
         "link": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
         "pubDate": "Fri, 28 Aug 2026 05:01:00 -0400",
         "description": "The singer, actress and philanthropist could have filled a whole quiz, but we had to give other people a chance."
-      },
-      {
-        "title": "4 ways to cope with constant thoughts about your body image",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5946751/cant-stop-fixating-on-the-way-you-look-these-4-mental-exercises-may-help",
-        "pubDate": "Fri, 28 Aug 2026 05:01:00 -0400",
-        "description": "Obsessing over your looks should not take up all your energy, says psychologist Diana Hill. If you&apos;re struggling with uncomfortable thoughts about your body, ground yourself with these techniques"
       }
     ],
     "Canada": []
