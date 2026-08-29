@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T19:57:17.163Z",
+  "updated": "2026-08-29T22:27:24.365Z",
   "world": [
     {
       "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
@@ -10,7 +10,7 @@
     {
       "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
       "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 15:27:56 GMT",
+      "pubDate": "Sat, 29 Aug 2026 20:13:16 GMT",
       "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
+        "link": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa",
+        "pubDate": "Sat, 29 Aug 2026 17:09:14 -0400",
+        "description": "The controversial commentator, who criticized feminism and Islam, was an enthusiastic supporter of President Trump&apos;s immigration crackdown. ICE says he was an &quot;illegal alien.&quot;"
+      },
+      {
         "title": "Russian strike near Kyiv kills 37, in one of the year&apos;s deadliest attacks",
         "link": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
         "pubDate": "Sat, 29 Aug 2026 11:54:40 -0400",
@@ -125,7 +131,7 @@
         "description": "Researchers and advocates are applauding the changes that Meta agreed to make for minors on Instagram and Facebook. Cutting kids off at night and during the school day are two big changes."
       },
       {
-        "title": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
+        "title": "The U.S. relied on these science advisers. Then the Trump administration cut them",
         "link": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
         "pubDate": "Sat, 29 Aug 2026 06:00:00 -0400",
         "description": "The federal government recruits top experts to volunteer to advise on pressing research issues of the day. Since President Trump took office, hundreds of these experts have been dismissed."
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
         "pubDate": "Fri, 28 Aug 2026 22:07:55 -0400",
         "description": "President Trump says his administration has entered a sweeping agreement with Venezuela that could give the U.S. access to vast amounts of the South American country&apos;s untapped oil reserves, at c"
-      },
-      {
-        "title": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon",
-        "pubDate": "Fri, 28 Aug 2026 20:06:04 -0400",
-        "description": "His removal order was triggered by two convictions from over 15 years ago, when he struggled with untreated PTSD. New York&apos;s governor said Park earned a &quot;second chance through rehabilitation"
       }
     ],
     "Canada": []
