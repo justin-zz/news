@@ -1,11 +1,23 @@
 {
-  "updated": "2026-08-30T00:34:27.169Z",
+  "updated": "2026-08-30T06:11:18.660Z",
   "world": [
     {
       "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
       "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 29 Aug 2026 03:54:11 GMT",
       "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
+    },
+    {
+      "title": "Iceland EU referendum on a knife edge as counting continues",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 03:57:01 GMT",
+      "description": "A vote on whether to resume membership talks with the European Union is too close to call."
+    },
+    {
+      "title": "WhatsApp chat used to send cash for crime and extremism",
+      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 04:59:56 GMT",
+      "description": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail."
     },
     {
       "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
@@ -44,15 +56,9 @@
       "description": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC."
     },
     {
-      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-      "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 00:56:19 GMT",
-      "description": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry."
-    },
-    {
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 22:40:51 GMT",
+      "pubDate": "Sun, 30 Aug 2026 04:01:02 GMT",
       "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
     },
     {
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 28 Aug 2026 23:47:38 GMT",
       "description": "Researchers in fields like climate and medicine are being lured north by new research funding."
-    },
-    {
-      "title": "Berlin is being blackmailed by hackers, mayor says",
-      "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 21:29:01 GMT",
-      "description": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Icelanders vote on whether they want to join the EU",
+        "link": "https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote",
+        "pubDate": "Sat, 29 Aug 2026 21:47:44 -0400",
+        "description": "The final vote is expected to be extremely close, with ballot counting continuing through the night."
+      },
       {
         "title": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
         "link": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
         "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
         "description": "The great Dolly Parton died earlier this week and tributes have poured in from across the country. &lt;br&gt;&lt;br&gt;Fans are mourning the loss of a country music icon who not only changed the music"
-      },
-      {
-        "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
-        "link": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves",
-        "pubDate": "Fri, 28 Aug 2026 22:07:55 -0400",
-        "description": "President Trump says his administration has entered a sweeping agreement with Venezuela that could give the U.S. access to vast amounts of the South American country&apos;s untapped oil reserves, at c"
       }
     ],
     "Canada": []
