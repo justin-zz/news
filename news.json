@@ -1,11 +1,17 @@
 {
-  "updated": "2026-08-30T19:37:16.982Z",
+  "updated": "2026-08-30T22:20:57.877Z",
   "world": [
     {
       "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 18:31:17 GMT",
+      "pubDate": "Sun, 30 Aug 2026 20:02:43 GMT",
       "description": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port."
+    },
+    {
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 21:15:42 GMT",
+      "description": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July."
     },
     {
       "title": "Iceland votes against restarting EU membership talks",
@@ -20,16 +26,22 @@
       "description": "Five others in their twenties were injured after shots were fired at a techno event near Zurich."
     },
     {
-      "title": "Nasa launches new space telescope able to see 100 times more than Hubble",
+      "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 22:14:37 GMT",
+      "description": "More than 20 people are thought to be unaccounted for after flash flooding on Saturday."
+    },
+    {
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
       "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 30 Aug 2026 18:53:53 GMT",
       "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter."
     },
     {
-      "title": "Canada installs large Lake Ontario sign in latest jab at US",
-      "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 14:25:43 GMT",
-      "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\""
+      "title": "Zambian opposition leader charged with treason",
+      "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 17:06:15 GMT",
+      "description": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital."
     },
     {
       "title": "Russia says it helped to repel Niger attempted coup",
@@ -38,10 +50,10 @@
       "description": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted."
     },
     {
-      "title": "Zambian opposition leader charged with treason",
-      "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 17:06:15 GMT",
-      "description": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital."
+      "title": "British woman killed in stabbing at German railway station",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 16:11:46 GMT",
+      "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria."
     },
     {
       "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
@@ -78,18 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 29 Aug 2026 07:11:04 GMT",
       "description": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets."
-    },
-    {
-      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
-      "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 08:48:34 GMT",
-      "description": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says."
-    },
-    {
-      "title": "Berlin is being blackmailed by hackers, mayor says",
-      "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 21:29:01 GMT",
-      "description": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack."
     }
   ],
   "regions": {
@@ -105,6 +105,12 @@
         "link": "https://www.npr.org/2026/08/30/nx-s1-5945683/exclusive-meet-the-inaugural-winner-of-fat-marmot-week",
         "pubDate": "Sun, 30 Aug 2026 08:45:00 -0400",
         "description": "Dawn was crowned fattest marmot by popular vote."
+      },
+      {
+        "title": "Politics chat: more tariffs, mail-in voting order, Kushner-Jeffries meeting",
+        "link": "https://www.npr.org/2026/08/30/nx-s1-5948115/politics-chat-more-tariffs-mail-in-voting-order-kushner-jeffries-meeting",
+        "pubDate": "Sun, 30 Aug 2026 08:02:26 -0400",
+        "description": "Real economic sanctions on Canada and economic threats to countries trading with Iran may work against Republicans in the midterm elections."
       },
       {
         "title": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/30/nx-s1-5949230/trump-administration-deports-afghan-central-african-republic",
         "pubDate": "Sun, 30 Aug 2026 04:32:13 -0400",
         "description": "His family in Afghanistan had received threats from the Taliban because of the work performed by his brothers in support of the U.S. military."
-      },
-      {
-        "title": "We tested how AI chatbots would handle foreign propaganda. They did surprisingly well",
-        "link": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
-        "pubDate": "Sun, 30 Aug 2026 03:00:00 -0400",
-        "description": "In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared wo"
       }
     ],
     "Canada": []
