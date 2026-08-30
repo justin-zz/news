@@ -1,17 +1,29 @@
 {
-  "updated": "2026-08-30T06:11:18.660Z",
+  "updated": "2026-08-30T12:06:08.401Z",
   "world": [
     {
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 29 Aug 2026 03:54:11 GMT",
-      "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
+      "title": "Iceland votes against restarting talks on joining EU",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 10:49:11 GMT",
+      "description": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks."
     },
     {
-      "title": "Iceland EU referendum on a knife edge as counting continues",
-      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 03:57:01 GMT",
-      "description": "A vote on whether to resume membership talks with the European Union is too close to call."
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 11:25:11 GMT",
+      "description": "Five others in their twenties were injured after shots were fired at a techno event near Zurich."
+    },
+    {
+      "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
+      "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 00:17:25 GMT",
+      "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\""
+    },
+    {
+      "title": "Boat carrying some 270 people capsizes off northern Cyprus, local media report",
+      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 11:55:48 GMT",
+      "description": "The local mayor says 159 passengers have been reached so far, with a rescue operation under way."
     },
     {
       "title": "WhatsApp chat used to send cash for crime and extremism",
@@ -26,16 +38,22 @@
       "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
     },
     {
+      "title": "Zambian opposition leader charged with treason",
+      "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 09:08:23 GMT",
+      "description": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital."
+    },
+    {
       "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
       "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 29 Aug 2026 17:52:42 GMT",
       "description": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE)."
     },
     {
-      "title": "Canada installs large Lake Ontario sign in latest jab at US",
-      "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 00:17:25 GMT",
-      "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\""
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 29 Aug 2026 03:54:11 GMT",
+      "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
     },
     {
       "title": "Norway's new king remembers 'my dear father' in first speech",
@@ -72,87 +90,69 @@
       "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 29 Aug 2026 08:48:34 GMT",
       "description": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says."
-    },
-    {
-      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 13:50:34 GMT",
-      "description": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday."
-    },
-    {
-      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 19:05:23 GMT",
-      "description": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action."
-    },
-    {
-      "title": "Canada poaches dozens of top US researchers for its universities",
-      "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 23:47:38 GMT",
-      "description": "Researchers in fields like climate and medicine are being lured north by new research funding."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Icelanders vote on whether they want to join the EU",
+        "title": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
+        "link": "https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai",
+        "pubDate": "Sun, 30 Aug 2026 07:00:00 -0400",
+        "description": "While social media is rife with AI celebrity deepfakes, videos featuring late night TV hosts like Jimmy Kimmel and Jon Stewart are are easier to create than other kinds of deepfakes and potentially mo"
+      },
+      {
+        "title": "WATCH LIVE: NASA successfully launches its newest space telescope",
+        "link": "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
+        "pubDate": "Sun, 30 Aug 2026 06:30:00 -0400",
+        "description": "The tour-bus-sized telescope aims to unravel cosmic mysteries and identify more than 100,000 planets beyond our solar system."
+      },
+      {
+        "title": "How a comic book store got swept into the tariff storm",
+        "link": "https://www.npr.org/2026/08/30/nx-s1-5939521/tariff-refunds-canada-trade-war",
+        "pubDate": "Sun, 30 Aug 2026 06:00:00 -0400",
+        "description": "Tariffs continue to rile all kinds of American businesses more than a year after Trump unveiled his first set of tariffs — including a comic book store owner in Ohio."
+      },
+      {
+        "title": "From Appalachia to Africa: Why Dolly Parton was beloved across the continent",
+        "link": "https://www.npr.org/2026/08/30/nx-s1-5946399/africa-dolly-parton-fans",
+        "pubDate": "Sun, 30 Aug 2026 06:00:00 -0400",
+        "description": "Dolly Parton&apos;s songs traveled far beyond Nashville. Across Africa, musicians embraced her stories of hardship, heartbreak and humble beginnings — and made them their own."
+      },
+      {
+        "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
+        "link": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding",
+        "pubDate": "Sun, 30 Aug 2026 05:52:41 -0400",
+        "description": "Authorities in Nepal warned of possible fresh flooding on Sunday and urged residents in flood-affected districts to remain on high alert after water levels rose in the Bhotekoshi River."
+      },
+      {
+        "title": "Medicare&apos;s pilot GLP-1 discount program has a catch. Some sick patients don&apos;t qualify",
+        "link": "https://www.npr.org/2026/08/30/nx-s1-5931392/medicare-glp-1-discount-program-has-catch-some-sick-patients-dont-qualify",
+        "pubDate": "Sun, 30 Aug 2026 05:00:00 -0400",
+        "description": "Medicare launched a pilot program that could streamline the process to get GLP-1s, with some seniors paying just $50 a month. But many people with the most serious illnesses won&apos;t get that discou"
+      },
+      {
+        "title": "Trump administration deports relative of Afghans who helped US military to Central African Republic",
+        "link": "https://www.npr.org/2026/08/30/nx-s1-5949230/trump-administration-deports-afghan-central-african-republic",
+        "pubDate": "Sun, 30 Aug 2026 04:32:13 -0400",
+        "description": "His family in Afghanistan had received threats from the Taliban because of the work performed by his brothers in support of the U.S. military."
+      },
+      {
+        "title": "AI chatbots may be better than search engines in guarding against foreign propaganda",
+        "link": "https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda",
+        "pubDate": "Sun, 30 Aug 2026 03:00:00 -0400",
+        "description": "In a test, popular AI chatbots mostly debunked falsehoods spread by other countries and avoided uncritically spreading falsehoods better than search engines. AI summaries above search results fared wo"
+      },
+      {
+        "title": "Icelanders vote &apos;no&apos; to talks aimed at joining the EU in close referendum",
         "link": "https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote",
         "pubDate": "Sat, 29 Aug 2026 21:47:44 -0400",
-        "description": "The final vote is expected to be extremely close, with ballot counting continuing through the night."
+        "description": "The vote against the EU led by 52.8 percent with nearly all votes counted,&lt;a href=&quot;https://www.ruv.is/frettir/innlent/2026-08-29-styttist-i-lokun-kjorstada-485355&quot;target=&quot;_blank&quot"
       },
       {
         "title": "Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S.",
         "link": "https://www.npr.org/2026/08/29/nx-s1-5948731/milo-yiannopoulos-arrested-overstaying-us-visa",
         "pubDate": "Sat, 29 Aug 2026 17:09:14 -0400",
         "description": "The controversial commentator, who criticized feminism and Islam, was an enthusiastic supporter of President Trump&apos;s immigration crackdown. ICE says he was an &quot;illegal alien.&quot;"
-      },
-      {
-        "title": "Russian strike near Kyiv kills 37, in one of the year&apos;s deadliest attacks",
-        "link": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
-        "pubDate": "Sat, 29 Aug 2026 11:54:40 -0400",
-        "description": "The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life."
-      },
-      {
-        "title": "Photos: See the aftermath of deadly flash floods in Nepal",
-        "link": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
-        "pubDate": "Sat, 29 Aug 2026 10:22:19 -0400",
-        "description": "Nepal officials say the death toll has continues to rise in Wednesday&apos;s floods that washed away communities in Nepal and Tibet, which is held by China. About 2,500 people are missing in both area"
-      },
-      {
-        "title": "Opinion: Remembering Dolly Parton",
-        "link": "https://www.npr.org/2026/08/29/nx-s1-5941650/opinion-remembering-dolly-parton",
-        "pubDate": "Sat, 29 Aug 2026 08:00:00 -0400",
-        "description": "She said she wasn&apos;t offended by dumb blonde jokes because &quot;I know I&apos;m not dumb...and I also know I&apos;m not blonde!&quot; We take a moment to remember the smart, funny and uniquely ta"
-      },
-      {
-        "title": "The bridges of Rwanda open up new worlds",
-        "link": "https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-rwanda",
-        "pubDate": "Sat, 29 Aug 2026 07:54:36 -0400",
-        "description": "A charity built 96 bridges to connect communities separated by rivers and gorges. A new study looks at the life-changing impact of a concrete-and-steel pedestrian crossing."
-      },
-      {
-        "title": "Lights out, Instagram off? The changes to Meta for teens could be a big deal",
-        "link": "https://www.npr.org/2026/08/29/nx-s1-5947960/instagram-meta-social-media-teens",
-        "pubDate": "Sat, 29 Aug 2026 07:00:00 -0400",
-        "description": "Researchers and advocates are applauding the changes that Meta agreed to make for minors on Instagram and Facebook. Cutting kids off at night and during the school day are two big changes."
-      },
-      {
-        "title": "The U.S. relied on these science advisers. Then the Trump administration cut them",
-        "link": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
-        "pubDate": "Sat, 29 Aug 2026 06:00:00 -0400",
-        "description": "The federal government recruits top experts to volunteer to advise on pressing research issues of the day. Since President Trump took office, hundreds of these experts have been dismissed."
-      },
-      {
-        "title": "Why is one WNBA team calling in national security experts?",
-        "link": "https://www.npr.org/2026/08/29/nx-s1-5947897/wnba-national-security",
-        "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
-        "description": "The WNBA&apos;s popularity has risen in recent years, but so have threats and abuse directed at its players. One team is taking a novel approach to this, by partnering with national security specialis"
-      },
-      {
-        "title": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-        "link": "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
-        "pubDate": "Sat, 29 Aug 2026 05:00:00 -0400",
-        "description": "The great Dolly Parton died earlier this week and tributes have poured in from across the country. &lt;br&gt;&lt;br&gt;Fans are mourning the loss of a country music icon who not only changed the music"
       }
     ],
     "Canada": []
