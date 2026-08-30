@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-30T16:53:38.331Z",
+  "updated": "2026-08-30T19:37:16.982Z",
   "world": [
+    {
+      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 18:31:17 GMT",
+      "description": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port."
+    },
     {
       "title": "Iceland votes against restarting EU membership talks",
       "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&amp;at_campaign=rss",
@@ -10,20 +16,20 @@
     {
       "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
       "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 12:44:08 GMT",
+      "pubDate": "Sun, 30 Aug 2026 17:49:31 GMT",
       "description": "Five others in their twenties were injured after shots were fired at a techno event near Zurich."
+    },
+    {
+      "title": "Nasa launches new space telescope able to see 100 times more than Hubble",
+      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 30 Aug 2026 18:53:53 GMT",
+      "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter."
     },
     {
       "title": "Canada installs large Lake Ontario sign in latest jab at US",
       "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 30 Aug 2026 14:25:43 GMT",
       "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\""
-    },
-    {
-      "title": "WhatsApp chat used to send cash for crime and extremism",
-      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 04:59:56 GMT",
-      "description": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail."
     },
     {
       "title": "Russia says it helped to repel Niger attempted coup",
@@ -34,7 +40,7 @@
     {
       "title": "Zambian opposition leader charged with treason",
       "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 09:08:23 GMT",
+      "pubDate": "Sun, 30 Aug 2026 17:06:15 GMT",
       "description": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital."
     },
     {
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 28 Aug 2026 21:29:01 GMT",
       "description": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack."
-    },
-    {
-      "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-      "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 28 Aug 2026 17:29:16 GMT",
-      "description": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery."
     }
   ],
   "regions": {
