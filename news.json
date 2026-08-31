@@ -1,17 +1,17 @@
 {
-  "updated": "2026-08-31T00:43:59.591Z",
+  "updated": "2026-08-31T06:36:39.784Z",
   "world": [
     {
-      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 20:02:43 GMT",
+      "pubDate": "Mon, 31 Aug 2026 03:56:15 GMT",
       "description": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port."
     },
     {
-      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "title": "US and Iran trade strikes for first time in weeks",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 23:53:03 GMT",
-      "description": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July."
+      "pubDate": "Mon, 31 Aug 2026 05:49:37 GMT",
+      "description": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others."
     },
     {
       "title": "Iceland votes against restarting EU membership talks",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Arizona&apos;s taps won&apos;t run dry, but water bills will go up under federal plan for Colorado River",
+        "link": "https://www.npr.org/2026/08/31/nx-s1-5945480/arizonas-taps-wont-run-dry-but-water-bills-will-go-up-under-federal-plan-for-colorado-river",
+        "pubDate": "Mon, 31 Aug 2026 00:01:00 -0400",
+        "description": "New federal rules mean Arizona will be getting a lot less water from the Colorado river. City leaders say they&apos;ve been planning for years and no one will run out, but keeping taps flowing is expe"
+      },
+      {
+        "title": "What Argentina gets right about youth soccer — and what the U.S. gets wrong",
+        "link": "https://www.npr.org/2026/08/30/nx-s1-5924666/what-argentina-gets-right-about-youth-soccer-and-what-the-u-s-gets-wrong",
+        "pubDate": "Sun, 30 Aug 2026 22:27:49 -0400",
+        "description": "Argentina has produced some of the world&apos;s greatest soccer players. Could its youth system offer lessons for the United States?"
+      },
+      {
         "title": "Families of pilgrims likely caught in floods are desperate for news from Nepal",
         "link": "https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal",
         "pubDate": "Sun, 30 Aug 2026 19:32:39 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/08/30/nx-s1-5946399/africa-dolly-parton-fans",
         "pubDate": "Sun, 30 Aug 2026 06:00:00 -0400",
         "description": "Dolly Parton&apos;s songs traveled far beyond Nashville. Across Africa, musicians embraced her stories of hardship, heartbreak and humble beginnings — and made them their own."
-      },
-      {
-        "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
-        "link": "https://www.npr.org/2026/08/30/nx-s1-5949239/nepal-warns-fresh-flooding",
-        "pubDate": "Sun, 30 Aug 2026 05:52:41 -0400",
-        "description": "Authorities in Nepal warned of possible fresh flooding on Sunday and urged residents in flood-affected districts to remain on high alert after water levels rose in the Bhotekoshi River."
-      },
-      {
-        "title": "Medicare&apos;s pilot GLP-1 discount program has a catch. Some sick patients don&apos;t qualify",
-        "link": "https://www.npr.org/2026/08/30/nx-s1-5931392/medicare-glp-1-discount-program-has-catch-some-sick-patients-dont-qualify",
-        "pubDate": "Sun, 30 Aug 2026 05:00:00 -0400",
-        "description": "Medicare launched a pilot program that could streamline the process to get GLP-1s, with some seniors paying just $50 a month. But many people with the most serious illnesses won&apos;t get that discou"
       }
     ],
     "Canada": []
