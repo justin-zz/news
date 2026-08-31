@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T22:20:57.877Z",
+  "updated": "2026-08-31T00:43:59.591Z",
   "world": [
     {
       "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
@@ -10,7 +10,7 @@
     {
       "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 21:15:42 GMT",
+      "pubDate": "Sun, 30 Aug 2026 23:53:03 GMT",
       "description": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July."
     },
     {
@@ -26,10 +26,10 @@
       "description": "Five others in their twenties were injured after shots were fired at a techno event near Zurich."
     },
     {
-      "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
       "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 22:14:37 GMT",
-      "description": "More than 20 people are thought to be unaccounted for after flash flooding on Saturday."
+      "pubDate": "Sun, 30 Aug 2026 23:52:27 GMT",
+      "description": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC."
     },
     {
       "title": "'A giant leap forward': Nasa launches powerful new space telescope",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Families of pilgrims likely caught in floods are desperate for news from Nepal",
+        "link": "https://www.npr.org/2026/08/30/nx-s1-5949351/families-of-pilgrims-likely-caught-in-floods-are-desperate-for-news-from-nepal",
+        "pubDate": "Sun, 30 Aug 2026 19:32:39 -0400",
+        "description": "Four days after catastrophic floods wiped out villages along the Nepal-China border, thousands are still missing. Families look for answers but hear nothing."
+      },
+      {
         "title": "Canada claps back at Trump&apos;s efforts to rename Lake Ontario as &apos;Lake America&apos;",
         "link": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
         "pubDate": "Sun, 30 Aug 2026 10:36:44 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/08/30/nx-s1-5931392/medicare-glp-1-discount-program-has-catch-some-sick-patients-dont-qualify",
         "pubDate": "Sun, 30 Aug 2026 05:00:00 -0400",
         "description": "Medicare launched a pilot program that could streamline the process to get GLP-1s, with some seniors paying just $50 a month. But many people with the most serious illnesses won&apos;t get that discou"
-      },
-      {
-        "title": "Trump administration deports relative of Afghans who helped US military to Central African Republic",
-        "link": "https://www.npr.org/2026/08/30/nx-s1-5949230/trump-administration-deports-afghan-central-african-republic",
-        "pubDate": "Sun, 30 Aug 2026 04:32:13 -0400",
-        "description": "His family in Afghanistan had received threats from the Taliban because of the work performed by his brothers in support of the U.S. military."
       }
     ],
     "Canada": []
