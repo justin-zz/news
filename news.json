@@ -1,6 +1,12 @@
 {
-  "updated": "2026-08-31T14:47:23.603Z",
+  "updated": "2026-08-31T20:37:02.911Z",
   "world": [
+    {
+      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 17:30:47 GMT",
+      "description": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939."
+    },
     {
       "title": "US and Iran trade strikes for first time in weeks",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss",
@@ -14,22 +20,22 @@
       "description": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau."
     },
     {
-      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
-      "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 10:18:07 GMT",
-      "description": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning."
-    },
-    {
-      "title": "The jury's options in Lindsay Clancy's murder trial",
-      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 11:53:21 GMT",
-      "description": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children."
-    },
-    {
-      "title": "Search continues for 18 passengers after ferry capsized in northern Cyprus",
+      "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 11:41:05 GMT",
-      "description": "Eight people have died after the ferry started taking on water shortly after setting off for Turkey."
+      "pubDate": "Mon, 31 Aug 2026 14:50:36 GMT",
+      "description": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people."
+    },
+    {
+      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
+      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 17:54:23 GMT",
+      "description": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty."
+    },
+    {
+      "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
+      "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 20:28:16 GMT",
+      "description": "The National Trust for Historic Preservation argued the president did not have authority to proceed with construction."
     },
     {
       "title": "Dolly Parton laid to rest alongside husband in Nashville",
@@ -38,64 +44,76 @@
       "description": "A private family funeral is held for the singer who died on Tuesday at the age of 80."
     },
     {
+      "title": "Ex-congressman George Santos banned from betting platform for life",
+      "link": "https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 18:15:12 GMT",
+      "description": "The prediction market operator Kalshi says Santos made barred trades and misleading comments that influenced prices."
+    },
+    {
+      "title": "Messi retires from international football with 'nothing left to give'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 15:18:39 GMT",
+      "description": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\"."
+    },
+    {
+      "title": "John Galliano exhibition at New York Met cancelled after backlash",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 15:30:05 GMT",
+      "description": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011."
+    },
+    {
+      "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
+      "link": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 15:00:11 GMT",
+      "description": "The request comes after Google made the switch for US-based users over the weekend. MapQuest, another US map provider, said it will not change the name."
+    },
+    {
+      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
+      "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 10:18:07 GMT",
+      "description": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning."
+    },
+    {
+      "title": "Company offering reward for safe return of truckload of beer",
+      "link": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 16:32:59 GMT",
+      "description": "Police say a thief presented false documentation at a California distribution centre before driving off with the shipment."
+    },
+    {
       "title": "'Moonies' church leader jailed for two years over bribery offences",
       "link": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 31 Aug 2026 06:56:40 GMT",
       "description": "Han Hak-ja, 83, gave South Korea's former first lady two Chanel bags and a diamond necklace, a court found."
     },
     {
-      "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+      "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
       "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 12:55:25 GMT",
-      "description": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 15 people are missing."
-    },
-    {
-      "title": "Algeria president seeks death penalty for arsonists after deadly forest fires",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 08:13:40 GMT",
-      "description": "President Abdelmadjid Tebboune says he is not ruling out foul play after 100 wildfires were recorded."
-    },
-    {
-      "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
-      "link": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 10:54:01 GMT",
-      "description": "Kenya Airways says the strike has caused delays of more than six hours, with some flights cancelled."
-    },
-    {
-      "title": "Iceland votes against restarting EU membership talks",
-      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 16:11:44 GMT",
-      "description": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks."
-    },
-    {
-      "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
-      "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 16:48:13 GMT",
-      "description": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school."
-    },
-    {
-      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
-      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 18:53:53 GMT",
-      "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter."
-    },
-    {
-      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-      "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 17:49:31 GMT",
-      "description": "Five others in their twenties were injured after shots were fired at a techno event near Zurich."
-    },
-    {
-      "title": "Zambian opposition leader charged with treason",
-      "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 30 Aug 2026 17:06:15 GMT",
-      "description": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital."
+      "pubDate": "Mon, 31 Aug 2026 18:58:16 GMT",
+      "description": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 14 people are missing."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Nepal&apos;s hesitance to accept foreign help for flood relief under scrutiny",
+        "title": "U.S. sues Amazon over its advertising prices",
+        "link": "https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit",
+        "pubDate": "Mon, 31 Aug 2026 16:17:03 -0400",
+        "description": "Federal regulators and 22 states allege that the tech giant made billions by manipulating how much brands and sellers paid for ads on its platform."
+      },
+      {
+        "title": "Paperwork, lines, hours on hold: There&apos;s a &apos;Time Tax&apos; on Americans who need help most",
+        "link": "https://www.npr.org/2026/08/31/nx-s1-5946449/time-tax-annie-lowrey-government-assistance-unemployment",
+        "pubDate": "Mon, 31 Aug 2026 13:06:39 -0400",
+        "description": "Annie Lowrey explores the administrative burdens people face applying for government benefits. It&apos;s not just about wasted time: &quot;When the government treats us like this, we don&apos;t trust "
+      },
+      {
+        "title": "Lionel Messi says he&apos;s retiring from playing internationally for Argentina",
+        "link": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
+        "pubDate": "Mon, 31 Aug 2026 12:37:05 -0400",
+        "description": "He said he wrote his retirement letter after the World Cup final in July, but waited to publish it because his father was facing health issues that eventually claimed his life."
+      },
+      {
+        "title": "Nepal&apos;s hesitance to accept foreign help for flood relief comes under scrutiny",
         "link": "https://www.npr.org/2026/08/31/nx-s1-5949971/nepals-hesitance-help-flood",
         "pubDate": "Mon, 31 Aug 2026 07:50:17 -0400",
         "description": "A group of the country&apos;s private sector power producers says Nepali authorities lost crucial time in rescuing hundreds of people trapped in hydropower tunnels."
@@ -119,16 +137,10 @@
         "description": "U.S. threats erupt into attacks in the Strait of Hormuz, and Iran retaliates against U.S. targets in the United Arab Emirates and Jordan in the first exchange of fire since July 29."
       },
       {
-        "title": "Hit shows from Edinburgh&apos;s Fringe festival are coming to America. Here are our top picks",
-        "link": "https://www.npr.org/2026/08/31/nx-s1-5949346/edinburgh-fringe-scotland-best-shows-coming-to-america",
+        "title": "NPR spent 2 years tracking deaths from heat. We found a staggering hidden toll",
+        "link": "https://www.npr.org/2026/08/31/nx-s1-5724225/heat-wave-death-toll-tracker",
         "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
-        "description": "The annual &quot;anything goes&quot; performing arts festival featured more than 4,200 performances this year. These are the ones we&apos;re still talking about."
-      },
-      {
-        "title": "Why too many women are prescribed antibiotics for UTIs they don&apos;t have",
-        "link": "https://www.npr.org/2026/08/31/nx-s1-5947249/infection-uti-bladder-antibiotics-hormone-menopause",
-        "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
-        "description": "A recent study found that many women treated for recurrent UTIs didn&apos;t have UTIs at all. Instead, their symptoms were caused by hormonally driven inflammation and pelvic floor dysfunction."
+        "description": "An NPR investigation found that people in the U.S. are dying from heat much more often than official counts show. We explore the reasons why — and how lives can be saved."
       },
       {
         "title": "Singapore is scrambling to stabilize birth rates. Experts see lessons for the U.S.",
@@ -137,22 +149,10 @@
         "description": "Singapore has unveiled a national initiative built entirely around its collapsing birth rate. Some demographers say the plan includes policy ideas that could help American parents."
       },
       {
-        "title": "The U.S. Venezuela oil deal won&apos;t lower your gas prices. Here&apos;s what you need to know",
+        "title": "The U.S.-Venezuela oil deal won&apos;t lower your gas prices. Here&apos;s what you need to know",
         "link": "https://www.npr.org/2026/08/31/nx-s1-5949407/us-venezuelan-oil-deal",
         "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
         "description": "The Trump administration announced a deal Friday to develop a vast amount of Venezuela&apos;s oil reserves, with the U.S. taking a majority stake. Energy experts say there are many reasons to be skept"
-      },
-      {
-        "title": "NPR spent 2 years tracking deaths from heat. We found a staggering hidden toll",
-        "link": "https://www.npr.org/2026/08/31/nx-s1-5724225/heat-wave-death-toll-tracker",
-        "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
-        "description": "An NPR investigation found that people in the U.S. are dying from heat much more often than official counts show. We explore the reasons why — and how lives can be saved."
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/08/31/nx-s1-5946754/morning-news-brief",
-        "pubDate": "Mon, 31 Aug 2026 04:49:20 -0400",
-        "description": "Trump says U.S. struck a deal to take control of 65 billion barrels of Venezuelan oil, U.S. and Iran resume exchanging strikes, funding at the top of the agenda as House reconvenes."
       }
     ],
     "Canada": []
