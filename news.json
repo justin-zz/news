@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T21:34:16.225Z",
+  "updated": "2026-09-01T23:45:09.714Z",
   "world": [
     {
       "title": "Germany says Russia behind Leipzig airport drone attack",
@@ -10,7 +10,7 @@
     {
       "title": "US strikes Iran as state media reports four killed at wedding party",
       "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 21:32:23 GMT",
+      "pubDate": "Tue, 01 Sep 2026 21:48:28 GMT",
       "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun."
     },
     {
@@ -36,6 +36,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 01 Sep 2026 20:05:23 GMT",
       "description": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023."
+    },
+    {
+      "title": "Ariana Grande completes tour and steps back from public life",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 21:41:05 GMT",
+      "description": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\"."
     },
     {
       "title": "Pistol in a lake gives hope for French cold case",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 01 Sep 2026 10:30:55 GMT",
       "description": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region."
-    },
-    {
-      "title": "Shein valued at $26bn after long-awaited stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 10:01:26 GMT",
-      "description": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
+        "link": "https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote",
+        "pubDate": "Tue, 01 Sep 2026 18:18:20 -0400",
+        "description": "The censure vote drew bipartisan support, and followed an investigation by the House Ethics Committee into allegations of sexual harassment against two young female staff members."
+      },
       {
         "title": "Congress averts a government shutdown ahead of the midterms",
         "link": "https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
         "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
         "description": "GE Appliances is leaning heavily into artificial intelligence to improve quality and efficiency on the factory floor."
-      },
-      {
-        "title": "Judge to decide if Tyler Robinson will go to trial in Charlie Kirk murder case",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5950452/tyler-robinson-charlie-kirk-murder-hearing",
-        "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
-        "description": "Utah District Judge Tony Graf Jr. will hear arguments over evidence introduced in July, to decide if there&apos;s enough probable cause for a trial in the shooting of the conservative activist last ye"
       }
     ],
     "Canada": []
