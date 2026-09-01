@@ -1,11 +1,17 @@
 {
-  "updated": "2026-09-01T18:42:02.260Z",
+  "updated": "2026-09-01T21:34:16.225Z",
   "world": [
     {
       "title": "Germany says Russia behind Leipzig airport drone attack",
       "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 16:53:40 GMT",
+      "pubDate": "Tue, 01 Sep 2026 21:05:22 GMT",
       "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August."
+    },
+    {
+      "title": "US strikes Iran as state media reports four killed at wedding party",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 21:32:23 GMT",
+      "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun."
     },
     {
       "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
@@ -26,16 +32,22 @@
       "description": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave."
     },
     {
-      "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
-      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 18:06:58 GMT",
-      "description": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two."
+      "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
+      "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 20:05:23 GMT",
+      "description": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023."
     },
     {
       "title": "Pistol in a lake gives hope for French cold case",
       "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 01 Sep 2026 16:33:29 GMT",
       "description": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012."
+    },
+    {
+      "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
+      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 18:06:58 GMT",
+      "description": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two."
     },
     {
       "title": "France targets Shein and Temu with fast fashion fees",
@@ -50,10 +62,10 @@
       "description": "The EFCC boss says more than five of the dismissed officials are already facing prosecution."
     },
     {
-      "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+      "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
       "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 12:58:44 GMT",
-      "description": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered."
+      "pubDate": "Tue, 01 Sep 2026 20:24:28 GMT",
+      "description": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service."
     },
     {
       "title": "Trump says US position on Falklands 'one of many' under review",
@@ -78,18 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 01 Sep 2026 10:01:26 GMT",
       "description": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London."
-    },
-    {
-      "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
-      "link": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 15:48:38 GMT",
-      "description": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history."
-    },
-    {
-      "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 21:28:49 GMT",
-      "description": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market."
     }
   ],
   "regions": {
@@ -143,16 +143,16 @@
         "description": "A new model in Vermont emphasizes hands-on learning while stripping away frills like gyms and meal plans that increase costs. Other newly created institutions are also reimagining college."
       },
       {
-        "title": "Judge to decide if Tyler Robinson will go to trial in Charlie Kirk murder case",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5950452/tyler-robinson-charlie-kirk-murder-hearing",
-        "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
-        "description": "Utah District Judge Tony Graf Jr. will hear arguments over evidence introduced in July, to decide if there&apos;s enough probable cause for a trial in the shooting of the conservative activist last ye"
-      },
-      {
         "title": "&apos;It can outthink me&apos;: How a major manufacturer came to embrace AI",
         "link": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
         "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
         "description": "GE Appliances is leaning heavily into artificial intelligence to improve quality and efficiency on the factory floor."
+      },
+      {
+        "title": "Judge to decide if Tyler Robinson will go to trial in Charlie Kirk murder case",
+        "link": "https://www.npr.org/2026/09/01/nx-s1-5950452/tyler-robinson-charlie-kirk-murder-hearing",
+        "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
+        "description": "Utah District Judge Tony Graf Jr. will hear arguments over evidence introduced in July, to decide if there&apos;s enough probable cause for a trial in the shooting of the conservative activist last ye"
       }
     ],
     "Canada": []
