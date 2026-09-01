@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T20:37:02.911Z",
+  "updated": "2026-09-01T00:20:56.945Z",
   "world": [
     {
       "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
@@ -8,10 +8,10 @@
       "description": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939."
     },
     {
-      "title": "US and Iran trade strikes for first time in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 13:47:30 GMT",
-      "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others."
+      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
+      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 17:54:23 GMT",
+      "description": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty."
     },
     {
       "title": "Man arrested after Swiss rave shooting that killed woman",
@@ -26,22 +26,22 @@
       "description": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people."
     },
     {
-      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
-      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 17:54:23 GMT",
-      "description": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty."
+      "title": "US and Iran trade strikes for first time in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 13:47:30 GMT",
+      "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others."
     },
     {
       "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
       "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 20:28:16 GMT",
-      "description": "The National Trust for Historic Preservation argued the president did not have authority to proceed with construction."
+      "pubDate": "Mon, 31 Aug 2026 22:38:24 GMT",
+      "description": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\"."
     },
     {
-      "title": "Dolly Parton laid to rest alongside husband in Nashville",
-      "link": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 09:24:50 GMT",
-      "description": "A private family funeral is held for the singer who died on Tuesday at the age of 80."
+      "title": "Festival honouring Dolly Parton set for Nashville and London",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 31 Aug 2026 18:58:35 GMT",
+      "description": "Dolly Parton's estate says DollyFest will take the place of a traditional public memorial for the artist, just as she wanted."
     },
     {
       "title": "Ex-congressman George Santos banned from betting platform for life",
@@ -88,14 +88,32 @@
     {
       "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
       "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 18:58:16 GMT",
+      "pubDate": "Mon, 31 Aug 2026 20:47:38 GMT",
       "description": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 14 people are missing."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "U.S. sues Amazon over its advertising prices",
+        "title": "Trump officials cut political interference ban after unusual Census Bureau report",
+        "link": "https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity",
+        "pubDate": "Mon, 31 Aug 2026 18:24:12 -0400",
+        "description": "After the Census Bureau issued a report tied to a Trump-aligned think tank, the bureau&apos;s parent agency cut language banning political interference from its scientific integrity policy, NPR learne"
+      },
+      {
+        "title": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened",
+        "link": "https://www.npr.org/2026/09/01/nx-s1-5944472/famine-usaid-fews-net",
+        "pubDate": "Mon, 31 Aug 2026 16:42:17 -0400",
+        "description": "The highly regarded FEWS NET network stopped posting data on Afghanistan, Somalia and Yemen -- then says it will start posting again in September. What&apos;s the reason for this back-and-forth?"
+      },
+      {
+        "title": "Kalshi bans former congressman George Santos for life after State of the Union trades",
+        "link": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
+        "pubDate": "Mon, 31 Aug 2026 16:21:47 -0400",
+        "description": "Kalshi says Santos did not cooperate with its investigation into bets he placed on his own attendance at the State of the Union. The company also fined the disgraced congressman more than $71,000."
+      },
+      {
+        "title": "The U.S. sues Amazon again",
         "link": "https://www.npr.org/2026/08/31/nx-s1-5950482/ftc-amazon-advertising-lawsuit",
         "pubDate": "Mon, 31 Aug 2026 16:17:03 -0400",
         "description": "Federal regulators and 22 states allege that the tech giant made billions by manipulating how much brands and sellers paid for ads on its platform."
@@ -110,7 +128,7 @@
         "title": "Lionel Messi says he&apos;s retiring from playing internationally for Argentina",
         "link": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
         "pubDate": "Mon, 31 Aug 2026 12:37:05 -0400",
-        "description": "He said he wrote his retirement letter after the World Cup final in July, but waited to publish it because his father was facing health issues that eventually claimed his life."
+        "description": "The soccer star is ending 21 years of Argentine national-team duty but will continue to play at club level with Inter Miami in U.S. Major League Soccer."
       },
       {
         "title": "Nepal&apos;s hesitance to accept foreign help for flood relief comes under scrutiny",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran",
         "pubDate": "Mon, 31 Aug 2026 06:04:30 -0400",
         "description": "U.S. threats erupt into attacks in the Strait of Hormuz, and Iran retaliates against U.S. targets in the United Arab Emirates and Jordan in the first exchange of fire since July 29."
-      },
-      {
-        "title": "NPR spent 2 years tracking deaths from heat. We found a staggering hidden toll",
-        "link": "https://www.npr.org/2026/08/31/nx-s1-5724225/heat-wave-death-toll-tracker",
-        "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
-        "description": "An NPR investigation found that people in the U.S. are dying from heat much more often than official counts show. We explore the reasons why — and how lives can be saved."
-      },
-      {
-        "title": "Singapore is scrambling to stabilize birth rates. Experts see lessons for the U.S.",
-        "link": "https://www.npr.org/2026/08/31/nx-s1-5944260/singapore-initiative-declining-birthrates",
-        "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
-        "description": "Singapore has unveiled a national initiative built entirely around its collapsing birth rate. Some demographers say the plan includes policy ideas that could help American parents."
-      },
-      {
-        "title": "The U.S.-Venezuela oil deal won&apos;t lower your gas prices. Here&apos;s what you need to know",
-        "link": "https://www.npr.org/2026/08/31/nx-s1-5949407/us-venezuelan-oil-deal",
-        "pubDate": "Mon, 31 Aug 2026 05:00:00 -0400",
-        "description": "The Trump administration announced a deal Friday to develop a vast amount of Venezuela&apos;s oil reserves, with the U.S. taking a majority stake. Energy experts say there are many reasons to be skept"
       }
     ],
     "Canada": []
