@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-01T15:02:36.411Z",
+  "updated": "2026-09-01T18:42:02.260Z",
   "world": [
+    {
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 16:53:40 GMT",
+      "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August."
+    },
     {
       "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
       "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&amp;at_campaign=rss",
@@ -8,16 +14,40 @@
       "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million."
     },
     {
-      "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 07:37:24 GMT",
-      "description": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16."
+      "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 16:11:18 GMT",
+      "description": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000."
     },
     {
       "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
       "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 13:46:05 GMT",
+      "pubDate": "Tue, 01 Sep 2026 15:33:14 GMT",
       "description": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave."
+    },
+    {
+      "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
+      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 18:06:58 GMT",
+      "description": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two."
+    },
+    {
+      "title": "Pistol in a lake gives hope for French cold case",
+      "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 16:33:29 GMT",
+      "description": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012."
+    },
+    {
+      "title": "France targets Shein and Temu with fast fashion fees",
+      "link": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 15:15:57 GMT",
+      "description": "The levy on \"ultra-fast fashion\" items could reach almost €20 per garment by 2030."
+    },
+    {
+      "title": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
+      "link": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 15:57:18 GMT",
+      "description": "The EFCC boss says more than five of the dismissed officials are already facing prosecution."
     },
     {
       "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
@@ -26,22 +56,22 @@
       "description": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered."
     },
     {
-      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 10:30:55 GMT",
-      "description": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region."
-    },
-    {
       "title": "Trump says US position on Falklands 'one of many' under review",
       "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 12:54:22 GMT",
+      "pubDate": "Tue, 01 Sep 2026 16:35:28 GMT",
       "description": "The UK says Falkland islanders \"are British with a right to determine their own future\"."
     },
     {
       "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
       "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 07:02:58 GMT",
+      "pubDate": "Tue, 01 Sep 2026 18:26:12 GMT",
       "description": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago."
+    },
+    {
+      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 10:30:55 GMT",
+      "description": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region."
     },
     {
       "title": "Shein valued at $26bn after long-awaited stock market debut",
@@ -52,48 +82,30 @@
     {
       "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
       "link": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 13:12:47 GMT",
-      "description": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history with police."
+      "pubDate": "Tue, 01 Sep 2026 15:48:38 GMT",
+      "description": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history."
     },
     {
       "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
       "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 31 Aug 2026 21:28:49 GMT",
       "description": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market."
-    },
-    {
-      "title": "Teen girl charged with murder over recording of San Diego mosque attack",
-      "link": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 10:26:50 GMT",
-      "description": "Prosecutors say the 17-year-old from North Carolina also published a manifesto from the two teenage shooters in the 18 May attack."
-    },
-    {
-      "title": "South Korean police officer admits to closing missing person cases to avoid work",
-      "link": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 05:47:21 GMT",
-      "description": "The officer falsely claimed he contacted missing persons and prematurely closed their cases on the South Korean holiday island of Jeju."
-    },
-    {
-      "title": "Zambia's president sworn in for second term while opponent detained",
-      "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 12:37:36 GMT",
-      "description": "Hakainde Hichilema swept to victory, but his main rival is now in custody charged with treason."
-    },
-    {
-      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
-      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 31 Aug 2026 17:54:23 GMT",
-      "description": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty."
-    },
-    {
-      "title": "US army secretary resigns after months of tension",
-      "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 01:01:03 GMT",
-      "description": "Dan Driscoll, the youngest-ever army secretary, was about 18 months into his post."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Congress averts a government shutdown ahead of the midterms",
+        "link": "https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms",
+        "pubDate": "Tue, 01 Sep 2026 14:06:33 -0400",
+        "description": "With just a few weeks to spare, the House approved legislation extending funding through mid-December."
+      },
+      {
+        "title": "ICE says it has enough body cameras now, after series of deadly shootings",
+        "link": "https://www.npr.org/2026/09/01/g-s1-141408/ice-body-cameras-immigration",
+        "pubDate": "Tue, 01 Sep 2026 13:52:37 -0400",
+        "description": "Cameras could help alleviate some concerns about ICE transparency and accountability after immigration officers were involved in over two dozen shootings under the Trump administration."
+      },
       {
         "title": "Beloved writer and environmentalist Wendell Berry has died at age 92",
         "link": "https://www.npr.org/2026/09/01/1139228585/wendell-berry-obituary",
@@ -113,22 +125,16 @@
         "description": "The neighborhood is a pilgrimage site, with a shrine to the Sufi saint known as Bari Imam. In the past year, hundreds of homes of the working poor were razed. Residents fear more will be demolished."
       },
       {
+        "title": "Why the Supreme Court&apos;s ballroom ruling could matter beyond the ballroom",
+        "link": "https://www.npr.org/2026/09/01/nx-s1-5950587/supreme-court-trump-white-house-ballroom-separation-powers",
+        "pubDate": "Tue, 01 Sep 2026 07:00:41 -0400",
+        "description": "Georgetown Law professor Stephen Vladeck explains the separation-of-powers questions raised by the Supreme Court&apos;s decision on the White House ballroom."
+      },
+      {
         "title": "Whistleblower claims USPS plan for Trump&apos;s mail voting order could &apos;derail&apos; midterms",
         "link": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
         "pubDate": "Tue, 01 Sep 2026 06:00:00 -0400",
         "description": "A whistleblower says the U.S. Postal Service is rushing out an online system for President Trump&apos;s push to restrict mail voting that could &quot;derail&quot; the midterm election if courts allow "
-      },
-      {
-        "title": "AI wealth is creating a &apos;mansion shortage&apos; and upending San Francisco&apos;s housing market",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
-        "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
-        "description": "Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many."
-      },
-      {
-        "title": "A NY hospital tried to close its birthing center. This city united to fight back",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth",
-        "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
-        "description": "Democrats and Republicans in Troy, New York, took on a national Catholic health system and kept the county&apos;s last birthing center open."
       },
       {
         "title": "A makeover for college: No gym, no meal plan and two years of work",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
         "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
         "description": "GE Appliances is leaning heavily into artificial intelligence to improve quality and efficiency on the factory floor."
-      },
-      {
-        "title": "As Democratic-led states block ICE cooperation deals, local sheriffs push back in court",
-        "link": "https://www.npr.org/2026/08/31/nx-s1-5947259/sheriffs-lawsuits-state-ice-cooperation-bans",
-        "pubDate": "Tue, 01 Sep 2026 04:46:14 -0400",
-        "description": "President Trump&apos;s ambitious deportation goals depend on the cooperation of local law enforcement, but some states don&apos;t want to take part. Now, sheriffs who want to cooperate with ICE are su"
       }
     ],
     "Canada": []
