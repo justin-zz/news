@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T16:48:59.623Z",
+  "updated": "2026-09-02T19:37:00.465Z",
   "world": [
     {
       "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
@@ -8,9 +8,15 @@
       "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East."
     },
     {
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 17:33:45 GMT",
+      "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday."
+    },
+    {
       "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
       "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 14:34:22 GMT",
+      "pubDate": "Wed, 02 Sep 2026 16:49:00 GMT",
       "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
     },
     {
@@ -28,7 +34,7 @@
     {
       "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
       "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 16:18:55 GMT",
+      "pubDate": "Wed, 02 Sep 2026 17:05:09 GMT",
       "description": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court."
     },
     {
@@ -42,6 +48,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 02 Sep 2026 11:51:46 GMT",
       "description": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children."
+    },
+    {
+      "title": "South African airline behind daring  stadium stunt cancels next flyby, regulator says",
+      "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 16:58:59 GMT",
+      "description": "The civil aviation authority says it is also investigating last Saturday's aerial display."
     },
     {
       "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
@@ -74,26 +86,20 @@
       "description": "Reports say Jordanian nationals are among those killed in the accident in the South Sinai governorate."
     },
     {
-      "title": "Madagascar ex-Senate chief sentenced  to hard labour over deadly Gen Z protest crackdown",
-      "link": "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 11:34:23 GMT",
-      "description": "At least 22 people were killed and more than 100 injured during last year's unrest, according to the UN."
-    },
-    {
-      "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 01:59:10 GMT",
-      "description": "The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts."
-    },
-    {
-      "title": "South Korea jails care home head for sexually assaulting disabled residents",
-      "link": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 05:56:44 GMT",
-      "description": "The man, surnamed Kim, was handed a 15-year prison term for abusing three residents at the facility near Seoul."
+      "title": "Ariana Grande makes emotional tour exit and steps back from public life",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 21:41:05 GMT",
+      "description": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\"."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "New Jersey asks Supreme Court to resolve fight over Kalshi&apos;s future",
+        "link": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
+        "pubDate": "Wed, 02 Sep 2026 14:17:19 -0400",
+        "description": "If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspe"
+      },
       {
         "title": "New immigration court tactic leads to huge lines and chaos in Miami",
         "link": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/02/g-s1-141512/india-genz-protests",
         "pubDate": "Wed, 02 Sep 2026 07:11:04 -0400",
         "description": "Over two months, protesters, most who appeared to be digitally-savvy GenZ, used social media to organize. Government&apos;s efforts to respond spotlight how the ruling party appears to be playing catc"
-      },
-      {
-        "title": "ICE says it now has enough body cameras. And, Congress averts shutdown before midterms",
-        "link": "https://www.npr.org/2026/09/02/g-s1-141513/up-first-newsletter-iran-war-ice-body-cameras-massachusetts-ed-markey-government-shutdown",
-        "pubDate": "Wed, 02 Sep 2026 07:08:04 -0400",
-        "description": "Immigration and Customs Enforcement says it now has enough body cameras to equip all of its agents. And, Congress votes to fund the government, averting a government shutdown ahead of the midterms."
       }
     ],
     "Canada": []
