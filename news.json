@@ -1,23 +1,53 @@
 {
-  "updated": "2026-09-02T02:39:36.309Z",
+  "updated": "2026-09-02T07:39:35.802Z",
   "world": [
     {
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 01:59:54 GMT",
-      "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August."
-    },
-    {
-      "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+      "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
       "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 00:13:26 GMT",
-      "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun."
+      "pubDate": "Wed, 02 Sep 2026 06:26:35 GMT",
+      "description": "The Iranian Red Crescent says a child was among those killed when shrapnel from a US strike hit a home. The US military says it is aware of the reports and it never targets civilians."
     },
     {
-      "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-      "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 05:00:34 GMT",
-      "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million."
+      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 04:23:23 GMT",
+      "description": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine."
+    },
+    {
+      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+      "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 05:03:09 GMT",
+      "description": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions."
+    },
+    {
+      "title": "Why do US troops have history with this Thai city?",
+      "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 07:18:39 GMT",
+      "description": "The BBC’s Jonathan Head looks at the links between the US troops and the resort city of Pattaya as an aircraft carrier arrives nearby after 250 days at sea."
+    },
+    {
+      "title": "South Korea jails care home head for sexually assaulting disabled residents",
+      "link": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 05:56:44 GMT",
+      "description": "The man, surnamed Kim, was handed a 15-year prison term for abusing three residents at the facility near Seoul."
+    },
+    {
+      "title": "Bus crash on Egypt's Red Sea coast kills 16",
+      "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 07:01:13 GMT",
+      "description": "Another 28 people are injured in the accident in the South Sinai governorate, officials say."
+    },
+    {
+      "title": "Tiger Woods to change plea after crash arrest",
+      "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 00:26:08 GMT",
+      "description": "The golfer will be in court on Wednesday for a hearing to change his plea after being charged with driving under the influence."
+    },
+    {
+      "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 01:59:10 GMT",
+      "description": "The  23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts."
     },
     {
       "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
@@ -26,74 +56,50 @@
       "description": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000."
     },
     {
-      "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 15:33:14 GMT",
-      "description": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave."
+      "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 04:29:02 GMT",
+      "description": "Wong, 29, is already in prison on subversion charges under the controversial National Security Law."
     },
     {
-      "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
-      "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 20:05:23 GMT",
-      "description": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023."
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 01:59:54 GMT",
+      "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August."
     },
     {
-      "title": "Ariana Grande completes tour and steps back from public life",
+      "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
+      "link": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 01:32:24 GMT",
+      "description": "The iPhone maker follows rival technology giant Google in relabelling the Great Lake."
+    },
+    {
+      "title": "Ariana Grande makes emotional tour exit and steps back from public life",
       "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 01 Sep 2026 21:41:05 GMT",
       "description": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\"."
     },
     {
-      "title": "Pistol in a lake gives hope for French cold case",
-      "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 16:33:29 GMT",
-      "description": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012."
+      "title": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
+      "link": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 21:27:29 GMT",
+      "description": "Amounting to 65 billion barrels of crude, the deal is labelled by one ex-envoy as a colonialist \"fever dream\"."
     },
     {
-      "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
-      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 18:06:58 GMT",
-      "description": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two."
-    },
-    {
-      "title": "France targets Shein and Temu with fast fashion fees",
-      "link": "https://www.bbc.co.uk/news/articles/cm2792pendro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 15:15:57 GMT",
-      "description": "The levy on \"ultra-fast fashion\" items could reach almost €20 per garment by 2030."
-    },
-    {
-      "title": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
-      "link": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 15:57:18 GMT",
-      "description": "The EFCC boss says more than five of the dismissed officials are already facing prosecution."
-    },
-    {
-      "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 20:24:28 GMT",
-      "description": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service."
-    },
-    {
-      "title": "Trump says US position on Falklands 'one of many' under review",
-      "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 16:35:28 GMT",
-      "description": "The UK says Falkland islanders \"are British with a right to determine their own future\"."
-    },
-    {
-      "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
-      "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 18:26:12 GMT",
-      "description": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago."
-    },
-    {
-      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 10:30:55 GMT",
-      "description": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region."
+      "title": "Could the man who murdered a Christian missionary and his sons walk free in India?",
+      "link": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 01 Sep 2026 22:32:30 GMT",
+      "description": "Dara Singh is serving a life sentence for burning alive Graham Staines and his two sons in Odisha in 1999."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "U.S. military strikes Iran, while Trump vows more for Tehran&apos;s retaliation",
+        "link": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
+        "pubDate": "Wed, 02 Sep 2026 02:15:11 -0400",
+        "description": "The U.S. military hit targets in Iran on Tuesday and Tehran fired missiles and drones at various sites across the region in response as hostilities flare once again in an intermittent war."
+      },
       {
         "title": "Incumbent Sen. Ed Markey wins Massachusetts&apos; Democratic primary for US Senate",
         "link": "https://www.npr.org/2026/09/01/nx-s1-5953111/ed-markey-wins-massachusetts-democratic-primary-us-senate-seth-moulton",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
         "pubDate": "Tue, 01 Sep 2026 06:00:00 -0400",
         "description": "A whistleblower says the U.S. Postal Service is rushing out an online system for President Trump&apos;s push to restrict mail voting that could &quot;derail&quot; the midterm election if courts allow "
-      },
-      {
-        "title": "A makeover for college: No gym, no meal plan and two years of work",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5935431/college-reinvented-vermont-work-experience",
-        "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
-        "description": "A new model in Vermont emphasizes hands-on learning while stripping away frills like gyms and meal plans that increase costs. Other newly created institutions are also reimagining college."
       }
     ],
     "Canada": []
