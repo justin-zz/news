@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-01T23:45:09.714Z",
+  "updated": "2026-09-02T02:39:36.309Z",
   "world": [
     {
       "title": "Germany says Russia behind Leipzig airport drone attack",
       "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 21:05:22 GMT",
+      "pubDate": "Wed, 02 Sep 2026 01:59:54 GMT",
       "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August."
     },
     {
-      "title": "US strikes Iran as state media reports four killed at wedding party",
+      "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
       "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 21:48:28 GMT",
+      "pubDate": "Wed, 02 Sep 2026 00:13:26 GMT",
       "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Incumbent Sen. Ed Markey wins Massachusetts&apos; Democratic primary for US Senate",
+        "link": "https://www.npr.org/2026/09/01/nx-s1-5953111/ed-markey-wins-massachusetts-democratic-primary-us-senate-seth-moulton",
+        "pubDate": "Tue, 01 Sep 2026 20:38:46 -0400",
+        "description": "Bucking a push for younger leadership this election season, Sen. Ed Markey, 80, won the Democratic nomination against Rep. Seth Moulton, 47, who said that his party needed new leaders."
+      },
+      {
         "title": "North Carolina Rep. Chuck Edwards is formally censured over harassment allegations",
         "link": "https://www.npr.org/2026/09/01/nx-s1-5951561/chuck-edwards-house-censure-vote",
         "pubDate": "Tue, 01 Sep 2026 18:18:20 -0400",
@@ -137,7 +143,7 @@
         "description": "Georgetown Law professor Stephen Vladeck explains the separation-of-powers questions raised by the Supreme Court&apos;s decision on the White House ballroom."
       },
       {
-        "title": "Whistleblower claims USPS plan for Trump&apos;s mail voting order could &apos;derail&apos; midterms",
+        "title": "USPS &apos;carefully reviewing&apos; whistleblower claim on plan for Trump&apos;s mail in voting order",
         "link": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
         "pubDate": "Tue, 01 Sep 2026 06:00:00 -0400",
         "description": "A whistleblower says the U.S. Postal Service is rushing out an online system for President Trump&apos;s push to restrict mail voting that could &quot;derail&quot; the midterm election if courts allow "
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/01/nx-s1-5935431/college-reinvented-vermont-work-experience",
         "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
         "description": "A new model in Vermont emphasizes hands-on learning while stripping away frills like gyms and meal plans that increase costs. Other newly created institutions are also reimagining college."
-      },
-      {
-        "title": "&apos;It can outthink me&apos;: How a major manufacturer came to embrace AI",
-        "link": "https://www.npr.org/2026/09/01/nx-s1-5869801/ai-manufacturing-jobs-data-factory",
-        "pubDate": "Tue, 01 Sep 2026 05:00:00 -0400",
-        "description": "GE Appliances is leaning heavily into artificial intelligence to improve quality and efficiency on the factory floor."
       }
     ],
     "Canada": []
