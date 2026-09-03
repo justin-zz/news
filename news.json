@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-03T04:53:49.336Z",
+  "updated": "2026-09-03T09:25:09.525Z",
   "world": [
+    {
+      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 06:01:54 GMT",
+      "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies."
+    },
+    {
+      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+      "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 05:00:04 GMT",
+      "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found."
+    },
+    {
+      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 08:14:17 GMT",
+      "description": "Pedro Sánchez tells parliament it is absurd to think the government knew and did nothing, after thousands join protests in Spanish cities."
+    },
     {
       "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
       "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&amp;at_campaign=rss",
@@ -8,28 +26,10 @@
       "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday."
     },
     {
-      "title": "Protests in Spain against government's handling of Ceuta migrant crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 21:34:27 GMT",
-      "description": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta."
-    },
-    {
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 03:21:24 GMT",
-      "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
-    },
-    {
-      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-      "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 11:47:11 GMT",
-      "description": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions."
-    },
-    {
-      "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
-      "link": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 20:12:32 GMT",
-      "description": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial."
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 03:39:53 GMT",
+      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\""
     },
     {
       "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
@@ -38,10 +38,34 @@
       "description": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017."
     },
     {
-      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 17:21:00 GMT",
-      "description": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\"."
+      "title": "Sydney police investigate second possible mistaken identity killing in two days",
+      "link": "https://www.bbc.co.uk/news/articles/c23x4yd9zz2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 00:40:29 GMT",
+      "description": "Wednesday's fatal shooting of a man in his 40s comes after a university student was gunned down on Tuesday."
+    },
+    {
+      "title": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease",
+      "link": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 23:47:02 GMT",
+      "description": "The British actor had significant conditions, cited on his death certificate in Los Angeles County."
+    },
+    {
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 03:21:24 GMT",
+      "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
+    },
+    {
+      "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
+      "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 23:53:28 GMT",
+      "description": "The 46-year-old figure of international intrigue has an apparent knack for being in the right place at the right time."
+    },
+    {
+      "title": "LA Clippers fined $30m over Leonard pay scandal",
+      "link": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 06:17:37 GMT",
+      "description": "The LA Clippers are fined $30m by the NBA for violating salary rules in order to funnel millions of dollars to star player Kawhi Leonard."
     },
     {
       "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
@@ -50,50 +74,62 @@
       "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East."
     },
     {
-      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
-      "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 10:04:28 GMT",
-      "description": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism."
+      "title": "Could Lindsay Clancy trial end in a mistrial? Here are the jury's options",
+      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 02 Sep 2026 23:56:29 GMT",
+      "description": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children."
     },
     {
-      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-      "link": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 20:21:04 GMT",
-      "description": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services."
+      "title": "Why Nepal floods should worry India",
+      "link": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 00:58:44 GMT",
+      "description": "The disaster comes as a warning as climate change raises shared Himalayan risks."
     },
     {
-      "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
-      "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 17:05:09 GMT",
-      "description": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court."
-    },
-    {
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 16:12:43 GMT",
-      "description": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine."
-    },
-    {
-      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 11:51:46 GMT",
-      "description": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children."
-    },
-    {
-      "title": "South African airline behind daring stadium stunt cancels next flyby",
-      "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 21:21:08 GMT",
-      "description": "The civil aviation authority says it is also investigating last Saturday's aerial display."
-    },
-    {
-      "title": "Ariana Grande makes emotional tour exit and steps back from public life",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 01 Sep 2026 21:41:05 GMT",
-      "description": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\"."
+      "title": "'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media",
+      "link": "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 00:58:50 GMT",
+      "description": "More than 80 people have been killed in the mob violence, the BBC finds after gathering data from six African nations."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "He tried to eliminate FEMA. Now he says the Trump administration has changed course",
+        "link": "https://www.npr.org/2026/09/03/nx-s1-5943052/fema-trump-flood-wildfire-hurricane-disaster",
+        "pubDate": "Thu, 03 Sep 2026 05:00:00 -0400",
+        "description": "David Richardson worked to eliminate the country&apos;s top disaster agency when he led FEMA last year. Now, he says the administration has abandoned that goal."
+      },
+      {
+        "title": "Democrats demand Homeland Security officials fund election security ahead of midterms",
+        "link": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
+        "pubDate": "Thu, 03 Sep 2026 05:00:00 -0400",
+        "description": "The lawmakers wrote that they share &quot;grave concern that time is running out … to assist state and local election officials in protecting our elections from cyber and mis-and disinformation threat"
+      },
+      {
+        "title": "As millions of kids lose SNAP food benefits, free school meals are also at risk",
+        "link": "https://www.npr.org/2026/09/03/nx-s1-5954205/snap-food-free-school-lunch-usda",
+        "pubDate": "Thu, 03 Sep 2026 05:00:00 -0400",
+        "description": "Food stamps have a direct link to other critical resources, such as free breakfast and lunch at school. Now, experts say they&apos;re starting to see that link break."
+      },
+      {
+        "title": "Morning News Brief",
+        "link": "https://www.npr.org/2026/09/03/nx-s1-5947221/morning-news-brief",
+        "pubDate": "Thu, 03 Sep 2026 04:03:57 -0400",
+        "description": "Exodus of experienced military leadership continues in the Pentagon, Trump touts Venezuela oil deal as critics question legality, the jury is deadlocked in the trial of Lindsay Clancy."
+      },
+      {
+        "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+        "link": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
+        "pubDate": "Thu, 03 Sep 2026 03:04:25 -0400",
+        "description": "China&apos;s President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China&apos;s growing ambitions at a time when U.S. influence has been weakened by its war "
+      },
+      {
+        "title": "Ex-Venezuelan President Nicolás Maduro and wife seek to end drug charges case on immunity grounds",
+        "link": "https://www.npr.org/2026/09/03/g-s1-141764/ex-venezuelan-president-nicolas-maduro-and-wife-seek-to-end-drug-charges-case-on-immunity-grounds",
+        "pubDate": "Thu, 03 Sep 2026 02:39:19 -0400",
+        "description": "Former Venezuelan President Nicolás Maduro and his wife have asked a judge to dismiss the drug trafficking indictment against them on the grounds that they have immunity as the leader and first lady o"
+      },
       {
         "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
         "link": "https://www.npr.org/2026/09/02/nx-s1-5954825/nba-suspends-clippers-owner-ballmer-fines-team-30m-kawhi-leonard-700k-in-cap-circumvention-case",
@@ -117,42 +153,6 @@
         "link": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
         "pubDate": "Wed, 02 Sep 2026 14:17:19 -0400",
         "description": "If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspe"
-      },
-      {
-        "title": "New immigration court tactic leads to huge lines and chaos in Miami",
-        "link": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
-        "pubDate": "Wed, 02 Sep 2026 12:42:48 -0400",
-        "description": "Chaos unfolds at the Miami immigration court after judges are assigned mega master calendars, hearings where judges see more than 100 immigrants at once."
-      },
-      {
-        "title": "Understanding the tech giants&apos; oversized influence in American schools",
-        "link": "https://www.npr.org/2026/09/02/nx-s1-5953878/understanding-the-tech-giants-oversized-influence-in-american-schools",
-        "pubDate": "Wed, 02 Sep 2026 12:08:31 -0400",
-        "description": "Big tech companies like Apple and Microsoft use devices, training and conferences for teachers and students to embed in schools.&lt;em&gt; The New York Times&apos; &lt;/em&gt;Natasha Singer discusses "
-      },
-      {
-        "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
-        "link": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
-        "pubDate": "Wed, 02 Sep 2026 11:18:09 -0400",
-        "description": "The six-month war has led to a spike in oil prices, roiled the global economy and posed increasing political problems for President Trump&apos;s Republican Party ahead of November midterm elections."
-      },
-      {
-        "title": "Greetings from the Royal Pavilion, a stunning reminder of India in southern England",
-        "link": "https://www.npr.org/2026/09/02/nx-s1-5952243/royal-pavilion-brighton-england-architecture-india",
-        "pubDate": "Wed, 02 Sep 2026 10:30:36 -0400",
-        "description": "Looking up at this 18th century building, it became clear the British didn&apos;t only bring their architectural style to India. They also took some of India&apos;s style home."
-      },
-      {
-        "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
-        "link": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
-        "pubDate": "Wed, 02 Sep 2026 10:08:03 -0400",
-        "description": "Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela."
-      },
-      {
-        "title": "Medical groups offer vaccine guidance to fill federal vacuum",
-        "link": "https://www.npr.org/2026/09/02/nx-s1-5947884/covid-flu-rsv-vaccine-recommendations",
-        "pubDate": "Wed, 02 Sep 2026 10:00:58 -0400",
-        "description": "In the unprecedented absence of federal guidance, leading medical groups are issuing their own recommendations for who should get the COVID-19, flu and RSV immunizations."
       }
     ],
     "Canada": []
