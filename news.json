@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T20:04:27.997Z",
+  "updated": "2026-09-03T22:42:25.567Z",
   "world": [
     {
       "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
@@ -30,6 +30,12 @@
       "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 09:37:34 GMT",
       "description": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels."
+    },
+    {
+      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
+      "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 20:49:05 GMT",
+      "description": "The ICE officer faces federal charges related to the January shooting in Minnesota."
     },
     {
       "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
@@ -84,16 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 03:21:24 GMT",
       "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
-    },
-    {
-      "title": "How Gloria Steinem changed the lives of generations of women",
-      "link": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 11:26:07 GMT",
-      "description": "The trailblazing feminist spoke out for the legalisation of abortion, same-sex marriage and equal pay for women - but her activism was not without backlash."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Leon Black defies subpoena to testify in Epstein inquiry and sues House panel",
+        "link": "https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit",
+        "pubDate": "Thu, 03 Sep 2026 18:19:02 -0400",
+        "description": "The billionaire investor is under two subpoenas from the House Oversight Committee. But in his lawsuit, Black says the panel doesn&apos;t have the authority to compel him to share nondisclosure agreem"
+      },
+      {
+        "title": "Trump asks Supreme Court to lift block on USPS plan to restrict mail voting",
+        "link": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
+        "pubDate": "Thu, 03 Sep 2026 16:48:21 -0400",
+        "description": "The Trump administration has asked the Supreme Court to lift a temporary block on the U.S. Postal Service plan for President Trump&apos;s attempt to restrict mail-in voting for the midterm election."
+      },
       {
         "title": "Tributes to Gloria Steinem are flooding in, from Hollywood to Capitol Hill",
         "link": "https://www.npr.org/2026/09/03/nx-s1-5955579/gloria-steinem-tributes",
@@ -113,10 +125,10 @@
         "description": "The charges represent a rare moment of the Justice Department seeking to hold immigration officers accountable."
       },
       {
-        "title": "Fox News star Maria Bartiromo is out at the network",
+        "title": "Fox News abruptly parts ways with scandal-tarred star Maria Bartiromo",
         "link": "https://www.npr.org/2026/09/03/nx-s1-5955645/maria-bartiromo-fox-news",
         "pubDate": "Thu, 03 Sep 2026 14:05:57 -0400",
-        "description": "Fox News suddently announced it had cut ties with anchor Maria Bartiromo after more than a dozen years."
+        "description": "Fox News abruptly announced it had cut ties with anchor Maria Bartiromo after more than a dozen years."
       },
       {
         "title": "Kissing apes, anti-splash urinals: This year&apos;s Ig Nobels showcase surprising science",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/09/03/nx-s1-5921324/the-general-buster-keaton-anniversary",
         "pubDate": "Thu, 03 Sep 2026 07:00:00 -0400",
         "description": "100 years ago, silent film star Buster Keaton filmed &lt;em&gt;The General&lt;/em&gt; in Cottage Grove, Ore. Fans are gathering there to celebrate the making of an epic early film."
-      },
-      {
-        "title": "As millions of kids lose SNAP food benefits, free school meals are also at risk",
-        "link": "https://www.npr.org/2026/09/03/nx-s1-5954205/snap-food-free-school-lunch-usda",
-        "pubDate": "Thu, 03 Sep 2026 05:00:00 -0400",
-        "description": "Food stamps have a direct link to other critical resources, such as free breakfast and lunch at school. Now, experts say they&apos;re starting to see that link break."
-      },
-      {
-        "title": "Democrats demand Homeland Security officials fund election security ahead of midterms",
-        "link": "https://www.npr.org/2026/09/03/nx-s1-5954541/election-security-midterms-dhs-democrats",
-        "pubDate": "Thu, 03 Sep 2026 05:00:00 -0400",
-        "description": "The lawmakers wrote that they share &quot;grave concern that time is running out … to assist state and local election officials in protecting our elections from cyber and mis-and disinformation threat"
       }
     ],
     "Canada": []
