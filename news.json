@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T13:44:49.308Z",
+  "updated": "2026-09-03T17:29:02.870Z",
   "world": [
     {
       "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
@@ -16,7 +16,7 @@
     {
       "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
       "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 12:57:46 GMT",
+      "pubDate": "Thu, 03 Sep 2026 13:52:18 GMT",
       "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\"."
     },
     {
@@ -26,22 +26,22 @@
       "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found."
     },
     {
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 10:25:43 GMT",
-      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\""
-    },
-    {
       "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 09:53:58 GMT",
+      "pubDate": "Thu, 03 Sep 2026 15:05:57 GMT",
       "description": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops."
     },
     {
-      "title": "US man struck by lightning describes 'horrific' experience",
-      "link": "https://www.bbc.co.uk/news/videos/cz7z93zde3po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 10:01:33 GMT",
-      "description": "Thomas Fahmy says he saw \"a bright white flash\" and instantly fell to the ground."
+      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
+      "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 13:54:49 GMT",
+      "description": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving."
+    },
+    {
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 15:35:47 GMT",
+      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\""
     },
     {
       "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
@@ -68,7 +68,7 @@
       "description": "It comes amid concerns over the growing number of traders from neighbouring countries."
     },
     {
-      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies at 33",
+      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
       "link": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 09:37:34 GMT",
       "description": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels."
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Kissing apes, anti-splash urinals: This year&apos;s Ig Nobels showcase surprising science",
+        "link": "https://www.npr.org/2026/09/03/nx-s1-5950370/ig-nobel-awards-kissing-urinals-move-switzerland",
+        "pubDate": "Thu, 03 Sep 2026 13:00:00 -0400",
+        "description": "The Ig Nobel Prizes were awarded this week for humorous yet thought-provoking research. This year, the ceremony came with a twist."
+      },
       {
         "title": "Dems demand DHS fund election security. And, journalist Gloria Steinem has died",
         "link": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem",
@@ -131,6 +137,12 @@
         "description": "David Richardson worked to eliminate the country&apos;s top disaster agency when he led FEMA last year. Now, he says the administration has abandoned that goal."
       },
       {
+        "title": "Veteran political journalist on division among Democrats over democratic socialism",
+        "link": "https://www.npr.org/2026/09/03/nx-s1-5910644/veteran-political-journalist-on-division-among-democrats-over-democratic-socialism",
+        "pubDate": "Thu, 03 Sep 2026 04:08:56 -0400",
+        "description": "NPR&apos;s Michel Martin speaks with CNN senior political analyst Ron Brownstein about the Democratic Party&apos;s division over embracing democratic socialism."
+      },
+      {
         "title": "Morning News Brief",
         "link": "https://www.npr.org/2026/09/03/nx-s1-5947221/morning-news-brief",
         "pubDate": "Thu, 03 Sep 2026 04:03:57 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
         "pubDate": "Thu, 03 Sep 2026 03:04:25 -0400",
         "description": "China&apos;s President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China&apos;s growing ambitions at a time when U.S. influence has been weakened by its war "
-      },
-      {
-        "title": "Ex-Venezuelan President Nicolás Maduro and wife seek to end drug charges case on immunity grounds",
-        "link": "https://www.npr.org/2026/09/03/g-s1-141764/ex-venezuelan-president-nicolas-maduro-and-wife-seek-to-end-drug-charges-case-on-immunity-grounds",
-        "pubDate": "Thu, 03 Sep 2026 02:39:19 -0400",
-        "description": "Former Venezuelan President Nicolás Maduro and his wife have asked a judge to dismiss the drug trafficking indictment against them on the grounds that they have immunity as the leader and first lady o"
-      },
-      {
-        "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
-        "link": "https://www.npr.org/2026/09/02/nx-s1-5954825/nba-suspends-clippers-owner-ballmer-fines-team-30m-kawhi-leonard-700k-in-cap-circumvention-case",
-        "pubDate": "Wed, 02 Sep 2026 17:59:14 -0400",
-        "description": "Los Angeles Clippers owner Steve Ballmer was suspended for one year by the NBA, and the team was ordered to pay $30 million for violating salary cap circumvention rules in a case involving Kawhi Leona"
       }
     ],
     "Canada": []
