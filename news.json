@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T17:27:40.171Z",
+  "updated": "2026-09-04T19:47:42.376Z",
   "world": [
     {
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -44,6 +44,12 @@
       "description": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires."
     },
     {
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 19:44:40 GMT",
+      "description": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it."
+    },
+    {
       "title": "US diesel prices hit an all-time-high",
       "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 04 Sep 2026 10:52:56 GMT",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 06:01:54 GMT",
       "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies."
-    },
-    {
-      "title": "Around 2,000 fall ill in Indonesia after eating free school meals",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 15:48:06 GMT",
-      "description": "Authorities are investigating several suspected outbreaks amid growing criticism of the scheme."
     }
   ],
   "regions": {
@@ -101,10 +101,10 @@
         "description": "The global effort to end child marriage is in the news. In the U.S., there&apos;s a new bill before Congress (but it&apos;s controversial). And the U.N. is designating a day dedicated to ending the pr"
       },
       {
-        "title": "Not a mistrial, yet. Clancy&apos;s lawyer asks for emergency appeal in her murder trial",
+        "title": "With jury deadlocked, judge declares a mistrial in Lindsay Clancy&apos;s murder case",
         "link": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
         "pubDate": "Fri, 04 Sep 2026 12:20:30 -0400",
-        "description": "The judge was on the verge of declaring a mistrial in Lindsay Clancy&apos;s murder case. Then her defense attorney requested time to seek an emergency stay from the Supreme Judicial Court of Massachus"
+        "description": "The judge in Lindsay Clancy&apos;s murder case has declared a mistrial after the jury was unable to agree on a verdict."
       },
       {
         "title": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differently",
@@ -131,16 +131,16 @@
         "description": "Trump has asked the Supreme Court to lift the block on his plan for the USPS to restrict mail voting ahead of the midterm elections. And, diesel prices have reached a record high."
       },
       {
-        "title": "Germany&apos;s far-right AfD party is poised for power in a state election",
-        "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
-        "pubDate": "Fri, 04 Sep 2026 06:00:00 -0400",
-        "description": "Germany&apos;s AfD&apos;s TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II."
-      },
-      {
         "title": "Scientists map key protein interactions linked with profound autism",
         "link": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
         "pubDate": "Fri, 04 Sep 2026 06:00:00 -0400",
         "description": "Research published in the journal &lt;em&gt;Science&lt;/em&gt; illuminates a &quot;missing piece&quot; in the biological understanding of profound autism and offers new targets for drug development."
+      },
+      {
+        "title": "Germany&apos;s far-right AfD party is poised for power in a state election",
+        "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+        "pubDate": "Fri, 04 Sep 2026 06:00:00 -0400",
+        "description": "Germany&apos;s AfD&apos;s TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II."
       },
       {
         "title": "What app surged in downloads after Trump&apos;s &apos;Lake America&apos; change? The quiz knows",
@@ -149,10 +149,10 @@
         "description": "Plus: George Santos is back in the news!"
       },
       {
-        "title": "Dry eyes are common in women. Here&apos;s why you shouldn&apos;t ignore them",
-        "link": "https://www.npr.org/2026/09/04/nx-s1-5954560/dry-eyes-women-menopause-perimenopause",
+        "title": "Who owns the beach? A heated battle plays out in the Florida Panhandle",
+        "link": "https://www.npr.org/2026/09/04/nx-s1-5935575/beach-access-battle-florida-panhandle",
         "pubDate": "Fri, 04 Sep 2026 05:00:00 -0400",
-        "description": "Research suggests that around half of all women in the menopausal transition years experience symptoms, like red, watery or gritty-feeling eyes. Hormonal shifts play a role, as do many other factors."
+        "description": "After years of fighting over who gets to use the beach, and where, in Walton County, Florida, public-use advocates are calling for a state constitutional amendment to finally settle the matter."
       }
     ],
     "Canada": []
