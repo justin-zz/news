@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-03T22:42:25.567Z",
+  "updated": "2026-09-04T00:42:02.941Z",
   "world": [
+    {
+      "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 16:16:49 GMT",
+      "description": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran."
+    },
+    {
+      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 22:19:59 GMT",
+      "description": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday."
+    },
     {
       "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
       "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&amp;at_campaign=rss",
@@ -8,16 +20,28 @@
       "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies."
     },
     {
-      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 11:35:52 GMT",
-      "description": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues."
+      "title": "Transplanted pig kidney works in US man's body for record 271 days",
+      "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 22:31:23 GMT",
+      "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant."
     },
     {
       "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
       "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 18:04:34 GMT",
       "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\"."
+    },
+    {
+      "title": "Around 2,000 fall ill in Indonesia after eating free school meals",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 15:48:06 GMT",
+      "description": "Authorities are investigating several suspected outbreaks amid growing criticism of the scheme."
+    },
+    {
+      "title": "US billionaire Leon Black defies summons and sues Epstein panel",
+      "link": "https://www.bbc.co.uk/news/articles/cddve618plzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 03 Sep 2026 18:14:57 GMT",
+      "description": "The lawsuit calls the House Oversight Committee's subpoenas, which ordered him to share nondisclosure agreements, \"invalid\"."
     },
     {
       "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
@@ -66,34 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 13:07:02 GMT",
       "description": "The US vice-president recently mused with a Christian podcast host on whether the end of the world was nigh."
-    },
-    {
-      "title": "Kenyan president orders crackdown on foreigners operating small businesses",
-      "link": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 10:59:14 GMT",
-      "description": "It comes amid concerns over the growing number of traders from neighbouring countries."
-    },
-    {
-      "title": "Sydney police investigate second possible mistaken identity killing in two days",
-      "link": "https://www.bbc.co.uk/news/articles/c23x4yd9zz2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 00:40:29 GMT",
-      "description": "Wednesday's fatal shooting of a man in his 40s comes after a university student was gunned down on Tuesday."
-    },
-    {
-      "title": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease",
-      "link": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 02 Sep 2026 23:47:02 GMT",
-      "description": "The British actor had significant conditions, cited on his death certificate in Los Angeles County."
-    },
-    {
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 03:21:24 GMT",
-      "description": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "The Trump administration still aims to make state citizenship lists ahead of midterms",
+        "link": "https://www.npr.org/2026/09/03/nx-s1-5955822/voting-citizenship-lists-dhs-uscis-lawsuit",
+        "pubDate": "Thu, 03 Sep 2026 19:59:35 -0400",
+        "description": "The Trump administration is taking the unprecedented step of creating lists of adult citizens who are eligible to vote in each state – but will not meet its own deadline 60 days before Election Day."
+      },
       {
         "title": "Leon Black defies subpoena to testify in Epstein inquiry and sues House panel",
         "link": "https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/03/nx-s1-5718381/gloria-steinem-dies",
         "pubDate": "Thu, 03 Sep 2026 07:14:24 -0400",
         "description": "At a time when women were largely limited to domestic roles, Steinem challenged gender stereotypes and championed feminist ideals like equality, sisterhood and reproductive freedom."
-      },
-      {
-        "title": "An epic train chase is turning 100 — and Buster Keaton fans are celebrating",
-        "link": "https://www.npr.org/2026/09/03/nx-s1-5921324/the-general-buster-keaton-anniversary",
-        "pubDate": "Thu, 03 Sep 2026 07:00:00 -0400",
-        "description": "100 years ago, silent film star Buster Keaton filmed &lt;em&gt;The General&lt;/em&gt; in Cottage Grove, Ore. Fans are gathering there to celebrate the making of an epic early film."
       }
     ],
     "Canada": []
