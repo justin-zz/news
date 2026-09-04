@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-04T13:57:49.086Z",
+  "updated": "2026-09-04T17:27:40.171Z",
   "world": [
     {
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
       "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 10:00:18 GMT",
+      "pubDate": "Fri, 04 Sep 2026 16:49:15 GMT",
       "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere."
     },
     {
-      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
-      "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 08:23:05 GMT",
-      "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors."
+      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 14:40:00 GMT",
+      "description": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river."
     },
     {
       "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
@@ -20,16 +20,34 @@
       "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory."
     },
     {
-      "title": "US diesel prices hit an all-time-high",
-      "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 10:52:56 GMT",
-      "description": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices."
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 16:02:32 GMT",
+      "description": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital."
     },
     {
       "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
       "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 04 Sep 2026 04:06:41 GMT",
       "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming."
+    },
+    {
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 16:30:50 GMT",
+      "description": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled."
+    },
+    {
+      "title": "Argentine couple to return Nazi-looted painting to rightful owner",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 17:14:21 GMT",
+      "description": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires."
+    },
+    {
+      "title": "US diesel prices hit an all-time-high",
+      "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 04 Sep 2026 10:52:56 GMT",
+      "description": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices."
     },
     {
       "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
@@ -72,28 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 03 Sep 2026 15:48:06 GMT",
       "description": "Authorities are investigating several suspected outbreaks amid growing criticism of the scheme."
-    },
-    {
-      "title": "US billionaire Leon Black defies summons and sues Epstein panel",
-      "link": "https://www.bbc.co.uk/news/articles/cddve618plzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 18:14:57 GMT",
-      "description": "The lawsuit calls the House Oversight Committee's subpoenas, which ordered him to share nondisclosure agreements, \"invalid\"."
-    },
-    {
-      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-      "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 03 Sep 2026 18:04:34 GMT",
-      "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\"."
-    },
-    {
-      "title": "How could US-Iran conflict end? Three experts give their views",
-      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT",
-      "description": "After renewed strikes this week, does either side have an exit strategy?"
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Whatever happened to the U.S. campaign to ban child marriage?",
+        "link": "https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global",
+        "pubDate": "Fri, 04 Sep 2026 13:01:24 -0400",
+        "description": "The global effort to end child marriage is in the news. In the U.S., there&apos;s a new bill before Congress (but it&apos;s controversial). And the U.N. is designating a day dedicated to ending the pr"
+      },
+      {
+        "title": "Not a mistrial, yet. Clancy&apos;s lawyer asks for emergency appeal in her murder trial",
+        "link": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
+        "pubDate": "Fri, 04 Sep 2026 12:20:30 -0400",
+        "description": "The judge was on the verge of declaring a mistrial in Lindsay Clancy&apos;s murder case. Then her defense attorney requested time to seek an emergency stay from the Supreme Judicial Court of Massachus"
+      },
+      {
+        "title": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differently",
+        "link": "https://www.npr.org/2026/09/04/nx-s1-5955821/pulling-the-snap-lever-why-gen-zers-bet-invest-differently",
+        "pubDate": "Fri, 04 Sep 2026 11:04:53 -0400",
+        "description": "Changing SNAP eligibility actually can change consumption habits."
+      },
       {
         "title": "Philippine vice president is ordered arrested for threats against the president",
         "link": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
@@ -113,16 +131,16 @@
         "description": "Trump has asked the Supreme Court to lift the block on his plan for the USPS to restrict mail voting ahead of the midterm elections. And, diesel prices have reached a record high."
       },
       {
-        "title": "Scientists map key protein interactions linked with profound autism",
-        "link": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
-        "pubDate": "Fri, 04 Sep 2026 06:00:00 -0400",
-        "description": "Research published in the journal &lt;em&gt;Science&lt;/em&gt; illuminates a &quot;missing piece&quot; in the biological understanding of profound autism and offers new targets for drug development."
-      },
-      {
         "title": "Germany&apos;s far-right AfD party is poised for power in a state election",
         "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
         "pubDate": "Fri, 04 Sep 2026 06:00:00 -0400",
         "description": "Germany&apos;s AfD&apos;s TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II."
+      },
+      {
+        "title": "Scientists map key protein interactions linked with profound autism",
+        "link": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
+        "pubDate": "Fri, 04 Sep 2026 06:00:00 -0400",
+        "description": "Research published in the journal &lt;em&gt;Science&lt;/em&gt; illuminates a &quot;missing piece&quot; in the biological understanding of profound autism and offers new targets for drug development."
       },
       {
         "title": "What app surged in downloads after Trump&apos;s &apos;Lake America&apos; change? The quiz knows",
@@ -131,28 +149,10 @@
         "description": "Plus: George Santos is back in the news!"
       },
       {
-        "title": "Who owns the beach? A heated battle plays out in the Florida Panhandle",
-        "link": "https://www.npr.org/2026/09/04/nx-s1-5935575/beach-access-battle-florida-panhandle",
-        "pubDate": "Fri, 04 Sep 2026 05:00:00 -0400",
-        "description": "After years of fighting over who gets to use the beach, and where, in Walton County, Florida, public-use advocates are calling for a state constitutional amendment to finally settle the matter."
-      },
-      {
-        "title": "Federal civil rights data about students is finally out. It&apos;s different under Trump",
-        "link": "https://www.npr.org/2026/09/04/nx-s1-5955681/civil-rights-data-schools-trump",
-        "pubDate": "Fri, 04 Sep 2026 05:00:00 -0400",
-        "description": "The Education Department gathers a massive tranche of civil rights data about public school students. It&apos;s now available but harder to parse than in the past."
-      },
-      {
         "title": "Dry eyes are common in women. Here&apos;s why you shouldn&apos;t ignore them",
         "link": "https://www.npr.org/2026/09/04/nx-s1-5954560/dry-eyes-women-menopause-perimenopause",
         "pubDate": "Fri, 04 Sep 2026 05:00:00 -0400",
         "description": "Research suggests that around half of all women in the menopausal transition years experience symptoms, like red, watery or gritty-feeling eyes. Hormonal shifts play a role, as do many other factors."
-      },
-      {
-        "title": "Trump already tried to hurt Iran with sanctions once - and it didn&apos;t work",
-        "link": "https://www.npr.org/2026/09/04/nx-s1-5945582/trump-already-tried-to-hurt-iran-with-sanctions-once-and-it-didnt-work",
-        "pubDate": "Fri, 04 Sep 2026 04:06:02 -0400",
-        "description": "President Trump is again hoping to use economic pressure to force Iran to the negotiating table."
       }
     ],
     "Canada": []
