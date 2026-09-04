@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T19:47:42.376Z",
+  "updated": "2026-09-04T22:03:35.906Z",
   "world": [
     {
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -34,7 +34,7 @@
     {
       "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
       "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 16:30:50 GMT",
+      "pubDate": "Fri, 04 Sep 2026 20:03:52 GMT",
       "description": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled."
     },
     {
@@ -95,6 +95,24 @@
   "regions": {
     "US": [
       {
+        "title": "4 things investigators learned about the dysfunction at Trump&apos;s Labor Department",
+        "link": "https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer",
+        "pubDate": "Fri, 04 Sep 2026 17:47:19 -0400",
+        "description": "A report from Labor Department investigators found former Labor Secretary Lori Chavez-DeRemer violated her own department&apos;s policy prohibiting harassment. She resigned in April."
+      },
+      {
+        "title": "&apos;Hidden tribunals:&apos; Immigration court due process in tumult with new locations",
+        "link": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
+        "pubDate": "Fri, 04 Sep 2026 17:11:56 -0400",
+        "description": "The new effort appears to be another tactic in a broader Trump administration strategy to short-circuit immigrants&apos; already limited due process options in order to speed deportations."
+      },
+      {
+        "title": "Trump&apos;s arch may break ground without final approval. Veterans are trying to stop it",
+        "link": "https://www.npr.org/2026/09/04/nx-s1-5957459/trump-arch-excavation-lawsuit-veterans",
+        "pubDate": "Fri, 04 Sep 2026 16:15:05 -0400",
+        "description": "Interior Secretary Doug Burgum says &quot;excavation work&quot; will begin in the next two weeks, without approval from a key federal body. Veterans who sued over the arch want a judge to intervene be"
+      },
+      {
         "title": "Whatever happened to the U.S. campaign to ban child marriage?",
         "link": "https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global",
         "pubDate": "Fri, 04 Sep 2026 13:01:24 -0400",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
         "pubDate": "Fri, 04 Sep 2026 06:00:00 -0400",
         "description": "Research published in the journal &lt;em&gt;Science&lt;/em&gt; illuminates a &quot;missing piece&quot; in the biological understanding of profound autism and offers new targets for drug development."
-      },
-      {
-        "title": "Germany&apos;s far-right AfD party is poised for power in a state election",
-        "link": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
-        "pubDate": "Fri, 04 Sep 2026 06:00:00 -0400",
-        "description": "Germany&apos;s AfD&apos;s TikTok-fueled rise in Saxony-Anhalt is raising fears the country could see its first far-right governor since World War II."
-      },
-      {
-        "title": "What app surged in downloads after Trump&apos;s &apos;Lake America&apos; change? The quiz knows",
-        "link": "https://www.npr.org/2026/09/04/g-s1-141602/what-app-surged-in-downloads-after-trumps-lake-america-change-the-quiz-knows",
-        "pubDate": "Fri, 04 Sep 2026 05:01:00 -0400",
-        "description": "Plus: George Santos is back in the news!"
-      },
-      {
-        "title": "Who owns the beach? A heated battle plays out in the Florida Panhandle",
-        "link": "https://www.npr.org/2026/09/04/nx-s1-5935575/beach-access-battle-florida-panhandle",
-        "pubDate": "Fri, 04 Sep 2026 05:00:00 -0400",
-        "description": "After years of fighting over who gets to use the beach, and where, in Walton County, Florida, public-use advocates are calling for a state constitutional amendment to finally settle the matter."
       }
     ],
     "Canada": []
