@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-05T17:26:47.651Z",
+  "updated": "2026-09-05T19:16:55.408Z",
   "world": [
     {
       "title": "US envoys meet Putin in Moscow for Ukraine talks",
       "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 17:18:31 GMT",
-      "description": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\"."
+      "pubDate": "Sat, 05 Sep 2026 19:01:31 GMT",
+      "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\"."
     },
     {
       "title": "US hits three Iranian oil tankers after saying its warships were targeted",
       "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 17:15:05 GMT",
+      "pubDate": "Sat, 05 Sep 2026 18:48:37 GMT",
       "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm."
     },
     {
@@ -113,6 +113,12 @@
         "description": "The Trump administration says it will break ground on a 250-foot triumphal arch in Washington, D.C., without final federal approval and despite an ongoing lawsuit."
       },
       {
+        "title": "U.S.-Venezuela oil deal puts opposition in a political bind",
+        "link": "https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy",
+        "pubDate": "Sat, 05 Sep 2026 07:43:14 -0400",
+        "description": "Venezuelan opposition members are uneasy with new oil deals with the U.S., worried that agreements with authoritarian regime in Caracas could undermine democratic progress."
+      },
+      {
         "title": "Whatever happened to the floating schools of Bangladesh?",
         "link": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
         "pubDate": "Sat, 05 Sep 2026 07:26:09 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
         "pubDate": "Fri, 04 Sep 2026 18:26:35 -0400",
         "description": "The U.N. has backed a new map showing Africa in its true relative size, with the U.S. standing alone in opposition."
-      },
-      {
-        "title": "4 things investigators learned about the dysfunction at Trump&apos;s Labor Department",
-        "link": "https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer",
-        "pubDate": "Fri, 04 Sep 2026 17:47:19 -0400",
-        "description": "A report from Labor Department investigators found former Labor Secretary Lori Chavez-DeRemer violated her own department&apos;s policy prohibiting harassment. She resigned in April."
       }
     ],
     "Canada": []
