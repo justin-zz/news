@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-05T19:16:55.408Z",
+  "updated": "2026-09-05T21:27:50.915Z",
   "world": [
     {
       "title": "US envoys meet Putin in Moscow for Ukraine talks",
       "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 19:01:31 GMT",
+      "pubDate": "Sat, 05 Sep 2026 20:15:49 GMT",
       "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\"."
     },
     {
       "title": "US hits three Iranian oil tankers after saying its warships were targeted",
       "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 18:48:37 GMT",
-      "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm."
+      "pubDate": "Sat, 05 Sep 2026 20:41:59 GMT",
+      "description": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment."
     },
     {
       "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Jazz legend John Coltrane&apos;s Philadelphia house to become a cultural heritage site",
+        "link": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
+        "pubDate": "Sat, 05 Sep 2026 17:01:10 -0400",
+        "description": "On the centennial of father&apos;s birth, Ravi Coltrane talks about turning the home where the jazz legend spent a crucial period in the 1950s into a cultural heritage and community space."
+      },
+      {
         "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
         "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
         "pubDate": "Sat, 05 Sep 2026 11:05:08 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
         "pubDate": "Sat, 05 Sep 2026 03:21:10 -0400",
         "description": "Philippines Vice President Sara Duterte has posted bail after order issued for her arrest on charges she publicly threatened to arrange assassination of President Ferdinand Marcos Jr. and two others."
-      },
-      {
-        "title": "The U.N. backs a new world map showing Africa in its true relative size",
-        "link": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
-        "pubDate": "Fri, 04 Sep 2026 18:26:35 -0400",
-        "description": "The U.N. has backed a new map showing Africa in its true relative size, with the U.S. standing alone in opposition."
       }
     ],
     "Canada": []
