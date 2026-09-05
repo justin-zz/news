@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T04:46:36.762Z",
+  "updated": "2026-09-05T08:46:48.200Z",
   "world": [
     {
       "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
@@ -28,7 +28,7 @@
     {
       "title": "At least two dead in blast at Bolivia military barracks",
       "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 02:59:40 GMT",
+      "pubDate": "Sat, 05 Sep 2026 08:41:38 GMT",
       "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions."
     },
     {
@@ -50,12 +50,6 @@
       "description": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river."
     },
     {
-      "title": "Tate brothers charged with further trafficking and sex crimes in Romania",
-      "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 02:29:21 GMT",
-      "description": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations."
-    },
-    {
       "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
       "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 04 Sep 2026 11:54:51 GMT",
@@ -74,16 +68,22 @@
       "description": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer."
     },
     {
+      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 06:37:46 GMT",
+      "description": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder."
+    },
+    {
+      "title": "Why are European countries moving their gold out of North America?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 01:42:09 GMT",
+      "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?"
+    },
+    {
       "title": "How much can Canada fight back in its trade war with the US?",
       "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 05 Sep 2026 02:13:21 GMT",
       "description": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight."
-    },
-    {
-      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
-      "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 01:16:27 GMT",
-      "description": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network."
     },
     {
       "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Philippines Vice President Sara Duterte posts bail after arrest",
+        "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
+        "pubDate": "Sat, 05 Sep 2026 03:21:10 -0400",
+        "description": "Philippines Vice President Sara Duterte has posted bail after order issued for her arrest on charges she publicly threatened to arrange assassination of President Ferdinand Marcos Jr. and two others."
+      },
       {
         "title": "The U.N. backs a new world map showing Africa in its true relative size",
         "link": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
         "pubDate": "Fri, 04 Sep 2026 09:42:10 -0400",
         "description": "It&apos;s part of a political showdown with Marcos. A trial could impact her plans to run for president in 2028."
-      },
-      {
-        "title": "Myanmar military head visits Vietnam to normalize relations",
-        "link": "https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations",
-        "pubDate": "Fri, 04 Sep 2026 09:35:39 -0400",
-        "description": "His trip to Vietnam marks his third visit to an ASEAN member state as he seeks to restore Myanmar&apos;s standing in the bloc."
       }
     ],
     "Canada": []
