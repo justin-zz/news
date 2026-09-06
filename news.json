@@ -1,22 +1,28 @@
 {
-  "updated": "2026-09-06T14:18:18.937Z",
+  "updated": "2026-09-06T17:13:04.955Z",
   "world": [
     {
-      "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+      "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 13:16:21 GMT",
-      "description": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion."
+      "pubDate": "Sun, 06 Sep 2026 15:32:27 GMT",
+      "description": "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion."
     },
     {
-      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+      "title": "German far-right set for big win in eastern state - projections",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 16:59:25 GMT",
+      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%."
+    },
+    {
+      "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
       "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 09:56:39 GMT",
-      "description": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
+      "pubDate": "Sun, 06 Sep 2026 16:00:21 GMT",
+      "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
     },
     {
       "title": "Dozens feared trapped in collapsed building in Delhi",
       "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 14:07:35 GMT",
+      "pubDate": "Sun, 06 Sep 2026 16:54:34 GMT",
       "description": "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
     },
     {
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 04 Sep 2026 16:02:32 GMT",
       "description": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital."
-    },
-    {
-      "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
-      "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 07:20:17 GMT",
-      "description": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "German exit polls suggest far-right party has big lead in regional election",
+        "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-exit-polls-suggest-far-right-party-big-lead-in-regional-election",
+        "pubDate": "Sun, 06 Sep 2026 12:36:48 -0400",
+        "description": "The Alternative for Germany party has a strong lead in a regional election, but it is unclear if it will be able to form Germany&apos;s&apos;s first far-right state government since WWII, exit polls i"
+      },
       {
         "title": "American Muslims are giving Texas barbecue a halal makeover",
         "link": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
@@ -101,10 +107,10 @@
         "description": "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state&apos;s most iconic culinary traditions."
       },
       {
-        "title": "U.S. envoys Witkoff and Kushner land for talks in Kyiv after meeting Putin in Moscow",
+        "title": "Witkoff and Kushner call Kyiv talks &apos;substantive&apos; after Moscow Putin meeting",
         "link": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
         "pubDate": "Sun, 06 Sep 2026 05:51:04 -0400",
-        "description": "U.S. envoys Steve Witkoff and Jared Kushner are set to arrive in Kyiv on Sunday in their first visit to the Ukrainian capital as part of a renewed push for peace in Russia&apos;s full-scale invasion o"
+        "description": "U.S. envoys Steve Witkoff and Jared Kushner held meetings in Kyiv with Ukraine&apos;s President Zelenskyy on Sunday, a day after lengthy conversations with Russian President Putin in Moscow."
       },
       {
         "title": "QUIZ: Ugh, I&apos;ll do it later. How much do you know about procrastination?",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy",
         "pubDate": "Sat, 05 Sep 2026 07:43:14 -0400",
         "description": "Venezuelan opposition members are uneasy with new oil deals with the U.S., worried that agreements with authoritarian regime in Caracas could undermine democratic progress."
-      },
-      {
-        "title": "Whatever happened to the floating schools of Bangladesh?",
-        "link": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
-        "pubDate": "Sat, 05 Sep 2026 07:26:09 -0400",
-        "description": "It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let&apos;s create a floating school to pick them up! Bangladesh pioneered the idea. How&apos;s it doing?"
       }
     ],
     "Canada": []
