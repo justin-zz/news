@@ -1,17 +1,23 @@
 {
-  "updated": "2026-09-06T19:22:39.092Z",
+  "updated": "2026-09-06T21:31:31.609Z",
   "world": [
-    {
-      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 18:33:50 GMT",
-      "description": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv."
-    },
     {
       "title": "German far-right set for big win in eastern state, projections show",
       "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 19:13:51 GMT",
+      "pubDate": "Sun, 06 Sep 2026 20:45:11 GMT",
       "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%."
+    },
+    {
+      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 20:41:58 GMT",
+      "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv."
+    },
+    {
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 20:52:12 GMT",
+      "description": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale."
     },
     {
       "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
@@ -84,21 +90,21 @@
       "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 05 Sep 2026 00:53:11 GMT",
       "description": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it."
-    },
-    {
-      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 16:02:32 GMT",
-      "description": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital."
     }
   ],
   "regions": {
     "US": [
       {
+        "title": "&apos;Multiple patients&apos; after Amazon cargo plane crashes at Miami airport",
+        "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+        "pubDate": "Sun, 06 Sep 2026 15:54:28 -0400",
+        "description": "Video showed thick smoke rising from the plane crash of the Boeing 767 that the Federal Aviation Administration says overran the airport runway in Miami."
+      },
+      {
         "title": "German exit polls suggest far-right party has big lead in regional election",
-        "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-exit-polls-suggest-far-right-party-big-lead-in-regional-election",
+        "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
         "pubDate": "Sun, 06 Sep 2026 12:36:48 -0400",
-        "description": "The Alternative for Germany party has a strong lead in a regional election, but it is unclear if it will be able to form Germany&apos;s&apos;s first far-right state government since WWII, exit polls i"
+        "description": "Exit polls show Germany&apos;s AfD taking a commanding lead in a regional election, but it remains unclear whether the far-right party can form the country&apos;s first state government since World Wa"
       },
       {
         "title": "American Muslims are giving Texas barbecue a halal makeover",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/05/nx-s1-5957875/trump-administration-to-dig-at-triumphal-arch-site-despite-no-final-federal-approvals",
         "pubDate": "Sat, 05 Sep 2026 07:43:24 -0400",
         "description": "The Trump administration says it will break ground on a 250-foot triumphal arch in Washington, D.C., without final federal approval and despite an ongoing lawsuit."
-      },
-      {
-        "title": "U.S.-Venezuela oil deal puts opposition in a political bind",
-        "link": "https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy",
-        "pubDate": "Sat, 05 Sep 2026 07:43:14 -0400",
-        "description": "Venezuelan opposition members are uneasy with new oil deals with the U.S., worried that agreements with authoritarian regime in Caracas could undermine democratic progress."
       }
     ],
     "Canada": []
