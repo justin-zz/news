@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-06T06:15:20.872Z",
+  "updated": "2026-09-06T11:11:46.002Z",
   "world": [
     {
-      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 02:24:16 GMT",
-      "description": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv."
+      "pubDate": "Sun, 06 Sep 2026 10:44:26 GMT",
+      "description": "It is the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv."
     },
     {
       "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
@@ -14,16 +14,16 @@
       "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships."
     },
     {
-      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
       "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 05:04:04 GMT",
+      "pubDate": "Sun, 06 Sep 2026 08:05:22 GMT",
       "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues."
     },
     {
-      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
       "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 06 Sep 2026 05:12:44 GMT",
-      "description": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following volcanic eruptions."
+      "pubDate": "Sun, 06 Sep 2026 09:56:39 GMT",
+      "description": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
     },
     {
       "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
@@ -95,16 +95,40 @@
   "regions": {
     "US": [
       {
+        "title": "American Muslims are giving Texas barbecue a halal makeover",
+        "link": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
+        "pubDate": "Sun, 06 Sep 2026 06:00:00 -0400",
+        "description": "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state&apos;s most iconic culinary traditions."
+      },
+      {
+        "title": "U.S. envoys Witkoff and Kushner set for talks in Kyiv after meeting Putin in Moscow",
+        "link": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+        "pubDate": "Sun, 06 Sep 2026 05:51:04 -0400",
+        "description": "U.S. envoys Steve Witkoff and Jared Kushner are set to arrive in Kyiv on Sunday in their first visit to the Ukrainian capital as part of a renewed push for peace in Russia&apos;s full-scale invasion o"
+      },
+      {
+        "title": "QUIZ: Ugh, I&apos;ll do it later. How much do you know about procrastination?",
+        "link": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
+        "pubDate": "Sun, 06 Sep 2026 05:01:00 -0400",
+        "description": "Learn a few surprising facts about procrastination — and helpful tools to overcome it — with this quiz. It&apos;s based on social scientist Itamar Shatz&apos;s new book, &lt;em&gt;Solving Procrastinat"
+      },
+      {
+        "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it&apos;s alive and well",
+        "link": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
+        "pubDate": "Sun, 06 Sep 2026 04:44:48 -0400",
+        "description": "We asked readers to share stories about a moment of kindness involving a stranger. Here are some of their heartwarming anecdotes."
+      },
+      {
         "title": "Jazz legend John Coltrane&apos;s Philadelphia house to become a cultural heritage site",
         "link": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
         "pubDate": "Sat, 05 Sep 2026 17:01:10 -0400",
         "description": "On the centennial of father&apos;s birth, Ravi Coltrane talks about turning the home where the jazz legend spent a crucial period in the 1950s into a cultural heritage and community space."
       },
       {
-        "title": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
+        "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
         "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
         "pubDate": "Sat, 05 Sep 2026 11:05:08 -0400",
-        "description": "One of the Iranian tankers struck was near a key area in Iran&apos;s oil-export system, according to U.S. Central Command."
+        "description": ""
       },
       {
         "title": "Opinion: A sculpture in perpetual motion, removed",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
         "pubDate": "Sat, 05 Sep 2026 07:26:09 -0400",
         "description": "It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let&apos;s create a floating school to pick them up! Bangladesh pioneered the idea. How&apos;s it doing?"
-      },
-      {
-        "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-        "link": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
-        "pubDate": "Sat, 05 Sep 2026 07:08:57 -0400",
-        "description": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia&apos;s invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air atta"
-      },
-      {
-        "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
-        "link": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
-        "pubDate": "Sat, 05 Sep 2026 05:00:00 -0400",
-        "description": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities."
-      },
-      {
-        "title": "Flock cameras draw opposition from across the political spectrum",
-        "link": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
-        "pubDate": "Sat, 05 Sep 2026 05:00:00 -0400",
-        "description": "As political races heat up heading into the midterms, candidates from both parties are increasingly joining the fray to voice concerns over Flock surveillance cameras."
-      },
-      {
-        "title": "Philippines Vice President Sara Duterte posts bail after arrest",
-        "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
-        "pubDate": "Sat, 05 Sep 2026 03:21:10 -0400",
-        "description": "Philippines Vice President Sara Duterte has posted bail after order issued for her arrest on charges she publicly threatened to arrange assassination of President Ferdinand Marcos Jr. and two others."
       }
     ],
     "Canada": []
