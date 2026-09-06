@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-06T01:10:56.841Z",
+  "updated": "2026-09-06T06:15:20.872Z",
   "world": [
     {
-      "title": "US envoys meet Putin in Moscow for Ukraine talks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 21:39:02 GMT",
-      "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\"."
+      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 02:24:16 GMT",
+      "description": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv."
     },
     {
       "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
@@ -16,14 +16,20 @@
     {
       "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
       "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 21:29:38 GMT",
+      "pubDate": "Sun, 06 Sep 2026 05:04:04 GMT",
       "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues."
     },
     {
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 15:22:41 GMT",
-      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions."
+      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 05:12:44 GMT",
+      "description": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following volcanic eruptions."
+    },
+    {
+      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+      "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 06 Sep 2026 01:54:29 GMT",
+      "description": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house."
     },
     {
       "title": "Prince William to attend King Harald's funeral in Norway",
@@ -38,16 +44,16 @@
       "description": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids."
     },
     {
-      "title": "What different world maps get right - and what they get wrong",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 16:14:24 GMT",
-      "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong."
-    },
-    {
       "title": "Trump signs order to remove endangered species protection for grey wolves",
       "link": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 05 Sep 2026 09:12:48 GMT",
       "description": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations."
+    },
+    {
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 05 Sep 2026 15:22:41 GMT",
+      "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions."
     },
     {
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -80,12 +86,6 @@
       "description": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital."
     },
     {
-      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 14:40:00 GMT",
-      "description": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river."
-    },
-    {
       "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
       "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 05 Sep 2026 07:20:17 GMT",
@@ -101,10 +101,10 @@
         "description": "On the centennial of father&apos;s birth, Ravi Coltrane talks about turning the home where the jazz legend spent a crucial period in the 1950s into a cultural heritage and community space."
       },
       {
-        "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+        "title": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
         "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
         "pubDate": "Sat, 05 Sep 2026 11:05:08 -0400",
-        "description": "The strikes come a day after President Trump appeared to downplay the war with Iran as &quot;small potatoes&quot; during an exchange with reporters in the Oval Office."
+        "description": "One of the Iranian tankers struck was near a key area in Iran&apos;s oil-export system, according to U.S. Central Command."
       },
       {
         "title": "Opinion: A sculpture in perpetual motion, removed",
