@@ -1,11 +1,17 @@
 {
-  "updated": "2026-09-06T23:26:38.516Z",
+  "updated": "2026-09-07T01:12:16.363Z",
   "world": [
     {
       "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
       "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 06 Sep 2026 23:02:45 GMT",
-      "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%."
+      "description": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%."
+    },
+    {
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 00:57:38 GMT",
+      "description": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say."
     },
     {
       "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
@@ -30,6 +36,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 06 Sep 2026 16:54:34 GMT",
       "description": "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
+    },
+    {
+      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 00:01:32 GMT",
+      "description": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling."
     },
     {
       "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
@@ -74,22 +86,10 @@
       "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere."
     },
     {
-      "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
-      "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 04 Sep 2026 12:30:56 GMT",
-      "description": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel."
-    },
-    {
       "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
       "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 04 Sep 2026 23:07:23 GMT",
       "description": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two."
-    },
-    {
-      "title": "UN votes to adopt new world map to reflect Africa's true size",
-      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 05 Sep 2026 00:53:11 GMT",
-      "description": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it."
     }
   ],
   "regions": {
