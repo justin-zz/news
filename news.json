@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-07T21:40:44.701Z",
+  "updated": "2026-09-07T23:56:15.532Z",
   "world": [
+    {
+      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 22:23:03 GMT",
+      "description": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport."
+    },
     {
       "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
       "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&amp;at_campaign=rss",
@@ -30,6 +36,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 15:27:50 GMT",
       "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties."
+    },
+    {
+      "title": "Eiffel Tower shut by staff protest after women moved for religious visit",
+      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 23:46:44 GMT",
+      "description": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative."
     },
     {
       "title": "Nepal observes national day of mourning for victims of flash flood disaster",
@@ -74,22 +86,10 @@
       "description": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges."
     },
     {
-      "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 10:31:01 GMT",
-      "description": "It's not clear how many people were inside the building - or if there are still people under the debris."
-    },
-    {
-      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 05:31:06 GMT",
-      "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials."
-    },
-    {
-      "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
-      "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 04:07:23 GMT",
-      "description": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties."
+      "title": "A food safety officer has become a social media star in India - why?",
+      "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 23:40:39 GMT",
+      "description": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses."
     }
   ],
   "regions": {
