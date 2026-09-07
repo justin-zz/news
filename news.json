@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-07T18:04:11.900Z",
+  "updated": "2026-09-07T21:40:44.701Z",
   "world": [
+    {
+      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+      "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 21:12:37 GMT",
+      "description": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year."
+    },
     {
       "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
       "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&amp;at_campaign=rss",
@@ -20,12 +26,6 @@
       "description": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah."
     },
     {
-      "title": "Investigators begin work on why cargo plane overran Miami runway",
-      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 17:46:25 GMT",
-      "description": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport."
-    },
-    {
       "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
       "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 15:27:50 GMT",
@@ -36,12 +36,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 09:31:26 GMT",
       "description": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period."
-    },
-    {
-      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 05:31:06 GMT",
-      "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials."
     },
     {
       "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
@@ -86,6 +80,12 @@
       "description": "It's not clear how many people were inside the building - or if there are still people under the debris."
     },
     {
+      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 05:31:06 GMT",
+      "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials."
+    },
+    {
       "title": "How significant are AfD's historic gains for Germany and the rest of Europe?",
       "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 04:07:23 GMT",
@@ -107,6 +107,12 @@
         "description": "A cargo plane crash at Miami International Airport has left five people dead and several others injured. And, Germany&apos;s far-right AfD party achieves an electoral victory in a key state election."
       },
       {
+        "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
+        "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
+        "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
+        "description": "The peptide is supposed to deliver flawless and firm skin, promote wound healing and other anti-aging effects. So what&apos;s the evidence behind GHK-Cu?"
+      },
+      {
         "title": "&apos;Her body temperature was 106&apos;: How heat is killing Americans in their homes",
         "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
         "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
@@ -119,19 +125,13 @@
         "description": "Fifth graders calm school kindergartners in Los Angeles. Kids take the &quot;bike bus&quot; in Oklahoma. High school students take in a new high school building in Oregon."
       },
       {
-        "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
-        "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
-        "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
-        "description": "The peptide is supposed to deliver flawless and firm skin, promote wound healing and other anti-aging effects. So what&apos;s the evidence behind GHK-Cu?"
-      },
-      {
         "title": "Morning news brief",
         "link": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
         "pubDate": "Mon, 07 Sep 2026 04:44:02 -0400",
         "description": "Five people are dead after a cargo plane crash at Miami International Airport, Trump&apos;s top envoys go to Ukraine with hopes of restarting peace talks, Germany&apos;s far-right party wins landslide"
       },
       {
-        "title": "At least five dead after Amazon cargo plane crashes at Miami airport",
+        "title": "Investigators seek answers after Amazon cargo plane crash kills five at Miami airport",
         "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
         "pubDate": "Sun, 06 Sep 2026 15:54:28 -0400",
         "description": "An Amazon Prime cargo plane was landing at the airport around 2 p.m. ET on Sunday when it overran the runway, crashed and rammed into vehicles on the ground, according to FAA."
