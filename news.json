@@ -1,35 +1,53 @@
 {
-  "updated": "2026-09-08T08:15:04.714Z",
+  "updated": "2026-09-08T12:58:18.422Z",
   "world": [
     {
       "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
       "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 04:39:14 GMT",
+      "pubDate": "Tue, 08 Sep 2026 12:23:22 GMT",
       "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship."
     },
     {
-      "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-      "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 21:12:37 GMT",
-      "description": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year."
+      "title": "At least two people dead after Russian strikes on Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 10:23:01 GMT",
+      "description": "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday."
     },
     {
-      "title": "Flight recorders recovered from Amazon cargo plane crash",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 22:23:03 GMT",
-      "description": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport."
-    },
-    {
-      "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
       "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 23:46:44 GMT",
-      "description": "An investigation will be launched into the incident, which left female employees \"humiliated\", a union representative says."
+      "pubDate": "Tue, 08 Sep 2026 11:38:07 GMT",
+      "description": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day."
     },
     {
-      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+      "title": "Highest paid world leader to get salary increase of $1 million",
+      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 09:20:05 GMT",
+      "description": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m)."
+    },
+    {
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
+      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 11:09:54 GMT",
+      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands."
+    },
+    {
+      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 09:31:26 GMT",
+      "description": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport."
+    },
+    {
+      "title": "Trial over killing of Australian surfer brothers and US friend starts in Mexico",
       "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 01:32:56 GMT",
-      "description": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads."
+      "description": "The bodies of Jake and Callum Robinson and their US friend Carter Rhoad were found at the bottom of a well with gunshot wounds."
+    },
+    {
+      "title": "Nepal cracks down on online abuse of flood survivors",
+      "link": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 08:31:01 GMT",
+      "description": "Authorities will \"show no leniency\" to people who \"belittle\" those who are suffering, the prime minister says."
     },
     {
       "title": "North Korea and Russia open first road bridge linking both countries",
@@ -38,10 +56,16 @@
       "description": "Relations between the neighbours have strengthened since the start of the Ukraine war."
     },
     {
-      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 14:04:01 GMT",
-      "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority."
+      "title": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
+      "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 10:19:52 GMT",
+      "description": "All foreigners without proper documents in Kenya are urged to  register through their embassies."
+    },
+    {
+      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 00:48:43 GMT",
+      "description": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours."
     },
     {
       "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
@@ -50,10 +74,10 @@
       "description": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\"."
     },
     {
-      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 00:48:43 GMT",
-      "description": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours."
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 14:04:01 GMT",
+      "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority."
     },
     {
       "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
@@ -66,34 +90,40 @@
       "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 13:39:23 GMT",
       "description": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah."
-    },
-    {
-      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-      "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 15:27:50 GMT",
-      "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties."
-    },
-    {
-      "title": "Nepal observes national day of mourning for victims of flash flood disaster",
-      "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 09:31:26 GMT",
-      "description": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period."
-    },
-    {
-      "title": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 07:03:44 GMT",
-      "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks."
-    },
-    {
-      "title": "A food safety officer has become a social media star in India - why?",
-      "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 23:40:39 GMT",
-      "description": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "GOP to host unusual midterm convention. And, Canada&apos;s retaliatory tariffs take effect",
+        "link": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs",
+        "pubDate": "Tue, 08 Sep 2026 07:20:05 -0400",
+        "description": "Republicans are aiming to get voters to turn out for the midterms with an unconventional convention. And, Canada&apos;s retaliatory tariffs on the U.S. went into effect at midnight."
+      },
+      {
+        "title": "Has the economy gone C-shaped?",
+        "link": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
+        "pubDate": "Tue, 08 Sep 2026 06:30:00 -0400",
+        "description": "A K means the rich and poor are pulling apart. A C supposedly means they&apos;re coming back together. We hear the case for both. Which letter you see may depend on what you choose to pay attention to"
+      },
+      {
+        "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
+        "link": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
+        "pubDate": "Tue, 08 Sep 2026 05:09:46 -0400",
+        "description": "The attacks come after weeks of escalating clashes between the Houthis and Saudi-backed government forces in Yemen, which shattered a four-year truce in the country&apos;s civil war."
+      },
+      {
+        "title": "60 years later, &apos;Star Trek&apos; continues to &apos;live long and prosper&apos;",
+        "link": "https://www.npr.org/2026/09/08/nx-s1-5593092/star-trek-60-year-anniversary",
+        "pubDate": "Tue, 08 Sep 2026 05:00:00 -0400",
+        "description": "The television series, Star Trek, turns 60 on Tuesday. The original show aired for only three seasons, but it spawned prequels and sequels (on TV and in theaters) and still has a cult following."
+      },
+      {
+        "title": "The 2026 midterm general election season is upon us. Here&apos;s what to watch",
+        "link": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
+        "pubDate": "Tue, 08 Sep 2026 05:00:00 -0400",
+        "description": "The week of Labor Day marks the unofficial kickoff of the general election season. President Trump&apos;s unpopularity and Democratic enthusiasm means control of Congress is on the ballot."
+      },
       {
         "title": "What to know about Canada&apos;s escalating trade war with the U.S.",
         "link": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
@@ -123,36 +153,6 @@
         "link": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
         "pubDate": "Mon, 07 Sep 2026 07:11:51 -0400",
         "description": "A cargo plane crash at Miami International Airport has left five people dead and several others injured. And, Germany&apos;s far-right AfD party achieves an electoral victory in a key state election."
-      },
-      {
-        "title": "&apos;Her body temperature was 106&apos;: How heat is killing Americans in their homes",
-        "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
-        "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
-        "description": "Heat kills thousands of people across the U.S. every year. The risk is especially high for the millions of Americans who live in manufactured housing like mobile homes and trailers."
-      },
-      {
-        "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
-        "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
-        "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
-        "description": "The peptide is supposed to deliver flawless and firm skin, promote wound healing and other anti-aging effects. So what&apos;s the evidence behind GHK-Cu?"
-      },
-      {
-        "title": "The first day of school: Bells, bikes, buses and big feelings",
-        "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
-        "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
-        "description": "Fifth graders calm school kindergartners in Los Angeles. Kids take the &quot;bike bus&quot; in Oklahoma. High school students take in a new high school building in Oregon."
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
-        "pubDate": "Mon, 07 Sep 2026 04:44:02 -0400",
-        "description": "Five people are dead after a cargo plane crash at Miami International Airport, Trump&apos;s top envoys go to Ukraine with hopes of restarting peace talks, Germany&apos;s far-right party wins landslide"
-      },
-      {
-        "title": "Scene at Miami airport where five died described as &apos;utter devastation&apos;",
-        "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
-        "pubDate": "Sun, 06 Sep 2026 15:54:28 -0400",
-        "description": "An Amazon Prime cargo plane overran the runway, crashed and rammed into vehicles, where it then caught on fire. All those who died were passengers on the ground."
       }
     ],
     "Canada": []
