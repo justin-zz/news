@@ -1,11 +1,17 @@
 {
-  "updated": "2026-09-08T20:02:32.865Z",
+  "updated": "2026-09-08T22:51:28.807Z",
   "world": [
     {
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
       "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 19:11:39 GMT",
       "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem."
+    },
+    {
+      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 21:46:31 GMT",
+      "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is."
     },
     {
       "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
@@ -56,10 +62,10 @@
       "description": "Newly released documents show toxins lingered for months after the attacks, but officials told people it was safe."
     },
     {
-      "title": "Highest paid world leader to get salary increase of $1 million",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 09:20:05 GMT",
-      "description": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m)."
+      "title": "LIV files for bankruptcy protection with $45m owed to players",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 21:20:22 GMT",
+      "description": "LIV Golf still intends to start its new league early next year after filing for bankruptcy protection in the United States."
     },
     {
       "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
@@ -84,16 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 11:38:07 GMT",
       "description": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day."
-    },
-    {
-      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 16:38:03 GMT",
-      "description": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "New report shows the economic toll of ICE raids",
+        "link": "https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids",
+        "pubDate": "Tue, 08 Sep 2026 16:17:22 -0400",
+        "description": "A new study shows the steep economic cost of 2025&apos;s ICE raids in Chicago. Fear kept many immigrants home, draining the area of more than $1.26 billion in lost retail, restaurant, and sales-tax re"
+      },
+      {
+        "title": "Kenya&apos;s foreign trader crackdown sparks fear among migrant communities",
+        "link": "https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa",
+        "pubDate": "Tue, 08 Sep 2026 15:55:43 -0400",
+        "description": "Kenya&apos;s president orders a crackdown on foreigners running small businesses, amid accusations of xenophobia."
+      },
       {
         "title": "Australian social media users to be offered choice to opt out of algorithms",
         "link": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
         "pubDate": "Tue, 08 Sep 2026 05:00:00 -0400",
         "description": "The week of Labor Day marks the unofficial kickoff of the general election season. President Trump&apos;s unpopularity and Democratic enthusiasm means control of Congress is on the ballot."
-      },
-      {
-        "title": "60 years later, &apos;Star Trek&apos; continues to &apos;live long and prosper&apos;",
-        "link": "https://www.npr.org/2026/09/08/nx-s1-5593092/star-trek-60-year-anniversary",
-        "pubDate": "Tue, 08 Sep 2026 05:00:00 -0400",
-        "description": "The television series &apos;Star Trek&apos; turns 60 on Tuesday. The original show aired for only three seasons, but it spawned prequels and sequels (on TV and in theaters) and still has a cult follow"
-      },
-      {
-        "title": "What to know about Canada&apos;s escalating trade war with the U.S.",
-        "link": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
-        "pubDate": "Tue, 08 Sep 2026 02:04:43 -0400",
-        "description": "Canada struck back at U.S. President Donald Trump on Tuesday with tariffs on about $20 billion worth of U.S. goods. The outcome could resonate far beyond Canada."
       }
     ],
     "Canada": []
