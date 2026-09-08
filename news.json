@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T23:56:15.532Z",
+  "updated": "2026-09-08T03:14:35.724Z",
   "world": [
     {
       "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
@@ -20,6 +20,24 @@
       "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority."
     },
     {
+      "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 23:46:44 GMT",
+      "description": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative."
+    },
+    {
+      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 01:07:47 GMT",
+      "description": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\"."
+    },
+    {
+      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 00:48:43 GMT",
+      "description": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours."
+    },
+    {
       "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
       "link": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 14:50:50 GMT",
@@ -36,12 +54,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 15:27:50 GMT",
       "description": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties."
-    },
-    {
-      "title": "Eiffel Tower shut by staff protest after women moved for religious visit",
-      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 23:46:44 GMT",
-      "description": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative."
     },
     {
       "title": "Nepal observes national day of mourning for victims of flash flood disaster",
@@ -74,18 +86,6 @@
       "description": "Anak Krakatau, which lies about 150km from capital Jakarta, began spewing lava and volvanic ash late on Friday."
     },
     {
-      "title": "Tanzanian President Samia's husband dies in hospital",
-      "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 16:23:02 GMT",
-      "description": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president."
-    },
-    {
-      "title": "China to pump $54bn into state banks and insurers to boost economy",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 02:26:12 GMT",
-      "description": "It comes as Beijing is aiming to reshape its economy in the face of a number of challenges."
-    },
-    {
       "title": "A food safety officer has become a social media star in India - why?",
       "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 23:40:39 GMT",
@@ -113,16 +113,16 @@
         "description": "The peptide is supposed to deliver flawless and firm skin, promote wound healing and other anti-aging effects. So what&apos;s the evidence behind GHK-Cu?"
       },
       {
-        "title": "&apos;Her body temperature was 106&apos;: How heat is killing Americans in their homes",
-        "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
-        "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
-        "description": "Heat kills thousands of people across the U.S. every year. The risk is especially high for the millions of Americans who live in manufactured housing like mobile homes and trailers."
-      },
-      {
         "title": "The first day of school: Bells, bikes, buses and big feelings",
         "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
         "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
         "description": "Fifth graders calm school kindergartners in Los Angeles. Kids take the &quot;bike bus&quot; in Oklahoma. High school students take in a new high school building in Oregon."
+      },
+      {
+        "title": "&apos;Her body temperature was 106&apos;: How heat is killing Americans in their homes",
+        "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+        "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
+        "description": "Heat kills thousands of people across the U.S. every year. The risk is especially high for the millions of Americans who live in manufactured housing like mobile homes and trailers."
       },
       {
         "title": "Morning news brief",
@@ -131,10 +131,10 @@
         "description": "Five people are dead after a cargo plane crash at Miami International Airport, Trump&apos;s top envoys go to Ukraine with hopes of restarting peace talks, Germany&apos;s far-right party wins landslide"
       },
       {
-        "title": "Investigators seek answers after Amazon cargo plane crash kills five at Miami airport",
+        "title": "Scene at Miami airport where five died described as &apos;utter devastation&apos;",
         "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
         "pubDate": "Sun, 06 Sep 2026 15:54:28 -0400",
-        "description": "An Amazon Prime cargo plane was landing at the airport around 2 p.m. ET on Sunday when it overran the runway, crashed and rammed into vehicles on the ground, according to FAA."
+        "description": "An Amazon Prime cargo plane overran the runway, crashed and rammed into vehicles, where it then caught on fire. All those who died were passengers on the ground."
       },
       {
         "title": "Germany&apos;s far-right achieves an electoral breakthrough in key state election",
