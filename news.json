@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-08T03:14:35.724Z",
+  "updated": "2026-09-08T08:15:04.714Z",
   "world": [
     {
-      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 22:23:03 GMT",
-      "description": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport."
+      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 04:39:14 GMT",
+      "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship."
     },
     {
       "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
@@ -14,16 +14,34 @@
       "description": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year."
     },
     {
-      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 14:04:01 GMT",
-      "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority."
+      "title": "Flight recorders recovered from Amazon cargo plane crash",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 22:23:03 GMT",
+      "description": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport."
     },
     {
       "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
       "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 23:46:44 GMT",
-      "description": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative."
+      "description": "An investigation will be launched into the incident, which left female employees \"humiliated\", a union representative says."
+    },
+    {
+      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 01:32:56 GMT",
+      "description": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads."
+    },
+    {
+      "title": "North Korea and Russia open first road bridge linking both countries",
+      "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 03:53:27 GMT",
+      "description": "Relations between the neighbours have strengthened since the start of the Ukraine war."
+    },
+    {
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 07 Sep 2026 14:04:01 GMT",
+      "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority."
     },
     {
       "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
@@ -68,24 +86,6 @@
       "description": "Schools, businesses and public transport are all struggling with the surge in Russian air attacks."
     },
     {
-      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 00:01:32 GMT",
-      "description": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling."
-    },
-    {
-      "title": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
-      "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 14:57:16 GMT",
-      "description": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses."
-    },
-    {
-      "title": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
-      "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 07 Sep 2026 15:40:47 GMT",
-      "description": "Anak Krakatau, which lies about 150km from capital Jakarta, began spewing lava and volvanic ash late on Friday."
-    },
-    {
       "title": "A food safety officer has become a social media star in India - why?",
       "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 07 Sep 2026 23:40:39 GMT",
@@ -94,6 +94,24 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "What to know about Canada&apos;s escalating trade war with the U.S.",
+        "link": "https://www.npr.org/2026/09/08/nx-s1-5960990/canada-escalating-trade-war-us",
+        "pubDate": "Tue, 08 Sep 2026 02:04:43 -0400",
+        "description": "Canada struck back at U.S. President Donald Trump on Tuesday with tariffs on about $20 billion worth of U.S. goods. The outcome could resonate far beyond Canada."
+      },
+      {
+        "title": "King Charles III clarifies status of Prince Harry and his wife, Meghan",
+        "link": "https://www.npr.org/2026/09/08/g-s1-142289/king-charles-prince-harry",
+        "pubDate": "Tue, 08 Sep 2026 02:00:57 -0400",
+        "description": "King Charles III has reiterated that Prince Harry and his wife, Meghan, remain non-working members of the royal family following their return to the United Kingdom."
+      },
+      {
+        "title": "Russia and North Korea open the first road across their shared border",
+        "link": "https://www.npr.org/2026/09/08/g-s1-142285/russia-north-korea-border",
+        "pubDate": "Tue, 08 Sep 2026 01:40:44 -0400",
+        "description": "Relations between Russia and North Korea have been flourishing, with North Korea supplying ammunition and troops to support Russia&apos;s war against Ukraine in return for economic and military assist"
+      },
       {
         "title": "As Nepal identifies those killed in the floods, questions grow over China&apos;s reporting",
         "link": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
@@ -105,6 +123,12 @@
         "link": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
         "pubDate": "Mon, 07 Sep 2026 07:11:51 -0400",
         "description": "A cargo plane crash at Miami International Airport has left five people dead and several others injured. And, Germany&apos;s far-right AfD party achieves an electoral victory in a key state election."
+      },
+      {
+        "title": "&apos;Her body temperature was 106&apos;: How heat is killing Americans in their homes",
+        "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+        "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
+        "description": "Heat kills thousands of people across the U.S. every year. The risk is especially high for the millions of Americans who live in manufactured housing like mobile homes and trailers."
       },
       {
         "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
@@ -119,12 +143,6 @@
         "description": "Fifth graders calm school kindergartners in Los Angeles. Kids take the &quot;bike bus&quot; in Oklahoma. High school students take in a new high school building in Oregon."
       },
       {
-        "title": "&apos;Her body temperature was 106&apos;: How heat is killing Americans in their homes",
-        "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
-        "pubDate": "Mon, 07 Sep 2026 05:00:00 -0400",
-        "description": "Heat kills thousands of people across the U.S. every year. The risk is especially high for the millions of Americans who live in manufactured housing like mobile homes and trailers."
-      },
-      {
         "title": "Morning news brief",
         "link": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
         "pubDate": "Mon, 07 Sep 2026 04:44:02 -0400",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
         "pubDate": "Sun, 06 Sep 2026 15:54:28 -0400",
         "description": "An Amazon Prime cargo plane overran the runway, crashed and rammed into vehicles, where it then caught on fire. All those who died were passengers on the ground."
-      },
-      {
-        "title": "Germany&apos;s far-right achieves an electoral breakthrough in key state election",
-        "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
-        "pubDate": "Sun, 06 Sep 2026 12:36:48 -0400",
-        "description": "Germany&apos;s populist, far-right Alternative for Germany party has declared victory in the state of Saxony-Anhalt after more than doubling its share of the vote in the first of several regional elec"
-      },
-      {
-        "title": "American Muslims are giving Texas barbecue a halal makeover",
-        "link": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
-        "pubDate": "Sun, 06 Sep 2026 06:00:00 -0400",
-        "description": "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state&apos;s most iconic culinary traditions."
-      },
-      {
-        "title": "Witkoff and Kushner call Kyiv talks &apos;substantive&apos; after Moscow Putin meeting",
-        "link": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
-        "pubDate": "Sun, 06 Sep 2026 05:51:04 -0400",
-        "description": "U.S. envoys Steve Witkoff and Jared Kushner held meetings in Kyiv with Ukraine&apos;s President Zelenskyy on Sunday, a day after lengthy conversations with Russian President Putin in Moscow."
       }
     ],
     "Canada": []
