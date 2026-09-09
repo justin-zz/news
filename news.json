@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T21:48:03.478Z",
+  "updated": "2026-09-09T23:47:30.560Z",
   "world": [
     {
       "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
+        "link": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material",
+        "pubDate": "Wed, 09 Sep 2026 16:42:19 -0400",
+        "description": "The formerly prominent, widely recorded conductor was sentenced Wednesday to nearly six years of probation for five counts of possession of child sex abuse material in Indianapolis."
+      },
+      {
         "title": "Fold the phone: Apple&apos;s new CEO unveils a foldable iPhone",
         "link": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus",
         "pubDate": "Wed, 09 Sep 2026 14:39:57 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
         "pubDate": "Wed, 09 Sep 2026 05:09:32 -0400",
         "description": "Flight data suggest an Amazon cargo plane tried to abort an unsteady landing at Miami International Airport before smashing into a van and killing five people inside, according to information investig"
-      },
-      {
-        "title": "National Guard member arrested after drawing gun on fellow soldier in D.C.",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5962678/national-guard-arrest-dc-deployment",
-        "pubDate": "Wed, 09 Sep 2026 05:05:03 -0400",
-        "description": "A member of the Georgia National Guard deployed in Washington, D.C., as part of a task force to fight crime, has been arrested for pulling a gun on a fellow Guard member in an alleged dispute over reg"
       }
     ],
     "Canada": []
