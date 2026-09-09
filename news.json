@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-09T01:00:28.421Z",
+  "updated": "2026-09-09T06:18:57.271Z",
   "world": [
     {
-      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 19:11:39 GMT",
-      "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem."
+      "title": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 04:26:38 GMT",
+      "description": "Oil prices edged closer to $100 a barrel after an escalation in the tit-for-tat strikes between the US and Iran."
     },
     {
       "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
@@ -14,22 +14,22 @@
       "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is."
     },
     {
-      "title": "US slaps import ban on Canadian alcohol and other goods",
+      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
       "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 00:31:31 GMT",
-      "description": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force."
+      "pubDate": "Wed, 09 Sep 2026 03:03:32 GMT",
+      "description": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force."
     },
     {
-      "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+      "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
       "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 23:11:32 GMT",
       "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on."
     },
     {
-      "title": "Renoir paintings worth millions stolen in French museum heist",
-      "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 13:35:28 GMT",
-      "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight."
+      "title": "South Park creators rename show 'South America' in apparent dig at Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 05:39:16 GMT",
+      "description": "Since beginning his second term, the US president has said he wanted to use the word 'America' to rename a lake, a gulf and even a US state."
     },
     {
       "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
@@ -38,10 +38,22 @@
       "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India."
     },
     {
+      "title": "Renoir paintings worth millions stolen in French museum heist",
+      "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 13:35:28 GMT",
+      "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight."
+    },
+    {
       "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 17:10:54 GMT",
       "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\""
+    },
+    {
+      "title": "Hong Kong's first leader after British handover dies",
+      "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 04:24:30 GMT",
+      "description": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests."
     },
     {
       "title": "Argentina to file criminal case against oil company operating in Falklands",
@@ -78,22 +90,22 @@
       "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 21:20:22 GMT",
       "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave."
-    },
-    {
-      "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
-      "link": "https://www.bbc.co.uk/news/articles/c62m8247yleo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 15:06:56 GMT",
-      "description": "Médecins Sans Frontières is urging world leaders to increase funding to help the millions who need aid."
-    },
-    {
-      "title": "Hungary expels 10 Russian diplomats as relations worsen",
-      "link": "https://www.bbc.co.uk/news/articles/cddvzd1z53lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 14:38:44 GMT",
-      "description": "For years, Hungary was viewed as Russia's closest ally in the EU, but the new government has dropped the pro-Kremlin stance."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "TSA brings back gate access for some people without plane tickets 25 years after 9/11",
+        "link": "https://www.npr.org/2026/09/09/g-s1-142480/tsa-gate-access-25-years-after-9-11",
+        "pubDate": "Wed, 09 Sep 2026 01:41:56 -0400",
+        "description": "The move is a start toward reviving a tradition that largely disappeared after the Sept. 11, 2001, attacks 25 years ago this week."
+      },
+      {
+        "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
+        "link": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
+        "pubDate": "Wed, 09 Sep 2026 01:20:45 -0400",
+        "description": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships. Iran hit American targets in Jordan."
+      },
       {
         "title": "New report shows the economic toll of ICE raids",
         "link": "https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
         "pubDate": "Tue, 08 Sep 2026 06:30:00 -0400",
         "description": "A K means the rich and poor are pulling apart. A C supposedly means they&apos;re coming back together. We hear the case for both. Which letter you see may depend on what you choose to pay attention to"
-      },
-      {
-        "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
-        "link": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
-        "pubDate": "Tue, 08 Sep 2026 05:09:46 -0400",
-        "description": "The attacks come after weeks of escalating clashes between the Houthis and Saudi-backed government forces in Yemen, which shattered a four-year truce in the country&apos;s civil war."
-      },
-      {
-        "title": "The 2026 midterm general election season is upon us. Here&apos;s what to watch",
-        "link": "https://www.npr.org/2026/09/08/nx-s1-5960533/2026-midterm-campaign-kickoff-house-senate-trump",
-        "pubDate": "Tue, 08 Sep 2026 05:00:00 -0400",
-        "description": "The week of Labor Day marks the unofficial kickoff of the general election season. President Trump&apos;s unpopularity and Democratic enthusiasm means control of Congress is on the ballot."
       }
     ],
     "Canada": []
