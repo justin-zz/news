@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T22:51:28.807Z",
+  "updated": "2026-09-09T01:00:28.421Z",
   "world": [
     {
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
@@ -14,10 +14,16 @@
       "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is."
     },
     {
-      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 14:46:16 GMT",
-      "description": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts."
+      "title": "US slaps import ban on Canadian alcohol and other goods",
+      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 00:31:31 GMT",
+      "description": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force."
+    },
+    {
+      "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 23:11:32 GMT",
+      "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on."
     },
     {
       "title": "Renoir paintings worth millions stolen in French museum heist",
@@ -26,16 +32,22 @@
       "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight."
     },
     {
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 11:09:54 GMT",
-      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands."
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 23:27:23 GMT",
+      "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India."
     },
     {
       "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 17:10:54 GMT",
       "description": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\""
+    },
+    {
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
+      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 08 Sep 2026 11:09:54 GMT",
+      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands."
     },
     {
       "title": "British widow faces deportation from Sweden after 22 years",
@@ -62,10 +74,10 @@
       "description": "Newly released documents show toxins lingered for months after the attacks, but officials told people it was safe."
     },
     {
-      "title": "LIV files for bankruptcy protection with $45m owed to players",
+      "title": "LIV files for bankruptcy protection with over $45m owed to players",
       "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 21:20:22 GMT",
-      "description": "LIV Golf still intends to start its new league early next year after filing for bankruptcy protection in the United States."
+      "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave."
     },
     {
       "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
@@ -78,18 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cddvzd1z53lo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 08 Sep 2026 14:38:44 GMT",
       "description": "For years, Hungary was viewed as Russia's closest ally in the EU, but the new government has dropped the pro-Kremlin stance."
-    },
-    {
-      "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 15:57:06 GMT",
-      "description": "The suspect had reportedly claimed responsibility for attacks on electricity substations in letters."
-    },
-    {
-      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
-      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 11:38:07 GMT",
-      "description": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day."
     }
   ],
   "regions": {
