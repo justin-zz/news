@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T15:50:35.666Z",
+  "updated": "2026-09-09T19:01:55.959Z",
   "world": [
     {
       "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
@@ -8,9 +8,15 @@
       "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers."
     },
     {
+      "title": "Google picks Finland for its largest single investment in Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 17:06:48 GMT",
+      "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs."
+    },
+    {
       "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
       "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 09:47:39 GMT",
+      "pubDate": "Wed, 09 Sep 2026 16:46:53 GMT",
       "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday"
     },
     {
@@ -20,10 +26,10 @@
       "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force."
     },
     {
-      "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 10:59:18 GMT",
-      "description": "Meanwhile, four people, including a child, were killed in the southern Russian city of Novorossiysk."
+      "title": "Europe's royalty pay respects to King Harald V in Norway",
+      "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 16:30:28 GMT",
+      "description": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday."
     },
     {
       "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
@@ -38,16 +44,28 @@
       "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate."
     },
     {
-      "title": "Colombia's new president loosens gun control rules",
-      "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 11:01:41 GMT",
-      "description": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms."
+      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 18:53:15 GMT",
+      "description": "Five deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes."
     },
     {
       "title": "Family of killed teen call for death penalty in D4vd trial",
       "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 09 Sep 2026 09:58:48 GMT",
       "description": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty."
+    },
+    {
+      "title": "Colombia's new president loosens gun control rules",
+      "link": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 11:01:41 GMT",
+      "description": "President Abelardo de la Espriella has lifted a decade-long suspension on permits to carry legal firearms."
+    },
+    {
+      "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 09 Sep 2026 16:33:49 GMT",
+      "description": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals."
     },
     {
       "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
@@ -72,28 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 09 Sep 2026 06:42:01 GMT",
       "description": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say."
-    },
-    {
-      "title": "Hong Kong's first leader after British handover dies",
-      "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 04:24:30 GMT",
-      "description": "The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests."
-    },
-    {
-      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 23:27:23 GMT",
-      "description": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India."
-    },
-    {
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 08 Sep 2026 11:09:54 GMT",
-      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Fold the phone: Apple&apos;s new CEO unveils a foldable iPhone",
+        "link": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus",
+        "pubDate": "Wed, 09 Sep 2026 14:39:57 -0400",
+        "description": "New Apple CEO John Ternus announces the iPhone Duo, which folds like a passport and is the most radical iPhone design update in nearly 20 years."
+      },
+      {
+        "title": "Special education head at Education Department abruptly resigns",
+        "link": "https://www.npr.org/2026/09/09/nx-s1-5962899/special-education-kelly-rogers-resigns",
+        "pubDate": "Wed, 09 Sep 2026 13:48:56 -0400",
+        "description": "&lt;em&gt;The leader of the Education Department&apos;s special education office told employees she is resigning less than four months in the role and as the agency overall is morphing and shrinking.&"
+      },
+      {
+        "title": "Andrew Tate is denied bail and will remain in jail during his extradition fight",
+        "link": "https://www.npr.org/2026/09/09/nx-s1-5954174/andrew-tate-bail-extradition-jail",
+        "pubDate": "Wed, 09 Sep 2026 13:23:15 -0400",
+        "description": "Prosecutors told the court that Andrew and Tristan Tate boasted about having multiple passports and flying on private jets. But the Tates&apos; lawyers argued they were only playing a role for their f"
+      },
       {
         "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
         "link": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
@@ -131,28 +149,10 @@
         "description": "Flight data suggest an Amazon cargo plane tried to abort an unsteady landing at Miami International Airport before smashing into a van and killing five people inside, according to information investig"
       },
       {
-        "title": "National Guard member arrested in DC, accused of drawing gun on fellow Guard member",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5962678/national-guard-arrested",
+        "title": "National Guard member arrested after drawing gun on fellow soldier in D.C.",
+        "link": "https://www.npr.org/2026/09/09/nx-s1-5962678/national-guard-arrest-dc-deployment",
         "pubDate": "Wed, 09 Sep 2026 05:05:03 -0400",
         "description": "A member of the Georgia National Guard deployed in Washington, D.C., as part of a task force to fight crime, has been arrested for pulling a gun on a fellow Guard member in an alleged dispute over reg"
-      },
-      {
-        "title": "How to fight with the people we care about, illustrated",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5961264/conflict-and-relationships-comic-priya-parker",
-        "pubDate": "Wed, 09 Sep 2026 05:01:00 -0400",
-        "description": "Arguing with a partner or a loved one can be anxiety-inducing. Conflict resolution facilitator Priya Parker explains how to start and end a fight — while easing dread for everyone."
-      },
-      {
-        "title": "Mail-in voters weigh flying to vote in person and other backup plans amid uncertainty",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5946380/trump-mail-in-voting-by-mail",
-        "pubDate": "Wed, 09 Sep 2026 05:00:00 -0400",
-        "description": "Voters and election officials are navigating uncertainty about mail-in voting for the midterms as the legal fight drags on over the U.S. Postal Service plan for President Trump&apos;s bid for restrict"
-      },
-      {
-        "title": "Republicans kick off a &apos;Trumpapalooza&apos; of a midterm convention Wednesday in Texas",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5961045/republican-midterm-convention-dallas-trump-vance",
-        "pubDate": "Wed, 09 Sep 2026 05:00:00 -0400",
-        "description": "Republicans have never held a midterm convention before. But there&apos;s also never been a president like Donald Trump. Billed as a &quot;Trumpapalooza,&quot; the unprecedented event kicks of in Dall"
       }
     ],
     "Canada": []
