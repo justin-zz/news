@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T19:26:35.636Z",
+  "updated": "2026-09-10T21:44:47.438Z",
   "world": [
     {
       "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
@@ -26,16 +26,22 @@
       "description": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears."
     },
     {
-      "title": "Twenty-five dead after fire on cargo ship in eastern China",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 12:24:54 GMT",
-      "description": "Of the 42 people on board, 17 were were evacuated, CCTV reports."
-    },
-    {
       "title": "More than 20 children killed in DR Congo school fire",
       "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 19:16:24 GMT",
       "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu."
+    },
+    {
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 20:10:51 GMT",
+      "description": "The father had threatened to behead a female primary school teacher near Toulouse."
+    },
+    {
+      "title": "Coach crash kills several people in Swiss Alps",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 20:44:51 GMT",
+      "description": "A coach carrying 48 Dutch passengers overturns, leaving several people dead."
     },
     {
       "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
@@ -50,6 +56,12 @@
       "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years."
     },
     {
+      "title": "Twenty-five dead after fire on cargo ship in eastern China",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 12:24:54 GMT",
+      "description": "Of the 42 people on board, 17 were were evacuated, CCTV reports."
+    },
+    {
       "title": "Iran war won't end until after crucial November elections, says Trump",
       "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 10 Sep 2026 10:43:53 GMT",
@@ -60,18 +72,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 09 Sep 2026 21:23:45 GMT",
       "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta."
-    },
-    {
-      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-      "link": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 21:21:13 GMT",
-      "description": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers."
-    },
-    {
-      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 06:30:19 GMT",
-      "description": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan."
     },
     {
       "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Lawsuit challenges intimidation of DHS observers across the country",
+        "link": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit",
+        "pubDate": "Thu, 10 Sep 2026 17:07:38 -0400",
+        "description": "The sweeping lawsuit brought by Common Cause argues federal agencies are illegally surveilling and intimidating people who try to peacefully observe federal immigration enforcement activity.&lt;br&gt;"
+      },
       {
         "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived",
         "link": "https://www.npr.org/2026/09/10/nx-s1-5963519/best-fossilized-bird-feather-dinosaur-feces-extinction",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
         "pubDate": "Thu, 10 Sep 2026 04:54:00 -0400",
         "description": "The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change."
-      },
-      {
-        "title": "A pilot of the Amazon cargo plane in Miami crash warned it was coming in too fast",
-        "link": "https://www.npr.org/2026/09/10/g-s1-142664/cargo-plane-miami-crash",
-        "pubDate": "Thu, 10 Sep 2026 01:45:00 -0400",
-        "description": "For nearly two minutes, one of the pilots of the Amazon cargo plane that careened off a Miami runway repeatedly warned his counterpart they were going too fast, according to flight information."
       }
     ],
     "Canada": []
