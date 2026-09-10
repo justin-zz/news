@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-10T12:39:55.456Z",
+  "updated": "2026-09-10T16:52:18.266Z",
   "world": [
     {
       "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
       "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 10:07:19 GMT",
+      "pubDate": "Thu, 10 Sep 2026 13:23:37 GMT",
       "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from."
     },
     {
@@ -28,7 +28,7 @@
     {
       "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
       "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 10:46:24 GMT",
+      "pubDate": "Thu, 10 Sep 2026 13:12:40 GMT",
       "description": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom."
     },
     {
@@ -44,6 +44,18 @@
       "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years."
     },
     {
+      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 09:32:34 GMT",
+      "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years."
+    },
+    {
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 10:43:53 GMT",
+      "description": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election."
+    },
+    {
       "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
       "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 09 Sep 2026 21:23:45 GMT",
@@ -56,22 +68,10 @@
       "description": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers."
     },
     {
-      "title": "Tate brothers to remain in US jail as they fight extradition to UK",
-      "link": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 19:09:13 GMT",
-      "description": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight risks\"."
-    },
-    {
-      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-      "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 08:44:19 GMT",
-      "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate."
-    },
-    {
-      "title": "Europe's royalty pay respects to King Harald V in Norway",
-      "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 09 Sep 2026 16:30:28 GMT",
-      "description": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday."
+      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 06:30:19 GMT",
+      "description": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan."
     },
     {
       "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
@@ -95,22 +95,40 @@
   "regions": {
     "US": [
       {
+        "title": "Barbara Keating died in the 9/11 attack. She&apos;s finally being laid to rest",
+        "link": "https://www.npr.org/2026/09/10/nx-s1-5962791/barbara-keating-9-11-victim-burial",
+        "pubDate": "Thu, 10 Sep 2026 11:44:12 -0400",
+        "description": "Barbara Keating died aboard one of the planes that hijackers slammed into the World Trade Center. Her remains were finally identified last year, and her family is gathering for a long-delayed funeral."
+      },
+      {
+        "title": "&apos;I&apos;ve never seen anything like this&apos; -- A U.S. doctor treats Ebola&apos;s youngest victims",
+        "link": "https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo",
+        "pubDate": "Thu, 10 Sep 2026 11:06:20 -0400",
+        "description": "Dr. Rupa Narra is a U.S. pediatrician who arrived in the Democratic Republic of Congo to help care for stricken children. Nothing could have prepared her for what she&apos;d face."
+      },
+      {
+        "title": "How did 9/11 reshape national security?",
+        "link": "https://www.npr.org/2026/09/10/nx-s1-5910729/how-did-9-11-reshape-national-security",
+        "pubDate": "Thu, 10 Sep 2026 10:53:37 -0400",
+        "description": "Sept. 11 represented a new kind of national security threat, and a new national security architecture was created to confront it."
+      },
+      {
         "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
         "link": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
         "pubDate": "Thu, 10 Sep 2026 07:27:14 -0400",
         "description": "President Trump tries to incentivize voters by promising $5,000 to Americans if the GOP wins the midterms. And, young conservatives reflect on the party one year after Charlie Kirk&apos;s death."
       },
       {
-        "title": "After Trump promised to pay $5,000 if Republicans win, here&apos;s what to expect Thursday",
-        "link": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
-        "pubDate": "Thu, 10 Sep 2026 05:00:00 -0400",
-        "description": "President Trump promised to send every adult citizen $5,000, but only if Republicans maintain control of Congress in the midterm election, setting high expectations for the convention&apos;s final nig"
-      },
-      {
         "title": "One year after Charlie Kirk&apos;s death, Turning Point USA faces an uncertain future",
         "link": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
         "pubDate": "Thu, 10 Sep 2026 05:00:00 -0400",
         "description": "The death of Charlie Kirk was seen as a rallying call for young conservatives. One year later, the movement is wrestling with questions about its future."
+      },
+      {
+        "title": "After Trump promised to pay $5,000 if Republicans win, here&apos;s what to expect Thursday",
+        "link": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
+        "pubDate": "Thu, 10 Sep 2026 05:00:00 -0400",
+        "description": "President Trump promised to send every adult citizen $5,000, but only if Republicans maintain control of Congress in the midterm election, setting high expectations for the convention&apos;s final nig"
       },
       {
         "title": "Scientists say August was Earth&apos;s hottest month they&apos;ve measured",
@@ -131,28 +149,10 @@
         "description": "The Pennsylvania Democrat has already had a strained relationship with many inside his party. In the video, he spoke about working with Trump but did not outright praise him."
       },
       {
-        "title": "A huge 11th-century tapestry of the Norman Conquest has (carefully) traveled to England",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5891555/a-huge-11th-century-tapestry-of-the-norman-conquest-has-carefully-traveled-to-engla",
+        "title": "After 900 years, the Bayeux Tapestry returns to England and goes on display in London",
+        "link": "https://www.npr.org/2026/09/09/nx-s1-5891555/bayeux-tapestry-british-museum-opening",
         "pubDate": "Wed, 09 Sep 2026 17:43:51 -0400",
-        "description": "Part war propaganda, part comic strip, the 230-foot Bayeux Tapestry is back in England for the first time in 900 years. It depicts the 1066 Battle of Hastings, which ended Anglo-Saxon rule."
-      },
-      {
-        "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material",
-        "pubDate": "Wed, 09 Sep 2026 16:42:19 -0400",
-        "description": "The formerly prominent, widely recorded conductor was sentenced Wednesday to nearly six years of probation for five counts of possession of child sex abuse material in Indianapolis."
-      },
-      {
-        "title": "Fold the phone: Apple&apos;s new CEO unveils a foldable iPhone",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus",
-        "pubDate": "Wed, 09 Sep 2026 14:39:57 -0400",
-        "description": "New Apple CEO John Ternus announces the iPhone Duo, which folds like a passport and is the most radical iPhone design update in nearly 20 years."
-      },
-      {
-        "title": "Special education head at Education Department abruptly resigns",
-        "link": "https://www.npr.org/2026/09/09/nx-s1-5962899/special-education-kelly-rogers-resigns",
-        "pubDate": "Wed, 09 Sep 2026 13:48:56 -0400",
-        "description": "&lt;em&gt;The leader of the Education Department&apos;s special education office told employees she is resigning after less than four months in the role and as the agency overall is morphing and shrin"
+        "description": "The nearly 230-foot long Bayeux Tapestry is back in England for the first time in 900 years. It depicts the 1066 Battle of Hastings, a turning point in English history that ended Anglo-Saxon rule."
       }
     ],
     "Canada": []
