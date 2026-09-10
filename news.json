@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T21:44:47.438Z",
+  "updated": "2026-09-10T23:39:46.331Z",
   "world": [
     {
       "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "This summer was hot. August shattered global heat records",
+        "link": "https://www.npr.org/2026/09/10/nx-s1-5963899/august-heat-summer-hottest",
+        "pubDate": "Thu, 10 Sep 2026 17:30:52 -0400",
+        "description": "Scientists say that August was the hottest month ever recorded globally. In the U.S., summer temperatures also shattered heat records."
+      },
+      {
         "title": "Lawsuit challenges intimidation of DHS observers across the country",
         "link": "https://www.npr.org/2026/09/10/nx-s1-5961220/dhs-ice-observers-surveillance-lawsuit",
         "pubDate": "Thu, 10 Sep 2026 17:07:38 -0400",
@@ -119,6 +125,12 @@
         "description": "Barbara Keating died aboard one of the planes that hijackers slammed into the World Trade Center. Her remains were finally identified last year, and her family is gathering for a long-delayed funeral."
       },
       {
+        "title": "Elon Musk threatens to sue over Gibney documentary&apos;s &quot;space lasers&quot; claim",
+        "link": "https://www.npr.org/2026/09/10/g-s1-142713/musk-trump-2024-lasers-space",
+        "pubDate": "Thu, 10 Sep 2026 11:13:09 -0400",
+        "description": "The tech billionaire&apos;s attorney has put documentarian Alex Gibney and his production company on legal notice, claiming the Oscar-winning director defamed Musk in his nearly four-hour documentary."
+      },
+      {
         "title": "&apos;I&apos;ve never seen anything like this&apos; -- A U.S. doctor treats Ebola&apos;s youngest victims",
         "link": "https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo",
         "pubDate": "Thu, 10 Sep 2026 11:06:20 -0400",
@@ -140,19 +152,7 @@
         "title": "One year after Charlie Kirk&apos;s death, Turning Point USA faces an uncertain future",
         "link": "https://www.npr.org/2026/09/10/nx-s1-5928517/charlie-kirk-death-anniversary-turning-point",
         "pubDate": "Thu, 10 Sep 2026 05:00:00 -0400",
-        "description": "The death of Charlie Kirk was seen as a rallying call for young conservatives. One year later, the movement is wrestling with questions about its future."
-      },
-      {
-        "title": "Democrats blast $5,000 payment promise ahead of Trump, Vance speeches in Dallas",
-        "link": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
-        "pubDate": "Thu, 10 Sep 2026 05:00:00 -0400",
-        "description": "President Trump promised to send every adult citizen $5,000, but only if Republicans maintain control of Congress in the midterm election, drawing a strong response from House Democrats."
-      },
-      {
-        "title": "Scientists say August was Earth&apos;s hottest month they&apos;ve measured",
-        "link": "https://www.npr.org/2026/09/10/nx-s1-5964676/scientists-august-hottest",
-        "pubDate": "Thu, 10 Sep 2026 04:54:00 -0400",
-        "description": "The European climate service Copernicus said the Earth just sweltered through its hottest month on record in August. Scientists said the heat surge is mostly due to human-caused climate change."
+        "description": "The death of Charlie Kirk was seen as a rallying call for young conservatives. But as his supporters reflect on the past year, some paint a more complicated picture of the organization he left behind."
       }
     ],
     "Canada": []
