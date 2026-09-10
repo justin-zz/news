@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T23:47:30.560Z",
+  "updated": "2026-09-10T02:53:28.503Z",
   "world": [
     {
       "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Fetterman, already at odds with his party, makes surprise video for GOP convention",
+        "link": "https://www.npr.org/2026/09/09/nx-s1-5963916/john-fetterman-gop-midterm-convention-trump",
+        "pubDate": "Wed, 09 Sep 2026 21:17:28 -0400",
+        "description": "The Pennsylvania Democrat has already had a strained relationship with many inside his party. In the video, he spoke about working with Trump but did not outright praise him."
+      },
+      {
         "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
         "link": "https://www.npr.org/2026/09/09/nx-s1-5962805/conductor-julian-wachner-suspended-sentence-for-possession-of-child-sex-abuse-material",
         "pubDate": "Wed, 09 Sep 2026 16:42:19 -0400",
@@ -110,7 +116,7 @@
         "title": "Special education head at Education Department abruptly resigns",
         "link": "https://www.npr.org/2026/09/09/nx-s1-5962899/special-education-kelly-rogers-resigns",
         "pubDate": "Wed, 09 Sep 2026 13:48:56 -0400",
-        "description": "&lt;em&gt;The leader of the Education Department&apos;s special education office told employees she is resigning less than four months in the role and as the agency overall is morphing and shrinking.&"
+        "description": "&lt;em&gt;The leader of the Education Department&apos;s special education office told employees she is resigning after less than four months in the role and as the agency overall is morphing and shrin"
       },
       {
         "title": "Andrew Tate is denied bail and will remain in jail during his extradition fight",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
         "pubDate": "Wed, 09 Sep 2026 07:12:27 -0400",
         "description": "The U.S. military says it has destroyed five Iranian oil tankers as the conflict continues to escalate. And, Smithsonian head Lonnie G. Bunch III says he plans to step down by the end of the year."
-      },
-      {
-        "title": "Cargo jet tried to abort unsteady landing before Miami crash, flight data indicates",
-        "link": "https://www.npr.org/2026/09/09/g-s1-142482/cargo-plane-crash-miami",
-        "pubDate": "Wed, 09 Sep 2026 05:09:32 -0400",
-        "description": "Flight data suggest an Amazon cargo plane tried to abort an unsteady landing at Miami International Airport before smashing into a van and killing five people inside, according to information investig"
       }
     ],
     "Canada": []
