@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T02:47:35.499Z",
+  "updated": "2026-09-11T07:44:04.653Z",
   "world": [
     {
       "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
@@ -8,10 +8,10 @@
       "description": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route."
     },
     {
-      "title": "Can Trump really pay $5,000 to every American adult?",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 16:48:37 GMT",
-      "description": "Analysts question if the US president's election year offer is workable, legal or affordable."
+      "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+      "link": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 22:36:02 GMT",
+      "description": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report."
     },
     {
       "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
@@ -26,15 +26,9 @@
       "description": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears."
     },
     {
-      "title": "More than 20 children killed in DR Congo school fire",
-      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 19:16:24 GMT",
-      "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu."
-    },
-    {
       "title": "Man jailed after threatening to kill son's teacher in French village",
       "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 20:10:51 GMT",
+      "pubDate": "Fri, 11 Sep 2026 06:28:42 GMT",
       "description": "The father had threatened to behead a female primary school teacher near Toulouse."
     },
     {
@@ -42,6 +36,24 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 11 Sep 2026 01:01:18 GMT",
       "description": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps."
+    },
+    {
+      "title": "More than 20 children killed in DR Congo school fire",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 19:16:24 GMT",
+      "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu."
+    },
+    {
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
+      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 06:54:46 GMT",
+      "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December."
+    },
+    {
+      "title": "Can Trump really pay $5,000 to every American adult?",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 16:48:37 GMT",
+      "description": "Analysts question if the US president's election year offer is workable, legal or affordable."
     },
     {
       "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
@@ -74,26 +86,32 @@
       "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta."
     },
     {
-      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-      "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 17:13:53 GMT",
-      "description": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims."
-    },
-    {
-      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 04:43:54 GMT",
-      "description": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors."
-    },
-    {
-      "title": "Four key takeaways from  Republican midterms convention",
-      "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 04:07:44 GMT",
-      "description": "The US president covered many of the subjects he has returned to time and again - with a few surprises thrown in."
+      "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 10 Sep 2026 23:22:11 GMT",
+      "description": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Why Houthi military gains in Yemen may further increase gas prices",
+        "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
+        "pubDate": "Fri, 11 Sep 2026 03:32:27 -0400",
+        "description": "A Houthi advance along Yemen&apos;s Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia&apos;s oil facilities"
+      },
+      {
+        "title": "Hong Kong court sentences 3 Tiananmen vigil organizers to prison",
+        "link": "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers",
+        "pubDate": "Fri, 11 Sep 2026 02:42:04 -0400",
+        "description": "The activists were sentenced to about 5 to 7 years in prison in a case widely seen as a barometer of the city&apos;s eroding freedoms as Beijing clamps down on dissent."
+      },
+      {
+        "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+        "link": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
+        "pubDate": "Fri, 11 Sep 2026 01:40:21 -0400",
+        "description": "The rebel group took over Yemen&apos;s port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait"
+      },
       {
         "title": "This summer was hot. August shattered global heat records",
         "link": "https://www.npr.org/2026/09/10/nx-s1-5963899/august-heat-summer-hottest",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/09/10/g-s1-142545/ebola-children-democratic-republic-congo",
         "pubDate": "Thu, 10 Sep 2026 11:06:20 -0400",
         "description": "Dr. Rupa Narra is a U.S. pediatrician who arrived in the Democratic Republic of Congo to help care for stricken children. Nothing could have prepared her for what she&apos;d face."
-      },
-      {
-        "title": "How did 9/11 reshape national security?",
-        "link": "https://www.npr.org/2026/09/10/nx-s1-5910729/how-did-9-11-reshape-national-security",
-        "pubDate": "Thu, 10 Sep 2026 10:53:37 -0400",
-        "description": "Sept. 11 represented a new kind of national security threat, and a new national security architecture was created to confront it."
-      },
-      {
-        "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
-        "link": "https://www.npr.org/2026/09/10/g-s1-142670/up-first-newsletter-trump-midterm-convention-missouri-denny-hoskins-apple-charlie-kirk",
-        "pubDate": "Thu, 10 Sep 2026 07:27:14 -0400",
-        "description": "President Trump tries to incentivize voters by promising $5,000 to Americans if the GOP wins the midterms. And, young conservatives reflect on the party one year after Charlie Kirk&apos;s death."
-      },
-      {
-        "title": "Vance, Trump speaking at the Republican midterm convention in Dallas",
-        "link": "https://www.npr.org/2026/09/10/nx-s1-5963880/trump-republican-midterm-convention-vance",
-        "pubDate": "Thu, 10 Sep 2026 05:00:00 -0400",
-        "description": "President Trump promised to send every adult citizen $5,000, but only if Republicans maintain control of Congress in the midterm election, drawing a strong response from House Democrats."
       }
     ],
     "Canada": []
