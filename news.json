@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-11T19:24:51.136Z",
+  "updated": "2026-09-11T21:49:30.328Z",
   "world": [
     {
       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
       "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 11 Sep 2026 16:58:34 GMT",
+      "pubDate": "Fri, 11 Sep 2026 20:11:47 GMT",
       "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
     },
     {
@@ -52,7 +52,7 @@
     {
       "title": "Six Nigerians accused of romance scams to be extradited to the US",
       "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 11 Sep 2026 09:54:51 GMT",
+      "pubDate": "Fri, 11 Sep 2026 21:07:19 GMT",
       "description": "The six will face wire fraud and money-laundry charges in the US, South African police say."
     },
     {
@@ -80,20 +80,26 @@
       "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu."
     },
     {
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 19:44:58 GMT",
+      "description": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years."
+    },
+    {
       "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
       "link": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 11 Sep 2026 00:27:20 GMT",
       "description": "It has been a rollercoaster ride for 'cockroach' party founder Abhijeet Dipke who gained celebrity status overnight."
-    },
-    {
-      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
-      "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 11 Sep 2026 05:53:06 GMT",
-      "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
+        "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
+        "pubDate": "Fri, 11 Sep 2026 15:39:35 -0400",
+        "description": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten."
+      },
       {
         "title": "In photos: Remembering the Sept. 11 attacks, 25 years later",
         "link": "https://www.npr.org/sections/the-picture-show/2026/09/11/g-s1-142913/in-photos-remembering-the-sept-11-attacks-25-years-later",
@@ -141,12 +147,6 @@
         "link": "https://www.npr.org/2026/09/11/nx-s1-5965553/ground-zero-sept-11-undocumented-immigrants",
         "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
         "description": "After 9/11, thousands of rescue and cleanup crews went to work at ground zero. They were exposed to toxic debris and experienced psychological trauma. Today, many say they live in fear of deportation."
-      },
-      {
-        "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
-        "link": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
-        "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
-        "description": "For decades, the U.S. and Canadian auto supply chains have been tightly woven together. The trade war is threatening to unravel a complex system."
       },
       {
         "title": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk",
