@@ -1,29 +1,11 @@
 {
-  "updated": "2026-09-11T16:52:17.769Z",
+  "updated": "2026-09-11T19:24:51.136Z",
   "world": [
     {
-      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 11 Sep 2026 08:15:25 GMT",
-      "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity."
-    },
-    {
-      "title": "Israel says it has destroyed major underground Hezbollah base",
-      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 11 Sep 2026 15:50:23 GMT",
-      "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey."
-    },
-    {
-      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 11 Sep 2026 10:50:04 GMT",
-      "description": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex."
-    },
-    {
-      "title": "Princess Diana's 'revenge dress' goes up for auction",
-      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 11 Sep 2026 12:04:46 GMT",
-      "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December."
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 16:58:34 GMT",
+      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
     },
     {
       "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
@@ -32,9 +14,33 @@
       "description": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt."
     },
     {
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 15:50:23 GMT",
+      "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey."
+    },
+    {
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
+      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 12:04:46 GMT",
+      "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December."
+    },
+    {
+      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 10:50:04 GMT",
+      "description": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex."
+    },
+    {
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 08:15:25 GMT",
+      "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity."
+    },
+    {
       "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
       "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 11 Sep 2026 05:41:54 GMT",
+      "pubDate": "Fri, 11 Sep 2026 17:32:44 GMT",
       "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown."
     },
     {
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 11 Sep 2026 05:53:06 GMT",
       "description": "Twenty-five years on, the attacks have come to define a generation of foreign, security and intelligence policy, the BBC's security correspondent writes."
-    },
-    {
-      "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
-      "link": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 11 Sep 2026 09:38:23 GMT",
-      "description": "As Brics leaders meet in Delhi, divisions within the bloc make a united response to Washington unlikely."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "In photos: Remembering the Sept. 11 attacks, 25 years later",
+        "link": "https://www.npr.org/sections/the-picture-show/2026/09/11/g-s1-142913/in-photos-remembering-the-sept-11-attacks-25-years-later",
+        "pubDate": "Fri, 11 Sep 2026 15:05:00 -0400",
+        "description": "Around the U.S., ceremonies commemorate the 25th anniversary of the Sept. 11th terror attacks in New York and at the Pentagon."
+      },
       {
         "title": "As diseases loom, CDC&apos;s response to measles deaths stirs fears about agency&apos;s reliability",
         "link": "https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
         "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
         "description": "In the Oscar-winning filmmaker&apos;s latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what&apos;s behind Musk&apos;s success are distressing truths."
-      },
-      {
-        "title": "Trump administration allows TPS to continue for Salvadorans – for now",
-        "link": "https://www.npr.org/2026/09/11/nx-s1-5963930/tps-salvadorans-immgiration",
-        "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
-        "description": "The Trump administration declined this week to terminate TPS for Salvadorans, even though it has done so for people from other countries like &lt;a href=&quot;https://www.npr.org/2026/07/29/nx-s1-5910"
       }
     ],
     "Canada": []
