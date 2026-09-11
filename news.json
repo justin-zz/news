@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T12:33:04.229Z",
+  "updated": "2026-09-11T16:52:17.769Z",
   "world": [
     {
       "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
@@ -8,15 +8,9 @@
       "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity."
     },
     {
-      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 11 Sep 2026 05:41:54 GMT",
-      "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown."
-    },
-    {
       "title": "Israel says it has destroyed major underground Hezbollah base",
       "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 11 Sep 2026 11:34:07 GMT",
+      "pubDate": "Fri, 11 Sep 2026 15:50:23 GMT",
       "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey."
     },
     {
@@ -30,6 +24,18 @@
       "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 11 Sep 2026 12:04:46 GMT",
       "description": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December."
+    },
+    {
+      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 16:00:59 GMT",
+      "description": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt."
+    },
+    {
+      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 11 Sep 2026 05:41:54 GMT",
+      "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown."
     },
     {
       "title": "Philippine rescuers board ferry 40 hours after blaze began",
@@ -68,12 +74,6 @@
       "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu."
     },
     {
-      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 10 Sep 2026 16:31:30 GMT",
-      "description": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded."
-    },
-    {
       "title": "The student behind 'cockroach' protests that forced an Indian minister to quit",
       "link": "https://www.bbc.co.uk/news/articles/cly749x4k2vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 11 Sep 2026 00:27:20 GMT",
@@ -94,6 +94,24 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "As diseases loom, CDC&apos;s response to measles deaths stirs fears about agency&apos;s reliability",
+        "link": "https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability",
+        "pubDate": "Fri, 11 Sep 2026 11:34:51 -0400",
+        "description": "The worst U.S. measles outbreak in decades is growing and flu season is imminent. Experts are fretting about federal health data reliability after the CDC questioned two Pennsylvania measles deaths."
+      },
+      {
+        "title": "Is Patagonia the new data center hub? + Harley-Davidson&apos;s role in the trade war",
+        "link": "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
+        "pubDate": "Fri, 11 Sep 2026 10:16:35 -0400",
+        "description": "Why Patagonia might become a new data center hub"
+      },
+      {
+        "title": "The voices of Sept. 11: &apos;My first thought was ... I can&apos;t believe that I survived&apos;",
+        "link": "https://www.npr.org/2026/09/11/nx-s1-5965794/the-voices-of-sept-11-my-first-thought-was-i-cant-believe-that-i-survived",
+        "pubDate": "Fri, 11 Sep 2026 09:37:18 -0400",
+        "description": "We listen back to interviews recorded in the aftermath of Sept. 11, with a particular focus on stories of survival and loss at the World Trade Center, and some reflections in poetry and music."
+      },
       {
         "title": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
         "link": "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting",
@@ -119,18 +137,6 @@
         "description": "After 9/11, thousands of rescue and cleanup crews went to work at ground zero. They were exposed to toxic debris and experienced psychological trauma. Today, many say they live in fear of deportation."
       },
       {
-        "title": "On the 25th anniversary of 9/11, a divided U.S. gathers to remember and grieve",
-        "link": "https://www.npr.org/2026/09/11/nx-s1-5961366/9-11-memorial-events",
-        "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
-        "description": "The U.S. marks the 25th anniversary of 9/11. Events will honor those lost, at a time when Americans are divided about the meaning and legacy of the terrorist attacks."
-      },
-      {
-        "title": "Empty seats, socialism and Trump dominate the Republican midterm convention",
-        "link": "https://www.npr.org/2026/09/11/nx-s1-5962848/republican-convention-trump-dividend-vance-midterms",
-        "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
-        "description": "The two day Republican convention in Dallas showcased the party&apos;s biggest asset in trying to win competitive midterm races and its greatest obstacle: President Trump."
-      },
-      {
         "title": "The U.S.-Canada trade war is creating a headache for auto-parts makers",
         "link": "https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain",
         "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/11/nx-s1-5963930/tps-salvadorans-immgiration",
         "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
         "description": "The Trump administration declined this week to terminate TPS for Salvadorans, even though it has done so for people from other countries like &lt;a href=&quot;https://www.npr.org/2026/07/29/nx-s1-5910"
-      },
-      {
-        "title": "These Michigan swing voters are bracing for higher prices from trade war with Canada",
-        "link": "https://www.npr.org/2026/09/11/nx-s1-5963884/michigan-focus-groups-canada-trump-tariffs",
-        "pubDate": "Fri, 11 Sep 2026 05:00:00 -0400",
-        "description": "President Trump&apos;s tariff standoff with Canada is rankling some key voters ahead of this year&apos;s midterm elections."
       }
     ],
     "Canada": []
