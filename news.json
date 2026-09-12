@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-12T15:05:14.858Z",
+  "updated": "2026-09-12T17:46:35.608Z",
   "world": [
+    {
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 17:42:38 GMT",
+      "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide."
+    },
     {
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
       "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss",
@@ -14,9 +20,9 @@
       "description": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\"."
     },
     {
-      "title": "French officials investigate if 'malicious act' caused train derailment",
+      "title": "French officials investigate if malicious act caused train derailment",
       "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 14:13:57 GMT",
+      "pubDate": "Sat, 12 Sep 2026 15:05:53 GMT",
       "description": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured."
     },
     {
@@ -26,15 +32,21 @@
       "description": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter."
     },
     {
+      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
+      "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 16:55:31 GMT",
+      "description": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir."
+    },
+    {
       "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
       "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 12 Sep 2026 10:00:05 GMT",
       "description": "The authorities have struggled to contain the fallout, as frightened migrants flee the country."
     },
     {
-      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
       "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 03:02:28 GMT",
+      "pubDate": "Sat, 12 Sep 2026 15:09:55 GMT",
       "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says."
     },
     {
@@ -42,6 +54,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 12 Sep 2026 13:00:32 GMT",
       "description": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes."
+    },
+    {
+      "title": "Bulgaria investigates fire at weapons  site that owner calls sabotage",
+      "link": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 17:38:21 GMT",
+      "description": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage."
     },
     {
       "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
@@ -68,28 +86,10 @@
       "description": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary."
     },
     {
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 11 Sep 2026 22:17:45 GMT",
-      "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
-    },
-    {
       "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
       "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 11 Sep 2026 19:44:58 GMT",
       "description": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years."
-    },
-    {
-      "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
-      "link": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 00:24:08 GMT",
-      "description": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen."
-    },
-    {
-      "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
-      "link": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 11 Sep 2026 23:39:01 GMT",
-      "description": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends."
     }
   ],
   "regions": {
@@ -116,7 +116,7 @@
         "title": "Trump meets Ireland&apos;s leaders before heading to his golf club in Doonbeg",
         "link": "https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leaders",
         "pubDate": "Sat, 12 Sep 2026 06:55:14 -0400",
-        "description": "U.S. President Donald Trump has held talks in Dublin with Irish President Catherine Connolly and Ireland&apos;s Prime Minister Micheál Martin during a weekend visit centered on a major golf tournament"
+        "description": "President Trump held talks in Dublin with Irish President Catherine Connolly and Ireland&apos;s Prime Minister Micheál Martin during a weekend visit centered on a major golf tournament."
       },
       {
         "title": "The secret quest to preserve Palestinian writer Raja Shehadeh&apos;s diaries",
@@ -125,10 +125,10 @@
         "description": "Leading Palestinian writer Raja Shehadeh has documented Israel&apos;s occupation of the West Bank since day one. Fearing the occupation might consume his archive, he secretly moved it to Scotland"
       },
       {
-        "title": "Why are the people building the most powerful AI so worried about what it could do?",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
+        "title": "Miami crash raises concerns about the jet&apos;s operator, and why it&apos;s flying for Amazon",
+        "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
         "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
-        "description": "As an Anthropic resignation and OpenAI agents&apos; hack on Hugging Face capture public attention, some researchers worry the industry is racing too fast to develop powerful AI while safety measures l"
+        "description": "The cargo plane crash in Miami is raising concerns about the safety culture at 21 Air, one of the carriers that fly for Amazon. Former pilots were sounding alarms even before Sunday&apos;s accident."
       },
       {
         "title": "Neighbor turned on neighbor after Charlie Kirk&apos;s killing. Is the divide here to stay?",
@@ -137,10 +137,10 @@
         "description": "The assassination of far right activist Charlie Kirk opened the floodgates of neighbor-on-neighbor doxing. A year later, the damage to political discourse in the U.S. remains."
       },
       {
-        "title": "Miami crash raises concerns about the jet&apos;s operator, and why it&apos;s flying for Amazon",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
+        "title": "Why are the people building the most powerful AI so worried about what it could do?",
+        "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
         "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
-        "description": "The cargo plane crash in Miami is raising concerns about the safety culture at 21 Air, one of the carriers that fly for Amazon. Former pilots were sounding alarms even before Sunday&apos;s accident."
+        "description": "As an Anthropic resignation and OpenAI agents&apos; hack on Hugging Face capture public attention, some researchers worry the industry is racing too fast to develop powerful AI while safety measures l"
       },
       {
         "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
