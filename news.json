@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-12T20:07:23.975Z",
+  "updated": "2026-09-12T22:29:10.773Z",
   "world": [
     {
       "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
       "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 17:42:38 GMT",
+      "pubDate": "Sat, 12 Sep 2026 21:16:47 GMT",
       "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide."
     },
     {
@@ -14,10 +14,10 @@
       "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran."
     },
     {
-      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 13:56:20 GMT",
-      "description": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\"."
+      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 21:25:28 GMT",
+      "description": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland."
     },
     {
       "title": "Fire at nursing home in Chile kills 16 residents",
@@ -32,16 +32,16 @@
       "description": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured."
     },
     {
-      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 05:55:15 GMT",
-      "description": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter."
-    },
-    {
       "title": "Uganda's King Oyo buried amid calls for unity over his successor",
       "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 12 Sep 2026 16:55:31 GMT",
       "description": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir."
+    },
+    {
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 05:55:15 GMT",
+      "description": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter."
     },
     {
       "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
@@ -54,6 +54,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 12 Sep 2026 13:00:32 GMT",
       "description": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes."
+    },
+    {
+      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 20:27:25 GMT",
+      "description": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel."
     },
     {
       "title": "Bulgaria investigates fire at weapons  site that owner calls sabotage",
@@ -78,12 +84,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 11 Sep 2026 20:34:29 GMT",
       "description": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy."
-    },
-    {
-      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 00:43:00 GMT",
-      "description": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary."
     },
     {
       "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
@@ -137,16 +137,16 @@
         "description": "The cargo plane crash in Miami is raising concerns about the safety culture at 21 Air, one of the carriers that fly for Amazon. Former pilots were sounding alarms even before Sunday&apos;s accident."
       },
       {
-        "title": "Anthropic and OpenAI CEOs call for AI development to slow down",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
-        "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
-        "description": "Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag."
-      },
-      {
         "title": "Neighbor turned on neighbor after Charlie Kirk&apos;s killing. Is the divide here to stay?",
         "link": "https://www.npr.org/2026/09/12/nx-s1-5952234/charlie-kirk-death-doxing",
         "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
         "description": "The assassination of far right activist Charlie Kirk opened the floodgates of neighbor-on-neighbor doxing. A year later, the damage to political discourse in the U.S. remains."
+      },
+      {
+        "title": "Anthropic and OpenAI CEOs call for AI development to slow down, OpenAI to delay IPO",
+        "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
+        "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
+        "description": "Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag."
       },
       {
         "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
