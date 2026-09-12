@@ -1,17 +1,59 @@
 {
-  "updated": "2026-09-12T11:56:25.993Z",
+  "updated": "2026-09-12T15:05:14.858Z",
   "world": [
     {
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
       "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 11:00:34 GMT",
+      "pubDate": "Sat, 12 Sep 2026 12:15:50 GMT",
       "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran."
     },
     {
       "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
       "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 11:27:44 GMT",
-      "description": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare."
+      "pubDate": "Sat, 12 Sep 2026 13:56:20 GMT",
+      "description": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\"."
+    },
+    {
+      "title": "French officials investigate if 'malicious act' caused train derailment",
+      "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 14:13:57 GMT",
+      "description": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured."
+    },
+    {
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 05:55:15 GMT",
+      "description": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter."
+    },
+    {
+      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 10:00:05 GMT",
+      "description": "The authorities have struggled to contain the fallout, as frightened migrants flee the country."
+    },
+    {
+      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 03:02:28 GMT",
+      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says."
+    },
+    {
+      "title": "Record heatwaves in France set to make champagne stronger",
+      "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 13:00:32 GMT",
+      "description": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes."
+    },
+    {
+      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 02:29:49 GMT",
+      "description": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August."
+    },
+    {
+      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 12 Sep 2026 08:04:16 GMT",
+      "description": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo."
     },
     {
       "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
@@ -26,52 +68,10 @@
       "description": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary."
     },
     {
-      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 03:02:28 GMT",
-      "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says."
-    },
-    {
-      "title": "Passenger train derails in France leaving at least 44 injured",
-      "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 11 Sep 2026 21:25:32 GMT",
-      "description": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy."
-    },
-    {
-      "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-      "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 02:29:49 GMT",
-      "description": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August."
-    },
-    {
-      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 05:55:15 GMT",
-      "description": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter."
-    },
-    {
       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
       "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 11 Sep 2026 22:17:45 GMT",
       "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
-    },
-    {
-      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
-      "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 10:00:05 GMT",
-      "description": "The authorities have struggled to contain the fallout, as frightened migrants flee the country."
-    },
-    {
-      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 08:04:16 GMT",
-      "description": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo."
-    },
-    {
-      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 11 Sep 2026 17:32:44 GMT",
-      "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown."
     },
     {
       "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
@@ -94,6 +94,18 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "&apos;People are still afraid of those three letters&apos;: Fighting the stigma of HIV",
+        "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
+        "pubDate": "Sat, 12 Sep 2026 09:03:20 -0400",
+        "description": "That&apos;s a quote from former rugby star Gareth Thomas, who is HIV positive. At the International AIDS Conference in Rio this year, he spoke out about the isolation and discrimination tied to the vi"
+      },
+      {
+        "title": "OPINION: 25 years on, a nation still mourns",
+        "link": "https://www.npr.org/2026/09/12/nx-s1-5958560/opinion-25-years-on-a-nation-still-mourns",
+        "pubDate": "Sat, 12 Sep 2026 08:00:00 -0400",
+        "description": "A moment to remember those lost in the 9/11 terrorist attacks 25 years ago yesterday."
+      },
       {
         "title": "A cancer survivor hoped to work — then she lost her Medicaid disability coverage",
         "link": "https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
         "pubDate": "Sat, 12 Sep 2026 01:57:08 -0400",
         "description": "Iranian-backed Houthi rebels in Yemen have captured a strategic island in the Bab el-Mandeb Strait. The move threatens Saudi oil exports through a key commercial lane. And Saudi Arabia said it shut do"
-      },
-      {
-        "title": "How shofars became the spiritual soundtrack of Rosh Hashanah",
-        "link": "https://www.npr.org/2026/09/11/nx-s1-5957988/how-shofars-became-the-spiritual-soundtrack-of-rosh-hashanah",
-        "pubDate": "Fri, 11 Sep 2026 16:29:31 -0400",
-        "description": "Rosh Hashanah, the Jewish New Year, begins at sunset Friday. For many Jews around the world, a highlight of the holiday will be hearing the shofar: an animal&apos;s horn blown like a trumpet."
-      },
-      {
-        "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
-        "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
-        "pubDate": "Fri, 11 Sep 2026 15:39:35 -0400",
-        "description": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten."
       }
     ],
     "Canada": []
