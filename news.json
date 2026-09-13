@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T22:29:10.773Z",
+  "updated": "2026-09-13T00:08:21.402Z",
   "world": [
     {
       "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Celine Dion returns to the stage after battling rare illness",
+        "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
+        "pubDate": "Sat, 12 Sep 2026 19:54:06 -0400",
+        "description": "The Canadian singer opened up her 16-show residency in Paris at the Plenitude Arena. The entire series is sold out."
+      },
+      {
         "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
         "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
         "pubDate": "Sat, 12 Sep 2026 14:29:18 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/12/nx-s1-5950588/openai-anthropic-ai-safety-researchers-hacks",
         "pubDate": "Sat, 12 Sep 2026 05:00:00 -0400",
         "description": "Dario Amodei and Sam Altman are the latest to urge caution amid fears the industry is racing too fast to build powerful AI while safety measures lag."
-      },
-      {
-        "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
-        "link": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
-        "pubDate": "Sat, 12 Sep 2026 03:18:55 -0400",
-        "description": "Indian Prime Minister Narendra Modi hosts Russian President Vladimir Putin, Chinese President Xi Jinping and other leaders of the BRICS nations for a summit on trade, investment, and global conflicts."
       }
     ],
     "Canada": []
