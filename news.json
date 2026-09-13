@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T20:14:16.154Z",
+  "updated": "2026-09-13T22:31:59.480Z",
   "world": [
     {
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
@@ -18,6 +18,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 13 Sep 2026 18:20:22 GMT",
       "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution."
+    },
+    {
+      "title": "Swedish party blocs tied after Sunday vote, projections say",
+      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 13 Sep 2026 22:27:54 GMT",
+      "description": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority."
     },
     {
       "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
@@ -68,12 +74,6 @@
       "description": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism."
     },
     {
-      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-      "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 20:27:25 GMT",
-      "description": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel."
-    },
-    {
       "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
       "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 12 Sep 2026 23:51:05 GMT",
@@ -113,6 +113,12 @@
         "description": "Following the midterm convention in Dallas, President Trump&apos;s $5,000 campaign promise has generated attention, but not belief. And, Vice President JD Vance characterizes Democrats as extremists."
       },
       {
+        "title": "From fracking to data centers: Hearing from people on both sides of the opposition",
+        "link": "https://www.npr.org/2026/09/13/nx-s1-5946724/from-fracking-to-data-centers-hearing-from-people-on-both-sides-of-the-opposition",
+        "pubDate": "Sun, 13 Sep 2026 08:04:24 -0400",
+        "description": "NPR&apos;s Ayesha Rascoe speaks with environmentalist, Bill McKibben, and public relations specialist, Frank Maisano, about opposition to industrial development projects like fracking and data centers"
+      },
+      {
         "title": "Can you imagine a universe without a new &apos;Star Trek&apos; on the horizon?",
         "link": "https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary",
         "pubDate": "Sun, 13 Sep 2026 07:00:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
         "pubDate": "Sat, 12 Sep 2026 09:03:20 -0400",
         "description": "That&apos;s a quote from former rugby star Gareth Thomas, who is HIV positive. At the International AIDS Conference in Rio this year, he spoke out about the isolation and discrimination tied to the vi"
-      },
-      {
-        "title": "OPINION: 25 years on, a nation still mourns",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5958560/opinion-25-years-on-a-nation-still-mourns",
-        "pubDate": "Sat, 12 Sep 2026 08:00:00 -0400",
-        "description": "A moment to remember those lost in the 9/11 terrorist attacks 25 years ago yesterday."
       }
     ],
     "Canada": []
