@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T17:34:29.908Z",
+  "updated": "2026-09-14T21:23:30.770Z",
   "world": [
     {
       "title": "China criticises idea it is in 'malicious competition' over AI",
@@ -38,6 +38,18 @@
       "description": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby."
     },
     {
+      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 08:58:27 GMT",
+      "description": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media."
+    },
+    {
+      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "link": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 16:48:10 GMT",
+      "description": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety."
+    },
+    {
       "title": "Africa's richest man launches continent's biggest share sale",
       "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 14 Sep 2026 16:23:42 GMT",
@@ -68,12 +80,6 @@
       "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather."
     },
     {
-      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
-      "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 14 Sep 2026 08:58:27 GMT",
-      "description": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media."
-    },
-    {
       "title": "Bali police investigate after Australian man and children found dead in home",
       "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 14 Sep 2026 07:15:35 GMT",
@@ -84,16 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 13 Sep 2026 14:25:56 GMT",
       "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community."
-    },
-    {
-      "title": "Iran war reshapes Brics ties but also exposes divisions",
-      "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 13 Sep 2026 11:23:42 GMT",
-      "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Israel is &apos;dismantling Palestinian life&apos; says Israeli human rights group",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
+        "pubDate": "Mon, 14 Sep 2026 16:34:20 -0400",
+        "description": "One of the country&apos;s leading human rights organizations says Israel is dismantling all aspects of Palestinian life at a breakneck rate. The group has extensively documented what it says are the m"
+      },
+      {
+        "title": "10 years after taking a knee, Colin Kaepernick is still waging a &apos;Perilous Fight&apos;",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5965828/colin-kaepernick-football-the-perilous-fight",
+        "pubDate": "Mon, 14 Sep 2026 14:45:21 -0400",
+        "description": "The former 49ers quarterback created an uproar in 2016 when took a knee during the national anthem to protest police brutality. In &lt;em&gt;The Perilous Fight&lt;/em&gt; he explains why he still want"
+      },
+      {
+        "title": "Kennedy Center says it&apos;s on the brink of bankruptcy, might close as early as Tuesday",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5968690/kennedy-center-financial-physical-state",
+        "pubDate": "Mon, 14 Sep 2026 14:25:04 -0400",
+        "description": "In two board resolutions made public Monday, the arts institution says it is in a dire financial and physical state — and that only President Trump can &quot;rescue&quot; it."
+      },
       {
         "title": "The producer of Fleabag and Baby Reindeer&apos;s tip for finding a hit? Don&apos;t look for one",
         "link": "https://www.npr.org/2026/09/14/nx-s1-5968566/francesca-moody-fleabag-producer-hits-edinburgh",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
         "pubDate": "Mon, 14 Sep 2026 05:00:00 -0400",
         "description": "Earlier this year,  OpenAI launched a feature on ChatGPT meant to help people at risk of suicide connect with someone they trust for support. But its setup may prove challenging to someone in crisis."
-      },
-      {
-        "title": "Lawmakers home in on midterm messages as Congress returns to session",
-        "link": "https://www.npr.org/2026/09/14/nx-s1-5966873/lawmakers-hone-in-on-midterm-messages-as-congress-returns-to-session",
-        "pubDate": "Mon, 14 Sep 2026 04:43:06 -0400",
-        "description": "Congress returns for a short last session ahead of the midterm election with a full plate as lawmakers look for messaging bills they can take back to voters."
-      },
-      {
-        "title": "Talks between Iran and Gulf states to discuss Strait of Hormuz postponed",
-        "link": "https://www.npr.org/2026/09/14/nx-s1-5968072/talks-between-iran-and-gulf-states-to-discuss-strait-of-hormuz-postponed",
-        "pubDate": "Mon, 14 Sep 2026 04:43:00 -0400",
-        "description": "Iranian officials say a meeting with Gulf states to discuss the Strait of Hormuz has been postponed, dealing a blow to efforts to reopen the strait."
-      },
-      {
-        "title": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
-        "link": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
-        "pubDate": "Mon, 14 Sep 2026 02:20:28 -0400",
-        "description": "Indonesian authorities intensified on Monday a search for people missing after a ferry overturned in bad weather in the Java Sea. At least six passengers were killed and 129 people are still missing."
       }
     ],
     "Canada": []
