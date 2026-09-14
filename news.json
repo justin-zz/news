@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-14T00:39:46.318Z",
+  "updated": "2026-09-14T05:43:30.565Z",
   "world": [
     {
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 13 Sep 2026 19:14:21 GMT",
-      "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
+      "pubDate": "Mon, 14 Sep 2026 03:38:13 GMT",
+      "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
     },
     {
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
@@ -20,10 +20,10 @@
       "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution."
     },
     {
-      "title": "Swedish party blocs tied after Sunday vote, projections say",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
       "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 13 Sep 2026 22:27:54 GMT",
-      "description": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority."
+      "pubDate": "Mon, 14 Sep 2026 01:58:59 GMT",
+      "description": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority."
     },
     {
       "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway",
+        "link": "https://www.npr.org/2026/09/14/g-s1-143138/amazon-suspends-21-air-cargo-carrier",
+        "pubDate": "Mon, 14 Sep 2026 01:26:01 -0400",
+        "description": "Amazon said it&apos;s decided to pause operations with 21 Air as the investigation into the crash continues. North Carolina-based 21 had flown packages for Amazon since 2024."
+      },
+      {
         "title": "Pennsylvania says an unvaccinated woman has died from measles-related complications",
         "link": "https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications",
         "pubDate": "Sun, 13 Sep 2026 19:23:00 -0400",
@@ -104,7 +110,7 @@
         "title": "Trump downplays calls for AI slowdown",
         "link": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
         "pubDate": "Sun, 13 Sep 2026 18:32:39 -0400",
-        "description": "President Trump said there were &quot;negative forces&quot; predicting things that he says won&apos;t happen."
+        "description": "President Trump said the dire warnings about AI were exaggerated and that &quot;negative forces&quot; are making claims about things that won&apos;t happen. This comes after leaders in the industry ca"
       },
       {
         "title": "Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
         "pubDate": "Sun, 13 Sep 2026 06:31:10 -0400",
         "description": "Indonesian rescuers said about 130 passengers and crew are missing after a ferry carrying more than 240 people sank in bad weather in the Java Sea on Sunday."
-      },
-      {
-        "title": "How a young woman was recruited to ISIS — and how she eventually escaped",
-        "link": "https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis",
-        "pubDate": "Sun, 13 Sep 2026 05:00:00 -0400",
-        "description": "A young Canadian mother shares her memories of being an ISIS bride, and her harrowing escape from the extremist group."
       }
     ],
     "Canada": []
