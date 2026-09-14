@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T22:31:59.480Z",
+  "updated": "2026-09-14T00:39:46.318Z",
   "world": [
     {
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
@@ -11,7 +11,7 @@
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
       "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 13 Sep 2026 18:49:37 GMT",
-      "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\"."
+      "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\"."
     },
     {
       "title": "Questions mount over what an AI 'slowdown' would look like",
@@ -95,6 +95,24 @@
   "regions": {
     "US": [
       {
+        "title": "Pennsylvania says an unvaccinated woman has died from measles-related complications",
+        "link": "https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications",
+        "pubDate": "Sun, 13 Sep 2026 19:23:00 -0400",
+        "description": "Pennsylvania has announced its third measles-related death in less than three weeks. A local coroner says the 40-year-old woman was unvaccinated."
+      },
+      {
+        "title": "Trump downplays calls for AI slowdown",
+        "link": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
+        "pubDate": "Sun, 13 Sep 2026 18:32:39 -0400",
+        "description": "President Trump said there were &quot;negative forces&quot; predicting things that he says won&apos;t happen."
+      },
+      {
+        "title": "Can Gulf states and Iran negotiate the Strait of Hormuz without the U.S.?",
+        "link": "https://www.npr.org/2026/09/13/nx-s1-5966920/what-to-expect-from-talks-between-iran-and-gulf-states-in-oman",
+        "pubDate": "Sun, 13 Sep 2026 17:03:12 -0400",
+        "description": "Dania Thafer of the Gulf International Forum weighs in on previously scheduled talks between Iran and Gulf states. Shortly before this interview aired, Oman announced that the talks were postponed."
+      },
+      {
         "title": "Wisconsin congressman survives emergency plane landing, swims to safety",
         "link": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
         "pubDate": "Sun, 13 Sep 2026 13:45:33 -0400",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis",
         "pubDate": "Sun, 13 Sep 2026 05:00:00 -0400",
         "description": "A young Canadian mother shares her memories of being an ISIS bride, and her harrowing escape from the extremist group."
-      },
-      {
-        "title": "Celine Dion returns to the stage after battling rare illness",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
-        "pubDate": "Sat, 12 Sep 2026 19:54:06 -0400",
-        "description": "The Canadian singer opened up her 16-show residency in Paris at the Plenitude Arena. The entire series is sold out."
-      },
-      {
-        "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
-        "link": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
-        "pubDate": "Sat, 12 Sep 2026 14:29:18 -0400",
-        "description": "Nazira Haji Zada, a lawful permanent resident, conceded to being an &quot;alien terrorist.&quot; It marks the first case in the Alien Terrorist Removal Court."
-      },
-      {
-        "title": "&apos;People are still afraid of those three letters&apos;: Fighting the stigma of HIV",
-        "link": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
-        "pubDate": "Sat, 12 Sep 2026 09:03:20 -0400",
-        "description": "That&apos;s a quote from former rugby star Gareth Thomas, who is HIV positive. At the International AIDS Conference in Rio this year, he spoke out about the isolation and discrimination tied to the vi"
       }
     ],
     "Canada": []
