@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T21:23:30.770Z",
+  "updated": "2026-09-14T23:55:56.915Z",
   "world": [
     {
       "title": "China criticises idea it is in 'malicious competition' over AI",
@@ -32,10 +32,10 @@
       "description": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel."
     },
     {
-      "title": "Body of missing runner found in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 14 Sep 2026 14:58:48 GMT",
-      "description": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby."
+      "title": "Legendary costume designer Bob Mackie dies aged 87",
+      "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 21:29:12 GMT",
+      "description": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John."
     },
     {
       "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
@@ -54,6 +54,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 14 Sep 2026 16:23:42 GMT",
       "description": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery."
+    },
+    {
+      "title": "Body of missing runner found in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 14:58:48 GMT",
+      "description": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby."
     },
     {
       "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
@@ -84,16 +90,34 @@
       "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 14 Sep 2026 07:15:35 GMT",
       "description": "Police were called after the man's wife became concerned and asked neighbours to check on her family."
-    },
-    {
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 13 Sep 2026 14:25:56 GMT",
-      "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "The Supreme Court rejects Trump&apos;s mail voting restrictions for this year&apos;s midterms",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
+        "pubDate": "Mon, 14 Sep 2026 19:38:40 -0400",
+        "description": "The Supreme Court has rejected the Trump administration&apos;s request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election."
+      },
+      {
+        "title": "Mitch McConnell returns to Senate after fall that led to an extended medical absence",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5968909/mitch-mcconnell-senate-return",
+        "pubDate": "Mon, 14 Sep 2026 18:36:33 -0400",
+        "description": "McConnell spent weeks in recovery before explaining he was &quot;briefly unconscious&quot; following the fall that sent him to the hospital and a weeks-long recovery process."
+      },
+      {
+        "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud",
+        "pubDate": "Mon, 14 Sep 2026 18:05:06 -0400",
+        "description": "Federal agents may have broken state laws after the Department of Homeland Security began surging personnel for what it called the Unlawful Voter Initiative, a federal whistleblower alleges."
+      },
+      {
+        "title": "Trump&apos;s EPA repeals pollution limits on fossil fuel power plants",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5968785/epa-repeals-pollution-limits-on-power-plants",
+        "pubDate": "Mon, 14 Sep 2026 16:34:28 -0400",
+        "description": "The Trump administration is eliminating limits on climate-warming pollution from the nation&apos;s fossil fuel power plants. Environmental groups say this will impact the climate and public health."
+      },
       {
         "title": "Israel is &apos;dismantling Palestinian life&apos; says Israeli human rights group",
         "link": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/09/14/nx-s1-5869793/evanston-illinois-reparations-trump-administration",
         "pubDate": "Mon, 14 Sep 2026 07:00:00 -0400",
         "description": "Evanston, Ill., became the first U.S. city to compensate Black people for historical discrimination. The Justice Department is trying to kill its program before other cities follow suit."
-      },
-      {
-        "title": "The powerful millionaires hiding in plain sight",
-        "link": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight",
-        "pubDate": "Mon, 14 Sep 2026 06:30:00 -0400",
-        "description": "They own car dealerships, law firms, dental practices, and restaurant chains. Collectively, these overlooked business owners hold far more wealth than the Forbes 400 — and wield considerable political"
-      },
-      {
-        "title": "Beijing hits back at Anthropic CEO&apos;s call to curb China&apos;s AI development",
-        "link": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development",
-        "pubDate": "Mon, 14 Sep 2026 06:09:08 -0400",
-        "description": "China&apos;s Foreign Ministry called the Anthropic CEO&apos;s warning about the dangers of Chinese-developed AI &quot;fearmongering,&quot; as the Chinese and U.S. leaders prepare to meet in Washington"
-      },
-      {
-        "title": "New Carlo Rovelli book challenges science&apos;s understanding of reality and the universe",
-        "link": "https://www.npr.org/2026/09/14/nx-s1-5968442/on-the-equality-of-all-things-physics-carlo-rovelli",
-        "pubDate": "Mon, 14 Sep 2026 05:44:44 -0400",
-        "description": "In his latest book, the world-renowned physicist draws on science and philosophy to explore the notion that the university and reality are fully knowable."
-      },
-      {
-        "title": "NPR looked for ChatGPT&apos;s new crisis feature. It&apos;s hard to find",
-        "link": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
-        "pubDate": "Mon, 14 Sep 2026 05:00:00 -0400",
-        "description": "Earlier this year,  OpenAI launched a feature on ChatGPT meant to help people at risk of suicide connect with someone they trust for support. But its setup may prove challenging to someone in crisis."
       }
     ],
     "Canada": []
