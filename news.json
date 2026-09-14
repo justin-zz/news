@@ -1,41 +1,53 @@
 {
-  "updated": "2026-09-14T11:39:44.981Z",
+  "updated": "2026-09-14T17:34:29.908Z",
   "world": [
+    {
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 11:31:39 GMT",
+      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race."
+    },
     {
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 14 Sep 2026 03:38:13 GMT",
+      "pubDate": "Mon, 14 Sep 2026 12:18:13 GMT",
       "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
-    },
-    {
-      "title": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
-      "link": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 14 Sep 2026 01:12:20 GMT",
-      "description": "No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area."
     },
     {
       "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
       "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 14 Sep 2026 08:36:09 GMT",
-      "description": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority."
+      "description": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes."
     },
     {
-      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 13 Sep 2026 13:30:38 GMT",
-      "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather."
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 14:08:12 GMT",
+      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures."
     },
     {
-      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
-      "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 14 Sep 2026 08:58:27 GMT",
-      "description": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media."
+      "title": "Thousands demand end to violence in Mexican cartel hotspot",
+      "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 11:28:36 GMT",
+      "description": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel."
     },
     {
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 13 Sep 2026 14:25:56 GMT",
-      "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community."
+      "title": "Body of missing runner found in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 14:58:48 GMT",
+      "description": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby."
+    },
+    {
+      "title": "Africa's richest man launches continent's biggest share sale",
+      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 16:23:42 GMT",
+      "description": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery."
+    },
+    {
+      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 11:35:08 GMT",
+      "description": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses."
     },
     {
       "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
@@ -50,50 +62,50 @@
       "description": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US."
     },
     {
+      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 13 Sep 2026 13:30:38 GMT",
+      "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather."
+    },
+    {
+      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 14 Sep 2026 08:58:27 GMT",
+      "description": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media."
+    },
+    {
       "title": "Bali police investigate after Australian man and children found dead in home",
       "link": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 14 Sep 2026 07:15:35 GMT",
       "description": "Police were called after the man's wife became concerned and asked neighbours to check on her family."
     },
     {
+      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 13 Sep 2026 14:25:56 GMT",
+      "description": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community."
+    },
+    {
       "title": "Iran war reshapes Brics ties but also exposes divisions",
       "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 13 Sep 2026 11:23:42 GMT",
       "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there."
-    },
-    {
-      "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
-      "link": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 13 Sep 2026 14:01:44 GMT",
-      "description": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down."
-    },
-    {
-      "title": "US congressman swims to safety after his plane is forced to land on a lake",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 13 Sep 2026 15:30:43 GMT",
-      "description": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake."
-    },
-    {
-      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 13 Sep 2026 00:49:08 GMT",
-      "description": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch."
-    },
-    {
-      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
-      "link": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 21:19:11 GMT",
-      "description": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism."
-    },
-    {
-      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 12 Sep 2026 23:51:05 GMT",
-      "description": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "The producer of Fleabag and Baby Reindeer&apos;s tip for finding a hit? Don&apos;t look for one",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5968566/francesca-moody-fleabag-producer-hits-edinburgh",
+        "pubDate": "Mon, 14 Sep 2026 10:03:14 -0400",
+        "description": "Theatre producer Francesca Moody has a remarkable record of spotting shows that go on to have wide success. At the Edinburgh Fringe festival, she told NPR about what she looks for in a performance."
+      },
+      {
+        "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
+        "link": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
+        "pubDate": "Mon, 14 Sep 2026 07:39:06 -0400",
+        "description": "Some key leaders at artificial intelligence companies call for a slowdown in AI development. And, Iran-Gulf diplomacy hits a setback as talks in Oman are delayed."
+      },
       {
         "title": "This city led the way on reparations for Black people. Trump is trying to stop it",
         "link": "https://www.npr.org/2026/09/14/nx-s1-5869793/evanston-illinois-reparations-trump-administration",
@@ -110,7 +122,7 @@
         "title": "Beijing hits back at Anthropic CEO&apos;s call to curb China&apos;s AI development",
         "link": "https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development",
         "pubDate": "Mon, 14 Sep 2026 06:09:08 -0400",
-        "description": "China&apos;s Ministry of Foreign Affairs on Monday hit back at a call from the head of Anthropic for the U.S. to curb China&apos;s artificial intelligence capabilities."
+        "description": "China&apos;s Foreign Ministry called the Anthropic CEO&apos;s warning about the dangers of Chinese-developed AI &quot;fearmongering,&quot; as the Chinese and U.S. leaders prepare to meet in Washington"
       },
       {
         "title": "New Carlo Rovelli book challenges science&apos;s understanding of reality and the universe",
@@ -119,40 +131,28 @@
         "description": "In his latest book, the world-renowned physicist draws on science and philosophy to explore the notion that the university and reality are fully knowable."
       },
       {
-        "title": "ChatGPT has a feature to help those in crisis. But where can you find it?",
+        "title": "NPR looked for ChatGPT&apos;s new crisis feature. It&apos;s hard to find",
         "link": "https://www.npr.org/2026/09/14/nx-s1-5943118/chatgpt-has-a-feature-to-help-those-in-crisis-but-where-can-you-find-it",
         "pubDate": "Mon, 14 Sep 2026 05:00:00 -0400",
         "description": "Earlier this year,  OpenAI launched a feature on ChatGPT meant to help people at risk of suicide connect with someone they trust for support. But its setup may prove challenging to someone in crisis."
+      },
+      {
+        "title": "Lawmakers home in on midterm messages as Congress returns to session",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5966873/lawmakers-hone-in-on-midterm-messages-as-congress-returns-to-session",
+        "pubDate": "Mon, 14 Sep 2026 04:43:06 -0400",
+        "description": "Congress returns for a short last session ahead of the midterm election with a full plate as lawmakers look for messaging bills they can take back to voters."
+      },
+      {
+        "title": "Talks between Iran and Gulf states to discuss Strait of Hormuz postponed",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5968072/talks-between-iran-and-gulf-states-to-discuss-strait-of-hormuz-postponed",
+        "pubDate": "Mon, 14 Sep 2026 04:43:00 -0400",
+        "description": "Iranian officials say a meeting with Gulf states to discuss the Strait of Hormuz has been postponed, dealing a blow to efforts to reopen the strait."
       },
       {
         "title": "Indonesia searches for 129 people missing after ferry capsizes in the Java Sea",
         "link": "https://www.npr.org/2026/09/14/nx-s1-5968417/indonesia-search-missing-ferry",
         "pubDate": "Mon, 14 Sep 2026 02:20:28 -0400",
         "description": "Indonesian authorities intensified on Monday a search for people missing after a ferry overturned in bad weather in the Java Sea. At least six passengers were killed and 129 people are still missing."
-      },
-      {
-        "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through",
-        "link": "https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train",
-        "pubDate": "Mon, 14 Sep 2026 01:46:26 -0400",
-        "description": "A Russian drone struck a train near the Ukraine-Poland border shortly after senior visiting officials, including the former prime ministers of the U.K. and Sweden, passed through."
-      },
-      {
-        "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway",
-        "link": "https://www.npr.org/2026/09/14/g-s1-143138/amazon-suspends-21-air-cargo-carrier",
-        "pubDate": "Mon, 14 Sep 2026 01:26:01 -0400",
-        "description": "Amazon said it&apos;s decided to pause operations with 21 Air as the investigation into the crash continues. North Carolina-based 21 had flown packages for Amazon since 2024."
-      },
-      {
-        "title": "Pennsylvania says an unvaccinated woman has died from measles-related complications",
-        "link": "https://www.npr.org/2026/09/13/nx-s1-5968093/pennsylvania-says-an-unvaccinated-woman-has-died-from-measles-related-complications",
-        "pubDate": "Sun, 13 Sep 2026 19:23:00 -0400",
-        "description": "Pennsylvania has announced its third measles-related death in less than three weeks. A local coroner says the 40-year-old woman was unvaccinated."
-      },
-      {
-        "title": "Trump downplays calls for AI slowdown",
-        "link": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
-        "pubDate": "Sun, 13 Sep 2026 18:32:39 -0400",
-        "description": "President Trump said the dire warnings about AI were exaggerated and that &quot;negative forces&quot; are making claims about things that won&apos;t happen. This comes after leaders in the industry ca"
       }
     ],
     "Canada": []
