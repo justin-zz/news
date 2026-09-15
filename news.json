@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T23:55:56.915Z",
+  "updated": "2026-09-15T03:28:33.439Z",
   "world": [
     {
       "title": "China criticises idea it is in 'malicious competition' over AI",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Emmys 2026: Here&apos;s the list of winners",
+        "link": "https://www.npr.org/2026/09/14/nx-s1-5957565/emmys-2026-winners",
+        "pubDate": "Mon, 14 Sep 2026 19:55:49 -0400",
+        "description": "&lt;em&gt;Law &amp; Order: SVU&lt;/em&gt; star Mariska Hargitay is hosting the Emmy Awards on Monday night. We&apos;ll be updating this list as winners are announced."
+      },
+      {
         "title": "The Supreme Court rejects Trump&apos;s mail voting restrictions for this year&apos;s midterms",
         "link": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
         "pubDate": "Mon, 14 Sep 2026 19:38:40 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
         "pubDate": "Mon, 14 Sep 2026 07:39:06 -0400",
         "description": "Some key leaders at artificial intelligence companies call for a slowdown in AI development. And, Iran-Gulf diplomacy hits a setback as talks in Oman are delayed."
-      },
-      {
-        "title": "This city led the way on reparations for Black people. Trump is trying to stop it",
-        "link": "https://www.npr.org/2026/09/14/nx-s1-5869793/evanston-illinois-reparations-trump-administration",
-        "pubDate": "Mon, 14 Sep 2026 07:00:00 -0400",
-        "description": "Evanston, Ill., became the first U.S. city to compensate Black people for historical discrimination. The Justice Department is trying to kill its program before other cities follow suit."
       }
     ],
     "Canada": []
