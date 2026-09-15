@@ -1,17 +1,53 @@
 {
-  "updated": "2026-09-15T14:07:48.517Z",
+  "updated": "2026-09-15T18:21:10.616Z",
   "world": [
-    {
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 08:49:31 GMT",
-      "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory."
-    },
     {
       "title": "Denmark says Russian warship fired flares at military helicopter",
       "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 15 Sep 2026 11:40:00 GMT",
       "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
+    },
+    {
+      "title": "What weapon could the US have put into space?",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 14:23:14 GMT",
+      "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit."
+    },
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 16:55:04 GMT",
+      "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations."
+    },
+    {
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 16:13:41 GMT",
+      "description": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone."
+    },
+    {
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 15:31:34 GMT",
+      "description": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\"."
+    },
+    {
+      "title": "Canada is a 'safe harbour' for global finance, Carney says",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 17:54:46 GMT",
+      "description": "The prime minister is hosting a major global investment summit, with the goal of attracting money into the country amid a trade war with the US."
+    },
+    {
+      "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 16:01:54 GMT",
+      "description": "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage."
+    },
+    {
+      "title": "Ash from Mount Etna grounds flights at Sicily airport",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 14:35:04 GMT",
+      "description": "All flights are suspended from one of Italy's busiest airports until Tuesday night."
     },
     {
       "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
@@ -20,40 +56,22 @@
       "description": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony."
     },
     {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 13:33:16 GMT",
-      "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations."
-    },
-    {
-      "title": "US confirms for first time it has deployed space weapons",
-      "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 08:48:28 GMT",
-      "description": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action."
-    },
-    {
-      "title": "Canada is a 'safe harbour' for global finance, Carney says",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 13:43:01 GMT",
-      "description": "The prime minister is hosting a major global investment summit, with the goal of attracting investment amid a trade war with the US."
-    },
-    {
-      "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
-      "link": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 12:59:21 GMT",
-      "description": "Laura Sarabia is accused of ordering police to interrogate her nanny after cash allegedly went missing from her flat."
-    },
-    {
-      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 13:05:36 GMT",
-      "description": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone."
+      "title": "British woman abducted in Malawi, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 17:44:45 GMT",
+      "description": "The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre."
     },
     {
       "title": "More than 100,000 people in Japan are now aged 100 or older",
       "link": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 15 Sep 2026 13:43:15 GMT",
       "description": "Figures show 88% of the centenarians are women as the population continues to age and shrink."
+    },
+    {
+      "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
+      "link": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 12:59:21 GMT",
+      "description": "Laura Sarabia is accused of ordering police to interrogate her nanny after cash allegedly went missing from her flat."
     },
     {
       "title": "Nato jets down drone that entered Lithuanian airspace",
@@ -72,28 +90,34 @@
       "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 15 Sep 2026 02:50:36 GMT",
       "description": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure."
-    },
-    {
-      "title": "Legendary costume designer Bob Mackie dies aged 87",
-      "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 14 Sep 2026 21:29:12 GMT",
-      "description": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John."
-    },
-    {
-      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 14 Sep 2026 14:08:12 GMT",
-      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures."
-    },
-    {
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 14 Sep 2026 11:31:39 GMT",
-      "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Judge blocks plan to return Trump&apos;s name to the Kennedy Center",
+        "link": "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-trump-name",
+        "pubDate": "Tue, 15 Sep 2026 13:49:07 -0400",
+        "description": "The judge ruled that the arts center&apos;s board may not put Trump&apos;s name back up on the building, saying such a change needs Congressional approval."
+      },
+      {
+        "title": "Prosecutors won&apos;t seek the death penalty for Nick Reiner",
+        "link": "https://www.npr.org/2026/09/15/nx-s1-5969890/nick-reiner-rob-reiner-murder-charges-death-penalty",
+        "pubDate": "Tue, 15 Sep 2026 13:36:49 -0400",
+        "description": "Los Angeles County District Attorney Nathan Hochman said his office spoke with Reiner&apos;s siblings and took their wishes into consideration in the decision."
+      },
+      {
+        "title": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
+        "link": "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
+        "pubDate": "Tue, 15 Sep 2026 13:35:14 -0400",
+        "description": "Kentucky Republican Thomas Massie introduced articles of impeachment against Secretary of Defense Pete Hegseth on Tuesday over the war in Iran."
+      },
+      {
+        "title": "Tiny krill are turning up in deep-sea hydrothermal vents. Scientists want to know why",
+        "link": "https://www.npr.org/2026/09/15/nx-s1-5968643/antarctic-krill-hydrothermal-vent-south-pole",
+        "pubDate": "Tue, 15 Sep 2026 12:53:39 -0400",
+        "description": "Antarctic krill serve as a crucial food source for penguins, seals, and whales. They recycle nutrients used by algae. Now researchers say they&apos;ve found krill in a surprising place: hydrothermal v"
+      },
       {
         "title": "Geopolitics and grain don&apos;t mix, say these Montana farmers",
         "link": "https://www.npr.org/2026/09/15/nx-s1-5964930/canada-tariffs-hurting-montana-farmers",
@@ -119,12 +143,6 @@
         "description": "The incident came less than a day after NATO leaders pledged that strikes close to the alliance&apos;s territory would drive the trans-Atlantic organization to increase support for Kyiv."
       },
       {
-        "title": "For thousands of Haitians in the U.S., end of protected status brings fear, grief and defiance",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5961154/for-thousands-of-haitians-in-the-u-s-end-of-protected-status-brings-fear-grief-and-defiance",
-        "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
-        "description": "Haitians in the U.S. lost their Temporary Protected Status under Trump&apos;s immigration crackdown. Now facing deportation to a homeland wracked by gang violence, disease and extreme poverty, Haitian"
-      },
-      {
         "title": "NASA rushed engineers out of their labs. They say it risks future space missions",
         "link": "https://www.npr.org/2026/09/15/nx-s1-5964919/nasa-employee-relocations-equipment-impacts-missions",
         "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
         "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
         "description": "The legislation would establish rules of the road for the crypto sector for the first time — but opponents are up in arms, and the bill faces an uncertain prospect in the Senate."
-      },
-      {
-        "title": "Get ready for yet another cost when buying a home: Junk fees",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
-        "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
-        "description": "Some real estate agents and researchers say home buyers and sellers should not pay this out-of-pocket fee."
-      },
-      {
-        "title": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
-        "pubDate": "Tue, 15 Sep 2026 05:00:00 -0400",
-        "description": "The poles of U.S. politics are coming together over AI. Sanders and Bannon will appear at the &quot;Pro-Human Assembly&quot; in Washington, D.C., to convince Congress to work faster to curb the impact"
-      },
-      {
-        "title": "Anthropic co-founder says slowing AI is a &apos;collective action problem&apos;",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5968852/anthropic-jack-clark-ai-risks-safety",
-        "pubDate": "Tue, 15 Sep 2026 04:45:04 -0400",
-        "description": "Anthropic co-founder Jack Clark discusses growing concerns about artificial intelligence, recent warning signs and what he says companies should do to reduce the risks."
       }
     ],
     "Canada": []
