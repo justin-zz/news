@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T21:35:41.519Z",
+  "updated": "2026-09-15T23:56:00.819Z",
   "world": [
     {
       "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
@@ -44,10 +44,10 @@
       "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations."
     },
     {
-      "title": "Canada is a 'safe harbour' for global finance, Carney says",
+      "title": "Five takeaways from Canada's push to woo the world's richest investors",
       "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 17:54:46 GMT",
-      "description": "The prime minister is hosting a major global investment summit, with the goal of attracting money into the country amid a trade war with the US."
+      "pubDate": "Tue, 15 Sep 2026 22:46:20 GMT",
+      "description": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US  - takeaways from the first Canada Investment Summit."
     },
     {
       "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Turks often keep gold as a hedge against inflation. It may be hurting Turkey&apos;s future",
+        "link": "https://www.npr.org/2026/09/15/nx-s1-5949212/turks-often-keep-gold-as-a-hedge-against-inflation-it-may-be-hurting-turkeys-future",
+        "pubDate": "Tue, 15 Sep 2026 18:26:14 -0400",
+        "description": "Billions of dollars worth of gold is held in Turkish households outside the banking system. The government aims to convince citizens to put it into the mainstream financial system to help the economy."
+      },
       {
         "title": "State of U.S. democracy reaches new low, report finds",
         "link": "https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
         "pubDate": "Tue, 15 Sep 2026 06:26:08 -0400",
         "description": "In 2025, the Trump administration ended a long-running program to collect air pollution data at U.S. embassies. A new study suggests that led to a 24-33% increase in local pollution levels."
-      },
-      {
-        "title": "NATO jets shoot down a drone in Lithuanian airspace",
-        "link": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
-        "pubDate": "Tue, 15 Sep 2026 05:06:30 -0400",
-        "description": "The incident came less than a day after NATO leaders pledged that strikes close to the alliance&apos;s territory would drive the trans-Atlantic organization to increase support for Kyiv."
       }
     ],
     "Canada": []
