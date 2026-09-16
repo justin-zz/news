@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-15T23:56:00.819Z",
+  "updated": "2026-09-16T03:25:45.490Z",
   "world": [
     {
       "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
       "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 21:07:13 GMT",
+      "pubDate": "Wed, 16 Sep 2026 01:29:20 GMT",
       "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage."
     },
     {
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Judge blocks DHS from acting against a man over a harsh email to an ICE official",
+        "link": "https://www.npr.org/2026/09/15/nx-s1-5970459/ice-dhs-david-streever-free-speech",
+        "pubDate": "Tue, 15 Sep 2026 23:03:47 -0400",
+        "description": "ICE agents turned up at David Streever&apos;s home over a harsh email he sent to an ICE official. Now a court order prevents the federal government from making additional threats against him."
+      },
+      {
+        "title": "Turkish habit of stashing gold &quot;under the pillow&apos; hurts economy, government says",
+        "link": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
+        "pubDate": "Tue, 15 Sep 2026 20:55:41 -0400",
+        "description": "For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the government says that tradition hurts the economy"
+      },
+      {
         "title": "Turks often keep gold as a hedge against inflation. It may be hurting Turkey&apos;s future",
         "link": "https://www.npr.org/2026/09/15/nx-s1-5949212/turks-often-keep-gold-as-a-hedge-against-inflation-it-may-be-hurting-turkeys-future",
         "pubDate": "Tue, 15 Sep 2026 18:26:14 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/09/15/nx-s1-5964930/canada-tariffs-hurting-montana-farmers",
         "pubDate": "Tue, 15 Sep 2026 08:33:19 -0400",
         "description": "Farmers in states bordering Canada say they are reeling from President Trump&apos;s trade wars and resulting retaliatory tariffs. And it&apos;s just not neighborly."
-      },
-      {
-        "title": "SCOTUS rejects Trump&apos;s mail voting limits. And, the Kennedy Center financial crisis",
-        "link": "https://www.npr.org/2026/09/15/g-s1-143294/up-first-newsletter-bernie-sanders-steve-bannon-ai-mail-in-ballots-kennedy-center-emmys",
-        "pubDate": "Tue, 15 Sep 2026 07:35:49 -0400",
-        "description": "The Supreme Court has rejected Trump&apos;s mail-in voting restrictions ahead of the midterm elections. And, the Kennedy Center says it is on the brink of bankruptcy and could close soon."
-      },
-      {
-        "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
-        "pubDate": "Tue, 15 Sep 2026 06:26:08 -0400",
-        "description": "In 2025, the Trump administration ended a long-running program to collect air pollution data at U.S. embassies. A new study suggests that led to a 24-33% increase in local pollution levels."
       }
     ],
     "Canada": []
