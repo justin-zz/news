@@ -1,29 +1,35 @@
 {
-  "updated": "2026-09-16T03:25:45.490Z",
+  "updated": "2026-09-16T08:46:15.301Z",
   "world": [
+    {
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 06:57:32 GMT",
+      "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
+    },
     {
       "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
       "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 01:29:20 GMT",
+      "pubDate": "Wed, 16 Sep 2026 08:35:56 GMT",
       "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage."
     },
     {
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 11:40:00 GMT",
-      "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
+      "title": "Three killed after LA news helicopter crashes while covering deadly bus collision",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 07:00:58 GMT",
+      "description": "The NBCLA news helicopter was flying near the scene of a fatal bus crash."
     },
     {
-      "title": "What weapon could the US have put into space?",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 14:23:14 GMT",
-      "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit."
+      "title": "At least 12 killed after war-damaged Gaza building collapses",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 07:58:22 GMT",
+      "description": "Dozens of people are missing beneath the rubble of the building in Gaza City, where 10 families had reportedly been living."
     },
     {
-      "title": "South African president vows justice as more women's bodies found near Johannesburg",
-      "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 18:01:51 GMT",
-      "description": "Police have not linked the deaths to a serial killer but are investigating this possibility."
+      "title": "US limits visas for South African officials over alleged anti-white discrimination",
+      "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 06:12:04 GMT",
+      "description": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality."
     },
     {
       "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
@@ -32,10 +38,28 @@
       "description": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone."
     },
     {
+      "title": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 02:40:51 GMT",
+      "description": "The fee will be imposed on those who get lost on Japan's most famous mountain during the off-peak seasons."
+    },
+    {
       "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
       "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 15 Sep 2026 20:34:12 GMT",
       "description": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\"."
+    },
+    {
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 11:40:00 GMT",
+      "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
+    },
+    {
+      "title": "South African president vows justice as more women's bodies found near Johannesburg",
+      "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 15 Sep 2026 18:01:51 GMT",
+      "description": "Police have not linked the deaths to a serial killer but are investigating this possibility."
     },
     {
       "title": "Suspected sabotage causes major Netherlands rail disruption",
@@ -56,12 +80,6 @@
       "description": "Arturo Carrera Loaiza denies allegations he was involved in meth production, the Nigerian authorities say."
     },
     {
-      "title": "Ash from Mount Etna grounds flights at Sicily airport",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 14:35:04 GMT",
-      "description": "All flights are suspended from one of Italy's busiest airports until Tuesday night."
-    },
-    {
       "title": "More than 100,000 people in Japan are now aged 100 or older",
       "link": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 15 Sep 2026 13:43:15 GMT",
@@ -72,28 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 15 Sep 2026 17:44:45 GMT",
       "description": "The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre."
-    },
-    {
-      "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
-      "link": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 12:59:21 GMT",
-      "description": "Laura Sarabia is accused of ordering police to interrogate her nanny after cash allegedly went missing from her flat."
-    },
-    {
-      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 03:50:06 GMT",
-      "description": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony."
-    },
-    {
-      "title": "Nato jets down drone that entered Lithuanian airspace",
-      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 09:07:35 GMT",
-      "description": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "U.S. acknowledges for the first time that it has deployed weapons in space",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5970937/us-weapons-space",
+        "pubDate": "Wed, 16 Sep 2026 03:26:28 -0400",
+        "description": "The remarkable revelation comes after previous warnings about countries such as Russia possibly weaponizing a global frontier long agreed in treaties to be used for only peaceful purposes."
+      },
+      {
+        "title": "Ed Sheeran&apos;s tour in trouble after opening acts drop out in solidarity with rapper Macklemore",
+        "link": "https://www.npr.org/2026/09/16/g-s1-143549/ed-sheeran-tour-trouble",
+        "pubDate": "Wed, 16 Sep 2026 02:41:48 -0400",
+        "description": "Ed Sheeran&apos;s tour of North and South America was plunged into chaos when four of his supporting acts quit in solidarity with the rapper Macklemore, who was dropped for making pro-Palestinian comm"
+      },
+      {
+        "title": "3 people killed when news helicopter crashes while covering LA bus accident",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5970477/helicopter-crash-los-angeles",
+        "pubDate": "Wed, 16 Sep 2026 00:06:00 -0400",
+        "description": "A news helicopter used by NBC and Telemundo crashed in a Los Angeles neighborhood on Tuesday, killing at least three people while reporters were covering the nearby crash of an SUV and a city bus."
+      },
       {
         "title": "Judge blocks DHS from acting against a man over a harsh email to an ICE official",
         "link": "https://www.npr.org/2026/09/15/nx-s1-5970459/ice-dhs-david-streever-free-speech",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/09/15/nx-s1-5969890/nick-reiner-rob-reiner-murder-charges-death-penalty",
         "pubDate": "Tue, 15 Sep 2026 13:36:49 -0400",
         "description": "Los Angeles County District Attorney Nathan Hochman said his office spoke with Reiner&apos;s siblings and took their wishes into consideration in the decision."
-      },
-      {
-        "title": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
-        "link": "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
-        "pubDate": "Tue, 15 Sep 2026 13:35:14 -0400",
-        "description": "Kentucky Republican Thomas Massie introduced articles of impeachment against Secretary of Defense Pete Hegseth on Tuesday over the war in Iran."
-      },
-      {
-        "title": "Tiny krill are turning up in deep-sea hydrothermal vents. Scientists want to know why",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5968643/antarctic-krill-hydrothermal-vent-south-pole",
-        "pubDate": "Tue, 15 Sep 2026 12:53:39 -0400",
-        "description": "Antarctic krill serve as a crucial food source for penguins, seals, and whales. They recycle nutrients used by algae. Now researchers say they&apos;ve found krill in a surprising place: hydrothermal v"
-      },
-      {
-        "title": "Geopolitics and grain don&apos;t mix, say these Montana farmers",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5964930/canada-tariffs-hurting-montana-farmers",
-        "pubDate": "Tue, 15 Sep 2026 08:33:19 -0400",
-        "description": "Farmers in states bordering Canada say they are reeling from President Trump&apos;s trade wars and resulting retaliatory tariffs. And it&apos;s just not neighborly."
       }
     ],
     "Canada": []
