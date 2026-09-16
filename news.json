@@ -1,47 +1,29 @@
 {
-  "updated": "2026-09-16T08:46:15.301Z",
+  "updated": "2026-09-16T13:59:44.393Z",
   "world": [
+    {
+      "title": "EU chief backs plan for Canada to become 'associate member'",
+      "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 12:36:51 GMT",
+      "description": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump."
+    },
     {
       "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
       "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 06:57:32 GMT",
+      "pubDate": "Wed, 16 Sep 2026 10:02:05 GMT",
       "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
     },
     {
       "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
       "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 08:35:56 GMT",
+      "pubDate": "Wed, 16 Sep 2026 09:36:54 GMT",
       "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage."
     },
     {
-      "title": "Three killed after LA news helicopter crashes while covering deadly bus collision",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 07:00:58 GMT",
-      "description": "The NBCLA news helicopter was flying near the scene of a fatal bus crash."
-    },
-    {
-      "title": "At least 12 killed after war-damaged Gaza building collapses",
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
       "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 07:58:22 GMT",
-      "description": "Dozens of people are missing beneath the rubble of the building in Gaza City, where 10 families had reportedly been living."
-    },
-    {
-      "title": "US limits visas for South African officials over alleged anti-white discrimination",
-      "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 06:12:04 GMT",
-      "description": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality."
-    },
-    {
-      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 16:13:41 GMT",
-      "description": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone."
-    },
-    {
-      "title": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 02:40:51 GMT",
-      "description": "The fee will be imposed on those who get lost on Japan's most famous mountain during the off-peak seasons."
+      "pubDate": "Wed, 16 Sep 2026 13:28:46 GMT",
+      "description": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living."
     },
     {
       "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
@@ -50,109 +32,127 @@
       "description": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\"."
     },
     {
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 11:40:00 GMT",
-      "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
+      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+      "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 08:36:17 GMT",
+      "description": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\"."
+    },
+    {
+      "title": "Journalist and pilot among three killed after news helicopter crashes in LA",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 09:49:48 GMT",
+      "description": "The NBCLA news helicopter was flying near the scene of a fatal bus crash."
     },
     {
       "title": "South African president vows justice as more women's bodies found near Johannesburg",
       "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 18:01:51 GMT",
+      "pubDate": "Wed, 16 Sep 2026 10:44:02 GMT",
       "description": "Police have not linked the deaths to a serial killer but are investigating this possibility."
+    },
+    {
+      "title": "US limits visas for South African officials over alleged anti-white discrimination",
+      "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 13:57:03 GMT",
+      "description": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality."
+    },
+    {
+      "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
+      "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 11:50:09 GMT",
+      "description": "He is due to be tried for crimes against humanity over thousands of deaths linked to his war on drugs."
+    },
+    {
+      "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 11:02:54 GMT",
+      "description": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness."
+    },
+    {
+      "title": "Legendary Nigerian actor Olu Jacobs dies aged 84",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 13:29:39 GMT",
+      "description": "Olu Jacobs was one of Nigeria's most recognised actors, whose career spanned several decades."
+    },
+    {
+      "title": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
+      "link": "https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 09:33:40 GMT",
+      "description": "South Korea's delegation slams the wooden containers housing its athletes at the Asian Games in Nagoya city."
+    },
+    {
+      "title": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 02:40:51 GMT",
+      "description": "The fee will be imposed on those who get lost on Japan's most famous mountain during the off-peak seasons."
     },
     {
       "title": "Suspected sabotage causes major Netherlands rail disruption",
       "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 15 Sep 2026 16:55:04 GMT",
       "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations."
-    },
-    {
-      "title": "Five takeaways from Canada's push to woo the world's richest investors",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 22:46:20 GMT",
-      "description": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US  - takeaways from the first Canada Investment Summit."
-    },
-    {
-      "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
-      "link": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 18:49:45 GMT",
-      "description": "Arturo Carrera Loaiza denies allegations he was involved in meth production, the Nigerian authorities say."
-    },
-    {
-      "title": "More than 100,000 people in Japan are now aged 100 or older",
-      "link": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 13:43:15 GMT",
-      "description": "Figures show 88% of the centenarians are women as the population continues to age and shrink."
-    },
-    {
-      "title": "British woman abducted in Malawi, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 15 Sep 2026 17:44:45 GMT",
-      "description": "The mother of two young children was kidnapped in the middle of the day in the main city, Blantyre."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "U.S. acknowledges for the first time that it has deployed weapons in space",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5970937/us-weapons-space",
-        "pubDate": "Wed, 16 Sep 2026 03:26:28 -0400",
-        "description": "The remarkable revelation comes after previous warnings about countries such as Russia possibly weaponizing a global frontier long agreed in treaties to be used for only peaceful purposes."
+        "title": "How are rising prices affecting you? NPR wants to know",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms",
+        "pubDate": "Wed, 16 Sep 2026 09:40:12 -0400",
+        "description": "Inflation, gasoline prices and the cost of living are top of mind in the election season. How are higher costs shaping the way you live? NPR wants to hear."
       },
       {
-        "title": "Ed Sheeran&apos;s tour in trouble after opening acts drop out in solidarity with rapper Macklemore",
-        "link": "https://www.npr.org/2026/09/16/g-s1-143549/ed-sheeran-tour-trouble",
-        "pubDate": "Wed, 16 Sep 2026 02:41:48 -0400",
-        "description": "Ed Sheeran&apos;s tour of North and South America was plunged into chaos when four of his supporting acts quit in solidarity with the rapper Macklemore, who was dropped for making pro-Palestinian comm"
+        "title": "Russia seizes Ukrainian POWs, then it demands favors from their relatives",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5904423/russia-seizes-ukrainian-pows-then-it-demands-favors-from-their-relatives",
+        "pubDate": "Wed, 16 Sep 2026 09:33:53 -0400",
+        "description": "Russia is believed to be holding thousands of Ukrainian POWs. Russia is also tormenting the families of these prisoners by contacting their relatives on social media and demanding they help Russia."
       },
       {
-        "title": "3 people killed when news helicopter crashes while covering LA bus accident",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5970477/helicopter-crash-los-angeles",
-        "pubDate": "Wed, 16 Sep 2026 00:06:00 -0400",
-        "description": "A news helicopter used by NBC and Telemundo crashed in a Los Angeles neighborhood on Tuesday, killing at least three people while reporters were covering the nearby crash of an SUV and a city bus."
+        "title": "Fed expected to raise interest rates. And, board votes to close Kennedy Center",
+        "link": "https://www.npr.org/2026/09/16/g-s1-143569/up-first-newsletter-fed-reserve-interest-rates-iran-war-kennedy-center-contraception",
+        "pubDate": "Wed, 16 Sep 2026 07:19:46 -0400",
+        "description": "The Fed is expected to raise interest rates today for the first time in three years. And, the Kennedy Center board voted yesterday to close the historic center."
       },
       {
-        "title": "Judge blocks DHS from acting against a man over a harsh email to an ICE official",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5970459/ice-dhs-david-streever-free-speech",
-        "pubDate": "Tue, 15 Sep 2026 23:03:47 -0400",
-        "description": "ICE agents turned up at David Streever&apos;s home over a harsh email he sent to an ICE official. Now a court order prevents the federal government from making additional threats against him."
+        "title": "EU&apos;s Ursula von der Leyen says she wants Canada to become an associate member",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member",
+        "pubDate": "Wed, 16 Sep 2026 06:48:22 -0400",
+        "description": "European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union&apos;s first associate member, a striking overture as U.S. President Donald Trump&apos;s tarif"
       },
       {
-        "title": "Turkish habit of stashing gold &quot;under the pillow&apos; hurts economy, government says",
-        "link": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
-        "pubDate": "Tue, 15 Sep 2026 20:55:41 -0400",
-        "description": "For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the government says that tradition hurts the economy"
+        "title": "Senators question Trump&apos;s picks for top health positions, including surgeon general",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general",
+        "pubDate": "Wed, 16 Sep 2026 06:00:00 -0400",
+        "description": "On Wednesday, the Senate committee on health holds a confirmation hearing for three top health officials, including surgeon general. Dr. Nicole Saphier is President Trump&apos;s third attempt to nomin"
       },
       {
-        "title": "Turks often keep gold as a hedge against inflation. It may be hurting Turkey&apos;s future",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5949212/turks-often-keep-gold-as-a-hedge-against-inflation-it-may-be-hurting-turkeys-future",
-        "pubDate": "Tue, 15 Sep 2026 18:26:14 -0400",
-        "description": "Billions of dollars worth of gold is held in Turkish households outside the banking system. The government aims to convince citizens to put it into the mainstream financial system to help the economy."
+        "title": "Kosovo&apos;s ex-President Thaci convicted of war crimes, sentenced to 25 years in prison",
+        "link": "https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes",
+        "pubDate": "Wed, 16 Sep 2026 05:57:03 -0400",
+        "description": "A European Union-backed court convicted former Kosovo President Hashim Thaci of war crimes committed during his country&apos;s war for independence from Serbia and sentenced him to 25 years in prison."
       },
       {
-        "title": "State of U.S. democracy reaches new low, report finds",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5969741/state-of-u-s-democracy-reaches-new-low-report-finds",
-        "pubDate": "Tue, 15 Sep 2026 14:57:42 -0400",
-        "description": "A new global democracy report finds the U.S. at its lowest level of democratic performance in the 50 years it has been measured."
+        "title": "Saudi Arabia calls an attempted Mecca attack a &apos;red line&apos; as Houthis deny they did it",
+        "link": "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
+        "pubDate": "Wed, 16 Sep 2026 05:04:27 -0400",
+        "description": "Saudi Arabia accused Yemen&apos;s Iran-backed Houthi rebels overnight of trying to attack Islam&apos;s holiest city, prompting condemnation from countries in the region but no sign of military support"
       },
       {
-        "title": "Family income rose and poverty fell in 2025 — but safety net cuts could erase gains",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5968648/census-poverty-income-health-insurance-report",
-        "pubDate": "Tue, 15 Sep 2026 14:29:49 -0400",
-        "description": "An annual report from the Census Bureau shows the average family made more money in 2025 than the year before, while the official poverty rate declined. Health care coverage was little changed from 20"
+        "title": "A Kansas girl ran off to join the circus and changed the tattoo world",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5955615/a-kansas-girl-ran-off-to-join-the-circus-and-changed-the-tattoo-world",
+        "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+        "description": "One of the country&apos;s first known female tattoo artists was born on a Kansas farm. Maud Stevens Wagner ran off to join the circus and later became a tattoo legend."
       },
       {
-        "title": "Kennedy Center board votes to close it, as judge again keeps Trump&apos;s name off",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-closing-trump-name",
-        "pubDate": "Tue, 15 Sep 2026 13:49:07 -0400",
-        "description": "The board&apos;s vote to shutter the historic arts center came amid concerns about financial, structural problems."
+        "title": "As campaign season gears up, AI-generated ads are everywhere",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5953990/ai-political-ads-2026-midterms",
+        "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+        "description": "Data suggests many candidates are embracing AI this year to boost their image and portray their opponents unfavorably. But whether it will turn out voters remains unclear."
       },
       {
-        "title": "Prosecutors won&apos;t seek the death penalty for Nick Reiner",
-        "link": "https://www.npr.org/2026/09/15/nx-s1-5969890/nick-reiner-rob-reiner-murder-charges-death-penalty",
-        "pubDate": "Tue, 15 Sep 2026 13:36:49 -0400",
-        "description": "Los Angeles County District Attorney Nathan Hochman said his office spoke with Reiner&apos;s siblings and took their wishes into consideration in the decision."
+        "title": "New maps reveal massive gaps in access to affordable birth control across the U.S",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5956869/birth-control-contraception-access-clinic",
+        "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+        "description": "Because of a data lag, the current reality of access may be even worse."
       }
     ],
     "Canada": []
