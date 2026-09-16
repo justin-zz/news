@@ -1,10 +1,16 @@
 {
-  "updated": "2026-09-16T18:07:02.259Z",
+  "updated": "2026-09-16T21:30:38.179Z",
   "world": [
+    {
+      "title": "US interest rates raised for first time in three years",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 21:02:11 GMT",
+      "description": "The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday."
+    },
     {
       "title": "Photos show widespread damage at US sites from Iranian attacks",
       "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 16:33:56 GMT",
+      "pubDate": "Wed, 16 Sep 2026 18:36:16 GMT",
       "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News."
     },
     {
@@ -20,10 +26,10 @@
       "description": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year."
     },
     {
-      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-      "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 12:26:00 GMT",
-      "description": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\"."
+      "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+      "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 19:59:57 GMT",
+      "description": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender."
     },
     {
       "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
@@ -44,16 +50,22 @@
       "description": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\"."
     },
     {
+      "title": "Trump chief of staff Susie Wiles announces she's cancer-free",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 19:12:48 GMT",
+      "description": "The 69-year-old White House chief of staff is a powerful figure and particularly close to the US president."
+    },
+    {
+      "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+      "link": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 15:48:50 GMT",
+      "description": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965)."
+    },
+    {
       "title": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
       "link": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 16 Sep 2026 15:33:19 GMT",
       "description": "The conservative activist was speaking to a crowd of thousands on the university campus when he was shot and killed by a gunman positioned on a roof."
-    },
-    {
-      "title": "Journalist and pilot among three killed after news helicopter crashes in LA",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 09:49:48 GMT",
-      "description": "The NBCLA news helicopter was flying near the scene of a fatal bus crash."
     },
     {
       "title": "Colombia and Brazil deadliest countries for environmental activists, report says",
@@ -68,32 +80,44 @@
       "description": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality."
     },
     {
+      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 12:26:00 GMT",
+      "description": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\"."
+    },
+    {
       "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
       "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 16 Sep 2026 11:50:09 GMT",
       "description": "He is due to be tried for crimes against humanity over thousands of deaths linked to his war on drugs."
-    },
-    {
-      "title": "Legendary Nigerian actor Olu Jacobs dies aged 84",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 13:29:39 GMT",
-      "description": "Olu Jacobs was one of Nigeria's most recognised actors, whose career spanned several decades."
-    },
-    {
-      "title": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
-      "link": "https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 09:33:40 GMT",
-      "description": "South Korea's delegation slams the wooden containers housing its athletes at the Asian Games in Nagoya city."
-    },
-    {
-      "title": "Lost on Mount Fuji off-season? You'll have to pay for your rescue",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 02:40:51 GMT",
-      "description": "The fee will be imposed on those who get lost on Japan's most famous mountain during the off-peak seasons."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "You&apos;d expect homeowners to save their stuff. Federal policy pays them to leave it",
+        "link": "https://www.npr.org/2026/09/16/g-s1-143708/video-houses-collapse-north-carolina-ocean",
+        "pubDate": "Wed, 16 Sep 2026 17:20:59 -0400",
+        "description": "NPR dug into the upside-down world of FEMA flood insurance in coastal areas, and found many homeowners have no financial choice but to let their homes collapse."
+      },
+      {
+        "title": "House holds billionaire Leon Black in contempt of Congress",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/house-holds-billionaire-leon-black-in-contempt-of-congress",
+        "pubDate": "Wed, 16 Sep 2026 17:12:27 -0400",
+        "description": "The House of Representatives has held billionaire Leon Black in contempt of Congress after he refused to provide additional information on his relationship with convicted sex offender Jeffrey Epstein."
+      },
+      {
+        "title": "Trump administration plans ideological warning signs for Smithsonian",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs",
+        "pubDate": "Wed, 16 Sep 2026 16:55:54 -0400",
+        "description": "The Interior Secretary says the move is necessary to combat what he calls ideological bias."
+      },
+      {
+        "title": "EU rolls out red carpet to Canada to become its first &apos;associate member&apos;",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
+        "pubDate": "Wed, 16 Sep 2026 16:08:27 -0400",
+        "description": "The European Union&apos;s top official backs the Canadian prime minister&apos;s push for his country to become the bloc&apos;s first &quot;associate member,&quot; as Brussels seeks to deepen ties amid"
+      },
       {
         "title": "Congress is under pressure to act on AI — here&apos;s what that could look like",
         "link": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms",
         "pubDate": "Wed, 16 Sep 2026 09:40:12 -0400",
         "description": "Inflation, gasoline prices and the cost of living are top of mind in the election season. How are higher costs shaping the way you live? NPR wants to hear."
-      },
-      {
-        "title": "Russia seizes Ukrainian POWs, then it demands favors from their relatives",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5904423/russia-seizes-ukrainian-pows-then-it-demands-favors-from-their-relatives",
-        "pubDate": "Wed, 16 Sep 2026 09:33:53 -0400",
-        "description": "Russia is believed to be holding thousands of Ukrainian POWs. Russia is also tormenting the families of these prisoners by contacting their relatives on social media and demanding they help Russia."
-      },
-      {
-        "title": "Fed expected to raise interest rates. And, board votes to close Kennedy Center",
-        "link": "https://www.npr.org/2026/09/16/g-s1-143569/up-first-newsletter-fed-reserve-interest-rates-iran-war-kennedy-center-contraception",
-        "pubDate": "Wed, 16 Sep 2026 07:19:46 -0400",
-        "description": "The Fed is expected to raise interest rates today for the first time in three years. And, the Kennedy Center board voted yesterday to close the historic center."
-      },
-      {
-        "title": "EU&apos;s Ursula von der Leyen says she wants Canada to become an associate member",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member",
-        "pubDate": "Wed, 16 Sep 2026 06:48:22 -0400",
-        "description": "European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union&apos;s first associate member, a striking overture as U.S. President Donald Trump&apos;s tarif"
-      },
-      {
-        "title": "Senators question Trump&apos;s picks for top health positions, including surgeon general",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general",
-        "pubDate": "Wed, 16 Sep 2026 06:00:00 -0400",
-        "description": "On Wednesday, the Senate committee on health holds a confirmation hearing for three top health officials, including surgeon general. Dr. Nicole Saphier is President Trump&apos;s third attempt to nomin"
       }
     ],
     "Canada": []
