@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T19:09:16.676Z",
+  "updated": "2026-09-17T22:19:21.121Z",
   "world": [
     {
       "title": "Canada welcomes EU proposal to become 'associate member'",
@@ -16,14 +16,14 @@
     {
       "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
       "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 15:07:47 GMT",
+      "pubDate": "Thu, 17 Sep 2026 20:34:30 GMT",
       "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd."
     },
     {
-      "title": "Hyrox athlete apologises for continuing race after soiling herself",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 15:05:13 GMT",
-      "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week."
+      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 21:41:19 GMT",
+      "description": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US."
     },
     {
       "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
@@ -32,16 +32,22 @@
       "description": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week."
     },
     {
-      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 05:00:18 GMT",
-      "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims."
+      "title": "Hyrox athlete apologises for continuing race after soiling herself",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 15:05:13 GMT",
+      "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week."
     },
     {
       "title": "Aztec document goes on display in Mexico after 186 years abroad",
       "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 17 Sep 2026 11:00:41 GMT",
       "description": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico."
+    },
+    {
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 05:00:18 GMT",
+      "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims."
     },
     {
       "title": "EU announces plan to restrict social media access for under-15s",
@@ -84,16 +90,34 @@
       "link": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 17 Sep 2026 08:39:30 GMT",
       "description": "Flooding has caused widespread disruption across Valencia and Catalonia in north-east Spain."
-    },
-    {
-      "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 11:05:29 GMT",
-      "description": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE",
+        "link": "https://www.npr.org/2026/09/17/nx-s1-5973271/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice",
+        "pubDate": "Thu, 17 Sep 2026 17:17:39 -0400",
+        "description": "The White House says it is withdrawing its nomination of Lance Schroyer, a former Oklahoma state trooper, to lead ICE, ensuring that an agency at the forefront of President Trump&apos;s domestic agend"
+      },
+      {
+        "title": "ICE agent appears in Minnesota court to face charges in the shooting of a Venezuelan immigrant",
+        "link": "https://www.npr.org/2026/09/17/nx-s1-5973127/ice-agent-court-extradition-minnesota-immigrant-shooting",
+        "pubDate": "Thu, 17 Sep 2026 16:23:34 -0400",
+        "description": "Christian Castro, a federal immigration officer, made his first court appearance in Minnesota since he was booked Wednesday into a local jail. Castro faces multiple state and federal charges in connec"
+      },
+      {
+        "title": "Retired Olympic superstar Jessie Diggins wins her first-ever 100 mile trail race",
+        "link": "https://www.npr.org/2026/09/17/nx-s1-5948171/retired-olympic-superstar-jessie-diggins-wins-her-first-ever-100-mile-trail-race",
+        "pubDate": "Thu, 17 Sep 2026 16:00:35 -0400",
+        "description": "This spring Jessie Diggins retired as one of America&apos;s most successful winter Olympic athletes at age 34. She&apos;s relaxing by entering 100-mile trail running races and navigating what comes ne"
+      },
+      {
+        "title": "Can an AI chatbot save lives by answering texts about pregnancy?",
+        "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
+        "pubDate": "Thu, 17 Sep 2026 15:33:30 -0400",
+        "description": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don&apos;t have a search engine at their fingertips, a chatbot is offering a lifeline."
+      },
       {
         "title": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened?",
         "link": "https://www.npr.org/2026/09/17/nx-s1-5971066/trump-rx-medicaid-generous-drug-prices-pfizer-favored-nation",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes",
         "pubDate": "Thu, 17 Sep 2026 06:00:00 -0400",
         "description": "Asian nations began pilot voyages over a decade ago to find routes to Europe and the Middle East that were faster and less vulnerable to chokepoints. The ongoing war has added impetus to those efforts"
-      },
-      {
-        "title": "Why reshaping memories may hold the key to raising self-esteem",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5971141/boost-self-worth-self-esteem",
-        "pubDate": "Thu, 17 Sep 2026 05:02:00 -0400",
-        "description": "In a new book, psychologist Marisa Franco explains why it&apos;s good to feel good about yourself — and shares a helpful memory technique that we&apos;ve turned into a printable worksheet."
-      },
-      {
-        "title": "D.C. airspace is complicated. Experts say Trump&apos;s arch would add one more risk",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5950462/trump-arch-dca-planes-safety-concerns-faa",
-        "pubDate": "Thu, 17 Sep 2026 05:01:00 -0400",
-        "description": "The Trump administration wants to build its 250-foot arch near one of the country&apos;s busiest runways. The FAA will determine whether that poses a hazard. But independent experts already have conce"
-      },
-      {
-        "title": "Pediatricians raise the alarm on the effect of Trump&apos;s immigration crackdown on kids",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5953989/immigration-crackdown-children-medical-care",
-        "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
-        "description": "The Trump administration has been pursuing a quiet immigration crackdown strategy: limiting access to health care and public services. The American Academy of Pediatrics is sounding the alarm about th"
-      },
-      {
-        "title": "Head Start got her out of homelessness. Trump proposal threatens that help for others",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5950524/head-start-homeless-kids-changes",
-        "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
-        "description": "A Trump administration proposal would change access to Head Start for children experiencing homelessness and the kind of care they would receive if they do get in."
       }
     ],
     "Canada": []
