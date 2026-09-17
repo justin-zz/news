@@ -1,11 +1,17 @@
 {
-  "updated": "2026-09-17T00:02:19.216Z",
+  "updated": "2026-09-17T05:05:47.937Z",
   "world": [
     {
       "title": "US interest rates raised for first time in three years",
       "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 22:16:51 GMT",
+      "pubDate": "Thu, 17 Sep 2026 00:40:17 GMT",
       "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut."
+    },
+    {
+      "title": "Snapchat open to putting time limits on teens, boss tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 23:41:57 GMT",
+      "description": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC."
     },
     {
       "title": "Photos show widespread damage at US sites from Iranian attacks",
@@ -16,14 +22,8 @@
     {
       "title": "EU chief backs plan for Canada to become 'associate member'",
       "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 12:36:51 GMT",
-      "description": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump."
-    },
-    {
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 17:16:47 GMT",
-      "description": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year."
+      "pubDate": "Thu, 17 Sep 2026 00:32:05 GMT",
+      "description": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal."
     },
     {
       "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
@@ -32,10 +32,16 @@
       "description": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender."
     },
     {
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 10:02:05 GMT",
-      "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 17:16:47 GMT",
+      "description": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year."
+    },
+    {
+      "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+      "link": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 15:48:50 GMT",
+      "description": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965)."
     },
     {
       "title": "Eight German state premiers back Merz amid speculation over future",
@@ -44,22 +50,22 @@
       "description": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend."
     },
     {
-      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-      "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 08:36:17 GMT",
-      "description": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\"."
-    },
-    {
       "title": "Trump chief of staff Susie Wiles announces she's cancer-free",
       "link": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 16 Sep 2026 19:12:48 GMT",
       "description": "The 69-year-old White House chief of staff is a powerful figure and particularly close to the US president."
     },
     {
-      "title": "Michelin-starred Seoul restaurant fined for using ants as garnish",
-      "link": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 15:48:50 GMT",
-      "description": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965)."
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 10:02:05 GMT",
+      "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
+    },
+    {
+      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+      "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 16 Sep 2026 08:36:17 GMT",
+      "description": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\"."
     },
     {
       "title": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 16 Sep 2026 12:26:00 GMT",
       "description": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\"."
-    },
-    {
-      "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
-      "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 11:50:09 GMT",
-      "description": "He is due to be tried for crimes against humanity over thousands of deaths linked to his war on drugs."
     }
   ],
   "regions": {
@@ -131,10 +131,10 @@
         "description": "&lt;em&gt;Wired&lt;/em&gt; reporter EJ Dickson speaks with NPR&apos;s Juana Summers about an online community that targets and harasses young women with their own nonconsensual, sexually explicit imag"
       },
       {
-        "title": "EU rolls out red carpet to Canada to become its first &apos;associate member&apos;",
+        "title": "EU offers Canada &apos;associate member&apos; role; Trump calls it &apos;laughable&apos;",
         "link": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
         "pubDate": "Wed, 16 Sep 2026 16:08:27 -0400",
-        "description": "The European Union&apos;s top official backs the Canadian prime minister&apos;s push for his country to become the bloc&apos;s first &quot;associate member,&quot; as Brussels seeks to deepen ties amid"
+        "description": "The European Union backs Canada&apos;s bid to become the bloc&apos;s first &quot;associate member,&quot; as Brussels seeks closer ties with Ottawa and Trump calls the idea &quot;laughable.&quot;"
       },
       {
         "title": "Congress is under pressure to act on AI — here&apos;s what that could look like",
