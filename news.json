@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-16T21:30:38.179Z",
+  "updated": "2026-09-17T00:02:19.216Z",
   "world": [
     {
       "title": "US interest rates raised for first time in three years",
       "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 16 Sep 2026 21:02:11 GMT",
-      "description": "The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday."
+      "pubDate": "Wed, 16 Sep 2026 22:16:51 GMT",
+      "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut."
     },
     {
       "title": "Photos show widespread damage at US sites from Iranian attacks",
@@ -95,22 +95,40 @@
   "regions": {
     "US": [
       {
+        "title": "Here&apos;s why an Arizona medical examiner is working to track heat-related deaths",
+        "link": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner",
+        "pubDate": "Wed, 16 Sep 2026 19:07:40 -0400",
+        "description": "No one across the U.S. is consistently tracking climate-fueled deaths. One medical examiner has a new protocol on heat-deaths."
+      },
+      {
+        "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump&apos;s desk",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
+        "pubDate": "Wed, 16 Sep 2026 18:30:46 -0400",
+        "description": "The legislation was named for the late South Carolina Republican. It gives the president authority to impose tariffs on top importers of oil and natural gas from Russia, such as China and India."
+      },
+      {
         "title": "You&apos;d expect homeowners to save their stuff. Federal policy pays them to leave it",
         "link": "https://www.npr.org/2026/09/16/g-s1-143708/video-houses-collapse-north-carolina-ocean",
         "pubDate": "Wed, 16 Sep 2026 17:20:59 -0400",
         "description": "NPR dug into the upside-down world of FEMA flood insurance in coastal areas, and found many homeowners have no financial choice but to let their homes collapse."
       },
       {
-        "title": "House holds billionaire Leon Black in contempt of Congress",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/house-holds-billionaire-leon-black-in-contempt-of-congress",
+        "title": "Committee investigating Epstein holds billionaire Leon Black in contempt of Congress",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
         "pubDate": "Wed, 16 Sep 2026 17:12:27 -0400",
-        "description": "The House of Representatives has held billionaire Leon Black in contempt of Congress after he refused to provide additional information on his relationship with convicted sex offender Jeffrey Epstein."
+        "description": "Billionaire investor Leon Black refused to appear before the committee investigating convicted sex offender Jeffrey Epstein for a deposition. Now it&apos;s up to the Department of Justice whether to p"
       },
       {
         "title": "Trump administration plans ideological warning signs for Smithsonian",
         "link": "https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs",
         "pubDate": "Wed, 16 Sep 2026 16:55:54 -0400",
         "description": "The Interior Secretary says the move is necessary to combat what he calls ideological bias."
+      },
+      {
+        "title": "The &apos;burnerverse&apos; exploiting young women in college",
+        "link": "https://www.npr.org/2026/09/16/nx-s1-5971222/the-burnerverse-exploiting-young-women-in-college",
+        "pubDate": "Wed, 16 Sep 2026 16:50:17 -0400",
+        "description": "&lt;em&gt;Wired&lt;/em&gt; reporter EJ Dickson speaks with NPR&apos;s Juana Summers about an online community that targets and harasses young women with their own nonconsensual, sexually explicit imag"
       },
       {
         "title": "EU rolls out red carpet to Canada to become its first &apos;associate member&apos;",
@@ -125,7 +143,7 @@
         "description": "Lawmakers are expressing broader willingness to regulate AI development, but the path forward may not be a quick one."
       },
       {
-        "title": "DOJ charges Russian agents with plotting attacks, including in US",
+        "title": "DOJ charges Russian agents with plotting attacks, including in the U.S.",
         "link": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
         "pubDate": "Wed, 16 Sep 2026 13:19:49 -0400",
         "description": "The indictment says the defendants belong to a network that &quot;is one arm of the Russian Federation&apos;s apparatus used to carry out external attacks&quot; worldwide."
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/09/16/nx-s1-5971264/congress-retirement-2026-house-senate-primary-defeat",
         "pubDate": "Wed, 16 Sep 2026 13:05:41 -0400",
         "description": "Already, close to 100 lawmakers who started this Congress will not be around for the next one, according to an NPR analysis, driven by record-setting retirements and primary defeats."
-      },
-      {
-        "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
-        "pubDate": "Wed, 16 Sep 2026 12:14:19 -0400",
-        "description": "&lt;em&gt;The New Yorker&lt;/em&gt;&apos;s Dexter Filkins says while Trump&apos;s son-in-law is a U.S. special envoy negotiating peace, he&apos;s also working on private business deals, raising billio"
-      },
-      {
-        "title": "Mice with human brain cells offer a tool to study disease. Ethicists ask: What&apos;s next?",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics",
-        "pubDate": "Wed, 16 Sep 2026 11:00:16 -0400",
-        "description": "Neuroscientists have made a major advance in modeling the human brain in mice, offering a new way to study conditions like cerebral palsy. Ethicists ask if it changes how these mice should be treated."
-      },
-      {
-        "title": "How are rising prices affecting you? NPR wants to know",
-        "link": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms",
-        "pubDate": "Wed, 16 Sep 2026 09:40:12 -0400",
-        "description": "Inflation, gasoline prices and the cost of living are top of mind in the election season. How are higher costs shaping the way you live? NPR wants to hear."
       }
     ],
     "Canada": []
