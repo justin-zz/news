@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-18T05:30:26.125Z",
+  "updated": "2026-09-18T10:28:55.487Z",
   "world": [
+    {
+      "title": "Three dead and eight injured in Philippines school shooting",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 10:04:43 GMT",
+      "description": "The gunman is among the dead in what is the third school shooting in the country since June."
+    },
+    {
+      "title": "At least 16 killed in attack on mosque in Pakistan",
+      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 10:13:02 GMT",
+      "description": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official told the BBC."
+    },
     {
       "title": "Canada welcomes EU proposal to become 'associate member'",
       "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&amp;at_campaign=rss",
@@ -20,22 +32,34 @@
       "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd."
     },
     {
+      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
+      "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 23:24:07 GMT",
+      "description": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote."
+    },
+    {
+      "title": "Zara Larsson criticises White House for using her song in deportation video",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 01:20:33 GMT",
+      "description": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\"."
+    },
+    {
       "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
       "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 17 Sep 2026 21:41:19 GMT",
       "description": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US."
     },
     {
-      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 17:08:00 GMT",
-      "description": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week."
-    },
-    {
       "title": "Hyrox athlete apologises for continuing race after soiling herself",
       "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 17 Sep 2026 15:05:13 GMT",
       "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week."
+    },
+    {
+      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 17:08:00 GMT",
+      "description": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week."
     },
     {
       "title": "Aztec document goes on display in Mexico after 186 years abroad",
@@ -62,97 +86,73 @@
       "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\"."
     },
     {
-      "title": "Swedish PM Kristersson resigns after election loss",
-      "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 12:41:05 GMT",
-      "description": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government."
-    },
-    {
-      "title": "Klopp wants to 'reclaim' flag amid German elections",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 13:02:40 GMT",
-      "description": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory."
-    },
-    {
-      "title": "US interest rates raised for first time in three years",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 00:40:17 GMT",
-      "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut."
-    },
-    {
-      "title": "Abducted South African journalist found dead with gunshot wounds",
-      "link": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 06:46:31 GMT",
-      "description": "The body of veteran broadcaster Owen Ndlovu was found hours after armed men kidnapped him near Johannesburg."
-    },
-    {
-      "title": "One dead after torrential rain and flash floods hit Barcelona region",
-      "link": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 08:39:30 GMT",
-      "description": "Flooding has caused widespread disruption across Valencia and Catalonia in north-east Spain."
+      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 01:31:43 GMT",
+      "description": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet."
     }
   ],
   "regions": {
     "US": [
       {
+        "title": "True or false: Trump&apos;s name is now on the Kennedy Center. The quiz has the answer",
+        "link": "https://www.npr.org/2026/09/18/g-s1-143768/celine-dion-trump-kennedy-center-emmys-news-quiz",
+        "pubDate": "Fri, 18 Sep 2026 05:01:00 -0400",
+        "description": "The world made it to another Friday without an AI apocalypse, so here&apos;s the quiz! See you next week … maybe."
+      },
+      {
+        "title": "Republican &apos;cavalry&apos; arrives with a Trump-backed $150 million ad blitz in key races",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5971202/trump-super-pac-midterm-spending-republicans-democrats",
+        "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
+        "description": "To counter a difficult political environment, two Trump-aligned super PACs have reserved more than $150 million in ads — primarily in deep red House and Senate races that have now become competitive."
+      },
+      {
+        "title": "A DHS email raises new questions about the Trump administration&apos;s election plans",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language",
+        "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
+        "description": "A heavily redacted email from last year, reported first by NPR, reveals that DHS personnel shared a list of jurisdictions that offer election materials in non-English languages. It&apos;s unclear why."
+      },
+      {
+        "title": "Could trees developed with gene-editing technology protect Florida&apos;s citrus industry?",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
+        "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
+        "description": "A bacterial infection is wiping out Florida&apos;s citrus trees. Growers hope a rootstock developed with gene-editing technology could keep the disease at bay."
+      },
+      {
+        "title": "Google is helping write AI chatbot safety laws — while pushing for loopholes",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
+        "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
+        "description": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products."
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5966388/morning-news-brief",
+        "pubDate": "Fri, 18 Sep 2026 04:46:02 -0400",
+        "description": "Trump threatens to tear down the Kennedy Center amid court battle, Trump&apos;s other priorities also get pushback this week, Poland&apos;s PM warns Russia could strike countries that support Ukraine."
+      },
+      {
+        "title": "Poland&apos;s prime minister warns of Russian &apos;accidental&apos; attacks on Ukraine&apos;s allies",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia",
+        "pubDate": "Fri, 18 Sep 2026 04:44:08 -0400",
+        "description": "Polish Prime Minister Donald Tusk said that these potential strikes &quot;intend to paralyze NATO&quot; in an attempt to demonstrate that Article 5 &quot;exists only in theory.&quot;"
+      },
+      {
+        "title": "What to know after a week of Houthi attacks that threaten Saudi oil",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets",
+        "pubDate": "Fri, 18 Sep 2026 04:02:41 -0400",
+        "description": "The Houthis&apos; biggest land grab in years reignited Yemen&apos;s 12-year civil war and pushed up global fuel prices, extending their reach to a key maritime chokepoint and threatening Saudi Arabia&"
+      },
+      {
+        "title": "It&apos;s illegal for armed federal officers to be at polls. Lawsuits seek to ensure that",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5965823/ice-polling-places-concerns-lawsuits",
+        "pubDate": "Fri, 18 Sep 2026 03:37:09 -0400",
+        "description": "The latest lawsuit, first reported by NPR, argues the Trump administration&apos;s repeated suggestions that federal officers could be at polling sites is a form of illegal voter intimidation."
+      },
+      {
         "title": "The driver who slammed into an LA bus before helicopter crash is charged with murder",
         "link": "https://www.npr.org/2026/09/18/g-s1-143900/helicopter-crash-los-angeles",
         "pubDate": "Fri, 18 Sep 2026 01:16:29 -0400",
         "description": "An SUV driver was under the influence of drugs when she swerved into the wrong lane, blew a red light and slammed into a Los Angeles city bus, killing two riders, prosecutors said  as they charged her"
-      },
-      {
-        "title": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5973271/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice",
-        "pubDate": "Thu, 17 Sep 2026 17:17:39 -0400",
-        "description": "The White House says it is withdrawing its nomination of Lance Schroyer, a former Oklahoma state trooper, to lead ICE, ensuring that an agency at the forefront of President Trump&apos;s domestic agend"
-      },
-      {
-        "title": "ICE agent appears in Minnesota court to face charges in the shooting of a Venezuelan immigrant",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5973127/ice-agent-court-extradition-minnesota-immigrant-shooting",
-        "pubDate": "Thu, 17 Sep 2026 16:23:34 -0400",
-        "description": "Christian Castro, a federal immigration officer, made his first court appearance in Minnesota since he was booked Wednesday into a local jail. Castro faces multiple state and federal charges in connec"
-      },
-      {
-        "title": "Retired Olympic superstar Jessie Diggins wins her first-ever 100 mile trail race",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5948171/retired-olympic-superstar-jessie-diggins-wins-her-first-ever-100-mile-trail-race",
-        "pubDate": "Thu, 17 Sep 2026 16:00:35 -0400",
-        "description": "This spring Jessie Diggins retired as one of America&apos;s most successful winter Olympic athletes at age 34. She&apos;s relaxing by entering 100-mile trail running races and navigating what comes ne"
-      },
-      {
-        "title": "To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
-        "pubDate": "Thu, 17 Sep 2026 15:33:30 -0400",
-        "description": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don&apos;t have a search engine at their fingertips, a chatbot is offering a lifeline."
-      },
-      {
-        "title": "A year ago, President Trump pledged to lower Medicaid drug prices. Has that happened?",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5971066/trump-rx-medicaid-generous-drug-prices-pfizer-favored-nation",
-        "pubDate": "Thu, 17 Sep 2026 12:45:58 -0400",
-        "description": "The Trump administration&apos;s efforts to lower drug prices included promised changes to Medicaid. But it&apos;s still unclear which drugs will be affected. And each state has to opt in."
-      },
-      {
-        "title": "&apos;American Scoundrel&apos; traces Roy Cohn&apos;s playbook from McCarthyism to Trump",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5965831/american-scoundrel-traces-roy-cohns-playbook-from-mccarthyism-to-trump",
-        "pubDate": "Thu, 17 Sep 2026 12:14:06 -0400",
-        "description": "In Kai Bird&apos;s biography of Cohn, he looks at how the lawyer taught Trump how to deny, delay, attack, sue and countersue, never admit defeat, side-step paying bills and avoid a paper trail."
-      },
-      {
-        "title": "Greetings from Beijing, where baozi are worth the wait in line",
-        "link": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
-        "pubDate": "Thu, 17 Sep 2026 09:59:17 -0400",
-        "description": "The popular fluffy steamed buns are filled with pork, vegetables, tofu — and in one trendy Beijing shop,  chocolate and red beans."
-      },
-      {
-        "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
-        "link": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
-        "pubDate": "Thu, 17 Sep 2026 08:33:36 -0400",
-        "description": "Human rights experts commissioned by the U.N. say they have found &quot;reasonable grounds&quot; to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city o"
-      },
-      {
-        "title": "The Fed raises interest rates. And, EU proposes Canada become an &apos;associate member&apos;",
-        "link": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
-        "pubDate": "Thu, 17 Sep 2026 06:54:18 -0400",
-        "description": "The Federal Reserve has raised interest rates for the first time in years. And, the European Union has proposed that Canada become its first-ever &quot;associate member.&quot;"
       }
     ],
     "Canada": []
