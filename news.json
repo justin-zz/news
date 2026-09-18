@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T00:35:10.655Z",
+  "updated": "2026-09-18T05:30:26.125Z",
   "world": [
     {
       "title": "Canada welcomes EU proposal to become 'associate member'",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "The driver who slammed into an LA bus before helicopter crash is charged with murder",
+        "link": "https://www.npr.org/2026/09/18/g-s1-143900/helicopter-crash-los-angeles",
+        "pubDate": "Fri, 18 Sep 2026 01:16:29 -0400",
+        "description": "An SUV driver was under the influence of drugs when she swerved into the wrong lane, blew a red light and slammed into a Los Angeles city bus, killing two riders, prosecutors said  as they charged her"
+      },
+      {
         "title": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE",
         "link": "https://www.npr.org/2026/09/17/nx-s1-5973271/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice",
         "pubDate": "Thu, 17 Sep 2026 17:17:39 -0400",
@@ -113,7 +119,7 @@
         "description": "This spring Jessie Diggins retired as one of America&apos;s most successful winter Olympic athletes at age 34. She&apos;s relaxing by entering 100-mile trail running races and navigating what comes ne"
       },
       {
-        "title": "Can an AI chatbot save lives by answering texts about pregnancy?",
+        "title": "To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot",
         "link": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
         "pubDate": "Thu, 17 Sep 2026 15:33:30 -0400",
         "description": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don&apos;t have a search engine at their fingertips, a chatbot is offering a lifeline."
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
         "pubDate": "Thu, 17 Sep 2026 06:54:18 -0400",
         "description": "The Federal Reserve has raised interest rates for the first time in years. And, the European Union has proposed that Canada become its first-ever &quot;associate member.&quot;"
-      },
-      {
-        "title": "Pressure on global chokepoints drives Asia&apos;s increased use of Arctic Trade Routes",
-        "link": "https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes",
-        "pubDate": "Thu, 17 Sep 2026 06:00:00 -0400",
-        "description": "Asian nations began pilot voyages over a decade ago to find routes to Europe and the Middle East that were faster and less vulnerable to chokepoints. The ongoing war has added impetus to those efforts"
       }
     ],
     "Canada": []
