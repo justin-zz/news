@@ -1,17 +1,65 @@
 {
-  "updated": "2026-09-18T10:28:55.487Z",
+  "updated": "2026-09-18T14:36:19.727Z",
   "world": [
+    {
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 14:02:09 GMT",
+      "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
+    },
     {
       "title": "Three dead and eight injured in Philippines school shooting",
       "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 10:04:43 GMT",
+      "pubDate": "Fri, 18 Sep 2026 11:01:46 GMT",
       "description": "The gunman is among the dead in what is the third school shooting in the country since June."
     },
     {
-      "title": "At least 16 killed in attack on mosque in Pakistan",
+      "title": "Police begin operation to move migrants from Ceuta beaches",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 11:59:42 GMT",
+      "description": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site."
+    },
+    {
+      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+      "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 11:49:46 GMT",
+      "description": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision."
+    },
+    {
+      "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
       "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 10:13:02 GMT",
-      "description": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official told the BBC."
+      "pubDate": "Fri, 18 Sep 2026 11:39:11 GMT",
+      "description": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says."
+    },
+    {
+      "title": "New wild cat species discovered - with only one known living member",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 23:15:55 GMT",
+      "description": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia."
+    },
+    {
+      "title": "Dozens of suspected illegal miners die in Nigerian custody",
+      "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 13:17:16 GMT",
+      "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused."
+    },
+    {
+      "title": "Japan raises interest rate to new 31-year high to curb rising prices",
+      "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 07:14:57 GMT",
+      "description": "Central banks around the world have hiked rates as high energy prices are pushing up inflation."
+    },
+    {
+      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
+      "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 17 Sep 2026 23:24:07 GMT",
+      "description": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote."
+    },
+    {
+      "title": "Zara Larsson criticises White House for using her song in deportation video",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 01:20:33 GMT",
+      "description": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\"."
     },
     {
       "title": "Canada welcomes EU proposal to become 'associate member'",
@@ -32,18 +80,6 @@
       "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd."
     },
     {
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 23:24:07 GMT",
-      "description": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote."
-    },
-    {
-      "title": "Zara Larsson criticises White House for using her song in deportation video",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 01:20:33 GMT",
-      "description": "The White House removed Larsson's Midnight Sun from one of its reels after the artist called the clip \"dehumanising\"."
-    },
-    {
       "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
       "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 17 Sep 2026 21:41:19 GMT",
@@ -54,51 +90,45 @@
       "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 17 Sep 2026 15:05:13 GMT",
       "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week."
-    },
-    {
-      "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 17:08:00 GMT",
-      "description": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week."
-    },
-    {
-      "title": "Aztec document goes on display in Mexico after 186 years abroad",
-      "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 11:00:41 GMT",
-      "description": "France's national library is lending the manuscript recounting the history of the Aztecs to Mexico."
-    },
-    {
-      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 05:00:18 GMT",
-      "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims."
-    },
-    {
-      "title": "EU announces plan to restrict social media access for under-15s",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 10:00:14 GMT",
-      "description": "Under the plans, only children over 15 would be able to set up their own social media accounts."
-    },
-    {
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 08:22:12 GMT",
-      "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\"."
-    },
-    {
-      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 01:31:43 GMT",
-      "description": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet."
     }
   ],
   "regions": {
     "US": [
       {
+        "title": "Judge says Trump can&apos;t demolish Kennedy Center. And, lawsuits target voter intimidation",
+        "link": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
+        "pubDate": "Fri, 18 Sep 2026 07:09:24 -0400",
+        "description": "A federal judge ruled yesterday that President Trump cannot tear down the Kennedy Center without a 30-day notice. And, recent lawsuits seek to keep armed federal officers away from polling sites."
+      },
+      {
+        "title": "Ms. Rachel has entered her album era, and she is so happy about it",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
+        "pubDate": "Fri, 18 Sep 2026 07:00:00 -0400",
+        "description": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she&apos;s making an album, with real instruments, big feelings and her littlest listeners in mind."
+      },
+      {
+        "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
+        "pubDate": "Fri, 18 Sep 2026 06:58:49 -0400",
+        "description": "Warren Buffett is stepping down as chairman of Berkshire Hathaway after serving in the role for more than 50 years. His son, Howard, will become Berkshire Hathaway&apos;s new chairman"
+      },
+      {
+        "title": "South Africa &apos;feels like a prison&apos; for women amid spate of femicides",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
+        "pubDate": "Fri, 18 Sep 2026 06:39:14 -0400",
+        "description": "South Africa has some of the highest rates of violence against women in the world, and a spate of killings of nine women in the same area in recent weeks has led to renewed outrage."
+      },
+      {
         "title": "True or false: Trump&apos;s name is now on the Kennedy Center. The quiz has the answer",
         "link": "https://www.npr.org/2026/09/18/g-s1-143768/celine-dion-trump-kennedy-center-emmys-news-quiz",
         "pubDate": "Fri, 18 Sep 2026 05:01:00 -0400",
         "description": "The world made it to another Friday without an AI apocalypse, so here&apos;s the quiz! See you next week … maybe."
+      },
+      {
+        "title": "Could trees developed with gene-editing technology protect Florida&apos;s citrus industry?",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
+        "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
+        "description": "A bacterial infection is wiping out Florida&apos;s citrus trees. Growers hope a rootstock developed with gene-editing technology could keep the disease at bay."
       },
       {
         "title": "Republican &apos;cavalry&apos; arrives with a Trump-backed $150 million ad blitz in key races",
@@ -113,13 +143,7 @@
         "description": "A heavily redacted email from last year, reported first by NPR, reveals that DHS personnel shared a list of jurisdictions that offer election materials in non-English languages. It&apos;s unclear why."
       },
       {
-        "title": "Could trees developed with gene-editing technology protect Florida&apos;s citrus industry?",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5966501/trees-gene-editing-florida-citrus-industry",
-        "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
-        "description": "A bacterial infection is wiping out Florida&apos;s citrus trees. Growers hope a rootstock developed with gene-editing technology could keep the disease at bay."
-      },
-      {
-        "title": "Google is helping write AI chatbot safety laws — while pushing for loopholes",
+        "title": "How Google is drafting AI chatbot laws around the country",
         "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
         "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
         "description": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products."
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/09/18/nx-s1-5966388/morning-news-brief",
         "pubDate": "Fri, 18 Sep 2026 04:46:02 -0400",
         "description": "Trump threatens to tear down the Kennedy Center amid court battle, Trump&apos;s other priorities also get pushback this week, Poland&apos;s PM warns Russia could strike countries that support Ukraine."
-      },
-      {
-        "title": "Poland&apos;s prime minister warns of Russian &apos;accidental&apos; attacks on Ukraine&apos;s allies",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia",
-        "pubDate": "Fri, 18 Sep 2026 04:44:08 -0400",
-        "description": "Polish Prime Minister Donald Tusk said that these potential strikes &quot;intend to paralyze NATO&quot; in an attempt to demonstrate that Article 5 &quot;exists only in theory.&quot;"
-      },
-      {
-        "title": "What to know after a week of Houthi attacks that threaten Saudi oil",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets",
-        "pubDate": "Fri, 18 Sep 2026 04:02:41 -0400",
-        "description": "The Houthis&apos; biggest land grab in years reignited Yemen&apos;s 12-year civil war and pushed up global fuel prices, extending their reach to a key maritime chokepoint and threatening Saudi Arabia&"
-      },
-      {
-        "title": "It&apos;s illegal for armed federal officers to be at polls. Lawsuits seek to ensure that",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5965823/ice-polling-places-concerns-lawsuits",
-        "pubDate": "Fri, 18 Sep 2026 03:37:09 -0400",
-        "description": "The latest lawsuit, first reported by NPR, argues the Trump administration&apos;s repeated suggestions that federal officers could be at polling sites is a form of illegal voter intimidation."
-      },
-      {
-        "title": "The driver who slammed into an LA bus before helicopter crash is charged with murder",
-        "link": "https://www.npr.org/2026/09/18/g-s1-143900/helicopter-crash-los-angeles",
-        "pubDate": "Fri, 18 Sep 2026 01:16:29 -0400",
-        "description": "An SUV driver was under the influence of drugs when she swerved into the wrong lane, blew a red light and slammed into a Los Angeles city bus, killing two riders, prosecutors said  as they charged her"
       }
     ],
     "Canada": []
