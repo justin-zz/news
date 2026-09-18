@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-18T14:36:19.727Z",
+  "updated": "2026-09-18T18:02:10.079Z",
   "world": [
     {
       "title": "Russian hybrid attacks against Europe intensifying, says Macron",
       "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 14:02:09 GMT",
+      "pubDate": "Fri, 18 Sep 2026 15:14:35 GMT",
       "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
     },
     {
@@ -26,10 +26,22 @@
       "description": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision."
     },
     {
-      "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
       "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 11:39:11 GMT",
-      "description": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says."
+      "pubDate": "Fri, 18 Sep 2026 17:31:30 GMT",
+      "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility."
+    },
+    {
+      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+      "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 17:15:02 GMT",
+      "description": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate."
+    },
+    {
+      "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 12:45:25 GMT",
+      "description": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games."
     },
     {
       "title": "New wild cat species discovered - with only one known living member",
@@ -40,7 +52,7 @@
     {
       "title": "Dozens of suspected illegal miners die in Nigerian custody",
       "link": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 13:17:16 GMT",
+      "pubDate": "Fri, 18 Sep 2026 15:47:28 GMT",
       "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused."
     },
     {
@@ -68,32 +80,32 @@
       "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\"."
     },
     {
-      "title": "Ninth woman's body found as South African police investigate string of deaths",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 13:44:07 GMT",
-      "description": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid."
+      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 01:31:43 GMT",
+      "description": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet."
     },
     {
-      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 20:34:30 GMT",
-      "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd."
-    },
-    {
-      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 21:41:19 GMT",
-      "description": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US."
-    },
-    {
-      "title": "Hyrox athlete apologises for continuing race after soiling herself",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 15:05:13 GMT",
-      "description": "Joanna Wietrzyk has also forfeited her win in the fitness competition after competing last week."
+      "title": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
+      "link": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 01:23:10 GMT",
+      "description": "Torontonians are excited by the possibility of moving to the EU, even if it is unlikely anytime soon."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "What expensive sulfur means for your dinner table",
+        "link": "https://www.npr.org/sections/planet-money/2026/09/18/nx-s1-5974103/what-expensive-sulfur-means-for-your-dinner-table",
+        "pubDate": "Fri, 18 Sep 2026 12:40:58 -0400",
+        "description": "Oil supplies are falling, sulfur prices are threatening food costs, and we measure Lego against Hollywood"
+      },
+      {
+        "title": "Will even one of the U.N.&apos;s 17 &apos;sustainable development goals&apos; be met by 2030?",
+        "link": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
+        "pubDate": "Fri, 18 Sep 2026 12:07:51 -0400",
+        "description": "The 17 goals agreed upon by world leaders are incredibly ambitious. Are we even close to achieving any of them? If we don&apos;t, is the project a failure?"
+      },
       {
         "title": "Judge says Trump can&apos;t demolish Kennedy Center. And, lawsuits target voter intimidation",
         "link": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
@@ -131,12 +143,6 @@
         "description": "A bacterial infection is wiping out Florida&apos;s citrus trees. Growers hope a rootstock developed with gene-editing technology could keep the disease at bay."
       },
       {
-        "title": "Republican &apos;cavalry&apos; arrives with a Trump-backed $150 million ad blitz in key races",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5971202/trump-super-pac-midterm-spending-republicans-democrats",
-        "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
-        "description": "To counter a difficult political environment, two Trump-aligned super PACs have reserved more than $150 million in ads — primarily in deep red House and Senate races that have now become competitive."
-      },
-      {
         "title": "A DHS email raises new questions about the Trump administration&apos;s election plans",
         "link": "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language",
         "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
         "pubDate": "Fri, 18 Sep 2026 05:00:00 -0400",
         "description": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products."
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5966388/morning-news-brief",
-        "pubDate": "Fri, 18 Sep 2026 04:46:02 -0400",
-        "description": "Trump threatens to tear down the Kennedy Center amid court battle, Trump&apos;s other priorities also get pushback this week, Poland&apos;s PM warns Russia could strike countries that support Ukraine."
       }
     ],
     "Canada": []
