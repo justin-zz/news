@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-18T21:05:22.991Z",
+  "updated": "2026-09-18T23:27:12.580Z",
   "world": [
+    {
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 22:58:55 GMT",
+      "description": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials."
+    },
     {
       "title": "Russian hybrid attacks against Europe intensifying, says Macron",
       "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&amp;at_campaign=rss",
@@ -10,7 +16,7 @@
     {
       "title": "Trump says he is banning CNN and Politico from White House",
       "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 20:47:49 GMT",
+      "pubDate": "Fri, 18 Sep 2026 23:26:48 GMT",
       "description": "The US president has had a tense and fiery relationship with the US media throughout his political career."
     },
     {
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 17 Sep 2026 23:24:07 GMT",
       "description": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote."
-    },
-    {
-      "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 01:31:43 GMT",
-      "description": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Alaska&apos;s salmon-feasting bears face off in biggest Fat Bear Week ever",
+        "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
+        "pubDate": "Fri, 18 Sep 2026 17:13:14 -0400",
+        "description": "This year&apos;s single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they&apos;ve seen in recent memor"
+      },
       {
         "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
         "link": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
         "pubDate": "Fri, 18 Sep 2026 06:39:14 -0400",
         "description": "South Africa has some of the highest rates of violence against women in the world, and a spate of killings of nine women in the same area in recent weeks has led to renewed outrage."
-      },
-      {
-        "title": "True or false: Trump&apos;s name is now on the Kennedy Center. The quiz has the answer",
-        "link": "https://www.npr.org/2026/09/18/g-s1-143768/celine-dion-trump-kennedy-center-emmys-news-quiz",
-        "pubDate": "Fri, 18 Sep 2026 05:01:00 -0400",
-        "description": "The world made it to another Friday without an AI apocalypse, so here&apos;s the quiz! See you next week … maybe."
       }
     ],
     "Canada": []
