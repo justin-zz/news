@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-19T14:36:32.992Z",
+  "updated": "2026-09-19T17:43:54.268Z",
   "world": [
     {
-      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
       "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 19 Sep 2026 11:36:55 GMT",
-      "description": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory."
+      "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory."
     },
     {
       "title": "Trump says he is banning CNN and Politico from White House",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+        "link": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
+        "pubDate": "Sat, 19 Sep 2026 11:26:31 -0400",
+        "description": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting &quot;FICTION and LIES.&quot;"
+      },
+      {
         "title": "Opinion: Remembering Annie Dillard, nature writer",
         "link": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
         "pubDate": "Sat, 19 Sep 2026 08:00:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
         "pubDate": "Fri, 18 Sep 2026 17:13:14 -0400",
         "description": "This year&apos;s single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they&apos;ve seen in recent memor"
-      },
-      {
-        "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
-        "link": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
-        "pubDate": "Fri, 18 Sep 2026 16:15:53 -0400",
-        "description": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming."
       }
     ],
     "Canada": []
