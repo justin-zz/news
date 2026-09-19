@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T17:43:54.268Z",
+  "updated": "2026-09-19T19:58:30.045Z",
   "world": [
     {
       "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
@@ -8,10 +8,22 @@
       "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory."
     },
     {
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 19 Sep 2026 05:36:36 GMT",
-      "description": "The US president has had a tense and fiery relationship with the US media throughout his political career."
+      "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 19 Sep 2026 19:09:49 GMT",
+      "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen."
+    },
+    {
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 19 Sep 2026 19:13:49 GMT",
+      "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported."
+    },
+    {
+      "title": "Converse pulls 'deeply upsetting' advert after backlash",
+      "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 19 Sep 2026 14:05:01 GMT",
+      "description": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging."
     },
     {
       "title": "Google's Gemini AI hacked three companies in security test",
@@ -74,26 +86,20 @@
       "description": "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\"."
     },
     {
-      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-      "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 11:49:46 GMT",
-      "description": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision."
-    },
-    {
-      "title": "Shots heard as police start moving migrants from Ceuta beaches",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 11:59:42 GMT",
-      "description": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site."
-    },
-    {
-      "title": "North Korean anthem played for South Korea at Asian Games",
-      "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 17:18:09 GMT",
-      "description": "Organisers have apologised for playing the North Korean national anthem for the South Korean men's hockey team at the Asian Games in Japan."
+      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 23:03:38 GMT",
+      "description": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "The new lines of southern Lebanon",
+        "link": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
+        "pubDate": "Sat, 19 Sep 2026 15:00:24 -0400",
+        "description": "The U.N. expanded the United Nations Interim Force in Lebanon&apos;s mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon&apos;s Iran-backed Hezbo"
+      },
       {
         "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
         "link": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
         "pubDate": "Sat, 19 Sep 2026 00:44:46 -0400",
         "description": "President Trump says he has a deal with Denmark to bolster the U.S. military presence in Greenland. The announcement comes after months of threatening to take the island by force from the NATO ally."
-      },
-      {
-        "title": "Alaska&apos;s salmon-feasting bears face off in biggest Fat Bear Week ever",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
-        "pubDate": "Fri, 18 Sep 2026 17:13:14 -0400",
-        "description": "This year&apos;s single-elimination tournament will see 16 competitors face off, compared to 12 in past years. Officials report more cubs in Katmai National Park than they&apos;ve seen in recent memor"
       }
     ],
     "Canada": []
