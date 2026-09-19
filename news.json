@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-19T11:18:43.107Z",
+  "updated": "2026-09-19T14:36:32.992Z",
   "world": [
     {
       "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
       "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 19 Sep 2026 11:01:34 GMT",
-      "description": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials."
+      "pubDate": "Sat, 19 Sep 2026 11:36:55 GMT",
+      "description": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory."
     },
     {
       "title": "Trump says he is banning CNN and Politico from White House",
@@ -16,7 +16,7 @@
     {
       "title": "Google's Gemini AI hacked three companies in security test",
       "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 19 Sep 2026 04:27:11 GMT",
+      "pubDate": "Sat, 19 Sep 2026 13:39:32 GMT",
       "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC."
     },
     {
@@ -32,10 +32,10 @@
       "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women."
     },
     {
-      "title": "Deadly shark attack prompts rare kill order in Western Australia",
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
       "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 19 Sep 2026 09:19:12 GMT",
-      "description": "Police boats and helicopters are patrolling Perth's beaches as authorities continue their search for the swimmer's body, and the shark that attacked him."
+      "pubDate": "Sat, 19 Sep 2026 11:50:22 GMT",
+      "description": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him."
     },
     {
       "title": "Millions without power as Cuba hit by latest major blackout",
@@ -95,7 +95,25 @@
   "regions": {
     "US": [
       {
-        "title": "An Alaska storm scattered artifacts. Archaeologists are racing to save what&apos;s left",
+        "title": "Opinion: Remembering Annie Dillard, nature writer",
+        "link": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
+        "pubDate": "Sat, 19 Sep 2026 08:00:00 -0400",
+        "description": "With her 1974 book, &quot;Pilgrim at Tinker Creek,&quot; Annie Dillard became the youngest woman to win the Pulitzer Prize. We take a moment to remember her and her work."
+      },
+      {
+        "title": "Life in Kabul 5 years after the Taliban&apos;s return",
+        "link": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
+        "pubDate": "Sat, 19 Sep 2026 07:40:40 -0400",
+        "description": "Five years after the return of Taliban rule, NPR visited Kabul to see how Afghans are dealing with their new government&apos;s strict social restrictions."
+      },
+      {
+        "title": "Betel nuts are a top mind-affecting substance. Now there&apos;s evidence of ancient use",
+        "link": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
+        "pubDate": "Sat, 19 Sep 2026 07:21:56 -0400",
+        "description": "New research on ancient human remains suggests the habitual usage of betel nuts, a plant seed with mind-affecting properties that is popular in parts of Asia despite the health risks it presents."
+      },
+      {
+        "title": "Archaeologists are racing to save precious artifacts in Alaska after last year&apos;s storm",
         "link": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
         "pubDate": "Sat, 19 Sep 2026 05:01:00 -0400",
         "description": "Last year, remnants of a typhoon damaged homes, infrastructure and an archaeological dig site. Now, archaeologists are trying to get as many objects out as possible before the next storm."
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media",
         "pubDate": "Fri, 18 Sep 2026 16:15:53 -0400",
         "description": "The president chalked the ban up to what he called unfavorable coverage, and he threatened that bans on other media companies could be coming."
-      },
-      {
-        "title": "When Trump and Xi meet they will discuss AI. &apos;Track Two&apos; talks are already buzzing",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks",
-        "pubDate": "Fri, 18 Sep 2026 15:14:15 -0400",
-        "description": "An informal network of dialogues at think tanks and universities is bringing together experts from the U.S. and China to talk about the shared perils of AI — and possible paths forward."
-      },
-      {
-        "title": "Syrian regime planned American journalist&apos;s kidnapping for weeks",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded",
-        "pubDate": "Fri, 18 Sep 2026 15:13:52 -0400",
-        "description": "New reporting finds the abduction of journalist Austin Tice was planned by the Syrian government for weeks."
-      },
-      {
-        "title": "What expensive sulfur means for your dinner table",
-        "link": "https://www.npr.org/sections/planet-money/2026/09/18/nx-s1-5974103/what-expensive-sulfur-means-for-your-dinner-table",
-        "pubDate": "Fri, 18 Sep 2026 12:40:58 -0400",
-        "description": "Oil supplies are falling, sulfur prices are threatening food costs, and we measure Lego against Hollywood"
       }
     ],
     "Canada": []
