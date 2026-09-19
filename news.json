@@ -1,11 +1,29 @@
 {
-  "updated": "2026-09-19T01:25:50.968Z",
+  "updated": "2026-09-19T06:16:49.753Z",
   "world": [
     {
       "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
       "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 18 Sep 2026 22:58:55 GMT",
-      "description": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials."
+      "description": "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials."
+    },
+    {
+      "title": "Trump says he is banning CNN and Politico from White House",
+      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 19 Sep 2026 05:36:36 GMT",
+      "description": "The US president has had a tense and fiery relationship with the US media throughout his political career."
+    },
+    {
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 19 Sep 2026 04:27:11 GMT",
+      "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC."
+    },
+    {
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 22:05:47 GMT",
+      "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine."
     },
     {
       "title": "Russian hybrid attacks against Europe intensifying, says Macron",
@@ -14,16 +32,10 @@
       "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites."
     },
     {
-      "title": "Trump says he is banning CNN and Politico from White House",
-      "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 23:26:48 GMT",
-      "description": "The US president has had a tense and fiery relationship with the US media throughout his political career."
-    },
-    {
-      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-      "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 18:56:17 GMT",
-      "description": "Records in 2024 show the venue had a surplus of millions of dollars once  contributions and grants had been factored in."
+      "title": "Grim discoveries of murdered women spark fear in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 23:04:41 GMT",
+      "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women."
     },
     {
       "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
@@ -32,10 +44,22 @@
       "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility."
     },
     {
+      "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+      "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 19 Sep 2026 04:20:47 GMT",
+      "description": "Residents later received the all-clear after explosions were reported in the capital."
+    },
+    {
       "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
       "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 18 Sep 2026 11:49:46 GMT",
       "description": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision."
+    },
+    {
+      "title": "Shots heard as police start moving migrants from Ceuta beaches",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 18 Sep 2026 11:59:42 GMT",
+      "description": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site."
     },
     {
       "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
@@ -56,12 +80,6 @@
       "description": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused."
     },
     {
-      "title": "Shots heard as police start moving migrants from Ceuta beaches",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 11:59:42 GMT",
-      "description": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site."
-    },
-    {
       "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 18 Sep 2026 12:45:25 GMT",
@@ -72,28 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 18 Sep 2026 11:01:46 GMT",
       "description": "The gunman is among the dead in what is the third school shooting in the country since June."
-    },
-    {
-      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 17:15:02 GMT",
-      "description": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate."
-    },
-    {
-      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 17:57:30 GMT",
-      "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross."
-    },
-    {
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 17 Sep 2026 23:24:07 GMT",
-      "description": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "As Europe warms, Italy sees West Nile virus spread",
+        "link": "https://www.npr.org/2026/09/19/g-s1-144162/as-europe-warms-italy-sees-west-nile-virus-spread",
+        "pubDate": "Sat, 19 Sep 2026 01:13:18 -0400",
+        "description": "Italian health authorities see evidence that rising temperatures and longer warm seasons are helping mosquitoes spread West Nile virus across a wider area, during more months of the year."
+      },
+      {
+        "title": "US and Denmark reach deal to build US military presence in Greenland",
+        "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
+        "pubDate": "Sat, 19 Sep 2026 00:44:46 -0400",
+        "description": "President Donald Trump says he has a deal with Denmark to bolster the U.S. military presence in Greenland. The announcement comes after months of threatening to take the island by force from the NATO "
+      },
       {
         "title": "Alaska&apos;s salmon-feasting bears face off in biggest Fat Bear Week ever",
         "link": "https://www.npr.org/2026/09/18/nx-s1-5973938/fat-bear-week-2026-bracket",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
         "pubDate": "Fri, 18 Sep 2026 07:00:00 -0400",
         "description": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she&apos;s making an album, with real instruments, big feelings and her littlest listeners in mind."
-      },
-      {
-        "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
-        "pubDate": "Fri, 18 Sep 2026 06:58:49 -0400",
-        "description": "Warren Buffett is stepping down as chairman of Berkshire Hathaway after serving in the role for more than 50 years. His son, Howard, will become Berkshire Hathaway&apos;s new chairman"
-      },
-      {
-        "title": "South Africa &apos;feels like a prison&apos; for women amid spate of femicides",
-        "link": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
-        "pubDate": "Fri, 18 Sep 2026 06:39:14 -0400",
-        "description": "South Africa has some of the highest rates of violence against women in the world, and a spate of killings of nine women in the same area in recent weeks has led to renewed outrage."
       }
     ],
     "Canada": []
