@@ -1,23 +1,29 @@
 {
-  "updated": "2026-09-20T05:09:34.859Z",
+  "updated": "2026-09-20T09:56:11.378Z",
   "world": [
     {
-      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 20 Sep 2026 08:41:36 GMT",
+      "description": "A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the \"unprecedented attack\"."
+    },
+    {
+      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
       "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 20 Sep 2026 04:49:11 GMT",
-      "description": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour."
+      "description": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage."
+    },
+    {
+      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 20 Sep 2026 07:57:32 GMT",
+      "description": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls."
     },
     {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 19 Sep 2026 23:49:26 GMT",
       "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital."
-    },
-    {
-      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
-      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 20 Sep 2026 05:04:54 GMT",
-      "description": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports."
     },
     {
       "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
@@ -32,16 +38,16 @@
       "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love."
     },
     {
-      "title": "Journalists denied White House access after Trump banned some media outlets",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 19 Sep 2026 19:13:49 GMT",
-      "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported."
-    },
-    {
       "title": "Cultural treasures are being destroyed by war, and people want justice",
       "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 19 Sep 2026 23:18:18 GMT",
       "description": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it."
+    },
+    {
+      "title": "Journalists denied White House access after Trump banned some media outlets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 19 Sep 2026 19:13:49 GMT",
+      "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported."
     },
     {
       "title": "Converse pulls 'deeply upsetting' advert after backlash",
@@ -84,16 +90,34 @@
       "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 19 Sep 2026 10:27:37 GMT",
       "description": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade."
-    },
-    {
-      "title": "Mum's viral barefoot race sparks debate over India's education crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 19 Sep 2026 23:18:06 GMT",
-      "description": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
+        "pubDate": "Sun, 20 Sep 2026 05:16:42 -0400",
+        "description": "Moscow&apos;s mayor described the wave of drones as the &quot;largest ever&quot; attack on the Russian capital and said there had been damage to a Moscow oil refinery and a residential building."
+      },
+      {
+        "title": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
+        "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
+        "description": "State officials say the new SpaceX site will be a $100 billion investment and launch thousands of rockets. Lawmakers  helped ease regulations and negotiations were covered under nondisclosure agreemen"
+      },
+      {
+        "title": "How the NPR College Podcast Challenge changed lives",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
+        "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
+        "description": "Tee up those entries: It&apos;s time for the next NPR College Podcast Challenge, and hear how the contest changed the lives of past participants."
+      },
+      {
+        "title": "NPR&apos;s College Podcast Challenge is back for 2026",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
+        "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
+        "description": "Students: It&apos;s time to turn on the mic and hit &apos;record.&apos; Send us your podcasts and we&apos;ll pick the best ones. It&apos;s $5,000 for our grand prize and $500 for our finalists."
+      },
       {
         "title": "Saudi Arabia says Houthis tried to attack its capital",
         "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
         "pubDate": "Sat, 19 Sep 2026 07:40:40 -0400",
         "description": "Five years after the return of Taliban rule, NPR visited Kabul to see how Afghans are dealing with their new government&apos;s strict social restrictions."
-      },
-      {
-        "title": "Betel nuts are a top mind-affecting substance. Now there&apos;s evidence of ancient use",
-        "link": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
-        "pubDate": "Sat, 19 Sep 2026 07:21:56 -0400",
-        "description": "New research on ancient human remains suggests the habitual usage of betel nuts, a plant seed with mind-affecting properties that is popular in parts of Asia despite the health risks it presents."
-      },
-      {
-        "title": "Archaeologists are racing to save precious artifacts in Alaska after last year&apos;s storm",
-        "link": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
-        "pubDate": "Sat, 19 Sep 2026 05:01:00 -0400",
-        "description": "Last year, remnants of a typhoon damaged homes, infrastructure and an archaeological dig site. Now, archaeologists are trying to get as many objects out as possible before the next storm."
-      },
-      {
-        "title": "Ever wonder how the Fed&apos;s interest rate actually works? We&apos;ve got answers",
-        "link": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
-        "pubDate": "Sat, 19 Sep 2026 05:00:00 -0400",
-        "description": "The Federal Reserve just raised interest rates this week for the first time this year. So how does it actually work? And what does it mean for the economy — and the rest of us? Here are some answers."
-      },
-      {
-        "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
-        "link": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
-        "pubDate": "Sat, 19 Sep 2026 02:39:57 -0400",
-        "description": "Russia&apos;s parliamentary election for the first time is being held in Ukraine&apos;s regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 years ago."
       }
     ],
     "Canada": []
