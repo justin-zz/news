@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-20T19:37:00.445Z",
+  "updated": "2026-09-20T22:09:02.032Z",
   "world": [
     {
       "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
       "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 20 Sep 2026 19:21:28 GMT",
+      "pubDate": "Sun, 20 Sep 2026 20:21:40 GMT",
       "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern."
     },
     {
@@ -26,6 +26,18 @@
       "description": "Trump said the updated plans were at the request of the US military and for national security purposes."
     },
     {
+      "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+      "link": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 20 Sep 2026 21:17:22 GMT",
+      "description": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach."
+    },
+    {
+      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
+      "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 20 Sep 2026 19:04:11 GMT",
+      "description": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests."
+    },
+    {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 19 Sep 2026 23:49:26 GMT",
@@ -36,18 +48,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 19 Sep 2026 14:05:01 GMT",
       "description": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging."
-    },
-    {
-      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 19 Sep 2026 23:01:38 GMT",
-      "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love."
-    },
-    {
-      "title": "Sister of Pakistan's ex-PM Imran Khan arrested",
-      "link": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 20 Sep 2026 19:04:11 GMT",
-      "description": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests."
     },
     {
       "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Federal immigration agent shoots and injures man in Austin, Texas",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas",
+        "pubDate": "Sun, 20 Sep 2026 17:53:00 -0400",
+        "description": "The person shot is in serious but stable condition, Austin Mayor Kirk Watson said in a press conference."
+      },
+      {
+        "title": "Poison suspected in deaths of ten lions in game reserve in Tanzania",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5975478/poison-suspected-in-deaths-of-ten-lions-in-game-reserve-in-tanzania",
+        "pubDate": "Sun, 20 Sep 2026 17:39:24 -0400",
+        "description": "The lions were found dead inside the Ngorongoro Conservation Area, a popular wildlife reserve in Tanzania. Deaths raise concerns over wildlife poisonings in East Africa."
+      },
+      {
         "title": "Germany&apos;s Merz vows to press ahead with reforms after historic state election defeat",
         "link": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
         "pubDate": "Sun, 20 Sep 2026 13:29:29 -0400",
@@ -137,22 +149,10 @@
         "description": "Moscow&apos;s mayor described the wave of drones as the &quot;largest ever&quot; attack on the Russian capital and said there had been damage to a Moscow oil refinery and a residential building."
       },
       {
-        "title": "How the NPR College Podcast Challenge changed lives",
-        "link": "https://www.npr.org/2026/09/20/nx-s1-5945292/college-podcast-challenge-five-years",
-        "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
-        "description": "Tee up those entries: It&apos;s time for the next NPR College Podcast Challenge, and hear how the contest changed the lives of past participants."
-      },
-      {
         "title": "NPR&apos;s College Podcast Challenge is back for 2026",
         "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
         "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
         "description": "Students: It&apos;s time to turn on the mic and hit &apos;record.&apos; Send us your podcasts and we&apos;ll pick the best ones. It&apos;s $5,000 for our grand prize and $500 for our finalists."
-      },
-      {
-        "title": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
-        "link": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
-        "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
-        "description": "State officials say the new SpaceX site will be a $100 billion investment and launch thousands of rockets. Lawmakers  helped ease regulations and negotiations were covered under nondisclosure agreemen"
       }
     ],
     "Canada": []
