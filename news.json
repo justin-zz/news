@@ -1,11 +1,23 @@
 {
-  "updated": "2026-09-20T00:13:29.857Z",
+  "updated": "2026-09-20T05:09:34.859Z",
   "world": [
+    {
+      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 20 Sep 2026 04:49:11 GMT",
+      "description": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour."
+    },
     {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 19 Sep 2026 23:49:26 GMT",
       "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital."
+    },
+    {
+      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 20 Sep 2026 05:04:54 GMT",
+      "description": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports."
     },
     {
       "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
@@ -74,18 +86,6 @@
       "description": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade."
     },
     {
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 18 Sep 2026 20:17:50 GMT",
-      "description": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility."
-    },
-    {
-      "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
-      "link": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 19 Sep 2026 00:03:53 GMT",
-      "description": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats."
-    },
-    {
       "title": "Mum's viral barefoot race sparks debate over India's education crisis",
       "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 19 Sep 2026 23:18:06 GMT",
@@ -94,6 +94,18 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Saudi Arabia says Houthis tried to attack its capital",
+        "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+        "pubDate": "Sat, 19 Sep 2026 23:57:23 -0400",
+        "description": "Saudi Arabia on Saturday said that Yemen&apos;s Houthi rebels tried to attack Riyadh with a ballistic missile, the first time the Saudi capital has been targeted since the escalation in fighting with "
+      },
+      {
+        "title": "Ed Sheeran says situation in Gaza is &apos;catastrophic and unjustifiable&apos; as he opens solo concert",
+        "link": "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
+        "pubDate": "Sat, 19 Sep 2026 23:34:12 -0400",
+        "description": "Ed Sheeran opened a solo concert Saturday with comments about Gaza after controversy swirled around his tour and supporting acts withdrew in solidarity with opener Macklemore, who was dropped after ma"
+      },
       {
         "title": "The new lines of southern Lebanon",
         "link": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
         "pubDate": "Sat, 19 Sep 2026 02:39:57 -0400",
         "description": "Russia&apos;s parliamentary election for the first time is being held in Ukraine&apos;s regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 years ago."
-      },
-      {
-        "title": "As Europe warms, Italy sees West Nile virus spread",
-        "link": "https://www.npr.org/2026/09/19/g-s1-144162/as-europe-warms-italy-sees-west-nile-virus-spread",
-        "pubDate": "Sat, 19 Sep 2026 01:13:18 -0400",
-        "description": "Italian health authorities see evidence that rising temperatures and longer warm seasons are helping mosquitoes spread West Nile virus across a wider area, during more months of the year."
-      },
-      {
-        "title": "U.S. and Denmark reach deal to build U.S. military presence in Greenland",
-        "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
-        "pubDate": "Sat, 19 Sep 2026 00:44:46 -0400",
-        "description": "President Trump says he has a deal with Denmark to bolster the U.S. military presence in Greenland. The announcement comes after months of threatening to take the island by force from the NATO ally."
       }
     ],
     "Canada": []
