@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-20T09:56:11.378Z",
+  "updated": "2026-09-20T13:57:16.651Z",
   "world": [
     {
-      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
       "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 20 Sep 2026 08:41:36 GMT",
-      "description": "A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the \"unprecedented attack\"."
+      "pubDate": "Sun, 20 Sep 2026 10:45:39 GMT",
+      "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died."
     },
     {
       "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
@@ -38,7 +38,7 @@
       "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love."
     },
     {
-      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
       "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 19 Sep 2026 23:18:18 GMT",
       "description": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it."
@@ -95,16 +95,34 @@
   "regions": {
     "US": [
       {
+        "title": "PHOTOS: The precarious life of fisherfolk",
+        "link": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
+        "pubDate": "Sun, 20 Sep 2026 08:24:02 -0400",
+        "description": "In the bustling heart of the southern Indian city of Chennai is a market that never sleeps, where residents from the poorest neighborhoods wage a battle of survival with the sea."
+      },
+      {
+        "title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
+        "pubDate": "Sun, 20 Sep 2026 07:00:00 -0400",
+        "description": "In the Lower Ninth Ward, an old Family Dollar stands covered in graffiti. It looks abandoned. But inside, it&apos;s a treasure trove — clothing, home goods, toys and books. And everything is free."
+      },
+      {
+        "title": "Judge orders Fox to hand over hundreds of documents in shareholders&apos; case",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
+        "pubDate": "Sun, 20 Sep 2026 06:01:00 -0400",
+        "description": "Fox Corp. must turn over hundreds of documents that could shed light on how founder Rupert Murdoch handled some of his media companies&apos; biggest scandals."
+      },
+      {
+        "title": "U.S. childcare costs are astronomical. More families are turning to grandparents",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5963506/us-childcare-costs-astronomical-families-turning-to-grandparents",
+        "pubDate": "Sun, 20 Sep 2026 06:00:00 -0400",
+        "description": "Grandparents taking care of their grandkids is nothing new. But the surging cost of childcare in the U.S. has made familial support even more critical for some parents who struggle to afford it."
+      },
+      {
         "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
         "link": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
         "pubDate": "Sun, 20 Sep 2026 05:16:42 -0400",
         "description": "Moscow&apos;s mayor described the wave of drones as the &quot;largest ever&quot; attack on the Russian capital and said there had been damage to a Moscow oil refinery and a residential building."
-      },
-      {
-        "title": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
-        "link": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
-        "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
-        "description": "State officials say the new SpaceX site will be a $100 billion investment and launch thousands of rockets. Lawmakers  helped ease regulations and negotiations were covered under nondisclosure agreemen"
       },
       {
         "title": "How the NPR College Podcast Challenge changed lives",
@@ -119,6 +137,12 @@
         "description": "Students: It&apos;s time to turn on the mic and hit &apos;record.&apos; Send us your podcasts and we&apos;ll pick the best ones. It&apos;s $5,000 for our grand prize and $500 for our finalists."
       },
       {
+        "title": "Thousands of planned launches, terms of deal, worry some near Louisiana SpaceX site",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5974180/spacex-musk-landry-louisiana-ndas",
+        "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
+        "description": "State officials say the new SpaceX site will be a $100 billion investment and launch thousands of rockets. Lawmakers  helped ease regulations and negotiations were covered under nondisclosure agreemen"
+      },
+      {
         "title": "Saudi Arabia says Houthis tried to attack its capital",
         "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
         "pubDate": "Sat, 19 Sep 2026 23:57:23 -0400",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/09/19/nx-s1-5974977/ed-sheeran-gaza-catastrophic-unjustifiable-opens-solo-concert",
         "pubDate": "Sat, 19 Sep 2026 23:34:12 -0400",
         "description": "Ed Sheeran opened a solo concert Saturday with comments about Gaza after controversy swirled around his tour and supporting acts withdrew in solidarity with opener Macklemore, who was dropped after ma"
-      },
-      {
-        "title": "The new lines of southern Lebanon",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
-        "pubDate": "Sat, 19 Sep 2026 15:00:24 -0400",
-        "description": "The U.N. expanded the United Nations Interim Force in Lebanon&apos;s mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon&apos;s Iran-backed Hezbo"
-      },
-      {
-        "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
-        "link": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
-        "pubDate": "Sat, 19 Sep 2026 11:26:31 -0400",
-        "description": "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting &quot;FICTION and LIES.&quot;"
-      },
-      {
-        "title": "Opinion: Remembering Annie Dillard, nature writer",
-        "link": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
-        "pubDate": "Sat, 19 Sep 2026 08:00:00 -0400",
-        "description": "With her 1974 book, &quot;Pilgrim at Tinker Creek,&quot; Annie Dillard became the youngest woman to win the Pulitzer Prize. We take a moment to remember her and her work."
-      },
-      {
-        "title": "Life in Kabul 5 years after the Taliban&apos;s return",
-        "link": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
-        "pubDate": "Sat, 19 Sep 2026 07:40:40 -0400",
-        "description": "Five years after the return of Taliban rule, NPR visited Kabul to see how Afghans are dealing with their new government&apos;s strict social restrictions."
       }
     ],
     "Canada": []
