@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T20:45:36.760Z",
+  "updated": "2026-09-21T23:47:36.118Z",
   "world": [
     {
       "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -10,7 +10,7 @@
     {
       "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
       "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 15:58:53 GMT",
+      "pubDate": "Mon, 21 Sep 2026 22:48:33 GMT",
       "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit."
     },
     {
@@ -29,7 +29,7 @@
       "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
       "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 21 Sep 2026 20:26:41 GMT",
-      "description": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas."
+      "description": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded."
     },
     {
       "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
@@ -131,12 +131,6 @@
         "description": "The U.S. gets nearly a third of its pork from Iowa. One family is making the switch from pigs to more sustainable specialty mushrooms and trying to show other pig farmers how they did it."
       },
       {
-        "title": "The data center backlash is reshaping American politics — one community at a time",
-        "link": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai",
-        "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
-        "description": "With striking speed, the widespread debate around data centers has become a fault line in American communities, cutting across political parties and forging unexpected alliances."
-      },
-      {
         "title": "Germany&apos;s leader stands his ground after his party loses in state elections",
         "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
         "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
@@ -147,6 +141,12 @@
         "link": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
         "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
         "description": "United Nations head António Guterres returns to New York for his final U.N. General Assembly as diplomacy falters over wars in Ukraine and the Middle East, and the global body faces deep divisions."
+      },
+      {
+        "title": "The data center backlash is reshaping American politics — one community at a time",
+        "link": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai",
+        "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
+        "description": "With striking speed, the widespread debate around data centers has become a fault line in American communities, cutting across political parties and forging unexpected alliances."
       },
       {
         "title": "18 suspects accused in the 2021 killing of Haiti&apos;s president being extradited to U.S.",
