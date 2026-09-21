@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T16:48:09.282Z",
+  "updated": "2026-09-21T20:45:36.760Z",
   "world": [
     {
       "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -16,19 +16,19 @@
     {
       "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
       "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 14:26:29 GMT",
+      "pubDate": "Mon, 21 Sep 2026 16:54:56 GMT",
       "description": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\""
     },
     {
       "title": "First UK charges brought over 1994 Rwanda genocide",
       "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 16:33:02 GMT",
+      "pubDate": "Mon, 21 Sep 2026 17:48:23 GMT",
       "description": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences."
     },
     {
       "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
       "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 14:06:12 GMT",
+      "pubDate": "Mon, 21 Sep 2026 20:26:41 GMT",
       "description": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas."
     },
     {
@@ -46,7 +46,7 @@
     {
       "title": "Seven Ethiopian rebel groups form new alliance",
       "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 15:09:32 GMT",
+      "pubDate": "Mon, 21 Sep 2026 17:02:47 GMT",
       "description": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together."
     },
     {
@@ -58,13 +58,13 @@
     {
       "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
       "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 16:39:16 GMT",
-      "description": "Airlines are angry about the delays, with EasyJet saying the latest incident \"once again calls into question the resilience\" of the system."
+      "pubDate": "Mon, 21 Sep 2026 20:21:18 GMT",
+      "description": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it."
     },
     {
-      "title": "Three held over woman's murder as South Africa police investigate eight other body finds",
+      "title": "Two charged with woman's murder as South Africa police investigate eight other body finds",
       "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 12:22:00 GMT",
+      "pubDate": "Mon, 21 Sep 2026 17:06:16 GMT",
       "description": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg."
     },
     {
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "What the equinox &apos;henge&apos; effect tells us about U.S. cities",
+        "link": "https://www.npr.org/2026/09/21/nx-s1-5973179/equinox-henge-sunrise-sunset",
+        "pubDate": "Mon, 21 Sep 2026 15:50:13 -0400",
+        "description": "The fall equinox, which arrives Tuesday in the U.S., brings shorter days, and chances to witness alignment between Earth and the sun. It&apos;s a modern version of ancient observances of a celestial s"
+      },
+      {
+        "title": "Aviation regulators turn to AI to help manage the nation&apos;s airspace",
+        "link": "https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace",
+        "pubDate": "Mon, 21 Sep 2026 13:37:56 -0400",
+        "description": "The Federal Aviation Administration launched an ambitious $875-million-dollar push to make the U.S. airspace more efficient. But critics say it won&apos;t solve bigger problems with air traffic contro"
+      },
+      {
         "title": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
         "link": "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit",
         "pubDate": "Mon, 21 Sep 2026 12:40:28 -0400",
@@ -105,12 +117,6 @@
         "link": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
         "pubDate": "Mon, 21 Sep 2026 07:24:27 -0400",
         "description": "This week, world leaders convene for the U.N. General Assembly as war continues in Ukraine and the Gulf. And, President Trump has proposed that his arch serve as a military complex."
-      },
-      {
-        "title": "German chancellor stands his ground after his party loses in state elections",
-        "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
-        "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
-        "description": "German Chancellor Freidrich Merz conceded that the night spells &quot;disaster&quot; for the political center, but assured the public he&apos;d push ahead with his federal agenda of tax and welfare re"
       },
       {
         "title": "Many GOP candidates still echo Trump&apos;s 2020 claims. Lots of voters want to move on",
@@ -131,6 +137,12 @@
         "description": "With striking speed, the widespread debate around data centers has become a fault line in American communities, cutting across political parties and forging unexpected alliances."
       },
       {
+        "title": "Germany&apos;s leader stands his ground after his party loses in state elections",
+        "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
+        "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
+        "description": "German Chancellor Freidrich Merz conceded that the night spells &quot;disaster&quot; for the political center, but assured the public he&apos;d push ahead with his federal agenda of tax and welfare re"
+      },
+      {
         "title": "What to know as world leaders converge at the United Nations this week",
         "link": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
         "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited",
         "pubDate": "Mon, 21 Sep 2026 04:41:50 -0400",
         "description": "Eighteen suspects who were arrested in the July 2021 killing of Haitian President Jovenel Moïse were being extradited to the U.S. on Sunday to face justice in Florida."
-      },
-      {
-        "title": "How a national farm leader is dealing with record diesel prices",
-        "link": "https://www.npr.org/2026/09/21/nx-s1-5973073/diesel-prices-american-farmers-fuel-costs",
-        "pubDate": "Mon, 21 Sep 2026 04:40:54 -0400",
-        "description": "John Boyd Jr., president of the National Black Farmers Association, says soaring diesel costs are deepening a farm crisis as farmers face sharply higher fuel costs in the middle of harvest season."
-      },
-      {
-        "title": "CNN, MS NOW and Politico sue Trump after being barred from White House",
-        "link": "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets",
-        "pubDate": "Mon, 21 Sep 2026 04:39:38 -0400",
-        "description": "Reporters from CNN, MS NOW and Politico say they were prevented from entering the White House grounds after President Trump announced plans to ban all three outlets."
       }
     ],
     "Canada": []
