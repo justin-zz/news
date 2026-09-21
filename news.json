@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-21T00:22:54.286Z",
+  "updated": "2026-09-21T05:15:18.726Z",
   "world": [
     {
       "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
       "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 20 Sep 2026 20:21:40 GMT",
-      "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern."
+      "pubDate": "Mon, 21 Sep 2026 03:22:44 GMT",
+      "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin."
     },
     {
       "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
@@ -125,6 +125,12 @@
         "description": "In the bustling heart of the southern Indian city of Chennai is a market that never sleeps, where residents from the poorest neighborhoods wage a battle of survival with the sea."
       },
       {
+        "title": "The capture of Western Yemen is making the country&apos;s humanitarian crisis worse",
+        "link": "https://www.npr.org/2026/09/20/nx-s1-5973884/the-capture-of-western-yemen-is-making-the-countrys-humanitarian-crisis-worse",
+        "pubDate": "Sun, 20 Sep 2026 08:05:42 -0400",
+        "description": "NPR speaks with people in Yemen and in aid groups who say the fighting is displacing families to areas without enough aid to support them."
+      },
+      {
         "title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
         "link": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
         "pubDate": "Sun, 20 Sep 2026 07:00:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
         "pubDate": "Sun, 20 Sep 2026 05:16:42 -0400",
         "description": "Moscow&apos;s mayor described the wave of drones as the &quot;largest ever&quot; attack on the Russian capital and said there had been damage to a Moscow oil refinery and a residential building."
-      },
-      {
-        "title": "NPR&apos;s College Podcast Challenge is back for 2026",
-        "link": "https://www.npr.org/2026/09/20/nx-s1-5966588/nprs-college-podcast-challenge-is-back-for-2026",
-        "pubDate": "Sun, 20 Sep 2026 05:00:00 -0400",
-        "description": "Students: It&apos;s time to turn on the mic and hit &apos;record.&apos; Send us your podcasts and we&apos;ll pick the best ones. It&apos;s $5,000 for our grand prize and $500 for our finalists."
       }
     ],
     "Canada": []
