@@ -1,10 +1,16 @@
 {
-  "updated": "2026-09-22T17:53:55.023Z",
+  "updated": "2026-09-22T20:49:36.964Z",
   "world": [
+    {
+      "title": "US to build two military bases in Greenland under new deal with Denmark",
+      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 18:43:29 GMT",
+      "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory."
+    },
     {
       "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
       "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 22 Sep 2026 14:03:20 GMT",
+      "pubDate": "Tue, 22 Sep 2026 19:47:44 GMT",
       "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270."
     },
     {
@@ -12,6 +18,12 @@
       "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 22 Sep 2026 12:54:14 GMT",
       "description": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world."
+    },
+    {
+      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 19:06:06 GMT",
+      "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals."
     },
     {
       "title": "Eleven injured in shooting outside Turkish school",
@@ -68,18 +80,6 @@
       "description": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall."
     },
     {
-      "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 22 Sep 2026 17:17:01 GMT",
-      "description": "The delivery driver was transferred from a hospital to a detention centre, his lawyer tells US media."
-    },
-    {
-      "title": "Doctor in court to face Rwanda genocide charges in UK",
-      "link": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 22 Sep 2026 11:25:19 GMT",
-      "description": "Dr Vincent Brown was charged following a seven year British investigation into the 1994 killings."
-    },
-    {
       "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 22 Sep 2026 13:49:22 GMT",
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Trump&apos;s D.C. arch is now a military complex. Here&apos;s how that complicates things",
+        "link": "https://www.npr.org/2026/09/22/nx-s1-5977646/trump-dc-arch-military-complex-questions",
+        "pubDate": "Tue, 22 Sep 2026 15:25:05 -0400",
+        "description": "The future of Trump&apos;s D.C. arch was already fraught. Then he rebranded it as a military complex. Experts say that only raises more legal and logistical questions."
+      },
       {
         "title": "Inside a &apos;modern slavery situation&apos; where cyber scammers are victims themselves",
         "link": "https://www.npr.org/2026/09/22/nx-s1-5977731/inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves",
@@ -125,6 +131,12 @@
         "description": "As the U.S. conflict with Iran drags, the Iranian-backed Houthis in Yemen have opened a new front, taking new territory and displacing more than 100,000 people."
       },
       {
+        "title": "A journalist once barred from the White House says this media ban is different",
+        "link": "https://www.npr.org/2026/09/22/nx-s1-5976755/jim-acosta-white-house-media-ban",
+        "pubDate": "Tue, 22 Sep 2026 06:47:59 -0400",
+        "description": "Jim Acosta has already been through a White House press-pass fight. Now, three news organizations are barred, and he says the press is showing solidarity that should have come sooner."
+      },
+      {
         "title": "New DNA analysis adds evidence Jefferson fathered children with Sally Hemings",
         "link": "https://www.npr.org/2026/09/22/nx-s1-5791513/thomas-jefferson-sally-hemings-dna-hair-smithsonian",
         "pubDate": "Tue, 22 Sep 2026 06:00:00 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/09/22/nx-s1-5974318/election-voting-abortion-policies-roe",
         "pubDate": "Tue, 22 Sep 2026 05:00:00 -0400",
         "description": "Four states will vote on abortion-related ballot measures in November. The measures follow the Supreme Court&apos;s &quot;Dobbs&quot; decision, which upended federal abortion protections."
-      },
-      {
-        "title": "How unarmed 911 teams are reshaping public safety in nearly 100 cities",
-        "link": "https://www.npr.org/2026/09/22/nx-s1-5973302/unarmed-911-responders-police-reform",
-        "pubDate": "Tue, 22 Sep 2026 05:00:00 -0400",
-        "description": "Alternative response programs, where mental health clinicians respond to 911 calls instead of police, have proliferated since George Floyd&apos;s murder. What does it take to do this work well?"
-      },
-      {
-        "title": "The best and biggest games of September",
-        "link": "https://www.npr.org/2026/09/22/nx-s1-5971441/review-control-resonant-silent-hill-best-biggest-september-games",
-        "pubDate": "Tue, 22 Sep 2026 05:00:00 -0400",
-        "description": "From &lt;em&gt;Silent Hill: Townfall&lt;/em&gt; to &lt;em&gt;Control Resonant&lt;/em&gt; to &lt;em&gt;Fire Emblem: Fortune&apos;s Weave&lt;/em&gt;, we review the best new games to play as autumn begin"
       }
     ],
     "Canada": []
