@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-22T03:05:57.193Z",
+  "updated": "2026-09-22T08:43:04.549Z",
   "world": [
+    {
+      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 01:04:16 GMT",
+      "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked."
+    },
+    {
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 07:14:12 GMT",
+      "description": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security."
+    },
+    {
+      "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
+      "link": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 08:17:15 GMT",
+      "description": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House."
+    },
+    {
+      "title": "Sri Lankan court to deliver verdict on deadly Easter bombings",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r687nedzgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 08:10:21 GMT",
+      "description": "Co-ordinated suicide attacks killed 270 people across several churches and hotels in Colombo in 2019."
+    },
     {
       "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
       "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&amp;at_campaign=rss",
@@ -8,16 +32,28 @@
       "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti."
     },
     {
-      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 22 Sep 2026 00:16:06 GMT",
-      "description": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit."
+      "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 05:57:46 GMT",
+      "description": "The delivery driver was transferred from a hospital to a detention centre, his lawyer tells US media."
     },
     {
-      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-      "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 16:54:56 GMT",
-      "description": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\""
+      "title": "Four dead after powerful Typhoon Dujuan lashes Japan",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 05:58:35 GMT",
+      "description": "The storm pulled away from Japan after bringing heavy rains and strong winds to Tokyo and surrounding areas."
+    },
+    {
+      "title": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
+      "link": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 01:44:17 GMT",
+      "description": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement."
+    },
+    {
+      "title": "Infantino says he is open to talks over Fifa reform",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 21 Sep 2026 19:50:57 GMT",
+      "description": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on."
     },
     {
       "title": "First UK charges brought over 1994 Rwanda genocide",
@@ -26,22 +62,16 @@
       "description": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences."
     },
     {
-      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 20:26:41 GMT",
-      "description": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded."
+      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+      "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 21 Sep 2026 16:54:56 GMT",
+      "description": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\""
     },
     {
       "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
       "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 21 Sep 2026 00:05:11 GMT",
       "description": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg."
-    },
-    {
-      "title": "Xhaka under investigation over Covid-19 certificate",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 15:24:51 GMT",
-      "description": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate."
     },
     {
       "title": "Seven Ethiopian rebel groups form new alliance",
@@ -60,40 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 21 Sep 2026 20:21:18 GMT",
       "description": "Prime Minister Andy Burnham said further issues \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it."
-    },
-    {
-      "title": "Two charged with woman's murder as South Africa police investigate eight other body finds",
-      "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 17:06:16 GMT",
-      "description": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg."
-    },
-    {
-      "title": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
-      "link": "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 12:30:54 GMT",
-      "description": "The penalty follows an inquiry launched into the tech giant six years ago, following complaints from several European consumer rights organisations."
-    },
-    {
-      "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 20 Sep 2026 23:12:31 GMT",
-      "description": "Undercover footage recorded by the BBC reveals he has been released after serving less than half his sentence."
-    },
-    {
-      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 05:50:56 GMT",
-      "description": "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week."
-    },
-    {
-      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 21 Sep 2026 04:00:38 GMT",
-      "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Grand jury finds no evidence of criminal conduct in the death of Nolan Wells",
+        "link": "https://www.npr.org/2026/09/22/nx-s1-5911804/nolan-wells-investigation-grand-jury",
+        "pubDate": "Tue, 22 Sep 2026 04:31:47 -0400",
+        "description": "A grand jury found Wells&apos; cause of death &quot;consistent with drowning,&quot; and decided not to bring indictments. The teenager was found dead on Horn Island, after he boated there with friends"
+      },
+      {
+        "title": "New book by Princess Diana&apos;s brother prompts war of words with King Charles III",
+        "link": "https://www.npr.org/2026/09/22/g-s1-144505/princess-diana-brother-book",
+        "pubDate": "Tue, 22 Sep 2026 04:03:27 -0400",
+        "description": "A new book by the late Princess Diana&apos;s brother, Charles Spencer, has made headlines with damning allegations about King Charles III. Buckingham Palace responded with a strongly-worded statement."
+      },
       {
         "title": "What the equinox &apos;henge&apos; effect tells us about U.S. cities",
         "link": "https://www.npr.org/2026/09/21/nx-s1-5973179/equinox-henge-sunrise-sunset",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
         "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
         "description": "United Nations head António Guterres returns to New York for his final U.N. General Assembly as diplomacy falters over wars in Ukraine and the Middle East, and the global body faces deep divisions."
-      },
-      {
-        "title": "The data center backlash is reshaping American politics — one community at a time",
-        "link": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai",
-        "pubDate": "Mon, 21 Sep 2026 05:00:00 -0400",
-        "description": "With striking speed, the widespread debate around data centers has become a fault line in American communities, cutting across political parties and forging unexpected alliances."
-      },
-      {
-        "title": "18 suspects accused in the 2021 killing of Haiti&apos;s president being extradited to U.S.",
-        "link": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited",
-        "pubDate": "Mon, 21 Sep 2026 04:41:50 -0400",
-        "description": "Eighteen suspects who were arrested in the July 2021 killing of Haitian President Jovenel Moïse were being extradited to the U.S. on Sunday to face justice in Florida."
       }
     ],
     "Canada": []
