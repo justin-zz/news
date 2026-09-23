@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-23T01:39:58.662Z",
+  "updated": "2026-09-23T07:16:00.806Z",
   "world": [
     {
-      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
-      "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 01:09:54 GMT",
-      "description": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran."
+      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+      "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 06:12:56 GMT",
+      "description": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently."
     },
     {
       "title": "Burnham expects to find 'common ground' with Trump in first meeting",
@@ -20,22 +20,34 @@
       "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory."
     },
     {
+      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
+      "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 06:47:49 GMT",
+      "description": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security."
+    },
+    {
+      "title": "Eleven killed in mass shooting at house in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 07:02:52 GMT",
+      "description": "One of those killed is believed to be a pregnant woman, police said."
+    },
+    {
       "title": "How Ceuta, football and Israel are shaping Morocco's election",
       "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 22 Sep 2026 20:59:00 GMT",
       "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls."
     },
     {
-      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 22 Sep 2026 19:47:44 GMT",
-      "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270."
-    },
-    {
       "title": "Developing El Niño becomes strongest on record weeks before expected peak",
       "link": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 22 Sep 2026 12:54:14 GMT",
       "description": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world."
+    },
+    {
+      "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 19:47:44 GMT",
+      "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270."
     },
     {
       "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
@@ -56,6 +68,12 @@
       "description": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday."
     },
     {
+      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 22 Sep 2026 15:17:37 GMT",
+      "description": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system -  was ruled an accident."
+    },
+    {
       "title": "Eleven injured in shooting outside Turkish school",
       "link": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 22 Sep 2026 10:42:47 GMT",
@@ -68,32 +86,26 @@
       "description": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old."
     },
     {
-      "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
-      "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 22 Sep 2026 15:17:37 GMT",
-      "description": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system -  was ruled an accident."
-    },
-    {
       "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
       "link": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 22 Sep 2026 16:57:55 GMT",
       "description": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream."
-    },
-    {
-      "title": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
-      "link": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 22 Sep 2026 14:16:42 GMT",
-      "description": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone."
-    },
-    {
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 22 Sep 2026 13:39:09 GMT",
-      "description": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Category 5 Hurricane Polo is &apos;one of the strongest storms ever&apos;",
+        "link": "https://www.npr.org/2026/09/23/nx-s1-5978589/hurricane-polo",
+        "pubDate": "Wed, 23 Sep 2026 02:13:35 -0400",
+        "description": "Hurricane Polo has grown into one of the most powerful Pacific cyclones in decades, and it was expected to skirt Mexico&apos;s southwestern coast as a Category 5 storm."
+      },
+      {
+        "title": "Trump administration to remove 760,000 Affordable Care Act enrollees over fraud claims",
+        "link": "https://www.npr.org/2026/09/23/g-s1-144623/trump-affordable-care-act",
+        "pubDate": "Wed, 23 Sep 2026 01:26:31 -0400",
+        "description": "White House officials allege these individuals were fraudulently enrolled in the program or do not exist. Vice President Vance said the move would save $2.2 billion."
+      },
       {
         "title": "Questions remain after grand jury declines indictment in Nolan Wells&apos; death",
         "link": "https://www.npr.org/2026/09/22/nx-s1-5977673/questions-remain-after-grand-jury-declines-indictment-in-nolan-wells-death",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/09/22/g-s1-144512/up-first-newsletter-press-lawsuit-cnn-msnow-politico-unga-trump-speech-paramount-deal",
         "pubDate": "Tue, 22 Sep 2026 07:01:01 -0400",
         "description": "CNN, MS NOW and Politico have sued Trump after the networks were suspended from the White House. And, Paramount makes concessions to resolve a lawsuit over its massive Warner Bros. Discovery merger."
-      },
-      {
-        "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
-        "link": "https://www.npr.org/2026/09/22/g-s1-144261/yemen-houthis-saudi-iran-humanitarian-crisis",
-        "pubDate": "Tue, 22 Sep 2026 06:59:37 -0400",
-        "description": "As the U.S. conflict with Iran drags, the Iranian-backed Houthis in Yemen have opened a new front, taking new territory and displacing more than 100,000 people."
-      },
-      {
-        "title": "A journalist once barred from the White House says this media ban is different",
-        "link": "https://www.npr.org/2026/09/22/nx-s1-5976755/jim-acosta-white-house-media-ban",
-        "pubDate": "Tue, 22 Sep 2026 06:47:59 -0400",
-        "description": "Jim Acosta has already been through a White House press-pass fight. Now, three news organizations are barred, and he says the press is showing solidarity that should have come sooner."
       }
     ],
     "Canada": []
