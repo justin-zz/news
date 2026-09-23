@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-23T17:40:26.025Z",
+  "updated": "2026-09-23T21:01:10.520Z",
   "world": [
     {
       "title": "Iran's president tells Trump it will never 'bend the knee'",
       "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 17:34:44 GMT",
+      "pubDate": "Wed, 23 Sep 2026 18:15:31 GMT",
       "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon."
     },
     {
@@ -12,6 +12,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 23 Sep 2026 16:53:37 GMT",
       "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes."
+    },
+    {
+      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 20:28:16 GMT",
+      "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York."
     },
     {
       "title": "White House rolling out red carpet for historic Xi Jinping visit",
@@ -34,8 +40,8 @@
     {
       "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
       "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 16:40:19 GMT",
-      "description": "In court, Miriam Haley said the assault had a \"devastating effect on my life and sense of security that may never go away\"."
+      "pubDate": "Wed, 23 Sep 2026 18:51:12 GMT",
+      "description": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\"."
     },
     {
       "title": "Poland accuses Russian military helicopter of violating its airspace",
@@ -58,7 +64,7 @@
     {
       "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
       "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 13:34:25 GMT",
+      "pubDate": "Wed, 23 Sep 2026 17:40:59 GMT",
       "description": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security."
     },
     {
@@ -82,18 +88,30 @@
     {
       "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
       "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 12:24:02 GMT",
+      "pubDate": "Wed, 23 Sep 2026 17:58:19 GMT",
       "description": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon."
-    },
-    {
-      "title": "OpenAI gives cyber defence tools to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 12:01:37 GMT",
-      "description": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable"
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Trump set to greet Xi for high-stakes state visit",
+        "link": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
+        "pubDate": "Wed, 23 Sep 2026 14:23:19 -0400",
+        "description": "It is the second time the leaders are meeting this year after the Beijing summit in May."
+      },
+      {
+        "title": "Iran&apos;s president gives a rare wartime speech at the U.N.",
+        "link": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
+        "pubDate": "Wed, 23 Sep 2026 14:14:40 -0400",
+        "description": "Iranian President Masoud Pezeshkian addressed the U.N. General Assembly a day after President Trump threatened from the same podium to &quot;annihilate&quot; Iran."
+      },
+      {
+        "title": "A Catholic media star will be beatified in St. Louis, moving a step closer to sainthood",
+        "link": "https://www.npr.org/2026/09/23/g-s1-144677/a-catholic-media-star-will-be-beatified-in-st-louis-moving-a-step-closer-to-sainthood",
+        "pubDate": "Wed, 23 Sep 2026 14:09:31 -0400",
+        "description": "Bishop Fulton Sheen, who charmed millions of television viewers on his show L&lt;em&gt;ife Is Worth Living,&apos;&lt;/em&gt;will come one step closer to being declared a saint."
+      },
       {
         "title": "From cybersecurity to AI to Taiwan, what&apos;s at stake in Trump&apos;s summit with Xi",
         "link": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
@@ -126,7 +144,7 @@
       },
       {
         "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump&apos;s foreign policy",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
+        "link": "https://www.npr.org/2026/09/23/nx-s1-5977753/u-s-ambassador-to-the-u-n-discusses-trumps-address-at-unga",
         "pubDate": "Wed, 23 Sep 2026 06:48:47 -0400",
         "description": "Deals, threats and oil are all on the table as the president&apos;s foreign policy takes center stage."
       },
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/09/23/nx-s1-5978122/fda-blood-cancer-test-galleri",
         "pubDate": "Wed, 23 Sep 2026 06:00:00 -0400",
         "description": "The company Grail says its Galleri blood test can detect up to 50 forms of cancer. An independent panel of experts will decide if the test should be recommended for FDA approval."
-      },
-      {
-        "title": "DOJ defends White House media ban, urges court to reject lawsuit",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5978614/doj-defend-white-house-media-ban",
-        "pubDate": "Wed, 23 Sep 2026 05:06:47 -0400",
-        "description": "The Department of Justice defended President Trump&apos;s recent media ban, arguing that reporting by CNN, MS Now and Politico on a wide range of issues jeopardized national security and spread falseh"
-      },
-      {
-        "title": "Major news outlets banned by Trump will have their day in court",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5978069/cnn-msnow-politico-trump-white-house-ban",
-        "pubDate": "Wed, 23 Sep 2026 05:01:00 -0400",
-        "description": "CNN, MS NOW, and Politico are asking a federal judge to hold the president in check for what they say is a violation of their Constitutional rights simply because he doesn&apos;t like how they cover h"
-      },
-      {
-        "title": "As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
-        "pubDate": "Wed, 23 Sep 2026 05:00:00 -0400",
-        "description": "While Senate offices have access to chatbots like ChatGPT, they are not authorized to use any of the more advanced tools that are at the center of regulatory talks and public debate about AI safety."
       }
     ],
     "Canada": []
