@@ -1,23 +1,23 @@
 {
-  "updated": "2026-09-23T12:52:52.194Z",
+  "updated": "2026-09-23T17:40:26.025Z",
   "world": [
     {
-      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-      "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 06:12:56 GMT",
-      "description": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently."
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 17:34:44 GMT",
+      "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon."
     },
     {
-      "title": "Reports of violence against women in Gaza surge, UN agency finds",
-      "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 05:02:26 GMT",
-      "description": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages."
-    },
-    {
-      "title": "Tigray forces seize main airport in northern Ethiopia from police, residents tell the BBC",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
       "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 11:42:52 GMT",
-      "description": "There are fears of a return to war in the northern region as tensions between the government and TPLF escalate."
+      "pubDate": "Wed, 23 Sep 2026 16:53:37 GMT",
+      "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes."
+    },
+    {
+      "title": "White House rolling out red carpet for historic Xi Jinping visit",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 14:32:37 GMT",
+      "description": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington."
     },
     {
       "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
@@ -26,28 +26,58 @@
       "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it."
     },
     {
-      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
-      "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 06:47:49 GMT",
-      "description": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security."
-    },
-    {
-      "title": "Eleven killed in mass shooting at house in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 07:02:52 GMT",
-      "description": "One of those killed is believed to be a pregnant woman, police said."
-    },
-    {
-      "title": "Dolly Parton's manager accuses her nephew of threats and intimidation",
+      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
       "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 23 Sep 2026 12:22:53 GMT",
       "description": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate."
     },
     {
-      "title": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
-      "link": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 04:20:12 GMT",
-      "description": "More than 40,000 of the cases – which range from mild coughs to pneumonia – involve toddlers."
+      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+      "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 16:40:19 GMT",
+      "description": "In court, Miriam Haley said the assault had a \"devastating effect on my life and sense of security that may never go away\"."
+    },
+    {
+      "title": "Poland accuses Russian military helicopter of violating its airspace",
+      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 15:37:20 GMT",
+      "description": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets."
+    },
+    {
+      "title": "Reports of violence against women in Gaza surge, UN agency finds",
+      "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 05:02:26 GMT",
+      "description": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages."
+    },
+    {
+      "title": "Eleven killed in mass shooting at house in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 14:02:55 GMT",
+      "description": "One of those killed is believed to be a pregnant woman, police said."
+    },
+    {
+      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
+      "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 13:34:25 GMT",
+      "description": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security."
+    },
+    {
+      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+      "link": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 14:32:42 GMT",
+      "description": "Martin Ryan is pardoned months after he was jailed on charges of spying, but a second Frenchman remains in prison."
+    },
+    {
+      "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
+      "link": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 09:48:50 GMT",
+      "description": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US"
+    },
+    {
+      "title": "South Sudan's president dissolves government ahead of country's first elections",
+      "link": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 11:16:25 GMT",
+      "description": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed."
     },
     {
       "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
@@ -60,40 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 23 Sep 2026 12:01:37 GMT",
       "description": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable"
-    },
-    {
-      "title": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
-      "link": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 09:48:50 GMT",
-      "description": "Rodriguez was handpicked by Trump as leader of Venezuela was arrested and taken to the US"
-    },
-    {
-      "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
-      "link": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 11:18:28 GMT",
-      "description": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly."
-    },
-    {
-      "title": "US to build two military bases in Greenland under new deal with Denmark",
-      "link": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 22 Sep 2026 21:36:55 GMT",
-      "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory."
-    },
-    {
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 22 Sep 2026 19:06:06 GMT",
-      "description": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals."
-    },
-    {
-      "title": "How Ceuta, football and Israel are shaping Morocco's election",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 22 Sep 2026 20:59:00 GMT",
-      "description": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "From cybersecurity to AI to Taiwan, what&apos;s at stake in Trump&apos;s summit with Xi",
+        "link": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
+        "pubDate": "Wed, 23 Sep 2026 12:13:52 -0400",
+        "description": "As President Trump and China&apos;s President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit."
+      },
+      {
+        "title": "It&apos;s getting harder to afford rent in the U.S., even for middle-income families",
+        "link": "https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income",
+        "pubDate": "Wed, 23 Sep 2026 10:09:10 -0400",
+        "description": "Housing affordability challenges are spreading to higher income brackets, according to new research, which found one in five renters struggled last year to pay for their housing in full and on time."
+      },
+      {
+        "title": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
+        "link": "https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour",
+        "pubDate": "Wed, 23 Sep 2026 09:31:47 -0400",
+        "description": "For anyone who grew up staring blankly at museum artwork, this is the fun that was missing: Coco leads interactive and (mostly) factual art history comedy tours."
+      },
       {
         "title": "Is Nepal&apos;s flood a harbinger of what&apos;s to come in the Himalayas?",
         "link": "https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower",
@@ -105,6 +123,12 @@
         "link": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice",
         "pubDate": "Wed, 23 Sep 2026 07:13:32 -0400",
         "description": "An NPR poll shows that Democrats have an edge over Republicans going into the midterms, partially due to Trump. And, Immigration and Customs Enforcement is looking into &quot;mobile detention centers."
+      },
+      {
+        "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump&apos;s foreign policy",
+        "link": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
+        "pubDate": "Wed, 23 Sep 2026 06:48:47 -0400",
+        "description": "Deals, threats and oil are all on the table as the president&apos;s foreign policy takes center stage."
       },
       {
         "title": "Will FDA advisers recommend a multi-cancer blood test for approval? They&apos;ll vote",
@@ -125,34 +149,10 @@
         "description": "CNN, MS NOW, and Politico are asking a federal judge to hold the president in check for what they say is a violation of their Constitutional rights simply because he doesn&apos;t like how they cover h"
       },
       {
-        "title": "There&apos;s growing concern that Trump may deploy the National Guard ahead of elections",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5978015/national-guard-election-military-midterms",
-        "pubDate": "Wed, 23 Sep 2026 05:00:00 -0400",
-        "description": "Fears are growing that President Trump may deploy the U.S. military to polling places in the upcoming elections, despite strict state and federal laws against such a move."
-      },
-      {
         "title": "As Congress confronts AI, Senate lawmakers are shut off from its most advanced tools",
         "link": "https://www.npr.org/2026/09/23/nx-s1-5978055/congress-ai-regulation",
         "pubDate": "Wed, 23 Sep 2026 05:00:00 -0400",
         "description": "While Senate offices have access to chatbots like ChatGPT, they are not authorized to use any of the more advanced tools that are at the center of regulatory talks and public debate about AI safety."
-      },
-      {
-        "title": "How an &apos;AI freeze&apos; could make big AI companies bigger and hurt smaller firms",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
-        "pubDate": "Wed, 23 Sep 2026 05:00:00 -0400",
-        "description": "Critics say a slowdown of AI development among the largest companies could consolidate the power of frontier labs, just as many others are trying to catch up."
-      },
-      {
-        "title": "Poll: Most voters agree the 2026 midterms are all about Trump — and they disapprove",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5977613/trump-poll-democrats-congress",
-        "pubDate": "Wed, 23 Sep 2026 05:00:00 -0400",
-        "description": "A new NPR/PBS News/Marist poll finds President Trump — and his unpopularity — is an outsize factor in why most voters say they want Democrats to win the midterms."
-      },
-      {
-        "title": "ICE is looking into &apos;mobile detention facilities&apos;",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5976875/ice-mobile-detention-facilities-immigration",
-        "pubDate": "Wed, 23 Sep 2026 05:00:00 -0400",
-        "description": "Buried in the paperwork for Immigration and Customs Enforcement&apos;s expansion in Pennsylvania is a document requesting &quot;mobile detention facilities.&quot;"
       }
     ],
     "Canada": []
