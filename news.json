@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T08:13:22.052Z",
+  "updated": "2026-09-24T13:40:43.690Z",
   "world": [
     {
       "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
@@ -8,10 +8,28 @@
       "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June."
     },
     {
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 22:01:17 GMT",
-      "description": "The US and China are vying for AI supremacy while seeking to keep it under human control."
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 11:59:23 GMT",
+      "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says."
+    },
+    {
+      "title": "Judge temporarily overturns Trump's White House media ban",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 13:08:29 GMT",
+      "description": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW."
+    },
+    {
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 09:28:33 GMT",
+      "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes."
+    },
+    {
+      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 06:47:12 GMT",
+      "description": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew."
     },
     {
       "title": "Iran's president tells Trump it will never 'bend the knee'",
@@ -20,15 +38,9 @@
       "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon."
     },
     {
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 04:37:47 GMT",
-      "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes."
-    },
-    {
-      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
       "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 21:26:14 GMT",
+      "pubDate": "Thu, 24 Sep 2026 10:11:15 GMT",
       "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York."
     },
     {
@@ -36,6 +48,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 23 Sep 2026 12:31:31 GMT",
       "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it."
+    },
+    {
+      "title": "Why India's Election Commission is in the eye of a storm - again",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 08:26:19 GMT",
+      "description": "India's polling monitor is facing yet another crisis of credibility with fresh allegations against its chief."
     },
     {
       "title": "UK survivor of Canadian poison seller says he exploited her despair",
@@ -72,87 +90,69 @@
       "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 23 Sep 2026 14:02:55 GMT",
       "description": "One of those killed is believed to be a pregnant woman, police said."
-    },
-    {
-      "title": "In Amish country, nurses go door to door to stop deadly spread of measles",
-      "link": "https://www.bbc.co.uk/news/articles/ck3wjyjgj37po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 00:15:46 GMT",
-      "description": "With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private."
-    },
-    {
-      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-      "link": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 00:50:24 GMT",
-      "description": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy."
-    },
-    {
-      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
-      "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 23:58:50 GMT",
-      "description": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\"."
     }
   ],
   "regions": {
     "US": [
       {
+        "title": "Trump rolls out red carpet for Xi as high-stakes summit begins",
+        "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-rolls-out-red-carpet-for-xi-as-high-stakes-summit-begins",
+        "pubDate": "Thu, 24 Sep 2026 08:43:15 -0400",
+        "description": "On Thursday, the two leaders will hold meetings where Trump and Xi are expected to talk about artificial intelligence, rare earths, trade and geopolitics such as Iran and Taiwan."
+      },
+      {
+        "title": "Judge restores journalists&apos; White House access. And, Tucker Carlson on his MAGA split",
+        "link": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
+        "pubDate": "Thu, 24 Sep 2026 07:10:14 -0400",
+        "description": "A judge has ordered that the Trump administration restore journalists&apos; access to White House. And, Tucker Carlson sits down with &lt;em&gt;Morning Edition&lt;/em&gt;&apos;s Steve Inskeep for a &l"
+      },
+      {
+        "title": "Needy couples got cash and a spending plan. Results were good -- and bad",
+        "link": "https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence",
+        "pubDate": "Thu, 24 Sep 2026 06:43:25 -0400",
+        "description": "In Liberia, joint financial planning boosted cash aid&apos;s benefits. It also had an unexpected consequence for some families."
+      },
+      {
+        "title": "The Education Dept. hasn&apos;t been dismantled. It&apos;s become more inefficient, staff say",
+        "link": "https://www.npr.org/2026/09/24/nx-s1-5968605/education-department-dismantling-how-its-going",
+        "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
+        "description": "&lt;em&gt;Education staff are being scattered across several other federal agencies. Despite the Trump administration&apos;s claims, employees say it&apos;s adding bureaucracy and making it harder to "
+      },
+      {
+        "title": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
+        "link": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
+        "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
+        "description": "eBay became the latest online retailer to ban the sale of airbags and many of their components. Aftermarket parts can be risky if they turn out to be fake or defective."
+      },
+      {
+        "title": "States threaten action against company earning millions off disabled vets",
+        "link": "https://www.npr.org/2026/09/24/nx-s1-5978816/va-mortgages-trajector-bankruptcy-investigations",
+        "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
+        "description": "The investigations by attorneys general follow a recent bankruptcy filing in the face of civil lawsuits, falling revenues, and impending debt payments."
+      },
+      {
+        "title": "Warren demands Trump officials explain removing a ban on interference in census data",
+        "link": "https://www.npr.org/2026/09/24/nx-s1-5979070/department-commerce-census-bureau-elizabeth-warren",
+        "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
+        "description": "Democratic Sen. Elizabeth Warren asked Trump officials to explain why the Census Bureau&apos;s parent agency cut a ban on political interference from its scientific integrity policy, as NPR first repo"
+      },
+      {
+        "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
+        "link": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
+        "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
+        "description": "Stories of science funding being cut, labs shutting down and scientists losing jobs have flooded the media under Trump&apos;s administration. These six graphics show how those changes have affected U."
+      },
+      {
+        "title": "Could the White House try its press ban again? A press freedom expert explains",
+        "link": "https://www.npr.org/2026/09/24/nx-s1-5978805/whats-next-white-house-press-access-fight",
+        "pubDate": "Thu, 24 Sep 2026 04:44:54 -0400",
+        "description": "A federal judge&apos;s ruling restored CNN, MS Now and Politico&apos;s access to the White House. Gabe Rottman says better procedure alone may not resolve the broader First Amendment fight."
+      },
+      {
         "title": "Judge orders Trump administration to restore journalists&apos; access to White House",
         "link": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
         "pubDate": "Thu, 24 Sep 2026 02:21:06 -0400",
         "description": "A federal judge ordered the Trump administration on Thursday to temporarily restore access to CNN, MS NOW and Politico, after they were banned from covering White House events by President Trump."
-      },
-      {
-        "title": "Venezuela&apos;s acting leader promises elections at the &apos;right moment&apos;",
-        "link": "https://www.npr.org/2026/09/24/g-s1-144837/venezuela-leader-un-general-assembly",
-        "pubDate": "Thu, 24 Sep 2026 01:40:49 -0400",
-        "description": "Venezuela&apos;s acting president, delivering her first address to the U.N. General Assembly since coming to power, promised elections and said the nation&apos;s people will determine the &quot;right "
-      },
-      {
-        "title": "OpenAI&apos;s breach of Australian health department website prompts rebuke",
-        "link": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
-        "pubDate": "Thu, 24 Sep 2026 01:14:11 -0400",
-        "description": "Prime Minister Anthony Albanese said he was extremely concerned about OpenAI &apos;s breach of an Australian health department website that the artificial intelligence company took too long to reveal."
-      },
-      {
-        "title": "Fears of return to war grow in Ethiopia&apos;s Tigray region",
-        "link": "https://www.npr.org/2026/09/24/nx-s1-5978861/conflict-ethiopia-tigray",
-        "pubDate": "Thu, 24 Sep 2026 00:23:38 -0400",
-        "description": "Fears are growing of a return to war in Ethiopia&apos;s Tigray region, just four years after a devastating conflict ended in a fragile peace deal."
-      },
-      {
-        "title": "Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5979140/hurricane-polo-mexico-nolo-hawaii",
-        "pubDate": "Wed, 23 Sep 2026 23:19:45 -0400",
-        "description": "Southwestern Mexico braced for heavy rain and mudslides after Polo became a major hurricane. Forecasters warned another system headed for Hawaii could cause catastrophic flooding later in the week."
-      },
-      {
-        "title": "Judge considers restoring journalists&apos; access to White House after Trump&apos;s ban",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5979101/federal-judge-hearing-trump-ban-cnn-ms-now-politico",
-        "pubDate": "Wed, 23 Sep 2026 18:40:39 -0400",
-        "description": "Lawyers representing the White House and the three media outlets banned from the property sparred over the constitutional rights of journalists at a hearing in federal court Wednesday."
-      },
-      {
-        "title": "Trump and Xi meet at moment of global consequence",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5978733/trump-xi-meeting-china",
-        "pubDate": "Wed, 23 Sep 2026 14:23:19 -0400",
-        "description": "It is the second time the leaders are meeting this year after the Beijing summit in May."
-      },
-      {
-        "title": "Iran&apos;s president gives a rare wartime speech at the U.N.",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
-        "pubDate": "Wed, 23 Sep 2026 14:14:40 -0400",
-        "description": "Iranian President Masoud Pezeshkian addressed the U.N. General Assembly a day after President Trump threatened from the same podium to &quot;annihilate&quot; Iran."
-      },
-      {
-        "title": "A Catholic media star will be beatified in St. Louis, moving a step closer to sainthood",
-        "link": "https://www.npr.org/2026/09/23/g-s1-144677/a-catholic-media-star-will-be-beatified-in-st-louis-moving-a-step-closer-to-sainthood",
-        "pubDate": "Wed, 23 Sep 2026 14:09:31 -0400",
-        "description": "Bishop Fulton Sheen, who charmed millions of television viewers on his show L&lt;em&gt;ife Is Worth Living,&apos;&lt;/em&gt;will come one step closer to being declared a saint."
-      },
-      {
-        "title": "From cybersecurity to AI to Taiwan, what&apos;s at stake in Trump&apos;s summit with Xi",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
-        "pubDate": "Wed, 23 Sep 2026 12:13:52 -0400",
-        "description": "As President Trump and China&apos;s President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit."
       }
     ],
     "Canada": []
