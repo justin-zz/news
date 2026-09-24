@@ -1,29 +1,47 @@
 {
-  "updated": "2026-09-24T13:40:43.690Z",
+  "updated": "2026-09-24T18:07:28.573Z",
   "world": [
+    {
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 17:49:20 GMT",
+      "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away."
+    },
     {
       "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 07:10:58 GMT",
+      "pubDate": "Thu, 24 Sep 2026 15:42:07 GMT",
       "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June."
+    },
+    {
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 14:08:38 GMT",
+      "description": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech."
     },
     {
       "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
       "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 11:59:23 GMT",
+      "pubDate": "Thu, 24 Sep 2026 16:00:29 GMT",
       "description": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says."
     },
     {
-      "title": "Judge temporarily overturns Trump's White House media ban",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 13:08:29 GMT",
-      "description": "A court has ordered the US government to reinstate access to the building for CNN, Politico and MS NOW."
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 15:37:45 GMT",
+      "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war."
     },
     {
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 09:28:33 GMT",
-      "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes."
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 14:37:34 GMT",
+      "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died."
+    },
+    {
+      "title": "Greek PM urges UK PM to return Elgin Marbles permanently",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 16:36:33 GMT",
+      "description": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\"."
     },
     {
       "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
@@ -32,16 +50,16 @@
       "description": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew."
     },
     {
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 18:15:31 GMT",
-      "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon."
-    },
-    {
       "title": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
       "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 24 Sep 2026 10:11:15 GMT",
       "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York."
+    },
+    {
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 23 Sep 2026 18:15:31 GMT",
+      "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon."
     },
     {
       "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
@@ -72,31 +90,31 @@
       "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 23 Sep 2026 18:51:12 GMT",
       "description": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\"."
-    },
-    {
-      "title": "Poland accuses Russian military helicopter of violating its airspace",
-      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 15:37:20 GMT",
-      "description": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets."
-    },
-    {
-      "title": "Reports of violence against women in Gaza surge, UN agency finds",
-      "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 05:02:26 GMT",
-      "description": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages."
-    },
-    {
-      "title": "Eleven killed in mass shooting at house in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 14:02:55 GMT",
-      "description": "One of those killed is believed to be a pregnant woman, police said."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Trump rolls out red carpet for Xi as high-stakes summit begins",
-        "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-rolls-out-red-carpet-for-xi-as-high-stakes-summit-begins",
+        "title": "RFK Jr.&apos;s ethics filing reveals book deals worth millions of dollars",
+        "link": "https://www.npr.org/2026/09/24/nx-s1-5979867/rfk-ethics-book-deals",
+        "pubDate": "Thu, 24 Sep 2026 13:51:40 -0400",
+        "description": "Health Secretary Robert F. Kennedy Jr.&apos;s annual financial disclosure revealed he has received two lucrative book advances and free flights from a friend while in office."
+      },
+      {
+        "title": "Mortgage rates have just surpassed 7% for the first time in well over a year",
+        "link": "https://www.npr.org/2026/09/24/nx-s1-5977796/mortgage-rates-freddie-mac-homebuying",
+        "pubDate": "Thu, 24 Sep 2026 12:01:44 -0400",
+        "description": "Rates have climbed more than a full percentage point since the U.S. war against Iran started."
+      },
+      {
+        "title": "The economic squeeze is pushing up poverty rates for older adults",
+        "link": "https://www.npr.org/2026/09/24/nx-s1-5979857/senior-adult-poverty-affordability",
+        "pubDate": "Thu, 24 Sep 2026 11:00:00 -0400",
+        "description": "Despite lower poverty overall, the rate for seniors has been steadily rising in recent years. A new AARP survey sheds light on how those over 50 are struggling in the crucial time before retirement."
+      },
+      {
+        "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
+        "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
         "pubDate": "Thu, 24 Sep 2026 08:43:15 -0400",
         "description": "On Thursday, the two leaders will hold meetings where Trump and Xi are expected to talk about artificial intelligence, rare earths, trade and geopolitics such as Iran and Taiwan."
       },
@@ -125,12 +143,6 @@
         "description": "eBay became the latest online retailer to ban the sale of airbags and many of their components. Aftermarket parts can be risky if they turn out to be fake or defective."
       },
       {
-        "title": "States threaten action against company earning millions off disabled vets",
-        "link": "https://www.npr.org/2026/09/24/nx-s1-5978816/va-mortgages-trajector-bankruptcy-investigations",
-        "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
-        "description": "The investigations by attorneys general follow a recent bankruptcy filing in the face of civil lawsuits, falling revenues, and impending debt payments."
-      },
-      {
         "title": "Warren demands Trump officials explain removing a ban on interference in census data",
         "link": "https://www.npr.org/2026/09/24/nx-s1-5979070/department-commerce-census-bureau-elizabeth-warren",
         "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
         "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
         "description": "Stories of science funding being cut, labs shutting down and scientists losing jobs have flooded the media under Trump&apos;s administration. These six graphics show how those changes have affected U."
-      },
-      {
-        "title": "Could the White House try its press ban again? A press freedom expert explains",
-        "link": "https://www.npr.org/2026/09/24/nx-s1-5978805/whats-next-white-house-press-access-fight",
-        "pubDate": "Thu, 24 Sep 2026 04:44:54 -0400",
-        "description": "A federal judge&apos;s ruling restored CNN, MS Now and Politico&apos;s access to the White House. Gabe Rottman says better procedure alone may not resolve the broader First Amendment fight."
-      },
-      {
-        "title": "Judge orders Trump administration to restore journalists&apos; access to White House",
-        "link": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
-        "pubDate": "Thu, 24 Sep 2026 02:21:06 -0400",
-        "description": "A federal judge ordered the Trump administration on Thursday to temporarily restore access to CNN, MS NOW and Politico, after they were banned from covering White House events by President Trump."
       }
     ],
     "Canada": []
