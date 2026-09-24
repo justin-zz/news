@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-24T02:57:14.133Z",
+  "updated": "2026-09-24T08:13:22.052Z",
   "world": [
+    {
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 07:10:58 GMT",
+      "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June."
+    },
     {
       "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
       "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 23 Sep 2026 22:01:17 GMT",
       "description": "The US and China are vying for AI supremacy while seeking to keep it under human control."
-    },
-    {
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 02:23:54 GMT",
-      "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June."
     },
     {
       "title": "Iran's president tells Trump it will never 'bend the knee'",
@@ -22,7 +22,7 @@
     {
       "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
       "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 16:53:37 GMT",
+      "pubDate": "Thu, 24 Sep 2026 04:37:47 GMT",
       "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes."
     },
     {
@@ -86,7 +86,7 @@
       "description": "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy."
     },
     {
-      "title": "Residents eating garden weeds in Russian-occupied city cut off from food and water",
+      "title": "Eating garden weeds to survive in Russian-occupied city cut off from food and water",
       "link": "https://www.bbc.co.uk/news/articles/c60qxywdx4vvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 23 Sep 2026 23:58:50 GMT",
       "description": "The BBC has spoken to residents in the Russian-occupied Ukrainian town of Oleshky who say they are being \"constantly shelled\"."
@@ -94,6 +94,36 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Judge orders Trump administration to restore journalists&apos; access to White House",
+        "link": "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
+        "pubDate": "Thu, 24 Sep 2026 02:21:06 -0400",
+        "description": "A federal judge ordered the Trump administration on Thursday to temporarily restore access to CNN, MS NOW and Politico, after they were banned from covering White House events by President Trump."
+      },
+      {
+        "title": "Venezuela&apos;s acting leader promises elections at the &apos;right moment&apos;",
+        "link": "https://www.npr.org/2026/09/24/g-s1-144837/venezuela-leader-un-general-assembly",
+        "pubDate": "Thu, 24 Sep 2026 01:40:49 -0400",
+        "description": "Venezuela&apos;s acting president, delivering her first address to the U.N. General Assembly since coming to power, promised elections and said the nation&apos;s people will determine the &quot;right "
+      },
+      {
+        "title": "OpenAI&apos;s breach of Australian health department website prompts rebuke",
+        "link": "https://www.npr.org/2026/09/24/g-s1-144835/openai-breach-australia",
+        "pubDate": "Thu, 24 Sep 2026 01:14:11 -0400",
+        "description": "Prime Minister Anthony Albanese said he was extremely concerned about OpenAI &apos;s breach of an Australian health department website that the artificial intelligence company took too long to reveal."
+      },
+      {
+        "title": "Fears of return to war grow in Ethiopia&apos;s Tigray region",
+        "link": "https://www.npr.org/2026/09/24/nx-s1-5978861/conflict-ethiopia-tigray",
+        "pubDate": "Thu, 24 Sep 2026 00:23:38 -0400",
+        "description": "Fears are growing of a return to war in Ethiopia&apos;s Tigray region, just four years after a devastating conflict ended in a fragile peace deal."
+      },
+      {
+        "title": "Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii",
+        "link": "https://www.npr.org/2026/09/23/nx-s1-5979140/hurricane-polo-mexico-nolo-hawaii",
+        "pubDate": "Wed, 23 Sep 2026 23:19:45 -0400",
+        "description": "Southwestern Mexico braced for heavy rain and mudslides after Polo became a major hurricane. Forecasters warned another system headed for Hawaii could cause catastrophic flooding later in the week."
+      },
       {
         "title": "Judge considers restoring journalists&apos; access to White House after Trump&apos;s ban",
         "link": "https://www.npr.org/2026/09/23/nx-s1-5979101/federal-judge-hearing-trump-ban-cnn-ms-now-politico",
@@ -123,36 +153,6 @@
         "link": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
         "pubDate": "Wed, 23 Sep 2026 12:13:52 -0400",
         "description": "As President Trump and China&apos;s President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit."
-      },
-      {
-        "title": "It&apos;s getting harder to afford rent in the U.S., even for middle-income families",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5977022/rent-affordability-middle-income",
-        "pubDate": "Wed, 23 Sep 2026 10:09:10 -0400",
-        "description": "Housing affordability challenges are spreading to higher income brackets, according to new research, which found one in five renters struggled last year to pay for their housing in full and on time."
-      },
-      {
-        "title": "Greetings from Edinburgh, where a cheeky tour guide makes art history hilarious",
-        "link": "https://www.npr.org/2026/09/23/g-s1-142427/uk-coco-art-history-comedy-tour",
-        "pubDate": "Wed, 23 Sep 2026 09:31:47 -0400",
-        "description": "For anyone who grew up staring blankly at museum artwork, this is the fun that was missing: Coco leads interactive and (mostly) factual art history comedy tours."
-      },
-      {
-        "title": "Is Nepal&apos;s flood a harbinger of what&apos;s to come in the Himalayas?",
-        "link": "https://www.npr.org/2026/09/23/g-s1-144536/floods-climate-nepal-himalayas-dams-hydropower",
-        "pubDate": "Wed, 23 Sep 2026 07:48:00 -0400",
-        "description": "Building dams and hydropower plants in the Himalayas holds great promise for providing electricity. In the wake of the Nepal disaster, experts are asking about the risks of such construction."
-      },
-      {
-        "title": "Dems have an edge over GOP, poll finds. And, ICE looks into &apos;mobile detention centers&apos;",
-        "link": "https://www.npr.org/2026/09/23/g-s1-144632/up-first-newsletter-npr-polls-voter-approval-cnn-msnow-politico-trump-unga-speech-ice",
-        "pubDate": "Wed, 23 Sep 2026 07:13:32 -0400",
-        "description": "An NPR poll shows that Democrats have an edge over Republicans going into the midterms, partially due to Trump. And, Immigration and Customs Enforcement is looking into &quot;mobile detention centers."
-      },
-      {
-        "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump&apos;s foreign policy",
-        "link": "https://www.npr.org/2026/09/23/nx-s1-5977753/u-s-ambassador-to-the-u-n-discusses-trumps-address-at-unga",
-        "pubDate": "Wed, 23 Sep 2026 06:48:47 -0400",
-        "description": "Deals, threats and oil are all on the table as the president&apos;s foreign policy takes center stage."
       }
     ],
     "Canada": []
