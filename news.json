@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-25T19:23:57.781Z",
+  "updated": "2026-09-25T22:37:06.006Z",
   "world": [
+    {
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 25 Sep 2026 20:47:49 GMT",
+      "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president."
+    },
     {
       "title": "Special agents' blood and urine test results stolen in FBI hack",
       "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&amp;at_campaign=rss",
@@ -14,16 +20,16 @@
       "description": "The pontiff delivered the warning on the first day of his trip to France on Friday."
     },
     {
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 03:57:09 GMT",
-      "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for."
-    },
-    {
       "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
       "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 25 Sep 2026 19:13:35 GMT",
       "description": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls."
+    },
+    {
+      "title": "Trump's plans for massive arch move ahead",
+      "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 25 Sep 2026 18:27:46 GMT",
+      "description": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\"."
     },
     {
       "title": "Students strike across Germany in protest against military service",
@@ -36,6 +42,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 25 Sep 2026 13:23:33 GMT",
       "description": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet."
+    },
+    {
+      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 25 Sep 2026 03:57:09 GMT",
+      "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for."
     },
     {
       "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
@@ -78,22 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 24 Sep 2026 19:32:59 GMT",
       "description": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\"."
-    },
-    {
-      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 18:36:30 GMT",
-      "description": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets."
-    },
-    {
-      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-      "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 19:02:36 GMT",
-      "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\"."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Supreme Court blocks Trump-backed Missouri congressional map",
+        "link": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
+        "pubDate": "Fri, 25 Sep 2026 18:06:16 -0400",
+        "description": "The ruling is a defeat for Republicans seeking to give their party an edge in the midterm elections for control of the House. It means voters will face a different map than the one used in the primary"
+      },
+      {
+        "title": "The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Niño",
+        "link": "https://www.npr.org/2026/09/25/nx-s1-5980351/hurricane-nolo-pacific-el-nino",
+        "pubDate": "Fri, 25 Sep 2026 16:08:40 -0400",
+        "description": "The Pacific Ocean has had an unusual number of storms this year, while the Atlantic hasn&apos;t recorded a single full-blown hurricane. Scientists point to an exceptionally strong El Niño."
+      },
       {
         "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
         "link": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
         "pubDate": "Fri, 25 Sep 2026 07:00:00 -0400",
         "description": "How does one price a cemetery plot? Are they using dynamic pricing to figure it out? We tackle that question and many more in this week&apos;s Indicator newsletter."
-      },
-      {
-        "title": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
-        "link": "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly",
-        "pubDate": "Fri, 25 Sep 2026 06:25:03 -0400",
-        "description": "Middle East crises draw major focus as the U.N. General Assembly hears from Israel, the Palestinian Authority and Yemen."
-      },
-      {
-        "title": "Fill in the blank in the quiz: Trump&apos;s says his triumphal arch will include _____",
-        "link": "https://www.npr.org/2026/09/25/g-s1-144665/trump-arch-fat-bear-media-ai-news-quiz",
-        "pubDate": "Fri, 25 Sep 2026 05:01:00 -0400",
-        "description": "Plus: It&apos;s a very special week! But which one?"
       }
     ],
     "Canada": []
