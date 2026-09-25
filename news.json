@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-25T15:23:50.647Z",
+  "updated": "2026-09-25T19:23:57.781Z",
   "world": [
+    {
+      "title": "Special agents' blood and urine test results stolen in FBI hack",
+      "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 25 Sep 2026 13:56:16 GMT",
+      "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks."
+    },
     {
       "title": "Pope warns against 'losing humanity' to AI machines",
       "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 25 Sep 2026 15:06:41 GMT",
       "description": "The pontiff delivered the warning on the first day of his trip to France on Friday."
-    },
-    {
-      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-      "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 10:36:55 GMT",
-      "description": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders."
     },
     {
       "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
@@ -20,16 +20,16 @@
       "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for."
     },
     {
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 13:56:16 GMT",
-      "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks."
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 25 Sep 2026 19:13:35 GMT",
+      "description": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls."
     },
     {
-      "title": "Jay-Z rape accuser says her allegation was false",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 10:51:28 GMT",
-      "description": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar."
+      "title": "Students strike across Germany in protest against military service",
+      "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 25 Sep 2026 15:36:22 GMT",
+      "description": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow."
     },
     {
       "title": "Man shot during 2024 Trump campaign rally in Butler dies",
@@ -38,15 +38,21 @@
       "description": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet."
     },
     {
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 11:44:44 GMT",
-      "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\"."
+      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
+      "link": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 25 Sep 2026 15:29:48 GMT",
+      "description": "Seventeen service members were swept out to the Caspian Sea during military exercises."
+    },
+    {
+      "title": "Jay-Z rape accuser says her allegation was false",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 25 Sep 2026 10:51:28 GMT",
+      "description": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar."
     },
     {
       "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
       "link": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 14:44:16 GMT",
+      "pubDate": "Fri, 25 Sep 2026 17:13:55 GMT",
       "description": "During the two-year civil war in Tigray, the region was totally cut off from the outside world."
     },
     {
@@ -56,10 +62,10 @@
       "description": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts."
     },
     {
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 18:06:40 GMT",
-      "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN."
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 25 Sep 2026 11:44:44 GMT",
+      "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\"."
     },
     {
       "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
@@ -74,26 +80,44 @@
       "description": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\"."
     },
     {
-      "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 01:10:35 GMT",
-      "description": "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored."
+      "pubDate": "Fri, 25 Sep 2026 18:36:30 GMT",
+      "description": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets."
     },
     {
       "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
       "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 24 Sep 2026 19:02:36 GMT",
       "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\"."
-    },
-    {
-      "title": "Priest killed and four injured in knife attack at Polish abbey",
-      "link": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 19:18:12 GMT",
-      "description": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+        "link": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
+        "pubDate": "Fri, 25 Sep 2026 15:11:47 -0400",
+        "description": "The visit comes at an important time for both men."
+      },
+      {
+        "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
+        "link": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
+        "pubDate": "Fri, 25 Sep 2026 12:14:24 -0400",
+        "description": "On Thursday, the woman identified as Jane Doe filed a declaration in Manhattan federal court stating that all of her original claims against the rapper were false."
+      },
+      {
+        "title": "There&apos;s a global pandemic treaty that&apos;s signed -- and in &apos;limbo.&apos; What&apos;s the holdup?",
+        "link": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
+        "pubDate": "Fri, 25 Sep 2026 11:57:35 -0400",
+        "description": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn&apos;t it gone into effect?"
+      },
+      {
+        "title": "The Supreme Court revives a controversial data system for citizenship checks",
+        "link": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
+        "pubDate": "Fri, 25 Sep 2026 11:40:57 -0400",
+        "description": "The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections."
+      },
       {
         "title": "Pope Leo warns a &apos;paradise of machines&apos; could undermine humanity on his France visit",
         "link": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
@@ -101,7 +125,7 @@
         "description": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France."
       },
       {
-        "title": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rain",
+        "title": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rains",
         "link": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
         "pubDate": "Fri, 25 Sep 2026 10:46:28 -0400",
         "description": "Nolo will slow down as it nears Hawaii&apos;s Big Island and is expected to become a major hurricane this weekend, bringing torrential rain to areas that have been flooded by big storms this summer."
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/09/25/g-s1-144665/trump-arch-fat-bear-media-ai-news-quiz",
         "pubDate": "Fri, 25 Sep 2026 05:01:00 -0400",
         "description": "Plus: It&apos;s a very special week! But which one?"
-      },
-      {
-        "title": "Mom! Mom! MOM! 3 ways to stay calm in stressful parenting moments",
-        "link": "https://www.npr.org/2026/09/25/nx-s1-5978936/how-to-manage-mom-rage",
-        "pubDate": "Fri, 25 Sep 2026 05:01:00 -0400",
-        "description": "Parenthood can be overwhelming. A therapist and mom of three shares techniques to help calibrate your emotions — so you can show up better for yourself and your family."
-      },
-      {
-        "title": "Americans are confused and worried about elections. Will that impact turnout?",
-        "link": "https://www.npr.org/2026/09/25/nx-s1-5946736/voting-confusion-turnout",
-        "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
-        "description": "New polling shows many voters are concerned about the midterms. But prior elections show no clear link between voter concerns and fewer voters actually casting ballots."
-      },
-      {
-        "title": "Years after storms, clean-up crews meticulously separate the sentimental from the wreckage",
-        "link": "https://www.npr.org/2026/09/25/nx-s1-5844641/hurricane-debris-north-carolina-texas-flood",
-        "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
-        "description": "Across the country, lost-and-found networks seek to reunite objects with disaster survivors. The work can take years. In some cases, it&apos;s impossible to pick up all the pieces."
-      },
-      {
-        "title": "The U.S. Strategic Petroleum Reserve is low. Here&apos;s why you should care",
-        "link": "https://www.npr.org/2026/09/25/nx-s1-5965797/strategic-petroleum-reserve-low-level-venezuela",
-        "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
-        "description": "The U.S. has tapped into its strategic oil reserve to help drive down rising gasoline prices in the wake of the war with Iran. Can oil from Venezuela help fill it back up?"
       }
     ],
     "Canada": []
