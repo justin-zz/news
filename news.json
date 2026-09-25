@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-25T05:10:44.637Z",
+  "updated": "2026-09-25T10:22:34.923Z",
   "world": [
+    {
+      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+      "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 25 Sep 2026 10:05:07 GMT",
+      "description": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders."
+    },
     {
       "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
       "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&amp;at_campaign=rss",
@@ -17,12 +23,12 @@
       "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 25 Sep 2026 01:10:35 GMT",
-      "description": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored."
+      "description": "CNN and MS NOW reporters say they were barred from covering a state dinner after a judge ruled their passes should be restored."
     },
     {
       "title": "Hundreds of thousands expected in Paris for Pope's visit",
       "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 23:17:00 GMT",
+      "pubDate": "Fri, 25 Sep 2026 09:35:37 GMT",
       "description": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people."
     },
     {
@@ -50,22 +56,28 @@
       "description": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\"."
     },
     {
+      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
+      "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 25 Sep 2026 06:48:07 GMT",
+      "description": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port."
+    },
+    {
       "title": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
       "link": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 24 Sep 2026 17:55:44 GMT",
       "description": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says."
     },
     {
-      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 15:37:45 GMT",
-      "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war."
-    },
-    {
       "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
       "link": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 24 Sep 2026 14:37:34 GMT",
       "description": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died."
+    },
+    {
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 15:37:45 GMT",
+      "description": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war."
     },
     {
       "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
@@ -78,81 +90,69 @@
       "link": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 24 Sep 2026 16:36:33 GMT",
       "description": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\"."
-    },
-    {
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 15:42:07 GMT",
-      "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June."
-    },
-    {
-      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 06:47:12 GMT",
-      "description": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Long agenda, short meeting: Trump and Xi meet",
-        "link": "https://www.npr.org/2026/09/24/nx-s1-5973112/long-agenda-short-meeting-trump-and-xi-meet",
-        "pubDate": "Thu, 24 Sep 2026 18:10:00 -0400",
-        "description": "&lt;em&gt;All Things Considered&lt;/em&gt; host Mary Louise Kelly talks with White House correspondent Emily Feng about the Trump/Xi summit."
+        "title": "Fill in the blank in the quiz: Trump&apos;s says his triumphal arch will include _____",
+        "link": "https://www.npr.org/2026/09/25/g-s1-144665/trump-arch-fat-bear-media-ai-news-quiz",
+        "pubDate": "Fri, 25 Sep 2026 05:01:00 -0400",
+        "description": "Plus: It&apos;s a very special week! But which one?"
       },
       {
-        "title": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
-        "link": "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
-        "pubDate": "Thu, 24 Sep 2026 15:46:53 -0400",
-        "description": "The vote on a war powers resolution introduced by Democrats came at a moment when some Republicans have begun to distance themselves from President Trump over the ongoing conflict."
+        "title": "Mom! Mom! MOM! 3 ways to stay calm in stressful parenting moments",
+        "link": "https://www.npr.org/2026/09/25/nx-s1-5978936/how-to-manage-mom-rage",
+        "pubDate": "Fri, 25 Sep 2026 05:01:00 -0400",
+        "description": "Parenthood can be overwhelming. A therapist and mom of three shares techniques to help calibrate your emotions — so you can show up better for yourself and your family."
       },
       {
-        "title": "RFK Jr.&apos;s ethics filing reveals book deals worth millions of dollars",
-        "link": "https://www.npr.org/2026/09/24/nx-s1-5979867/rfk-ethics-book-deals",
-        "pubDate": "Thu, 24 Sep 2026 13:51:40 -0400",
-        "description": "Health Secretary Robert F. Kennedy Jr.&apos;s annual financial disclosure reveals he has received two lucrative book advances and free flights from a friend while in office."
+        "title": "Americans are confused and worried about elections. Will that impact turnout?",
+        "link": "https://www.npr.org/2026/09/25/nx-s1-5946736/voting-confusion-turnout",
+        "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
+        "description": "New polling shows many voters are concerned about the midterms. But prior elections show no clear link between voter concerns and fewer voters actually casting ballots."
       },
       {
-        "title": "Mortgage rates have just surpassed 7% for the first time in well over a year",
-        "link": "https://www.npr.org/2026/09/24/nx-s1-5977796/mortgage-rates-freddie-mac-homebuying",
-        "pubDate": "Thu, 24 Sep 2026 12:01:44 -0400",
-        "description": "Rates have climbed more than a full percentage point since the U.S. war against Iran started."
+        "title": "Years after storms, clean-up crews meticulously separate the sentimental from the wreckage",
+        "link": "https://www.npr.org/2026/09/25/nx-s1-5844641/hurricane-debris-north-carolina-texas-flood",
+        "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
+        "description": "Across the country, lost-and-found networks seek to reunite objects with disaster survivors. The work can take years. In some cases, it&apos;s impossible to pick up all the pieces."
       },
       {
-        "title": "The economic squeeze is pushing up poverty rates for older adults",
-        "link": "https://www.npr.org/2026/09/24/nx-s1-5979857/senior-adult-poverty-affordability",
-        "pubDate": "Thu, 24 Sep 2026 11:00:00 -0400",
-        "description": "Despite lower poverty overall, the rate for seniors has been steadily rising in recent years. A new AARP survey sheds light on how those over 50 are struggling in the crucial time before retirement."
+        "title": "The U.S. Strategic Petroleum Reserve is low. Here&apos;s why you should care",
+        "link": "https://www.npr.org/2026/09/25/nx-s1-5965797/strategic-petroleum-reserve-low-level-venezuela",
+        "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
+        "description": "The U.S. has tapped into its strategic oil reserve to help drive down rising gasoline prices in the wake of the war with Iran. Can oil from Venezuela help fill it back up?"
       },
       {
-        "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
-        "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
-        "pubDate": "Thu, 24 Sep 2026 08:43:15 -0400",
-        "description": "Despite the pageantry and the cordial tone, expectations for any big breakthroughs on issues ranging from AI to Iran to a trade war truce are low."
+        "title": "As election enters its final stretch, some Republicans are distancing from Trump",
+        "link": "https://www.npr.org/2026/09/25/nx-s1-5978096/republicans-trump-midterm-elections",
+        "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
+        "description": "With less than six weeks until Election Day, a growing number of Republicans are breaking from Trump on key issues. It comes as the party is scrambling to hold onto a slim majority in Congress."
       },
       {
-        "title": "Judge restores journalists&apos; White House access. And, Tucker Carlson on his MAGA split",
-        "link": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
-        "pubDate": "Thu, 24 Sep 2026 07:10:14 -0400",
-        "description": "A judge has ordered that the Trump administration restore journalists&apos; access to White House. And, Tucker Carlson sits down with &lt;em&gt;Morning Edition&lt;/em&gt;&apos;s Steve Inskeep for a &l"
+        "title": "American farmers are hurting -- and worried about their futures",
+        "link": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
+        "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
+        "description": "Farmers who grow soybeans, corn, cotton and other crops are facing another year of losses as soaring fuel and fertilizer costs offset higher revenues."
       },
       {
-        "title": "Needy couples got cash and a spending plan. Results were good -- and bad",
-        "link": "https://www.npr.org/2026/09/24/g-s1-144544/cash-transfer-poverty-liberia-partner-violence",
-        "pubDate": "Thu, 24 Sep 2026 06:43:25 -0400",
-        "description": "In Liberia, joint financial planning boosted cash aid&apos;s benefits. It also had an unexpected consequence for some families."
+        "title": "Is Switzerland&apos;s neutrality at a crossroads?",
+        "link": "https://www.npr.org/2026/09/25/nx-s1-5978905/swiss-referendum-neutrality-russia",
+        "pubDate": "Fri, 25 Sep 2026 05:00:00 -0400",
+        "description": "Switzerland is voting on whether to tighten its famous neutrality — a move that could reshape its response to Russia and future conflicts."
       },
       {
-        "title": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
-        "link": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
-        "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
-        "description": "eBay became the latest online retailer to ban the sale of airbags and many of their components. Aftermarket parts can be risky if they turn out to be fake or defective."
+        "title": "Trump&apos;s state dinner for Xi features sea bass and a long list of tech titans",
+        "link": "https://www.npr.org/2026/09/25/g-s1-144973/trump-state-dinner-xi",
+        "pubDate": "Fri, 25 Sep 2026 02:18:59 -0400",
+        "description": "A tech-heavy guest list, the fashion choices of those on it, who sat where and what was on the menu marked the softer — often and glitzier — details of diplomacy as Donald Trump threw a Thursday night"
       },
       {
-        "title": "Warren demands Trump officials explain removing a ban on interference in census data",
-        "link": "https://www.npr.org/2026/09/24/nx-s1-5979070/department-commerce-census-bureau-elizabeth-warren",
-        "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
-        "description": "Democratic Sen. Elizabeth Warren asked Trump officials to explain why the Census Bureau&apos;s parent agency cut a ban on political interference from its scientific integrity policy, as NPR first repo"
+        "title": "Man shot during 2024 Trump campaign rally in Butler, Pennsylvania, has died",
+        "link": "https://www.npr.org/2026/09/25/nx-s1-5980967/man-shot-trump-campaign-rally-dies",
+        "pubDate": "Fri, 25 Sep 2026 02:16:07 -0400",
+        "description": "James Copenhaver, one of three campaign rally attendees shot in 2024 during an assassination attempt on then-candidate Donald Trump, has died in Pittsburgh, his lawyer said Thursday. He was 76."
       }
     ],
     "Canada": []
