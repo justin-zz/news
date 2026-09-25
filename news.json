@@ -1,17 +1,23 @@
 {
-  "updated": "2026-09-24T21:39:31.500Z",
+  "updated": "2026-09-25T00:14:15.270Z",
   "world": [
     {
-      "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
       "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 24 Sep 2026 21:21:47 GMT",
-      "description": "Dozens of delegates walked out in protest as he took the podium, with the Israeli leader labelling them \"moral cowards\"."
+      "pubDate": "Thu, 24 Sep 2026 23:32:51 GMT",
+      "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\"."
     },
     {
       "title": "White House restores access to media outlets banned by Trump after judge's order",
       "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 24 Sep 2026 17:49:20 GMT",
       "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away."
+    },
+    {
+      "title": "Hundreds of thousands expected in Paris for Pope's visit",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 24 Sep 2026 23:17:00 GMT",
+      "description": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people."
     },
     {
       "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 24 Sep 2026 10:11:15 GMT",
       "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York."
-    },
-    {
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 23 Sep 2026 18:15:31 GMT",
-      "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Long agenda, short meeting: Trump and Xi meet",
+        "link": "https://www.npr.org/2026/09/24/nx-s1-5973112/long-agenda-short-meeting-trump-and-xi-meet",
+        "pubDate": "Thu, 24 Sep 2026 18:10:00 -0400",
+        "description": "&lt;em&gt;All Things Considered&lt;/em&gt; host Mary Louise Kelly talks with White House correspondent Emily Feng about the Trump/Xi summit."
+      },
       {
         "title": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
         "link": "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
@@ -122,7 +128,7 @@
         "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
         "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
         "pubDate": "Thu, 24 Sep 2026 08:43:15 -0400",
-        "description": "On Thursday, the two leaders will hold meetings where Trump and Xi are expected to talk about artificial intelligence, rare earths, trade and geopolitics such as Iran and Taiwan."
+        "description": "Despite the pageantry and the cordial tone, expectations for any big breakthroughs on issues ranging from AI to Iran to a trade war truce are low."
       },
       {
         "title": "Judge restores journalists&apos; White House access. And, Tucker Carlson on his MAGA split",
@@ -137,22 +143,16 @@
         "description": "In Liberia, joint financial planning boosted cash aid&apos;s benefits. It also had an unexpected consequence for some families."
       },
       {
-        "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
-        "link": "https://www.npr.org/2026/09/24/nx-s1-5931971/trump-nih-science-funding-disruptions-charts",
+        "title": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
+        "link": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
         "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
-        "description": "Stories of science funding being cut, labs shutting down and scientists losing jobs have flooded the media under Trump&apos;s administration. These six graphics show how those changes have affected U."
+        "description": "eBay became the latest online retailer to ban the sale of airbags and many of their components. Aftermarket parts can be risky if they turn out to be fake or defective."
       },
       {
         "title": "Warren demands Trump officials explain removing a ban on interference in census data",
         "link": "https://www.npr.org/2026/09/24/nx-s1-5979070/department-commerce-census-bureau-elizabeth-warren",
         "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
         "description": "Democratic Sen. Elizabeth Warren asked Trump officials to explain why the Census Bureau&apos;s parent agency cut a ban on political interference from its scientific integrity policy, as NPR first repo"
-      },
-      {
-        "title": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
-        "link": "https://www.npr.org/2026/09/24/nx-s1-5978124/ebay-bans-airbags-faulty-counterfeit-auto-parts",
-        "pubDate": "Thu, 24 Sep 2026 05:00:00 -0400",
-        "description": "eBay became the latest online retailer to ban the sale of airbags and many of their components. Aftermarket parts can be risky if they turn out to be fake or defective."
       }
     ],
     "Canada": []
