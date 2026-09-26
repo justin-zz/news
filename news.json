@@ -1,11 +1,17 @@
 {
-  "updated": "2026-09-26T01:09:03.540Z",
+  "updated": "2026-09-26T06:21:35.861Z",
   "world": [
+    {
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 26 Sep 2026 02:50:56 GMT",
+      "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises."
+    },
     {
       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 23:38:48 GMT",
-      "description": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators."
+      "pubDate": "Sat, 26 Sep 2026 05:03:09 GMT",
+      "description": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators."
     },
     {
       "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
@@ -26,15 +32,15 @@
       "description": "Current and former agents speak to the BBC about the devastating impact of the FBI hack."
     },
     {
-      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 26 Sep 2026 00:09:45 GMT",
-      "description": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said."
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 26 Sep 2026 05:09:09 GMT",
+      "description": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday."
     },
     {
       "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
       "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 21:16:59 GMT",
+      "pubDate": "Sat, 26 Sep 2026 01:24:31 GMT",
       "description": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August."
     },
     {
@@ -84,21 +90,27 @@
       "link": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 25 Sep 2026 15:29:48 GMT",
       "description": "Seventeen service members were swept out to the Caspian Sea during military exercises."
-    },
-    {
-      "title": "Jay-Z rape accuser says her allegation was false",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 10:51:28 GMT",
-      "description": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar."
     }
   ],
   "regions": {
     "US": [
       {
+        "title": "Roads flood in New Jersey, inundate some homes, as first major signs of nor&apos;easter take shape",
+        "link": "https://www.npr.org/2026/09/26/g-s1-145146/roads-flood-in-new-jersey",
+        "pubDate": "Sat, 26 Sep 2026 01:43:38 -0400",
+        "description": "Thousands are without power on the U.S. East Coast, while roads are flooding in some coastal New Jersey communities."
+      },
+      {
+        "title": "CNN left off Air Force One for Trump&apos;s upcoming trip, White House signals in new media restriction",
+        "link": "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one",
+        "pubDate": "Sat, 26 Sep 2026 00:42:17 -0400",
+        "description": "The White House has signaled that CNN will be left off Air Force One for President Donald Trump&apos;s Saturday trip in the latest media restriction in an ongoing dispute with First Amendment implicat"
+      },
+      {
         "title": "Supreme Court blocks Trump-backed Missouri congressional map",
         "link": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
         "pubDate": "Fri, 25 Sep 2026 18:06:16 -0400",
-        "description": "The ruling is a defeat for Republicans seeking to give their party an edge in the midterm elections for control of the House. It means voters will face a different map than the one used in the primary"
+        "description": "The ruling is a defeat for Republicans seeking to give their party an edge in the midterms for control of the House. It means voters will face a different map than the one used in the primaries."
       },
       {
         "title": "The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Niño",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
         "pubDate": "Fri, 25 Sep 2026 10:46:28 -0400",
         "description": "Nolo will slow down as it nears Hawaii&apos;s Big Island and is expected to become a major hurricane this weekend, bringing torrential rain to areas that have been flooded by big storms this summer."
-      },
-      {
-        "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
-        "link": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
-        "pubDate": "Fri, 25 Sep 2026 07:18:52 -0400",
-        "description": "Trump and Xi&apos;s U.S. summit continues after a state dinner Thursday night. And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N. General Assembly."
-      },
-      {
-        "title": "Why this Pokémon set is dropping in value",
-        "link": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
-        "pubDate": "Fri, 25 Sep 2026 07:00:00 -0400",
-        "description": "How does one price a cemetery plot? Are they using dynamic pricing to figure it out? We tackle that question and many more in this week&apos;s Indicator newsletter."
       }
     ],
     "Canada": []
