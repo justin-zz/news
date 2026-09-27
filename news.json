@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T11:18:24.048Z",
+  "updated": "2026-09-27T15:44:07.545Z",
   "world": [
     {
       "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
@@ -8,10 +8,28 @@
       "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments."
     },
     {
-      "title": "Killer Christa Pike is to be executed within days - but her defence say she's a victim too",
+      "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 27 Sep 2026 11:38:03 GMT",
+      "description": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France."
+    },
+    {
+      "title": "Two mass shootings in South Africa leave 27 dead",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 27 Sep 2026 14:09:22 GMT",
+      "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence."
+    },
+    {
+      "title": "Killer Christa Pike is to be executed within days, but her defence say she's a victim too",
       "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 26 Sep 2026 23:04:08 GMT",
       "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today."
+    },
+    {
+      "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 27 Sep 2026 12:36:57 GMT",
+      "description": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak."
     },
     {
       "title": "Four killed in helicopter crash near Montreal",
@@ -20,22 +38,10 @@
       "description": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC."
     },
     {
-      "title": "Two mass shootings in South Africa leave 27 dead",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 27 Sep 2026 10:00:36 GMT",
-      "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence."
-    },
-    {
-      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 26 Sep 2026 19:48:06 GMT",
-      "description": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer."
-    },
-    {
-      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "title": "One dead as nor'easter storm pummels New York and New Jersey",
       "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 27 Sep 2026 04:23:09 GMT",
-      "description": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm."
+      "pubDate": "Sun, 27 Sep 2026 12:34:26 GMT",
+      "description": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system."
     },
     {
       "title": "British national among six dead in building explosion close to Acropolis in Athens",
@@ -84,16 +90,34 @@
       "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 26 Sep 2026 19:16:14 GMT",
       "description": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday."
-    },
-    {
-      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 25 Sep 2026 23:20:48 GMT",
-      "description": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+        "link": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+        "pubDate": "Sun, 27 Sep 2026 09:01:27 -0400",
+        "description": "On Saturday night, there were separate mass shootings near South Africa&apos;s two largest cities."
+      },
+      {
+        "title": "Ohio governor&apos;s race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
+        "link": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+        "pubDate": "Sun, 27 Sep 2026 08:06:23 -0400",
+        "description": "The Ohio governor&apos;s race pits former presidential candidate Vivek Ramaswamy against Democrat Amy Acton, a former state health advisor. Democrats see a chance to win a state that usually votes Rep"
+      },
+      {
+        "title": "Playing &apos;La Bamba&apos; for an hour? Must be a Mexican fandango!",
+        "link": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango",
+        "pubDate": "Sun, 27 Sep 2026 08:00:00 -0400",
+        "description": "A 300-year-old Mexican musical tradition is finding new life around the world — one sweaty, joyous, all-night fandango at a time."
+      },
+      {
+        "title": "Photos: These shepherds climb down a mountain to go to night school",
+        "link": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
+        "pubDate": "Sun, 27 Sep 2026 07:53:42 -0400",
+        "description": "Many thousands of boys and men in Lesotho take up the vital profession of herding but have to give up their education. A small network of schools on a shoestring budget is teaching them the ABCs."
+      },
       {
         "title": "From professor to patient: One man&apos;s journey on the frontier of lung cancer treatment",
         "link": "https://www.npr.org/2026/09/27/nx-s1-5981264/lung-cancer-treatment-mrna-affordability",
@@ -101,13 +125,13 @@
         "description": "Lung cancer is still the top cancer killer, but new developments are shifting what the future might hold for patients."
       },
       {
-        "title": "Multiple arrests on suspicion of explosives offenses near U.K. base used by U.S. forces",
+        "title": "5 arrested near a U.K. air base used by U.S. on suspicion of preparing a terrorist act",
         "link": "https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces",
         "pubDate": "Sun, 27 Sep 2026 06:49:36 -0400",
         "description": "Police evacuated homes Sunday near an air base in England used by the U.S. and arrested several men over suspected explosives offenses."
       },
       {
-        "title": "These Democrats are running for Congress on Christian faith. Will it pay off?",
+        "title": "These Democrats are making Christianity a centerpiece of their midterm campaigns",
         "link": "https://www.npr.org/2026/09/27/nx-s1-5979946/these-democrats-are-running-for-congress-on-christian-faith-will-it-pay-off",
         "pubDate": "Sun, 27 Sep 2026 06:00:00 -0400",
         "description": "It&apos;s rare for Democrats to make religion a centerpiece of their campaigns. But this midterm election cycle, a number of candidates for Congress are doing just that."
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
         "pubDate": "Sat, 26 Sep 2026 13:10:04 -0400",
         "description": "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings."
-      },
-      {
-        "title": "OPINION: Trump&apos;s U.N. speech, a stark contrast with past presidents",
-        "link": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26",
-        "pubDate": "Sat, 26 Sep 2026 08:00:00 -0400",
-        "description": "President Donald Trump mused openly before the United Nations about whether he should annihilate Iran. It&apos;s a stark contrast to how his predecessors have spoken about wielding US military power."
-      },
-      {
-        "title": "Windy weddings and rocky cruises: How East Coasters are braving the nor&apos;easter this weekend",
-        "link": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-east-coast-floods",
-        "pubDate": "Sat, 26 Sep 2026 07:38:00 -0400",
-        "description": "Northeast states saw rising tides and widespread power outages on Saturday as the storm ripped through the region. Forecasters expect significant winds and rain throughout the weekend."
-      },
-      {
-        "title": "Why this island paradise has the world&apos;s fastest-growing HIV epidemic",
-        "link": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
-        "pubDate": "Sat, 26 Sep 2026 07:31:18 -0400",
-        "description": "In mid-September, Fiji&apos;s government declared a national emergency because of a startling rise in HIV infections. The country&apos;s crystal meth epidemic is a strong contributing factor."
-      },
-      {
-        "title": "The AI safety debate is confusing. Here&apos;s our guide to the different factions",
-        "link": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
-        "pubDate": "Sat, 26 Sep 2026 05:00:00 -0400",
-        "description": "The battle over AI&apos;s promise and perils is not a clash between two opposing sides, but a debate among a range of competing voices and ideologies. Here is a guide to who&apos;s who in that debate."
       }
     ],
     "Canada": []
