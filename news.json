@@ -1,11 +1,35 @@
 {
-  "updated": "2026-09-29T01:26:00.940Z",
+  "updated": "2026-09-29T07:15:48.787Z",
   "world": [
     {
       "title": "OpenAI scraps rollout of new model over safety concerns",
       "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 29 Sep 2026 01:18:24 GMT",
-      "description": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards."
+      "pubDate": "Tue, 29 Sep 2026 04:30:13 GMT",
+      "description": "The firm also issued an update on incidents in which its models accessed Australian government systems."
+    },
+    {
+      "title": "Evicted Spanish pensioner can move back home, lawyer says",
+      "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 29 Sep 2026 01:28:57 GMT",
+      "description": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain."
+    },
+    {
+      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 29 Sep 2026 03:50:40 GMT",
+      "description": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped."
+    },
+    {
+      "title": "New York Times executive fatally shot by elderly in-laws, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 29 Sep 2026 04:06:43 GMT",
+      "description": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder."
+    },
+    {
+      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+      "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 29 Sep 2026 04:10:33 GMT",
+      "description": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume."
     },
     {
       "title": "Inside Yemen's front-line city as Houthis battle for control",
@@ -14,28 +38,28 @@
       "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers."
     },
     {
-      "title": "New York Times executive fatally shot allegedly by elderly in-laws",
-      "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 28 Sep 2026 20:50:03 GMT",
-      "description": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder."
-    },
-    {
-      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 28 Sep 2026 14:57:31 GMT",
-      "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret."
-    },
-    {
       "title": "French PM warns against escalation of school protests after 164 arrested",
       "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 28 Sep 2026 21:46:53 GMT",
       "description": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence."
     },
     {
-      "title": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
+      "title": "Tennessee governor declines to halt execution of state's lone woman on death row",
       "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 28 Sep 2026 22:27:33 GMT",
-      "description": "If the execution proceeds, Pike would be the first woman executed in Tennessee in more than 200 years."
+      "pubDate": "Tue, 29 Sep 2026 02:36:46 GMT",
+      "description": "If the execution proceeds, Pike would be the first woman put to death in Tennessee in more than 200 years."
+    },
+    {
+      "title": "Lost songs from iconic Australian rockstar found in garage",
+      "link": "https://www.bbc.co.uk/news/articles/cmrl6ylzy4zxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 29 Sep 2026 01:33:29 GMT",
+      "description": "Divinyls frontwoman Chrissy Amphlett recorded the songs with Split Enz's Tim Finn in 1998."
+    },
+    {
+      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 28 Sep 2026 14:57:31 GMT",
+      "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret."
     },
     {
       "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
@@ -66,34 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 28 Sep 2026 16:13:44 GMT",
       "description": "Rescuers are still looking for 12 Nepalese cook staff who were preparing for climbers to ascend the Himlung Himal peak."
-    },
-    {
-      "title": "Plan for controversial Sydney data centre scrapped after push-back",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 28 Sep 2026 12:47:09 GMT",
-      "description": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\"."
-    },
-    {
-      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-      "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 29 Sep 2026 00:38:23 GMT",
-      "description": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024."
-    },
-    {
-      "title": "Remains of dozens of suspected kidnap victims found in Nigerian forests",
-      "link": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 28 Sep 2026 16:25:00 GMT",
-      "description": "Investigations are ongoing to establish the identities of at least 28 people whose remains were recovered by police."
-    },
-    {
-      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 28 Sep 2026 23:43:48 GMT",
-      "description": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California Sur."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "OpenAI delays latest model over security concerns, as industry faces pressure",
+        "link": "https://www.npr.org/2026/09/29/nx-s1-5984342/openai-delays-latest-model",
+        "pubDate": "Tue, 29 Sep 2026 02:34:43 -0400",
+        "description": "OpenAI&apos;s decision to hold back the model, called GPT-6.1 Astra, comes amid a broader push within the industry to slow the development of increasingly autonomous systems until safety measures catc"
+      },
+      {
+        "title": "Tennessee is set to execute a woman for the first time in 200 years",
+        "link": "https://www.npr.org/2026/09/29/g-s1-145408/tennessee-woman-execution",
+        "pubDate": "Tue, 29 Sep 2026 01:59:18 -0400",
+        "description": "One of the youngest women sent to death row is set to be executed in Tennessee. If carried out as scheduled Wednesday, it would be Tennessee&apos;s first execution of a woman in 200 years."
+      },
+      {
+        "title": "The Senate passes the Protect College Sports Act, but the bill&apos;s future is unclear",
+        "link": "https://www.npr.org/2026/09/28/nx-s1-5977851/protect-college-sports-act-senate-bill-vote",
+        "pubDate": "Mon, 28 Sep 2026 22:16:19 -0400",
+        "description": "The bill&apos;s supporters, which include the NCAA, say it will tame what they call a &quot;Wild West&quot; era of college sports as litigation chips away at long-held rules around eligibility, transf"
+      },
       {
         "title": "Prosecutors are reopening a Cornell fraternity rape case. Here&apos;s what we know",
         "link": "https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates",
@@ -131,28 +149,10 @@
         "description": "President Trump has brought his New York real estate background to the White House. But experts say D.C. is a very different historic and legal landscape — and worry about the precedent he could set."
       },
       {
-        "title": "U.K. examines if Iran or Russia are involved in foiled attack near base used by U.S.",
+        "title": "5 men arrested near a U.S.-run base bailed as UK police probe if there&apos;s an Iran link",
         "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
         "pubDate": "Mon, 28 Sep 2026 06:51:25 -0400",
-        "description": "Five men arrested on terror charges near a U.S.-run air force base were released on bail, as detectives investigate lines of inquiry, including whether a foreign state or armed group was involved."
-      },
-      {
-        "title": "How to limit the rat numbers? Train the humans",
-        "link": "https://www.npr.org/2026/09/28/nx-s1-5980436/rats-dc-new-york-rangers",
-        "pubDate": "Mon, 28 Sep 2026 05:00:00 -0400",
-        "description": "D.C.&apos;s Rat Rangers take anyone who is interested on night time safaris through some of the Capitol&apos;s filthiest back alleys to learn the way of the rats, and to be better humans."
-      },
-      {
-        "title": "Schools are experimenting with AI with little evidence or policy to guide them",
-        "link": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
-        "pubDate": "Mon, 28 Sep 2026 05:00:00 -0400",
-        "description": "Teachers are using AI to develop lesson plans, and in some districts, AI chatbots give students feedback on their work. Meanwhile, the research around how AI can help students is extremely limited."
-      },
-      {
-        "title": "5 tips for parents worried about their kids&apos; screen time and online safety",
-        "link": "https://www.npr.org/2026/09/28/nx-s1-5965849/screens-teens-parents-social-media-safety",
-        "pubDate": "Mon, 28 Sep 2026 05:00:00 -0400",
-        "description": "Parental monitoring can help protect kids from the harms of social media and excess screen time. Screen time boundaries plus early and open conversations about online habits can make kids less vulnera"
+        "description": "Investigators haven&apos;t concluded whether the incident was state-backed. They are investigating a possible link to Iran, Russia or non-state militant groups."
       }
     ],
     "Canada": []
