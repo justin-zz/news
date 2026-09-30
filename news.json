@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-30T15:34:06.119Z",
+  "updated": "2026-09-30T20:29:50.455Z",
   "world": [
+    {
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 17:51:49 GMT",
+      "description": "The captain and first officer were injured, and one pilot has been arrested, officials say."
+    },
+    {
+      "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 17:14:03 GMT",
+      "description": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks."
+    },
+    {
+      "title": "UK-France 'one in, one out' migrant scheme scrapped",
+      "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 17:11:08 GMT",
+      "description": "Some 1,500 people have been removed to France since the scheme began just over a year ago."
+    },
     {
       "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
       "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&amp;at_campaign=rss",
@@ -20,10 +38,10 @@
       "description": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government."
     },
     {
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 29 Sep 2026 23:15:29 GMT",
-      "description": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
+      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 15:04:32 GMT",
+      "description": "The deadly fighting has also spread to neighbouring regions, stranding tourists in Lalibela."
     },
     {
       "title": "Girl has multiple surgeries to control infections after strike in Gaza",
@@ -36,6 +54,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 30 Sep 2026 08:59:38 GMT",
       "description": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\"."
+    },
+    {
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 29 Sep 2026 23:15:29 GMT",
+      "description": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
     },
     {
       "title": "Singapore launches matchmaking service for government workers",
@@ -66,34 +90,34 @@
       "link": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 29 Sep 2026 22:33:13 GMT",
       "description": "Hundreds of riders were allegedly injured on X2, which has seats that spin 360 degrees."
-    },
-    {
-      "title": "'Backpack' declared Alaska's Fat Bear Week winner",
-      "link": "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 05:01:04 GMT",
-      "description": "\"Backpack\" defeated a bear known only as \"910\" in the final round of the annual competition."
-    },
-    {
-      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 05:24:52 GMT",
-      "description": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month."
-    },
-    {
-      "title": "Dozens hurt and hundreds arrested in wave of French school protests",
-      "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 13:18:01 GMT",
-      "description": "Students have been protesting against conditions and resources in secondary schools since last week."
-    },
-    {
-      "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 04:21:11 GMT",
-      "description": "The owner said he chose the name because he wanted to run the \"best Chinese restaurant\" in South Korea."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
+        "pubDate": "Wed, 30 Sep 2026 13:51:42 -0400",
+        "description": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy the moment."
+      },
+      {
+        "title": "Police questioning can shape a sexual assault case. Their approach is often wrong",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5983868/cornell-rape-police-interview-investigation-victim-trauma-informed",
+        "pubDate": "Wed, 30 Sep 2026 13:19:24 -0400",
+        "description": "The Cornell lawsuit filed by a woman alleging a brutal rape raises questions on how police handle such cases. The majority of police lack adequate training on trauma-informed approaches, experts say."
+      },
+      {
+        "title": "Trump officials changed forms for overseas voters amid a GOP push to restrict voting",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5978976/military-voter-registration-overseas-citizens-absentee-voting",
+        "pubDate": "Wed, 30 Sep 2026 12:32:12 -0400",
+        "description": "The Pentagon made last-minute changes to forms that many overseas U.S. citizens use for absentee voting, removing a category of citizens that Republicans have been pushing to block from voting."
+      },
+      {
+        "title": "How Ukrainians are coping with new, more deadly Russian attacks",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
+        "pubDate": "Wed, 30 Sep 2026 11:33:19 -0400",
+        "description": "Zanny Minton Beddoes, &lt;em&gt;The Economist&apos;s &lt;/em&gt;editor in chief&lt;em&gt;, &lt;/em&gt;just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombar"
+      },
       {
         "title": "How Trump keeps undercutting his anti-communist message",
         "link": "https://www.npr.org/2026/09/30/nx-s1-5913363/how-trump-keeps-undercutting-his-anti-communist-message",
@@ -107,10 +131,10 @@
         "description": "After a botched lethal injection in May, dozens of Tennessee medical professionals told the governor that healthcare professionals shouldn&apos;t help with executions, no matter the method."
       },
       {
-        "title": "Israel says a flydubai pilot tried to crash a plane of mostly Israeli passengers",
+        "title": "A pilot stabs another pilot and tries to crash their flight to Tel Aviv, Israel says",
         "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
         "pubDate": "Wed, 30 Sep 2026 09:35:11 -0400",
-        "description": "&quot;As the plane was approaching Israel, one of the pilots stabbed the other pilot and tried to crash the plane with everyone on board,&quot; but a passenger and crew member broke into the cockpit t"
+        "description": "As the plane went into a spin and began to plunge, a passenger and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel&apos;s leader says."
       },
       {
         "title": "FBI hunting the hackers who stole its employees&apos; sensitive data",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/09/30/nx-s1-5978940/traveling-measles-exposure-vaccines-transportation",
         "pubDate": "Wed, 30 Sep 2026 07:00:00 -0400",
         "description": "Measles is traveling, with outbreaks in Pennsylvania, Ohio and New York, and exposures on transportation and in sports. What should you know before getting on a plane or train?"
-      },
-      {
-        "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
-        "pubDate": "Wed, 30 Sep 2026 05:01:00 -0400",
-        "description": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project."
-      },
-      {
-        "title": "The moment you&apos;ve been waiting for: America&apos;s best student podcasts",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5930430/student-podcast-challenge-2026-finalists",
-        "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
-        "description": "We&apos;ve listened to nearly 1,500 podcasts from all around the U.S. and narrowed them down to 10 middle school and 10 high school finalists."
-      },
-      {
-        "title": "What&apos;s behind HHS claims that gender-affirming care &apos;may&apos; radicalize",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
-        "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
-        "description": "The report is the agency&apos;s latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate or even dangero"
-      },
-      {
-        "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
-        "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
-        "description": "Potent sedating medications are often used on agitated people with dementia in long-term care facilities despite federal efforts to discourage them. A clash over whether to drug a Michigan woman illum"
       }
     ],
     "Canada": []
