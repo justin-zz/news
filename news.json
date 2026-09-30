@@ -1,11 +1,17 @@
 {
-  "updated": "2026-09-29T23:23:59.890Z",
+  "updated": "2026-09-30T02:15:23.098Z",
   "world": [
     {
       "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
       "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 29 Sep 2026 16:23:58 GMT",
       "description": "The ban is part of a number of proposals that must be approved in parliament within 30 days."
+    },
+    {
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 29 Sep 2026 23:15:29 GMT",
+      "description": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
     },
     {
       "title": "South Africa to clean up high-risk areas after 12 women killed",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c6grveg7d9zro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 29 Sep 2026 13:08:55 GMT",
       "description": "The defendant could face jail or a fine after the image sparked a search operation in the city’s largest reservoir."
-    },
-    {
-      "title": "Former American Idol contestant and pastor found guilty of murdering wife",
-      "link": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 29 Sep 2026 22:13:36 GMT",
-      "description": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "The federal law aimed at protecting college students from sexual abuse",
+        "link": "https://www.npr.org/2026/09/29/nx-s1-5983779/investigating-sexual-abuse-on-campus",
+        "pubDate": "Tue, 29 Sep 2026 17:29:21 -0400",
+        "description": "The lawsuit by a former Cornell University student, alleging she was raped in 2024 by seven male students, has renewed long-standing concerns about how colleges deal with sexual assault."
+      },
       {
         "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
         "link": "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
         "pubDate": "Tue, 29 Sep 2026 05:00:00 -0400",
         "description": "Turkey&apos;s bid for regional influence comes as the Middle East has been hit by profound shocks that started with the Hamas-led 2023 attack on Israel and continue with the seven-month-old war on Ira"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/09/29/nx-s1-5979951/morning-news-brief",
-        "pubDate": "Tue, 29 Sep 2026 04:47:43 -0400",
-        "description": "Five men arrested on terror charges near U.K. air base released on bail, Trump administration rolls back fuel efficiency standards for new vehicles, prosecutors reopen Cornell fraternity rape case."
       }
     ],
     "Canada": []
