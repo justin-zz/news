@@ -1,23 +1,29 @@
 {
-  "updated": "2026-09-30T08:49:52.046Z",
+  "updated": "2026-09-30T15:34:06.119Z",
   "world": [
+    {
+      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+      "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 15:29:11 GMT",
+      "description": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer."
+    },
+    {
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 14:53:02 GMT",
+      "description": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says."
+    },
+    {
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 11:36:23 GMT",
+      "description": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government."
+    },
     {
       "title": "Chinese AI tool told researchers how to make bioweapons",
       "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 29 Sep 2026 23:15:29 GMT",
       "description": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
-    },
-    {
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 04:01:52 GMT",
-      "description": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
-    },
-    {
-      "title": "Israel-bound flight diverted after fight between pilots",
-      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 07:51:26 GMT",
-      "description": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out."
     },
     {
       "title": "Girl has multiple surgeries to control infections after strike in Gaza",
@@ -26,10 +32,34 @@
       "description": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack."
     },
     {
-      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 05:24:52 GMT",
-      "description": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month."
+      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 08:59:38 GMT",
+      "description": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\"."
+    },
+    {
+      "title": "Singapore launches matchmaking service for government workers",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 09:42:36 GMT",
+      "description": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate."
+    },
+    {
+      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
+      "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 11:25:12 GMT",
+      "description": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030."
+    },
+    {
+      "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
+      "link": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 08:45:45 GMT",
+      "description": "In the emotional letter, the judge describes the survivor as \"the bravest little girl this court has ever seen\"."
+    },
+    {
+      "title": "Botswana condemned for slaughtering 23 elephants for independence celebrations",
+      "link": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 12:06:28 GMT",
+      "description": "The government authorises the hunting of elephants and dozens of other wild animals for independence day feasts."
     },
     {
       "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
@@ -38,121 +68,91 @@
       "description": "Hundreds of riders were allegedly injured on X2, which has seats that spin 360 degrees."
     },
     {
-      "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
-      "link": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 29 Sep 2026 23:39:58 GMT",
-      "description": "The Tennessee inmate has been awaiting execution since she was sentenced to death in 1996 for the murder of a teenage classmate."
-    },
-    {
-      "title": "Africa's richest man to launch Kenya oil refinery despite land protests",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 08:12:43 GMT",
-      "description": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030."
-    },
-    {
-      "title": "More than 400 detained as France student protests escalate",
-      "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 29 Sep 2026 21:55:13 GMT",
-      "description": "Students have been protesting conditions and resources in high schools since last week."
-    },
-    {
-      "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 04:21:11 GMT",
-      "description": "The owner said he chose the name because he wanted to run the \"best Chinese restaurant\" in South Korea."
-    },
-    {
-      "title": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
-      "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 08:40:01 GMT",
-      "description": "The murders of 12 women near Johannesburg has caused a outcry about the scale of violence against women."
-    },
-    {
       "title": "'Backpack' declared Alaska's Fat Bear Week winner",
       "link": "https://www.bbc.co.uk/news/articles/ck8d3vl9mj13o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 30 Sep 2026 05:01:04 GMT",
       "description": "\"Backpack\" defeated a bear known only as \"910\" in the final round of the annual competition."
     },
     {
-      "title": "Somali pirates killed oil tanker crew before rescue, official tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 06:41:35 GMT",
-      "description": "Piracy off the Somali coast has increased in recent years after dropping when international naval operations began in 2011."
+      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+      "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 05:24:52 GMT",
+      "description": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month."
     },
     {
-      "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 29 Sep 2026 16:23:58 GMT",
-      "description": "The ban is part of a number of proposals that must be approved in parliament within 30 days."
+      "title": "Dozens hurt and hundreds arrested in wave of French school protests",
+      "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 13:18:01 GMT",
+      "description": "Students have been protesting against conditions and resources in secondary schools since last week."
     },
     {
-      "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
-      "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 29 Sep 2026 12:39:18 GMT",
-      "description": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers."
+      "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 04:21:11 GMT",
+      "description": "The owner said he chose the name because he wanted to run the \"best Chinese restaurant\" in South Korea."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "An 87-year-old woman whose eviction sparked protests in Spain is returning home",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5985703/woman-eviction-protests-spain",
-        "pubDate": "Wed, 30 Sep 2026 03:07:42 -0400",
-        "description": "María del Carmen Abascal&apos;s case has drawn tens of thousands of people to the streets in recent days and led the Spanish government to present measures to address the country&apos;s housing crisis"
+        "title": "How Trump keeps undercutting his anti-communist message",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5913363/how-trump-keeps-undercutting-his-anti-communist-message",
+        "pubDate": "Wed, 30 Sep 2026 10:58:51 -0400",
+        "description": "The Trump administration has taken government equity stakes in more than three dozen private companies."
       },
       {
-        "title": "Trump says top tech firms have signed accord to &apos;self-police&apos; AI development",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5985699/trump-self-police-ai-development",
-        "pubDate": "Wed, 30 Sep 2026 02:54:43 -0400",
-        "description": "President Trump on Tuesday said that he and a large group of leaders of artificial intelligence companies had signed a voluntary accord that will include internal and external reviews."
+        "title": "After failed execution, health workers say Tennessee&apos;s method flouts medical ethics",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5981250/tennessee-execution-tony-carruthers-christa-pike-medical-ethics-lethal-injection",
+        "pubDate": "Wed, 30 Sep 2026 10:30:03 -0400",
+        "description": "After a botched lethal injection in May, dozens of Tennessee medical professionals told the governor that healthcare professionals shouldn&apos;t help with executions, no matter the method."
       },
       {
-        "title": "Hurricane Polo&apos;s remnants bringing more rain to flood-struck U.S. Southwest",
-        "link": "https://www.npr.org/2026/09/30/g-s1-145590/hurricane-polo-us-southwest",
-        "pubDate": "Wed, 30 Sep 2026 02:16:44 -0400",
-        "description": "The storm&apos;s remnants battered the U.S. Southwest, flooding roadways and forcing residents in small New Mexico towns to evacuate over concerns about a dam failing."
+        "title": "Israel says a flydubai pilot tried to crash a plane of mostly Israeli passengers",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
+        "pubDate": "Wed, 30 Sep 2026 09:35:11 -0400",
+        "description": "&quot;As the plane was approaching Israel, one of the pilots stabbed the other pilot and tried to crash the plane with everyone on board,&quot; but a passenger and crew member broke into the cockpit t"
       },
       {
-        "title": "The federal law aimed at protecting college students from sexual abuse",
-        "link": "https://www.npr.org/2026/09/29/nx-s1-5983779/investigating-sexual-abuse-on-campus",
-        "pubDate": "Tue, 29 Sep 2026 17:29:21 -0400",
-        "description": "The lawsuit by a former Cornell University student, alleging she was raped in 2024 by seven male students, has renewed long-standing concerns about how colleges deal with sexual assault."
+        "title": "FBI hunting the hackers who stole its employees&apos; sensitive data",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
+        "pubDate": "Wed, 30 Sep 2026 08:29:05 -0400",
+        "description": "The FBI says it&apos;s addressing a massive data breach, vowing to go after the hackers it believes are responsible."
       },
       {
-        "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
-        "link": "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
-        "pubDate": "Tue, 29 Sep 2026 15:19:37 -0400",
-        "description": "The Supreme Court allowed the Trump administration to resume deportations of migrants to countries that are not identified in their removal orders. It also plans to hear full arguments on the case."
+        "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+        "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
+        "pubDate": "Wed, 30 Sep 2026 07:13:17 -0400",
+        "description": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations."
       },
       {
-        "title": "Lindsay Clancy&apos;s lawyer now questions whether she killed her 3 children",
-        "link": "https://www.npr.org/2026/09/29/g-s1-145539/lindsay-clancy-trial-hearing-lawyer",
-        "pubDate": "Tue, 29 Sep 2026 14:00:50 -0400",
-        "description": "Lindsay Clancy&apos;s lawyer is arguing that there wasn&apos;t enough evidence to prove she killed her three children. It&apos;s a striking turn after a lengthy trial that focused more on her mental s"
+        "title": "Travel plans? Here&apos;s what to know as measles exposures reach trains and games",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5978940/traveling-measles-exposure-vaccines-transportation",
+        "pubDate": "Wed, 30 Sep 2026 07:00:00 -0400",
+        "description": "Measles is traveling, with outbreaks in Pennsylvania, Ohio and New York, and exposures on transportation and in sports. What should you know before getting on a plane or train?"
       },
       {
-        "title": "Potential Taiwan tension sparked &apos;last minute&apos; change in Trump-Xi National Archives visit",
-        "link": "https://www.npr.org/2026/09/29/nx-s1-5984989/digital-archives-trump-xi",
-        "pubDate": "Tue, 29 Sep 2026 13:17:04 -0400",
-        "description": "The sudden change was precipitated because of Chinese displeasure over one document that the U.S. had planned to show."
+        "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
+        "pubDate": "Wed, 30 Sep 2026 05:01:00 -0400",
+        "description": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project."
       },
       {
-        "title": "This startup wants to prove gene-editing embryos is safe for making healthy babies",
-        "link": "https://www.npr.org/2026/09/29/nx-s1-5950439/embryo-gene-editing-babies-biotech",
-        "pubDate": "Tue, 29 Sep 2026 13:00:08 -0400",
-        "description": "Origin Genomics aims to prove that the potential benefits of its technology for editing disease-causing genes in human embryos outweigh the risks."
+        "title": "The moment you&apos;ve been waiting for: America&apos;s best student podcasts",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5930430/student-podcast-challenge-2026-finalists",
+        "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
+        "description": "We&apos;ve listened to nearly 1,500 podcasts from all around the U.S. and narrowed them down to 10 middle school and 10 high school finalists."
       },
       {
-        "title": "This year&apos;s MacArthur Fellows include researchers who fuse science and justice",
-        "link": "https://www.npr.org/2026/09/29/nx-s1-5983444/this-years-macarthur-fellows-include-researchers-who-fuse-science-and-justice",
-        "pubDate": "Tue, 29 Sep 2026 12:03:34 -0400",
-        "description": "The MacArthur Foundation has just announced its latest batch of 20 fellows. Among the recipients of the $800,000 &quot;no-strings-attached&quot; fellowships are researchers who were recognized for the"
+        "title": "What&apos;s behind HHS claims that gender-affirming care &apos;may&apos; radicalize",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
+        "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
+        "description": "The report is the agency&apos;s latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate or even dangero"
       },
       {
-        "title": "Meet the 20 scholars and artists who&apos;ve just won MacArthur Fellowships",
-        "link": "https://www.npr.org/2026/09/29/nx-s1-5980447/macarthur-genius-grants-2026-fellows",
-        "pubDate": "Tue, 29 Sep 2026 12:01:00 -0400",
-        "description": "A historian who studies wage gaps between races and a saxophonist whose live performances include a chef are among the latest recipients of the philanthropic group&apos;s annual, no-strings-attached $"
+        "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
+        "pubDate": "Wed, 30 Sep 2026 05:00:00 -0400",
+        "description": "Potent sedating medications are often used on agitated people with dementia in long-term care facilities despite federal efforts to discourage them. A clash over whether to drug a Michigan woman illum"
       }
     ],
     "Canada": []
