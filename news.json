@@ -1,35 +1,35 @@
 {
-  "updated": "2026-10-01T19:14:15.317Z",
+  "updated": "2026-10-01T23:19:11.965Z",
   "world": [
     {
       "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
       "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 19:11:16 GMT",
-      "description": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer."
+      "pubDate": "Thu, 01 Oct 2026 22:28:45 GMT",
+      "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution."
     },
     {
       "title": "What happened in the failed execution of Christa Pike - and what next?",
       "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 17:31:06 GMT",
+      "pubDate": "Thu, 01 Oct 2026 22:52:19 GMT",
       "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions."
     },
     {
       "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
       "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 18:48:46 GMT",
+      "pubDate": "Thu, 01 Oct 2026 19:59:24 GMT",
       "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\"."
     },
     {
       "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
       "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 18:09:03 GMT",
-      "description": "Vladimir Putin insists Moscow is \"not threatening anyone\" and merely responding to statements by Western leaders."
+      "pubDate": "Thu, 01 Oct 2026 19:38:30 GMT",
+      "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders."
     },
     {
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 11:37:46 GMT",
-      "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
+      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 20:30:47 GMT",
+      "description": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis."
     },
     {
       "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
@@ -38,10 +38,10 @@
       "description": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion."
     },
     {
-      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 17:32:50 GMT",
-      "description": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis."
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 11:37:46 GMT",
+      "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
     },
     {
       "title": "Japan raises permanent residency fee by 20 times",
@@ -52,7 +52,7 @@
     {
       "title": "Fires break out at French schools as students protest nationwide",
       "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 18:22:29 GMT",
+      "pubDate": "Thu, 01 Oct 2026 19:19:00 GMT",
       "description": "The French government holds a crisis meeting as demonstrations grow and become violent in places."
     },
     {
@@ -95,6 +95,24 @@
   "regions": {
     "US": [
       {
+        "title": "The family of Renee Good files lawsuits over her death during Minneapolis ICE raids",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5986224/renee-good-ice-lawsuit-minneapolis",
+        "pubDate": "Thu, 01 Oct 2026 16:15:07 -0400",
+        "description": "The fatal shooting of Renee Good by a federal immigration agent last January in Minneapolis set off a firestorm of protests around the U.S. Her family is speaking out for the first time."
+      },
+      {
+        "title": "&apos;It&apos;s a nightmare.&apos; Former refugee, professor on Trump&apos;s new Medicaid policy",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee",
+        "pubDate": "Thu, 01 Oct 2026 15:49:45 -0400",
+        "description": "Starting Oct. 1, many immigrants who are here legally lose their Medicaid coverage because of the Republican budget bill passed last year."
+      },
+      {
+        "title": "A new California law bans child marriage. What&apos;s the global outlook on the practice?",
+        "link": "https://www.npr.org/2026/10/01/g-s1-145998/child-marriage-ban-law-california-newsom",
+        "pubDate": "Thu, 01 Oct 2026 15:44:41 -0400",
+        "description": "The governor of California has signed into law a ban on child marriage. What is the status of other efforts to ban the practice? And do bans prove effective?"
+      },
+      {
         "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
         "link": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
         "pubDate": "Thu, 01 Oct 2026 14:41:07 -0400",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
         "pubDate": "Thu, 01 Oct 2026 07:37:10 -0400",
         "description": "What we know so far about the tense moments aboard a Tel Aviv-bound flight. And, the FBI investigates a cyberattack involving sensitive employee data."
-      },
-      {
-        "title": "Picanha, prices and politics: What Brazil&apos;s favorite steak says about the election",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
-        "pubDate": "Thu, 01 Oct 2026 06:00:00 -0400",
-        "description": "President Lula promised Brazilians four years ago they&apos;d be able to afford &lt;em&gt;picanha&lt;/em&gt; again. Now, as he seeks another term, the price of the country&apos;s favorite cut of beef "
-      },
-      {
-        "title": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
-        "link": "https://www.npr.org/2026/10/01/g-s1-145488/en-esta-ciudad-de-pensilvania-los-dos-partidos-politicos-buscan-el-voto-latino",
-        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
-        "description": "Los republicanos lograron avances con los latinos en el último ciclo electoral, pero la economía y la frustración por la política migratoria de Donald Trump han corroído ese apoyo."
-      },
-      {
-        "title": "COMIC: How the census gives your state power (and what Trump wants to change)",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5983684/trump-2030-census-overhaul-changes",
-        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
-        "description": "The census is used to determine how much say your state has in Congress and the Electoral College. President Trump failed to alter it during his first term, but he&apos;s trying again ahead of 2030."
       }
     ],
     "Canada": []
