@@ -1,47 +1,29 @@
 {
-  "updated": "2026-10-01T13:41:48.013Z",
+  "updated": "2026-10-01T19:14:15.317Z",
   "world": [
     {
-      "title": "US death row inmate survives execution attempt after two lethal injections",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 09:59:59 GMT",
-      "description": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital."
+      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 19:11:16 GMT",
+      "description": "Pike had been on death row since she was convicted in 1996 for the murder of Colleen Slemmer."
     },
     {
-      "title": "What happened in failed execution of Christa Pike - and what next?",
+      "title": "What happened in the failed execution of Christa Pike - and what next?",
       "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 12:51:14 GMT",
+      "pubDate": "Thu, 01 Oct 2026 17:31:06 GMT",
       "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions."
     },
     {
-      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 11:26:46 GMT",
-      "description": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says."
+      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 18:48:46 GMT",
+      "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\"."
     },
     {
-      "title": "Flydubai passenger describes hugging his children as plane nosedived during attack",
-      "link": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 13:34:37 GMT",
-      "description": "Adam Polovincik tells the BBC he told his young children \"everything is going to be all right\" as flight plunged more than 17,000ft (5,200m)."
-    },
-    {
-      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 23:10:06 GMT",
-      "description": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing."
-    },
-    {
-      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 00:08:23 GMT",
-      "description": "Scientists say such rapid melting is no longer surprising given the pace of climate change."
-    },
-    {
-      "title": "Japan raises permanent residency fee by 20 times",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 02:57:43 GMT",
-      "description": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population."
+      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 18:09:03 GMT",
+      "description": "Vladimir Putin insists Moscow is \"not threatening anyone\" and merely responding to statements by Western leaders."
     },
     {
       "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
@@ -50,10 +32,28 @@
       "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
     },
     {
-      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 12:38:55 GMT",
-      "description": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups."
+      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+      "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 14:05:55 GMT",
+      "description": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion."
+    },
+    {
+      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 17:32:50 GMT",
+      "description": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis."
+    },
+    {
+      "title": "Japan raises permanent residency fee by 20 times",
+      "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 02:57:43 GMT",
+      "description": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population."
+    },
+    {
+      "title": "Fires break out at French schools as students protest nationwide",
+      "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 18:22:29 GMT",
+      "description": "The French government holds a crisis meeting as demonstrations grow and become violent in places."
     },
     {
       "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
@@ -62,38 +62,74 @@
       "description": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper."
     },
     {
+      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
+      "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 16:31:35 GMT",
+      "description": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer."
+    },
+    {
       "title": "K-pop star convicted of violating military service law",
       "link": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 01 Oct 2026 05:24:10 GMT",
       "description": "The member of K-pop band Winner was given a suspended prison sentence for repeated absences from his national service work."
     },
     {
-      "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
-      "link": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 13:13:33 GMT",
-      "description": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts."
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 00:08:23 GMT",
+      "description": "Scientists say such rapid melting is no longer surprising given the pace of climate change."
+    },
+    {
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 15:05:36 GMT",
+      "description": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups."
     },
     {
       "title": "Cornell case highlights 'draining' maze for victims to report campus sex assaults",
       "link": "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 01 Oct 2026 11:40:35 GMT",
       "description": "Victims often have to navigate both university and local law enforcement processes to find justice."
-    },
-    {
-      "title": "Tiny image sparks big backlash in Nikon photo contest",
-      "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 23:10:19 GMT",
-      "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest."
-    },
-    {
-      "title": "California bans child marriage, a practice still legal in 32 US states",
-      "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 00:57:04 GMT",
-      "description": "Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\"."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
+        "pubDate": "Thu, 01 Oct 2026 14:41:07 -0400",
+        "description": "The fridge-size satellite with AI chips on board is part of Project Suncatcher, the company&apos;s moonshot effort to put AI data centers in space and harness solar energy."
+      },
+      {
+        "title": "A judge permanently dismisses former Olympian&apos;s Reflecting Pool charges",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5987947/reflecting-pool-vandalism-hearn-charges-dismissed",
+        "pubDate": "Thu, 01 Oct 2026 14:22:59 -0400",
+        "description": "Citing &quot;exceptional circumstances,&quot; a D.C. judge has ruled that the federal government cannot refile its Reflecting Pool charges against David Hearn, despite pressure from President Trump to"
+      },
+      {
+        "title": "AI data centers: How much are ratepayers on the hook for?",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress",
+        "pubDate": "Thu, 01 Oct 2026 12:47:53 -0400",
+        "description": "Data centers consume large amounts of power and require upgrading infrastructure. But it&apos;s difficult to determine how much residential customers benefit and how much they actually pay for the ben"
+      },
+      {
+        "title": "Cornell Jane Doe&apos;s attorney says she told police in 2024: &apos;I was raped&apos;",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5987703/cornell-fraternity-rape-case-updates",
+        "pubDate": "Thu, 01 Oct 2026 12:43:26 -0400",
+        "description": "Counter to what a local prosecutor has claimed, the alleged victim of a 2024 gang rape at Cornell University clearly said in her police statement that she was sexually assaulted, her attorney told NPR"
+      },
+      {
+        "title": "New space station crew launches from Florida on SpaceX&apos;s Crew Dragon capsule",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
+        "pubDate": "Thu, 01 Oct 2026 11:21:33 -0400",
+        "description": "The crew of four — two NASA astronauts, one from Canada, and a Russian cosmonaut — heads to the International Space Station after liftoff from the Cape Canaveral Space Force Station in Florida."
+      },
+      {
+        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
+        "pubDate": "Thu, 01 Oct 2026 10:13:38 -0400",
+        "description": "In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity. The most famous one, George Major, died in August. A look back on this larger-than-life figure and the Pearly King t"
+      },
       {
         "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
         "link": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
@@ -104,7 +140,7 @@
         "title": "Picanha, prices and politics: What Brazil&apos;s favorite steak says about the election",
         "link": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
         "pubDate": "Thu, 01 Oct 2026 06:00:00 -0400",
-        "description": "Lula promised Brazilians four years ago they&apos;d be able to afford picanha again. Now, as he seeks another term, the price of the country&apos;s favorite cut of beef is telling a different story."
+        "description": "President Lula promised Brazilians four years ago they&apos;d be able to afford &lt;em&gt;picanha&lt;/em&gt; again. Now, as he seeks another term, the price of the country&apos;s favorite cut of beef "
       },
       {
         "title": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
@@ -113,46 +149,10 @@
         "description": "Los republicanos lograron avances con los latinos en el último ciclo electoral, pero la economía y la frustración por la política migratoria de Donald Trump han corroído ese apoyo."
       },
       {
-        "title": "Trump administration reverses stance on integration of people with disabilities",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5981375/integration-mandate-disabilities-reversed-trump",
-        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
-        "description": "Disability rights advocates are angered by the latest reversal but are rallying behind proposed legislation and working with states to strengthen protections for community integration."
-      },
-      {
         "title": "COMIC: How the census gives your state power (and what Trump wants to change)",
         "link": "https://www.npr.org/2026/10/01/nx-s1-5983684/trump-2030-census-overhaul-changes",
         "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
         "description": "The census is used to determine how much say your state has in Congress and the Electoral College. President Trump failed to alter it during his first term, but he&apos;s trying again ahead of 2030."
-      },
-      {
-        "title": "Trade tensions mean fewer Canadians flocking to South Florida",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5971507/trade-tensions-fewer-canadians-south-florida",
-        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
-        "description": "This South Florida community is typically a refuge for Canadians fleeing cold weather, but trade tensions between the United States and Canada mean fewer are coming."
-      },
-      {
-        "title": "Studying this super El Niño could save lives. NOAA is scaling back research",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5976905/super-el-nino-research-noaa-floods",
-        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
-        "description": "A powerful El Niño is already influencing extreme weather around the planet. During the last strong El Niño, federal agencies ramped up research in the hope of improving weather forecasts. This year, "
-      },
-      {
-        "title": "Egg prices have tumbled since Trump returned to office. Here&apos;s why",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5978076/egg-prices-trump-affordability",
-        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
-        "description": "Agriculture experts say high egg prices were the result of severe avian flu outbreaks, but the Trump administration&apos;s tariffs and the war with Iran have also put pressure on farmers."
-      },
-      {
-        "title": "SNAP&apos;s funding model is starting to change. Here&apos;s what that means for the program",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5985222/snap-benefits-program-october-change-funding",
-        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
-        "description": "States will start to pay a larger share of the bill to run the food assistance program, as federal funding for operational costs shrinks."
-      },
-      {
-        "title": "Do AI and air traffic control mix? CEO addresses anxiety about new FAA tool",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5973243/ai-faa-air-traffic-control-software",
-        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
-        "description": "The FAA&apos;s ambitious overhaul of the air traffic control system comes amid rising public anxiety about AI. The CEO of the company that&apos;s building the software explains how it works."
       }
     ],
     "Canada": []
