@@ -1,11 +1,23 @@
 {
-  "updated": "2026-09-30T20:29:50.455Z",
+  "updated": "2026-10-01T00:08:05.398Z",
   "world": [
     {
       "title": "What we know about stabbing on Flydubai flight to Israel",
       "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 17:51:49 GMT",
-      "description": "The captain and first officer were injured, and one pilot has been arrested, officials say."
+      "pubDate": "Wed, 30 Sep 2026 21:36:31 GMT",
+      "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say."
+    },
+    {
+      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 23:10:06 GMT",
+      "description": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing."
+    },
+    {
+      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 23:55:17 GMT",
+      "description": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution."
     },
     {
       "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
@@ -14,16 +26,22 @@
       "description": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks."
     },
     {
+      "title": "Tiny image sparks big backlash in Nikon photo contest",
+      "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 23:10:19 GMT",
+      "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest."
+    },
+    {
       "title": "UK-France 'one in, one out' migrant scheme scrapped",
       "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 30 Sep 2026 17:11:08 GMT",
       "description": "Some 1,500 people have been removed to France since the scheme began just over a year ago."
     },
     {
-      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-      "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 15:29:11 GMT",
-      "description": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer."
+      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 30 Sep 2026 22:01:16 GMT",
+      "description": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain."
     },
     {
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
@@ -72,28 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 30 Sep 2026 11:25:12 GMT",
       "description": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030."
-    },
-    {
-      "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
-      "link": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 08:45:45 GMT",
-      "description": "In the emotional letter, the judge describes the survivor as \"the bravest little girl this court has ever seen\"."
-    },
-    {
-      "title": "Botswana condemned for slaughtering 23 elephants for independence celebrations",
-      "link": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 12:06:28 GMT",
-      "description": "The government authorises the hunting of elephants and dozens of other wild animals for independence day feasts."
-    },
-    {
-      "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
-      "link": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 29 Sep 2026 22:33:13 GMT",
-      "description": "Hundreds of riders were allegedly injured on X2, which has seats that spin 360 degrees."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Swiss glaciers suffer another year of record ice loss",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
+        "pubDate": "Wed, 30 Sep 2026 19:00:00 -0400",
+        "description": "Switzerland&apos;s glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe."
+      },
+      {
+        "title": "Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military",
+        "link": "https://www.npr.org/2026/09/30/nx-s1-5986304/hegseth-troops-address",
+        "pubDate": "Wed, 30 Sep 2026 17:51:20 -0400",
+        "description": "Secretary of Defense Pete Hegseth told hundreds of junior military officers and enlisted leaders on Wednesday that the Trump administration has achieved a cultural shift in the military."
+      },
       {
         "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
         "link": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
@@ -131,28 +143,16 @@
         "description": "After a botched lethal injection in May, dozens of Tennessee medical professionals told the governor that healthcare professionals shouldn&apos;t help with executions, no matter the method."
       },
       {
-        "title": "A pilot stabs another pilot and tries to crash their flight to Tel Aviv, Israel says",
+        "title": "On flight to Israel, pilot is stabbed, plane plunges before passengers tackle attacker",
         "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
         "pubDate": "Wed, 30 Sep 2026 09:35:11 -0400",
-        "description": "As the plane went into a spin and began to plunge, a passenger and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel&apos;s leader says."
+        "description": "As the plane went into a spin and began to plunge, passengers and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel&apos;s leader says."
       },
       {
         "title": "FBI hunting the hackers who stole its employees&apos; sensitive data",
         "link": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
         "pubDate": "Wed, 30 Sep 2026 08:29:05 -0400",
         "description": "The FBI says it&apos;s addressing a massive data breach, vowing to go after the hackers it believes are responsible."
-      },
-      {
-        "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
-        "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
-        "pubDate": "Wed, 30 Sep 2026 07:13:17 -0400",
-        "description": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations."
-      },
-      {
-        "title": "Travel plans? Here&apos;s what to know as measles exposures reach trains and games",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5978940/traveling-measles-exposure-vaccines-transportation",
-        "pubDate": "Wed, 30 Sep 2026 07:00:00 -0400",
-        "description": "Measles is traveling, with outbreaks in Pennsylvania, Ohio and New York, and exposures on transportation and in sports. What should you know before getting on a plane or train?"
       }
     ],
     "Canada": []
