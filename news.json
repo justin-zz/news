@@ -1,10 +1,22 @@
 {
-  "updated": "2026-10-01T00:08:05.398Z",
+  "updated": "2026-10-01T06:18:44.915Z",
   "world": [
+    {
+      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 05:34:41 GMT",
+      "description": "Her lawyer says Pike is being \"provided life-saving measures\" after two syringes of pentobarbital."
+    },
+    {
+      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 03:43:06 GMT",
+      "description": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says."
+    },
     {
       "title": "What we know about stabbing on Flydubai flight to Israel",
       "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 21:36:31 GMT",
+      "pubDate": "Thu, 01 Oct 2026 02:31:24 GMT",
       "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say."
     },
     {
@@ -14,10 +26,10 @@
       "description": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing."
     },
     {
-      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 23:55:17 GMT",
-      "description": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution."
+      "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 00:08:23 GMT",
+      "description": "Scientists say such rapid melting is no longer surprising given the pace of climate change."
     },
     {
       "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
@@ -32,10 +44,10 @@
       "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest."
     },
     {
-      "title": "UK-France 'one in, one out' migrant scheme scrapped",
-      "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 17:11:08 GMT",
-      "description": "Some 1,500 people have been removed to France since the scheme began just over a year ago."
+      "title": "California bans child marriage, a practice still legal in 32 US states",
+      "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 00:57:04 GMT",
+      "description": "Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\"."
     },
     {
       "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
@@ -78,22 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 29 Sep 2026 23:15:29 GMT",
       "description": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
-    },
-    {
-      "title": "Singapore launches matchmaking service for government workers",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 09:42:36 GMT",
-      "description": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate."
-    },
-    {
-      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 11:25:12 GMT",
-      "description": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5986822/tennessee-governor-halts-executions",
+        "pubDate": "Thu, 01 Oct 2026 01:43:24 -0400",
+        "description": "Tennessee officials were unable to put Christa Gail Pike to death Wednesday for a 1995 murder after administering two doses of a lethal drug. Tennessee Gov. Bill Lee halted the remaining execution for"
+      },
       {
         "title": "Swiss glaciers suffer another year of record ice loss",
         "link": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
         "pubDate": "Wed, 30 Sep 2026 09:35:11 -0400",
         "description": "As the plane went into a spin and began to plunge, passengers and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel&apos;s leader says."
-      },
-      {
-        "title": "FBI hunting the hackers who stole its employees&apos; sensitive data",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
-        "pubDate": "Wed, 30 Sep 2026 08:29:05 -0400",
-        "description": "The FBI says it&apos;s addressing a massive data breach, vowing to go after the hackers it believes are responsible."
       }
     ],
     "Canada": []
