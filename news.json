@@ -1,26 +1,32 @@
 {
-  "updated": "2026-10-01T06:18:44.915Z",
+  "updated": "2026-10-01T13:41:48.013Z",
   "world": [
     {
-      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+      "title": "US death row inmate survives execution attempt after two lethal injections",
       "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 05:34:41 GMT",
-      "description": "Her lawyer says Pike is being \"provided life-saving measures\" after two syringes of pentobarbital."
+      "pubDate": "Thu, 01 Oct 2026 09:59:59 GMT",
+      "description": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital."
     },
     {
-      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+      "title": "What happened in failed execution of Christa Pike - and what next?",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 12:51:14 GMT",
+      "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions."
+    },
+    {
+      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 03:43:06 GMT",
-      "description": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says."
+      "pubDate": "Thu, 01 Oct 2026 11:26:46 GMT",
+      "description": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says."
     },
     {
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 02:31:24 GMT",
-      "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say."
+      "title": "Flydubai passenger describes hugging his children as plane nosedived during attack",
+      "link": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 13:34:37 GMT",
+      "description": "Adam Polovincik tells the BBC he told his young children \"everything is going to be all right\" as flight plunged more than 17,000ft (5,200m)."
     },
     {
-      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 30 Sep 2026 23:10:06 GMT",
       "description": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing."
@@ -32,10 +38,46 @@
       "description": "Scientists say such rapid melting is no longer surprising given the pace of climate change."
     },
     {
-      "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 17:14:03 GMT",
-      "description": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks."
+      "title": "Japan raises permanent residency fee by 20 times",
+      "link": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 02:57:43 GMT",
+      "description": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population."
+    },
+    {
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 11:37:46 GMT",
+      "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
+    },
+    {
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 12:38:55 GMT",
+      "description": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups."
+    },
+    {
+      "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
+      "link": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 12:13:28 GMT",
+      "description": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper."
+    },
+    {
+      "title": "K-pop star convicted of violating military service law",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5d52d3lk5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 05:24:10 GMT",
+      "description": "The member of K-pop band Winner was given a suspended prison sentence for repeated absences from his national service work."
+    },
+    {
+      "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
+      "link": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 13:13:33 GMT",
+      "description": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts."
+    },
+    {
+      "title": "Cornell case highlights 'draining' maze for victims to report campus sex assaults",
+      "link": "https://www.bbc.co.uk/news/articles/crpd0wdnlgxno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 11:40:35 GMT",
+      "description": "Victims often have to navigate both university and local law enforcement processes to find justice."
     },
     {
       "title": "Tiny image sparks big backlash in Nikon photo contest",
@@ -48,111 +90,69 @@
       "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 01 Oct 2026 00:57:04 GMT",
       "description": "Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\"."
-    },
-    {
-      "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
-      "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 22:01:16 GMT",
-      "description": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain."
-    },
-    {
-      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 14:53:02 GMT",
-      "description": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says."
-    },
-    {
-      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-      "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 11:36:23 GMT",
-      "description": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government."
-    },
-    {
-      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 15:04:32 GMT",
-      "description": "The deadly fighting has also spread to neighbouring regions, stranding tourists in Lalibela."
-    },
-    {
-      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-      "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 05:02:50 GMT",
-      "description": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack."
-    },
-    {
-      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 30 Sep 2026 08:59:38 GMT",
-      "description": "Lowe and his wife Kim Painter announce the death of their daughter, who \"was the light of our lives\"."
-    },
-    {
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 29 Sep 2026 23:15:29 GMT",
-      "description": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Tennessee governor halts executions after Christa Gail Pike survives lethal injection",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5986822/tennessee-governor-halts-executions",
-        "pubDate": "Thu, 01 Oct 2026 01:43:24 -0400",
-        "description": "Tennessee officials were unable to put Christa Gail Pike to death Wednesday for a 1995 murder after administering two doses of a lethal drug. Tennessee Gov. Bill Lee halted the remaining execution for"
+        "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
+        "link": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
+        "pubDate": "Thu, 01 Oct 2026 07:37:10 -0400",
+        "description": "What we know so far about the tense moments aboard a Tel Aviv-bound flight. And, the FBI investigates a cyberattack involving sensitive employee data."
       },
       {
-        "title": "Swiss glaciers suffer another year of record ice loss",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
-        "pubDate": "Wed, 30 Sep 2026 19:00:00 -0400",
-        "description": "Switzerland&apos;s glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe."
+        "title": "Picanha, prices and politics: What Brazil&apos;s favorite steak says about the election",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
+        "pubDate": "Thu, 01 Oct 2026 06:00:00 -0400",
+        "description": "Lula promised Brazilians four years ago they&apos;d be able to afford picanha again. Now, as he seeks another term, the price of the country&apos;s favorite cut of beef is telling a different story."
       },
       {
-        "title": "Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5986304/hegseth-troops-address",
-        "pubDate": "Wed, 30 Sep 2026 17:51:20 -0400",
-        "description": "Secretary of Defense Pete Hegseth told hundreds of junior military officers and enlisted leaders on Wednesday that the Trump administration has achieved a cultural shift in the military."
+        "title": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
+        "link": "https://www.npr.org/2026/10/01/g-s1-145488/en-esta-ciudad-de-pensilvania-los-dos-partidos-politicos-buscan-el-voto-latino",
+        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
+        "description": "Los republicanos lograron avances con los latinos en el último ciclo electoral, pero la economía y la frustración por la política migratoria de Donald Trump han corroído ese apoyo."
       },
       {
-        "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
-        "pubDate": "Wed, 30 Sep 2026 13:51:42 -0400",
-        "description": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy the moment."
+        "title": "Trump administration reverses stance on integration of people with disabilities",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5981375/integration-mandate-disabilities-reversed-trump",
+        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
+        "description": "Disability rights advocates are angered by the latest reversal but are rallying behind proposed legislation and working with states to strengthen protections for community integration."
       },
       {
-        "title": "Police questioning can shape a sexual assault case. Their approach is often wrong",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5983868/cornell-rape-police-interview-investigation-victim-trauma-informed",
-        "pubDate": "Wed, 30 Sep 2026 13:19:24 -0400",
-        "description": "The Cornell lawsuit filed by a woman alleging a brutal rape raises questions on how police handle such cases. The majority of police lack adequate training on trauma-informed approaches, experts say."
+        "title": "COMIC: How the census gives your state power (and what Trump wants to change)",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5983684/trump-2030-census-overhaul-changes",
+        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
+        "description": "The census is used to determine how much say your state has in Congress and the Electoral College. President Trump failed to alter it during his first term, but he&apos;s trying again ahead of 2030."
       },
       {
-        "title": "Trump officials changed forms for overseas voters amid a GOP push to restrict voting",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5978976/military-voter-registration-overseas-citizens-absentee-voting",
-        "pubDate": "Wed, 30 Sep 2026 12:32:12 -0400",
-        "description": "The Pentagon made last-minute changes to forms that many overseas U.S. citizens use for absentee voting, removing a category of citizens that Republicans have been pushing to block from voting."
+        "title": "Trade tensions mean fewer Canadians flocking to South Florida",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5971507/trade-tensions-fewer-canadians-south-florida",
+        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
+        "description": "This South Florida community is typically a refuge for Canadians fleeing cold weather, but trade tensions between the United States and Canada mean fewer are coming."
       },
       {
-        "title": "How Ukrainians are coping with new, more deadly Russian attacks",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
-        "pubDate": "Wed, 30 Sep 2026 11:33:19 -0400",
-        "description": "Zanny Minton Beddoes, &lt;em&gt;The Economist&apos;s &lt;/em&gt;editor in chief&lt;em&gt;, &lt;/em&gt;just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombar"
+        "title": "Studying this super El Niño could save lives. NOAA is scaling back research",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5976905/super-el-nino-research-noaa-floods",
+        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
+        "description": "A powerful El Niño is already influencing extreme weather around the planet. During the last strong El Niño, federal agencies ramped up research in the hope of improving weather forecasts. This year, "
       },
       {
-        "title": "How Trump keeps undercutting his anti-communist message",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5913363/how-trump-keeps-undercutting-his-anti-communist-message",
-        "pubDate": "Wed, 30 Sep 2026 10:58:51 -0400",
-        "description": "The Trump administration has taken government equity stakes in more than three dozen private companies."
+        "title": "Egg prices have tumbled since Trump returned to office. Here&apos;s why",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5978076/egg-prices-trump-affordability",
+        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
+        "description": "Agriculture experts say high egg prices were the result of severe avian flu outbreaks, but the Trump administration&apos;s tariffs and the war with Iran have also put pressure on farmers."
       },
       {
-        "title": "After failed execution, health workers say Tennessee&apos;s method flouts medical ethics",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5981250/tennessee-execution-tony-carruthers-christa-pike-medical-ethics-lethal-injection",
-        "pubDate": "Wed, 30 Sep 2026 10:30:03 -0400",
-        "description": "After a botched lethal injection in May, dozens of Tennessee medical professionals told the governor that healthcare professionals shouldn&apos;t help with executions, no matter the method."
+        "title": "SNAP&apos;s funding model is starting to change. Here&apos;s what that means for the program",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5985222/snap-benefits-program-october-change-funding",
+        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
+        "description": "States will start to pay a larger share of the bill to run the food assistance program, as federal funding for operational costs shrinks."
       },
       {
-        "title": "On flight to Israel, pilot is stabbed, plane plunges before passengers tackle attacker",
-        "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
-        "pubDate": "Wed, 30 Sep 2026 09:35:11 -0400",
-        "description": "As the plane went into a spin and began to plunge, passengers and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel&apos;s leader says."
+        "title": "Do AI and air traffic control mix? CEO addresses anxiety about new FAA tool",
+        "link": "https://www.npr.org/2026/10/01/nx-s1-5973243/ai-faa-air-traffic-control-software",
+        "pubDate": "Thu, 01 Oct 2026 05:00:00 -0400",
+        "description": "The FAA&apos;s ambitious overhaul of the air traffic control system comes amid rising public anxiety about AI. The CEO of the company that&apos;s building the software explains how it works."
       }
     ],
     "Canada": []
