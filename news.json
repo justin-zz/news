@@ -1,29 +1,23 @@
 {
-  "updated": "2026-10-02T08:47:39.819Z",
+  "updated": "2026-10-02T15:18:34.044Z",
   "world": [
     {
       "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
       "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 08:33:38 GMT",
-      "description": "Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi."
+      "pubDate": "Fri, 02 Oct 2026 09:08:06 GMT",
+      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack."
     },
     {
-      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 08:16:32 GMT",
-      "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
+      "title": "Cornell students gather to voice anger over alleged gang rape",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 10:00:24 GMT",
+      "description": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced."
     },
     {
-      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 22:28:45 GMT",
-      "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution."
-    },
-    {
-      "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-      "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 02:49:44 GMT",
-      "description": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James."
+      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+      "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 14:01:09 GMT",
+      "description": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived."
     },
     {
       "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
@@ -52,7 +46,7 @@
     {
       "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
       "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 08:01:10 GMT",
+      "pubDate": "Fri, 02 Oct 2026 10:04:56 GMT",
       "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region."
     },
     {
@@ -60,12 +54,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 02 Oct 2026 04:21:31 GMT",
       "description": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator."
-    },
-    {
-      "title": "Fires break out at French schools as students protest nationwide",
-      "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 19:19:00 GMT",
-      "description": "The French government holds a crisis meeting as demonstrations grow and become violent in places."
     },
     {
       "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
@@ -90,69 +78,81 @@
       "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 01 Oct 2026 20:30:47 GMT",
       "description": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis."
+    },
+    {
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 15:05:36 GMT",
+      "description": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups."
+    },
+    {
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 01 Oct 2026 11:37:46 GMT",
+      "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "The family of Renee Good files lawsuits over her death during Minneapolis ICE raids",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5986224/renee-good-ice-lawsuit-minneapolis",
-        "pubDate": "Thu, 01 Oct 2026 16:15:07 -0400",
-        "description": "The fatal shooting of Renee Good by a federal immigration agent last January in Minneapolis set off a firestorm of protests around the U.S. Her family is speaking out for the first time."
+        "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in &apos;NAZA&apos;",
+        "link": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
+        "pubDate": "Fri, 02 Oct 2026 10:37:27 -0400",
+        "description": "NAZA is an acronym for &lt;em&gt;nezek agavi&lt;/em&gt;, Hebrew for &quot;collateral damage.&quot; It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary"
       },
       {
-        "title": "&apos;It&apos;s a nightmare.&apos; Former refugee, professor on Trump&apos;s new Medicaid policy",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5987948/trump-medicaid-health-insurance-disability-refugee",
-        "pubDate": "Thu, 01 Oct 2026 15:49:45 -0400",
-        "description": "Starting Oct. 1, many immigrants who are here legally lose their Medicaid coverage because of the Republican budget bill passed last year."
+        "title": "The U.S. added only 29,000 jobs in September as job market lacks spark",
+        "link": "https://www.npr.org/2026/10/02/nx-s1-5989140/jobs-labor-wages-federal-reserve",
+        "pubDate": "Fri, 02 Oct 2026 09:54:18 -0400",
+        "description": "U.S. employers added 29,000 jobs in September as the unemployment rate inched up to 4.2%. Job gains for July and August were revised down by a total of 60,000 jobs, extending a lackluster run for the "
       },
       {
-        "title": "A new California law bans child marriage. What&apos;s the global outlook on the practice?",
-        "link": "https://www.npr.org/2026/10/01/g-s1-145998/child-marriage-ban-law-california-newsom",
-        "pubDate": "Thu, 01 Oct 2026 15:44:41 -0400",
-        "description": "The governor of California has signed into law a ban on child marriage. What is the status of other efforts to ban the practice? And do bans prove effective?"
+        "title": "Cornell rape case gets special prosecutor. And, Renee Good&apos;s family sues the government",
+        "link": "https://www.npr.org/2026/10/02/g-s1-146075/up-first-newsletter-cornell-assault-case-christa-pike-jobs-report-renee-good",
+        "pubDate": "Fri, 02 Oct 2026 07:22:38 -0400",
+        "description": "New legal action in two closely watched cases: one at Cornell, the other over Renee Good&apos;s death. We take a closer look."
       },
       {
-        "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
-        "pubDate": "Thu, 01 Oct 2026 14:41:07 -0400",
-        "description": "The fridge-size satellite with AI chips on board is part of Project Suncatcher, the company&apos;s moonshot effort to put AI data centers in space and harness solar energy."
+        "title": "Why is diesel more expensive than regular gas?",
+        "link": "https://www.npr.org/sections/planet-money/2026/10/02/nx-s1-5988075/why-is-diesel-more-expensive-than-regular-gas",
+        "pubDate": "Fri, 02 Oct 2026 07:00:00 -0400",
+        "description": "Diesel hasn&apos;t always been more expensive than other gasoline. Then in 2004, a switch happened due to air quality standards, demand, and taxes. In this week&apos;s Indicator newsletter, we dig int"
       },
       {
-        "title": "A judge permanently dismisses former Olympian&apos;s Reflecting Pool charges",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5987947/reflecting-pool-vandalism-hearn-charges-dismissed",
-        "pubDate": "Thu, 01 Oct 2026 14:22:59 -0400",
-        "description": "Citing &quot;exceptional circumstances,&quot; a D.C. judge has ruled that the federal government cannot refile its Reflecting Pool charges against David Hearn, despite pressure from President Trump to"
+        "title": "San Francisco&apos;s car crime has plunged. How much credit does Flock deserve?",
+        "link": "https://www.npr.org/sections/planet-money/2026/10/02/g-s1-146060/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve",
+        "pubDate": "Fri, 02 Oct 2026 06:30:00 -0400",
+        "description": "San Francisco leaders say AI-powered cameras helped drive a dramatic decline in car crime. We examine the evidence — and whether the city can keep its high-tech dragnet without sacrificing civil liber"
       },
       {
-        "title": "AI data centers: How much are ratepayers on the hook for?",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress",
-        "pubDate": "Thu, 01 Oct 2026 12:47:53 -0400",
-        "description": "Data centers consume large amounts of power and require upgrading infrastructure. But it&apos;s difficult to determine how much residential customers benefit and how much they actually pay for the ben"
+        "title": "Failed &apos;torturous&apos; execution attempt on Christa Pike reignites death penalty debate",
+        "link": "https://www.npr.org/2026/10/02/nx-s1-5988832/christa-pike-reignites-death-penalty-debate",
+        "pubDate": "Fri, 02 Oct 2026 06:25:03 -0400",
+        "description": "The botched execution in Tennessee of Christa Pike, who survived despite being subject to two doses of lethal injection on Wednesday, has reignited furious debate about the death penalty in the U.S."
       },
       {
-        "title": "New York Attorney General Letitia James made special prosecutor in Cornell rape investigation",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5987703/cornell-fraternity-rape-case-updates",
-        "pubDate": "Thu, 01 Oct 2026 12:43:26 -0400",
-        "description": "Counter to what a local prosecutor has claimed, the alleged victim of a 2024 gang rape at Cornell University clearly said in her police statement that she was sexually assaulted, her attorney told NPR"
+        "title": "Who uttered the phrase &apos;the ideological clowns are out&apos; this week? The quiz knows",
+        "link": "https://www.npr.org/2026/10/02/g-s1-145638/trump-hegseth-panda-ai-beyonce-news-quiz",
+        "pubDate": "Fri, 02 Oct 2026 05:01:00 -0400",
+        "description": "Plus, how well do you know your pandas and fat bears?"
       },
       {
-        "title": "New space station crew launches from Florida on SpaceX&apos;s Crew Dragon capsule",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
-        "pubDate": "Thu, 01 Oct 2026 11:21:33 -0400",
-        "description": "The crew of four — two NASA astronauts, one from Canada, and a Russian cosmonaut — heads to the International Space Station after liftoff from the Cape Canaveral Space Force Station in Florida."
+        "title": "The U.S. Senate is up for grabs. Can this Ohio Democrat win back working class votes?",
+        "link": "https://www.npr.org/2026/10/02/nx-s1-5981096/ohio-senate-sherrod-brown-labor-workers",
+        "pubDate": "Fri, 02 Oct 2026 05:00:00 -0400",
+        "description": "After 32 years in Congress, Ohio&apos;s Sherrod Brown lost his Senate seat in 2024 as many working class voters turned out for Trump. Now Brown is counting on union voters to send him back to Washingt"
       },
       {
-        "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
-        "link": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
-        "pubDate": "Thu, 01 Oct 2026 10:13:38 -0400",
-        "description": "In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity. The most famous one, George Major, died in August. A look back on this larger-than-life figure and the Pearly King t"
+        "title": "Pro-democracy activists increasingly vulnerable to authoritarian governments in Southeast Asia",
+        "link": "https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments",
+        "pubDate": "Fri, 02 Oct 2026 05:00:00 -0400",
+        "description": "Activists across Asia are being hunted down by authoritarian governments even across international borders. Human rights groups have been warning of a &quot;swap market&quot; of repression in Southeas"
       },
       {
-        "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
-        "link": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
-        "pubDate": "Thu, 01 Oct 2026 07:37:10 -0400",
-        "description": "What we know so far about the tense moments aboard a Tel Aviv-bound flight. And, the FBI investigates a cyberattack involving sensitive employee data."
+        "title": "After bankruptcy, he was banned from sports betting sites. Then he discovered Kalshi",
+        "link": "https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction",
+        "pubDate": "Fri, 02 Oct 2026 05:00:00 -0400",
+        "description": "The dark side of the prediction market boom is becoming more clear: Experts say the sites have become go-to outlets for gambling addicts to relapse as the companies avoid state consumer protections."
       }
     ],
     "Canada": []
