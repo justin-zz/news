@@ -1,11 +1,23 @@
 {
-  "updated": "2026-10-02T20:03:27.806Z",
+  "updated": "2026-10-02T23:55:25.453Z",
   "world": [
+    {
+      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 20:25:19 GMT",
+      "description": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
+    },
     {
       "title": "Riot police clash with students as education protests rage in France",
       "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 17:43:10 GMT",
-      "description": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue."
+      "pubDate": "Fri, 02 Oct 2026 21:13:27 GMT",
+      "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue."
+    },
+    {
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 20:32:07 GMT",
+      "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee."
     },
     {
       "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
@@ -14,16 +26,16 @@
       "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024."
     },
     {
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 09:08:06 GMT",
-      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack."
-    },
-    {
       "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
       "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 02 Oct 2026 15:26:37 GMT",
       "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure."
+    },
+    {
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 09:08:06 GMT",
+      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack."
     },
     {
       "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
@@ -32,10 +44,10 @@
       "description": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies."
     },
     {
-      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
-      "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 14:01:09 GMT",
-      "description": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived."
+      "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+      "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 21:00:41 GMT",
+      "description": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend."
     },
     {
       "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
@@ -78,22 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 01 Oct 2026 19:38:30 GMT",
       "description": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders."
-    },
-    {
-      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 14:05:55 GMT",
-      "description": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion."
-    },
-    {
-      "title": "Algeria introduces death penalty for arsonists after deadly wildfires",
-      "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 16:31:35 GMT",
-      "description": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "As Trump&apos;s proposed arch looms over D.C., protesters pin their hopes on the midterms",
+        "link": "https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms",
+        "pubDate": "Fri, 02 Oct 2026 17:44:07 -0400",
+        "description": "Democratic lawmakers, veterans and concerned citizens gathered in Memorial Circle to protest the arch Trump wants to build there. Their hopes lie primarily in a lawsuit and next month&apos;s midterms."
+      },
       {
         "title": "Germany&apos;s political center fights for relevance after far-right and far-left gains",
         "link": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/02/nx-s1-5988832/christa-pike-reignites-death-penalty-debate",
         "pubDate": "Fri, 02 Oct 2026 06:25:03 -0400",
         "description": "The botched execution in Tennessee of Christa Pike, who survived despite being subject to two doses of lethal injection on Wednesday, has reignited furious debate about the death penalty in the U.S."
-      },
-      {
-        "title": "Who uttered the phrase &apos;the ideological clowns are out&apos; this week? The quiz knows",
-        "link": "https://www.npr.org/2026/10/02/g-s1-145638/trump-hegseth-panda-ai-beyonce-news-quiz",
-        "pubDate": "Fri, 02 Oct 2026 05:01:00 -0400",
-        "description": "Plus, how well do you know your pandas and fat bears?"
       }
     ],
     "Canada": []
