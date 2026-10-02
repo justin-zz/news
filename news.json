@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-02T15:18:34.044Z",
+  "updated": "2026-10-02T20:03:27.806Z",
   "world": [
+    {
+      "title": "Riot police clash with students as education protests rage in France",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 17:43:10 GMT",
+      "description": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue."
+    },
+    {
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 17:44:08 GMT",
+      "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024."
+    },
     {
       "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
       "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&amp;at_campaign=rss",
@@ -8,10 +20,16 @@
       "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack."
     },
     {
-      "title": "Cornell students gather to voice anger over alleged gang rape",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 10:00:24 GMT",
-      "description": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced."
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 15:26:37 GMT",
+      "description": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure."
+    },
+    {
+      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+      "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 15:30:12 GMT",
+      "description": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies."
     },
     {
       "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
@@ -46,7 +64,7 @@
     {
       "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
       "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 10:04:56 GMT",
+      "pubDate": "Fri, 02 Oct 2026 16:08:25 GMT",
       "description": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region."
     },
     {
@@ -72,28 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 01 Oct 2026 16:31:35 GMT",
       "description": "It is estimated more than 200 people have died in blazes in the north-east of the country over the summer."
-    },
-    {
-      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 20:30:47 GMT",
-      "description": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis."
-    },
-    {
-      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 15:05:36 GMT",
-      "description": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups."
-    },
-    {
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 01 Oct 2026 11:37:46 GMT",
-      "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Germany&apos;s political center fights for relevance after far-right and far-left gains",
+        "link": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
+        "pubDate": "Fri, 02 Oct 2026 15:22:57 -0400",
+        "description": "Centrist politicians are soul-searching after electoral gains by the far right and the far left. Today&apos;s weak coalitions, political fragmentation and dire economy echo a past that led to the rise"
+      },
+      {
+        "title": "Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters",
+        "link": "https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters",
+        "pubDate": "Fri, 02 Oct 2026 14:43:30 -0400",
+        "description": "The lawsuit says the prominent conservative podcaster falsely claimed the protesters were assaulting ICE officers during demonstrations at an ICE facility in Illinois last year."
+      },
+      {
+        "title": "October 1 ushered in a new era in U.S. foreign aid. What&apos;s the plan? Will it work?",
+        "link": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
+        "pubDate": "Fri, 02 Oct 2026 14:16:07 -0400",
+        "description": "The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It&apos;s been praised for promoting self-reliance but criticized for its condition"
+      },
       {
         "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in &apos;NAZA&apos;",
         "link": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/10/02/g-s1-145638/trump-hegseth-panda-ai-beyonce-news-quiz",
         "pubDate": "Fri, 02 Oct 2026 05:01:00 -0400",
         "description": "Plus, how well do you know your pandas and fat bears?"
-      },
-      {
-        "title": "The U.S. Senate is up for grabs. Can this Ohio Democrat win back working class votes?",
-        "link": "https://www.npr.org/2026/10/02/nx-s1-5981096/ohio-senate-sherrod-brown-labor-workers",
-        "pubDate": "Fri, 02 Oct 2026 05:00:00 -0400",
-        "description": "After 32 years in Congress, Ohio&apos;s Sherrod Brown lost his Senate seat in 2024 as many working class voters turned out for Trump. Now Brown is counting on union voters to send him back to Washingt"
-      },
-      {
-        "title": "Pro-democracy activists increasingly vulnerable to authoritarian governments in Southeast Asia",
-        "link": "https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments",
-        "pubDate": "Fri, 02 Oct 2026 05:00:00 -0400",
-        "description": "Activists across Asia are being hunted down by authoritarian governments even across international borders. Human rights groups have been warning of a &quot;swap market&quot; of repression in Southeas"
-      },
-      {
-        "title": "After bankruptcy, he was banned from sports betting sites. Then he discovered Kalshi",
-        "link": "https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction",
-        "pubDate": "Fri, 02 Oct 2026 05:00:00 -0400",
-        "description": "The dark side of the prediction market boom is becoming more clear: Experts say the sites have become go-to outlets for gambling addicts to relapse as the companies avoid state consumer protections."
       }
     ],
     "Canada": []
