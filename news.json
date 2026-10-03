@@ -1,17 +1,23 @@
 {
-  "updated": "2026-10-03T09:37:44.394Z",
+  "updated": "2026-10-03T14:32:04.967Z",
   "world": [
     {
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
       "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 03 Oct 2026 09:23:31 GMT",
-      "description": "The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker."
+      "pubDate": "Sat, 03 Oct 2026 14:27:33 GMT",
+      "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets."
     },
     {
-      "title": "Russia strikes second major bridge in Kyiv, mayor says",
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 03 Oct 2026 07:25:09 GMT",
-      "description": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days."
+      "pubDate": "Sat, 03 Oct 2026 12:59:10 GMT",
+      "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital."
+    },
+    {
+      "title": "Protesters across Spain demand action over housing crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 03 Oct 2026 13:34:11 GMT",
+      "description": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament."
     },
     {
       "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
@@ -20,22 +26,16 @@
       "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports."
     },
     {
-      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 20:32:07 GMT",
-      "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee."
-    },
-    {
-      "title": "Riot police clash with students as education protests rage in France",
-      "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 21:13:27 GMT",
-      "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue."
-    },
-    {
       "title": "Women given shorts at Oktoberfest to prevent upskirting",
       "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 02 Oct 2026 23:16:03 GMT",
       "description": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media."
+    },
+    {
+      "title": "Why has Brazil accused the US of election interference?",
+      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 03 Oct 2026 13:52:13 GMT",
+      "description": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington."
     },
     {
       "title": "Kim wins Asian Games gold to secure military exemption",
@@ -44,10 +44,22 @@
       "description": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military."
     },
     {
-      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-      "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 15:30:12 GMT",
-      "description": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies."
+      "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 20:32:07 GMT",
+      "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee."
+    },
+    {
+      "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
+      "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 03 Oct 2026 10:58:51 GMT",
+      "description": "The 25-year-old man was arrested in the London borough of Westminster on Thursday."
+    },
+    {
+      "title": "Riot police clash with students as education protests rage in France",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 21:13:27 GMT",
+      "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue."
     },
     {
       "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
@@ -62,43 +74,55 @@
       "description": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\"."
     },
     {
-      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 03:09:13 GMT",
-      "description": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\"."
-    },
-    {
       "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
       "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 02 Oct 2026 21:00:41 GMT",
       "description": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend."
     },
     {
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 03:09:13 GMT",
+      "description": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\"."
+    },
+    {
       "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
       "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 02 Oct 2026 05:53:51 GMT",
       "description": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates."
-    },
-    {
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 09:08:06 GMT",
-      "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack."
-    },
-    {
-      "title": "OpenAI fires workers for 'mishandling sensitive information'",
-      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 08:20:32 GMT",
-      "description": "The former employees were investigated for sharing data with an outside AI evaluation group."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "No one expected an American pope. Here&apos;s the inside story of how &apos;Bob&apos; became Pope Leo",
-        "link": "https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt",
+        "title": "Opinion: A Hawk is not the same as a Hawkeye",
+        "link": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
+        "pubDate": "Sat, 03 Oct 2026 08:00:00 -0400",
+        "description": "This was emphasized to people watching a Senate hearing this week, where confusion over two basketball teams was on display."
+      },
+      {
+        "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
+        "link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
+        "pubDate": "Sat, 03 Oct 2026 07:47:09 -0400",
+        "description": "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR&apos;s Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan.&lt;br&gt;"
+      },
+      {
+        "title": "All&apos;s fair in love and &apos;War&apos; — a well-cast, classy-trashy divorce drama",
+        "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
+        "pubDate": "Sat, 03 Oct 2026 07:00:00 -0400",
+        "description": "HBO&apos;s&lt;strong&gt; &lt;/strong&gt;&lt;em&gt;War&lt;/em&gt; is intended to be an anthology series about two dueling London law firms. The first season stars Dominic West and Sienna Miller as a hi"
+      },
+      {
+        "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
+        "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
+        "pubDate": "Sat, 03 Oct 2026 07:00:00 -0400",
+        "description": "Beloved for its dinosaurs, Philadelphia&apos;s storied Academy of Natural Sciences closed down this week, amid an intense fight by local residents, politicians and scientists to save it."
+      },
+      {
+        "title": "The Supreme Court faces another term jam-packed with controversy",
+        "link": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
         "pubDate": "Sat, 03 Oct 2026 05:00:00 -0400",
-        "description": "When the 2025 conclave began, no one expected an American pope. But by its end, Cardinal Robert Prevost had become Pope Leo. Here&apos;s a look behind the scenes."
+        "description": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping."
       },
       {
         "title": "A hot tip to battle performance anxiety? &apos;Pretend flush&apos; a mistake down the toilet",
@@ -113,10 +137,10 @@
         "description": "Former foster youth with disabilities tell their stories — of how they got through foster care"
       },
       {
-        "title": "The Supreme Court faces another term jam-packed with controversy",
-        "link": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
+        "title": "No one expected an American pope. Here&apos;s the inside story of how &apos;Bob&apos; became Pope Leo",
+        "link": "https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt",
         "pubDate": "Sat, 03 Oct 2026 05:00:00 -0400",
-        "description": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping."
+        "description": "When the 2025 conclave began, no one expected an American pope. But by its end, Cardinal Robert Prevost had become Pope Leo. Here&apos;s a look behind the scenes."
       },
       {
         "title": "Brazil&apos;s big political rematch: What to know",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms",
         "pubDate": "Fri, 02 Oct 2026 17:44:07 -0400",
         "description": "Democratic lawmakers, veterans and concerned citizens gathered in Memorial Circle to protest the arch Trump wants to build there. Their hopes lie primarily in a lawsuit and next month&apos;s midterms."
-      },
-      {
-        "title": "Germany&apos;s political center fights for relevance after far-right and far-left gains",
-        "link": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
-        "pubDate": "Fri, 02 Oct 2026 15:22:57 -0400",
-        "description": "Centrist politicians are soul-searching after electoral gains by the far right and the far left. Today&apos;s weak coalitions, political fragmentation and dire economy echo a past that led to the rise"
-      },
-      {
-        "title": "Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters",
-        "link": "https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters",
-        "pubDate": "Fri, 02 Oct 2026 14:43:30 -0400",
-        "description": "The lawsuit says the prominent conservative podcaster falsely claimed the protesters were assaulting ICE officers during demonstrations at an ICE facility in Illinois last year."
-      },
-      {
-        "title": "October 1 ushered in a new era in U.S. foreign aid. What&apos;s the plan? Will it work?",
-        "link": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
-        "pubDate": "Fri, 02 Oct 2026 14:16:07 -0400",
-        "description": "The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It&apos;s been praised for promoting self-reliance but criticized for its condition"
-      },
-      {
-        "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in &apos;NAZA&apos;",
-        "link": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
-        "pubDate": "Fri, 02 Oct 2026 10:37:27 -0400",
-        "description": "NAZA is an acronym for &lt;em&gt;nezek agavi&lt;/em&gt;, Hebrew for &quot;collateral damage.&quot; It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary"
       }
     ],
     "Canada": []
