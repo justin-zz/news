@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T17:15:39.853Z",
+  "updated": "2026-10-04T20:18:58.503Z",
   "world": [
     {
       "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
@@ -50,9 +50,9 @@
       "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel."
     },
     {
-      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
       "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 04 Oct 2026 11:03:20 GMT",
+      "pubDate": "Sun, 04 Oct 2026 20:14:49 GMT",
       "description": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival."
     },
     {
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+        "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+        "pubDate": "Sun, 04 Oct 2026 14:36:48 -0400",
+        "description": "Trump said Clayton will lead the White House&apos;s new &quot;Super Intelligence Force,&quot; which will coordinate government engagement with artificial intelligence."
+      },
       {
         "title": "Cornell president calls gang rape allegations &apos;deeply disturbing&apos;",
         "link": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
         "pubDate": "Sat, 03 Oct 2026 07:47:09 -0400",
         "description": "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR&apos;s Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan.&lt;br&gt;"
-      },
-      {
-        "title": "All&apos;s fair in love and &apos;War&apos; — a well-cast, classy-trashy divorce drama",
-        "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
-        "pubDate": "Sat, 03 Oct 2026 07:00:00 -0400",
-        "description": "HBO&apos;s&lt;strong&gt; &lt;/strong&gt;&lt;em&gt;War&lt;/em&gt; is intended to be an anthology series about two dueling London law firms. The first season stars Dominic West and Sienna Miller as a hi"
       }
     ],
     "Canada": []
