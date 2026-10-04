@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-03T21:57:16.372Z",
+  "updated": "2026-10-04T00:23:06.382Z",
   "world": [
     {
       "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
       "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 03 Oct 2026 17:48:42 GMT",
       "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections."
+    },
+    {
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 04 Oct 2026 00:11:25 GMT",
+      "description": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\"."
     },
     {
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
@@ -38,12 +44,6 @@
       "description": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data."
     },
     {
-      "title": "Women given shorts at Oktoberfest to prevent upskirting",
-      "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 02 Oct 2026 23:16:03 GMT",
-      "description": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media."
-    },
-    {
       "title": "Why has Brazil accused the US of election interference?",
       "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 03 Oct 2026 13:52:13 GMT",
@@ -60,12 +60,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 02 Oct 2026 21:13:27 GMT",
       "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue."
-    },
-    {
-      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 03 Oct 2026 02:23:07 GMT",
-      "description": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity."
     },
     {
       "title": "Kim wins Asian Games gold to secure military exemption",
@@ -86,6 +80,12 @@
       "description": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend."
     },
     {
+      "title": "Women given shorts at Oktoberfest to prevent upskirting",
+      "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 02 Oct 2026 23:16:03 GMT",
+      "description": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media."
+    },
+    {
       "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
       "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 02 Oct 2026 23:06:00 GMT",
@@ -94,6 +94,18 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Coast Guard searching for missing medical plane carrying 6 people",
+        "link": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
+        "pubDate": "Sat, 03 Oct 2026 18:31:04 -0400",
+        "description": "Flight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing."
+      },
+      {
+        "title": "Can the Cornell lawsuit force changes that make students safer?",
+        "link": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
+        "pubDate": "Sat, 03 Oct 2026 17:57:34 -0400",
+        "description": "Universities have responsibilities when students report sexual assault, even if prosecutors don&apos;t bring charges. Attorney Baine Kerr explains how those protections work."
+      },
       {
         "title": "Opinion: A Hawk is not the same as a Hawkeye",
         "link": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
@@ -107,16 +119,16 @@
         "description": "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR&apos;s Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan.&lt;br&gt;"
       },
       {
-        "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-        "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
-        "pubDate": "Sat, 03 Oct 2026 07:00:00 -0400",
-        "description": "Beloved for its dinosaurs, Philadelphia&apos;s storied Academy of Natural Sciences closed down this week, amid an intense fight by local residents, politicians and scientists to save it."
-      },
-      {
         "title": "All&apos;s fair in love and &apos;War&apos; — a well-cast, classy-trashy divorce drama",
         "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
         "pubDate": "Sat, 03 Oct 2026 07:00:00 -0400",
         "description": "HBO&apos;s&lt;strong&gt; &lt;/strong&gt;&lt;em&gt;War&lt;/em&gt; is intended to be an anthology series about two dueling London law firms. The first season stars Dominic West and Sienna Miller as a hi"
+      },
+      {
+        "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
+        "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
+        "pubDate": "Sat, 03 Oct 2026 07:00:00 -0400",
+        "description": "Beloved for its dinosaurs, Philadelphia&apos;s storied Academy of Natural Sciences closed down this week, amid an intense fight by local residents, politicians and scientists to save it."
       },
       {
         "title": "The Supreme Court faces another term jam-packed with controversy",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/10/03/nx-s1-5939829/foster-care-youth-disabilities-failure-voices",
         "pubDate": "Sat, 03 Oct 2026 05:00:00 -0400",
         "description": "Former foster youth with disabilities tell their stories — of how they got through foster care"
-      },
-      {
-        "title": "Brazil&apos;s big political rematch: What to know about the Brazilian election",
-        "link": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
-        "pubDate": "Fri, 02 Oct 2026 22:57:07 -0400",
-        "description": "Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro&apos;s son, Flávio, in a high-stakes rematch."
-      },
-      {
-        "title": "As Trump&apos;s proposed arch looms over D.C., protesters pin their hopes on the midterms",
-        "link": "https://www.npr.org/2026/10/02/nx-s1-5985789/trump-arch-protest-veterans-midterms",
-        "pubDate": "Fri, 02 Oct 2026 17:44:07 -0400",
-        "description": "Democratic lawmakers, veterans and concerned citizens gathered in Memorial Circle to protest the arch Trump wants to build there. Their hopes lie primarily in a lawsuit and next month&apos;s midterms."
       }
     ],
     "Canada": []
