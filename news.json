@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T20:18:58.503Z",
+  "updated": "2026-10-04T23:25:39.920Z",
   "world": [
     {
       "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
@@ -20,6 +20,12 @@
       "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition."
     },
     {
+      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 04 Oct 2026 23:20:03 GMT",
+      "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October."
+    },
+    {
       "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
       "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 04 Oct 2026 13:33:05 GMT",
@@ -32,16 +38,16 @@
       "description": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body."
     },
     {
+      "title": "Indian police accused of sexually harassing journalists at protest",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 04 Oct 2026 17:01:19 GMT",
+      "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls."
+    },
+    {
       "title": "US Marine arrested over murder of woman in Okinawa, Japan",
       "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 04 Oct 2026 14:36:57 GMT",
       "description": "Japan's government lodged a formal protest with the US, demanding that military officials take action."
-    },
-    {
-      "title": "Indian police accused of sexual harassment against journalists at protest",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 04 Oct 2026 17:01:19 GMT",
-      "description": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls."
     },
     {
       "title": "Australia investigating Flydubai co-pilot's links to country",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 03 Oct 2026 23:30:06 GMT",
       "description": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada."
-    },
-    {
-      "title": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
-      "link": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 03 Oct 2026 23:37:46 GMT",
-      "description": "Ghana is a predominantly Christian country where preaching on public transport is widespread."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Brazil votes, with Lula facing Bolsonaro&apos;s son",
+        "link": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+        "pubDate": "Sun, 04 Oct 2026 17:52:09 -0400",
+        "description": "In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race.  If neither wins more than half the votes they&apos;ll face each other again on Oct. 25."
+      },
       {
         "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
         "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
         "pubDate": "Sat, 03 Oct 2026 08:00:00 -0400",
         "description": "This was emphasized to people watching a Senate hearing this week, where confusion over two basketball teams was on display."
-      },
-      {
-        "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
-        "link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
-        "pubDate": "Sat, 03 Oct 2026 07:47:09 -0400",
-        "description": "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR&apos;s Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan.&lt;br&gt;"
       }
     ],
     "Canada": []
