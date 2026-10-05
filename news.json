@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T23:25:39.920Z",
+  "updated": "2026-10-05T02:14:34.129Z",
   "world": [
     {
       "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
@@ -20,10 +20,10 @@
       "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition."
     },
     {
-      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
       "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 04 Oct 2026 23:20:03 GMT",
-      "description": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October."
+      "pubDate": "Mon, 05 Oct 2026 00:27:06 GMT",
+      "description": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
     },
     {
       "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
@@ -68,9 +68,9 @@
       "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament."
     },
     {
-      "title": "Debris found from plane that went missing off US coast",
+      "title": "Rescuers suspend search for survivors after plane went missing off US coast",
       "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 04 Oct 2026 03:49:06 GMT",
+      "pubDate": "Sun, 04 Oct 2026 23:29:18 GMT",
       "description": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data."
     },
     {
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Brazil&apos;s presidential race heads to Lula–Bolsonaro run-off as right gains ground",
+        "link": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+        "pubDate": "Sun, 04 Oct 2026 20:17:35 -0400",
+        "description": "Now there are two: Brazil heads into a runoff after a first round that failed to fully energize voters, setting the stage for a more polarized contest that Washington is watching very closely."
+      },
       {
         "title": "Brazil votes, with Lula facing Bolsonaro&apos;s son",
         "link": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
         "pubDate": "Sat, 03 Oct 2026 17:57:34 -0400",
         "description": "Universities have responsibilities when students report sexual assault, even if prosecutors don&apos;t bring charges. Attorney Baine Kerr explains how those protections work."
-      },
-      {
-        "title": "Opinion: A Hawk is not the same as a Hawkeye",
-        "link": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
-        "pubDate": "Sat, 03 Oct 2026 08:00:00 -0400",
-        "description": "This was emphasized to people watching a Senate hearing this week, where confusion over two basketball teams was on display."
       }
     ],
     "Canada": []
