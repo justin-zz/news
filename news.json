@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-06T19:39:57.271Z",
+  "updated": "2026-10-06T23:31:51.617Z",
   "world": [
+    {
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 06 Oct 2026 22:00:43 GMT",
+      "description": "Experts say her survival after the lethal injections is highly unusual."
+    },
     {
       "title": "Tear gas in Paris and Marseille as school protests grow across France",
       "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&amp;at_campaign=rss",
@@ -18,12 +24,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 06 Oct 2026 11:53:21 GMT",
       "description": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine."
-    },
-    {
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 06 Oct 2026 16:22:37 GMT",
-      "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran."
     },
     {
       "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
@@ -62,6 +62,12 @@
       "description": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections."
     },
     {
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 06 Oct 2026 20:15:31 GMT",
+      "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran."
+    },
+    {
       "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
       "link": "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 06 Oct 2026 12:00:10 GMT",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 06 Oct 2026 12:51:05 GMT",
       "description": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation."
-    },
-    {
-      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-      "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 06 Oct 2026 16:51:59 GMT",
-      "description": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Actress Eva Marie Saint, who won an Oscar for &apos;On the Waterfront,&apos; dies at 102",
+        "link": "https://www.npr.org/2026/10/06/462030457/eva-marie-saint-on-the-waterfront-dead-102",
+        "pubDate": "Tue, 06 Oct 2026 18:45:00 -0400",
+        "description": "Saint won an Oscar for her portrayal of Edie, a Catholic schoolgirl whose longshoreman brother is murdered. She went on to star in Alfred Hitchcock&apos;s &lt;em&gt;North by Northwest.&lt;/em&gt;"
+      },
       {
         "title": "Cornell names former acting U.S. attorney general to review rape case",
         "link": "https://www.npr.org/2026/10/06/nx-s1-5992799/cornell-yates-rape-case-updates-review",
@@ -137,22 +143,16 @@
         "description": "Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn&apos;t tell the whole story. And, today, a mega merger between Paramount and Warner Bros. is set to cl"
       },
       {
-        "title": "A history of presidents naming things after themselves (It&apos;s short. They rarely do)",
-        "link": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
-        "pubDate": "Tue, 06 Oct 2026 07:00:00 -0400",
-        "description": "While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets."
-      },
-      {
         "title": "What voters in 6 key states could tell us about the 2026 midterms",
         "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
         "pubDate": "Tue, 06 Oct 2026 07:00:00 -0400",
         "description": "&lt;em&gt;Morning Edition&lt;/em&gt; is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections."
       },
       {
-        "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
-        "link": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
-        "pubDate": "Tue, 06 Oct 2026 06:16:28 -0400",
-        "description": "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison. His research into capturing neutrinos at the South Pole dates back to the 1980s."
+        "title": "A history of presidents naming things after themselves (It&apos;s short. They rarely do)",
+        "link": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
+        "pubDate": "Tue, 06 Oct 2026 07:00:00 -0400",
+        "description": "While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets."
       }
     ],
     "Canada": []
