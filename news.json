@@ -1,99 +1,147 @@
 {
-  "updated": "2026-10-08T02:26:33.942Z",
+  "updated": "2026-10-08T09:19:18.347Z",
   "world": [
     {
-      "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 05:00:44 GMT",
+      "description": "Bassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information."
+    },
+    {
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 08:18:36 GMT",
+      "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank."
+    },
+    {
+      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 08:13:52 GMT",
+      "description": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections."
+    },
+    {
+      "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
       "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 00:09:17 GMT",
+      "pubDate": "Thu, 08 Oct 2026 07:15:45 GMT",
       "description": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September."
     },
     {
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 07 Oct 2026 20:27:03 GMT",
-      "description": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war."
+      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 03:02:06 GMT",
+      "description": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections."
     },
     {
-      "title": "Israelis demand accountability over 7 October failures three years after attacks",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 07 Oct 2026 16:00:18 GMT",
-      "description": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry."
+      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+      "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 05:10:40 GMT",
+      "description": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom."
     },
     {
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 07 Oct 2026 17:47:31 GMT",
-      "description": "The step comes after several groups complained of police using disproportionate force towards teenagers."
+      "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 07 Oct 2026 23:18:40 GMT",
+      "description": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies."
+    },
+    {
+      "title": "France's school protests: What lies behind the anger",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 03:38:46 GMT",
+      "description": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street."
+    },
+    {
+      "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 07 Oct 2026 18:40:52 GMT",
+      "description": "Residents of Adigrat tell the BBC they have seen truck loads of soldiers from Eritrea moving south."
+    },
+    {
+      "title": "Trump wants a new Camp David-like retreat at his Florida golf club",
+      "link": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 03:00:50 GMT",
+      "description": "Trump's estate would stand in stark contrast to the rustic Camp David and mark another tradition transformed by Trump."
+    },
+    {
+      "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
+      "link": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 07 Oct 2026 22:50:00 GMT",
+      "description": "The new charges are expected to accuse Maduro and his wife of playing a role in the torture of Americans in Venezuelan prisons, US media reports."
+    },
+    {
+      "title": "Asahi and Kirin among Japan beer giants raided over alleged price-fixing cartel",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 00:53:46 GMT",
+      "description": "Japan's Fair Trade Commission conducted searches of the country's largest beer-makers."
+    },
+    {
+      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 03:32:35 GMT",
+      "description": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict."
+    },
+    {
+      "title": "Outspoken Indian actor Nana Patekar suddenly dies at 75",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 03:41:34 GMT",
+      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema."
     },
     {
       "title": "Canada suspends plans to expand assisted dying to people with mental illness",
       "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 07 Oct 2026 19:30:51 GMT",
       "description": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely."
-    },
-    {
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 07 Oct 2026 18:27:40 GMT",
-      "description": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia."
-    },
-    {
-      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 07 Oct 2026 18:12:58 GMT",
-      "description": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept."
-    },
-    {
-      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 07 Oct 2026 09:49:31 GMT",
-      "description": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations."
-    },
-    {
-      "title": "Chinese runner dropped by sponsor after riding bike during marathon",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 07 Oct 2026 20:29:31 GMT",
-      "description": "Sun Yuanyuan was seemingly pictured on the back of another person's bike during part of the Berlin Marathon."
-    },
-    {
-      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 07 Oct 2026 11:51:52 GMT",
-      "description": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry."
-    },
-    {
-      "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 07 Oct 2026 12:46:39 GMT",
-      "description": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya."
-    },
-    {
-      "title": "Japan beer giants raided over alleged price-fixing cartel",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 00:53:46 GMT",
-      "description": "Asahi, Sapporo, Kirin and Suntory confirmed to the BBC that their premises had been searched by the Japanese competition authority."
-    },
-    {
-      "title": "What is pneumonic plague and how does it spread?",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 06 Oct 2026 15:35:22 GMT",
-      "description": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease."
-    },
-    {
-      "title": "What happened in the failed execution of Christa Pike - and how did she survive?",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 07 Oct 2026 10:01:47 GMT",
-      "description": "The convicted killer of Colleen Slemmer is said to be awake and speaking in hospital in Tennessee after an execution attempt."
-    },
-    {
-      "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
-      "link": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 06 Oct 2026 22:17:56 GMT",
-      "description": "Relatives are finding themselves with no compensation and facing an administrative nightmare."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Flock is catching flak. Experts say other police surveillance tools are more worrisome",
+        "link": "https://www.npr.org/2026/10/08/nx-s1-5981343/beyond-flock-police-ai-surveillance-tools",
+        "pubDate": "Thu, 08 Oct 2026 05:00:00 -0400",
+        "description": "Real-time crime-center software is a sometimes overlooked but powerful tool allowing police to aggregate immense amounts of data, significantly expanding their surveillance reach."
+      },
+      {
+        "title": "Medical debt is crushing hospital patients in LA. Health officials may have a fix",
+        "link": "https://www.npr.org/2026/10/08/nx-s1-5991633/hospital-california-healthcare-medical-debt",
+        "pubDate": "Thu, 08 Oct 2026 05:00:00 -0400",
+        "description": "In Los Angeles County, the nation&apos;s most populous, a new system could screen hospital patients for financial aid, preventing hundreds of thousands from getting bills they can&apos;t pay."
+      },
+      {
+        "title": "As crypto and prediction markets expand, their regulator shrinks",
+        "link": "https://www.npr.org/2026/10/08/nx-s1-5903204/crypto-prediction-markets-cftc-weakens",
+        "pubDate": "Thu, 08 Oct 2026 05:00:00 -0400",
+        "description": "Even as the agency is tasked with drawing up new rules for crypto and prediction markets, its staffing and enforcement actions have dropped precipitously during the second Trump administration."
+      },
+      {
+        "title": "Toss-ups, triage and targets: How to read the wide-open 2026 House map",
+        "link": "https://www.npr.org/2026/10/08/nx-s1-5993809/2026-house-map-democrats-flip-republicans-tossup-triage",
+        "pubDate": "Thu, 08 Oct 2026 05:00:00 -0400",
+        "description": "Both parties are spending heavily in roughly 60 House districts — where Trump won by an average of nine points in 2024 — that could be key to deciding control of the chamber, an NPR analysis finds."
+      },
+      {
+        "title": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
+        "link": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
+        "pubDate": "Thu, 08 Oct 2026 05:00:00 -0400",
+        "description": "A former Syrian general wanted for crimes against humanity is living quietly in Lebanon, bankrolled and protected by American and Lebanese authorities, a BBC/NPR investigation has found."
+      },
+      {
+        "title": "Trump proposes Camp David-style presidential retreat at his private Florida golf club",
+        "link": "https://www.npr.org/2026/10/08/g-s1-147101/trump-presidential-retreat-golf-club",
+        "pubDate": "Thu, 08 Oct 2026 02:27:50 -0400",
+        "description": "President Trump said he wants to develop one of his Florida golf courses into a presidential retreat where his successors can spend quiet weekends, describing it as &quot;sort of a Camp David.&quot;"
+      },
+      {
+        "title": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
+        "link": "https://www.npr.org/2026/10/08/nx-s1-5994868/maricarmen-eviction-spain-dies",
+        "pubDate": "Thu, 08 Oct 2026 01:56:02 -0400",
+        "description": "María del Carmen Abascal, the 87-year-old woman whose eviction from her Madrid home sparked nationwide protests across Spain and unleashed a political crisis, died on Wednesday while hospitalized."
+      },
+      {
+        "title": "Isaias strengthens into the first hurricane of the Atlantic season",
+        "link": "https://www.npr.org/2026/10/08/g-s1-147095/weather-hurricane-season",
+        "pubDate": "Thu, 08 Oct 2026 01:22:15 -0400",
+        "description": "The National Hurricane Center said late Wednesday that the hurricane was on track to strike the U.S. Gulf Coast later in the week. It&apos;s expected to bring heavy rains and potentially flash floodin"
+      },
       {
         "title": "The WHO seeks more details on the death of a plague research lab employee in Russia",
         "link": "https://www.npr.org/2026/10/07/nx-s1-5993873/russia-death-plague-research-institute",
@@ -105,54 +153,6 @@
         "link": "https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death",
         "pubDate": "Wed, 07 Oct 2026 17:06:31 -0400",
         "description": "The ancient disease of plague is back in the headlines after the death this month of a Russian lab worker."
-      },
-      {
-        "title": "This surprising mammal fossil is giving scientists something to chew on",
-        "link": "https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest",
-        "pubDate": "Wed, 07 Oct 2026 15:59:16 -0400",
-        "description": "It&apos;s likely you&apos;ve already chewed and swallowed some tasty morsel today. But when did that ability emerge? New evidence points to at least the middle Jurassic, back when dinosaurs still reig"
-      },
-      {
-        "title": "Judge orders that Christa Pike execution evidence be preserved",
-        "link": "https://www.npr.org/2026/10/07/nx-s1-5993628/judge-orders-that-christa-pike-execution-evidence-be-preserved",
-        "pubDate": "Wed, 07 Oct 2026 15:53:10 -0400",
-        "description": "A week after the failed execution, Pike is awake but is said to be angry and confused. Her lawyers said Wednesday&apos;s hearing was about &quot;transparency.&quot;"
-      },
-      {
-        "title": "Trump approved the military&apos;s 1st firing squad execution since WWII. Why now?",
-        "link": "https://www.npr.org/2026/10/07/nx-s1-5993539/firing-squad-execution-nidal-hasan-fort-hood",
-        "pubDate": "Wed, 07 Oct 2026 15:08:48 -0400",
-        "description": "The Pentagon says Nidal Hasan will be executed by firing squad in December at Fort Hood, where he killed 13 people in 2009. The announcement came days after a botched lethal injection in Tennessee."
-      },
-      {
-        "title": "Why Trump just loosened the rules on &apos;dyed diesel&apos; — normally a farm fuel",
-        "link": "https://www.npr.org/2026/10/07/nx-s1-5992963/dyed-diesel-fuel-price-farmers-trucks",
-        "pubDate": "Wed, 07 Oct 2026 14:00:31 -0400",
-        "description": "Trump is temporarily allowing this fuel to be used on highways, although it&apos;s typically just for off-road farm and construction vehicles. Could that lower the price of diesel?"
-      },
-      {
-        "title": "How Defense Secretary Pete Hegseth has brought the culture wars to the military",
-        "link": "https://www.npr.org/2026/10/07/nx-s1-5992775/how-defense-secretary-pete-hegseth-has-brought-the-culture-wars-to-the-military",
-        "pubDate": "Wed, 07 Oct 2026 12:55:19 -0400",
-        "description": "&lt;em&gt;The New York Times&lt;/em&gt; reporter Greg Jaffe says Hegseth has disproportionately blocked promotions of Black and women senior officers, and he&apos;s also been purging the military of t"
-      },
-      {
-        "title": "She got Trump&apos;s $500 check for health insurance. To her, it&apos;s a &apos;political stunt&apos;",
-        "link": "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms",
-        "pubDate": "Wed, 07 Oct 2026 12:15:26 -0400",
-        "description": "As checks from President Trump for health costs hit millions of mailboxes, a poll shows Americans don&apos;t trust Republicans on healthcare. Experts doubt it will move the needle and say it is likely"
-      },
-      {
-        "title": "Gut microbes followed migrating humans across continents, new study suggests",
-        "link": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
-        "pubDate": "Wed, 07 Oct 2026 11:00:47 -0400",
-        "description": "New research looks at the surprising similarities in the gut microbiomes of hunter-gathers in Tanzania and horticulturalists in Bolivia, and asks: What role do these bacteria play in human health?"
-      },
-      {
-        "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
-        "link": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
-        "pubDate": "Wed, 07 Oct 2026 09:53:54 -0400",
-        "description": "The Lahore High Court is a near-perfect specimen of British South Asian colonial architecture and its main square is a pleasant spot shaded by banyan trees."
       }
     ],
     "Canada": []
