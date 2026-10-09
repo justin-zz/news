@@ -1,11 +1,35 @@
 {
-  "updated": "2026-10-09T08:25:11.291Z",
+  "updated": "2026-10-09T15:27:46.117Z",
   "world": [
+    {
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 14:00:47 GMT",
+      "description": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says."
+    },
     {
       "title": "Firing squad execution to be livestreamed, Pentagon says",
       "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 07:05:05 GMT",
+      "pubDate": "Fri, 09 Oct 2026 12:24:58 GMT",
       "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\"."
+    },
+    {
+      "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 09:43:22 GMT",
+      "description": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it."
+    },
+    {
+      "title": "France promises 3,000 extra teachers in first step to calm student protests",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 11:35:00 GMT",
+      "description": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students."
+    },
+    {
+      "title": "Ethiopia and Eritrea accuse each other of starting conflict after troops cross border",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 15:24:43 GMT",
+      "description": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes."
     },
     {
       "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
@@ -14,145 +38,121 @@
       "description": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev."
     },
     {
+      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 09:09:03 GMT",
+      "description": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy."
+    },
+    {
       "title": "ICE agent shoots man in New York City",
       "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 04:26:19 GMT",
+      "pubDate": "Fri, 09 Oct 2026 12:18:52 GMT",
       "description": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\"."
     },
     {
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 16:31:29 GMT",
-      "description": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible."
+      "title": "Crazy Rich Asians to return as TV show with original film's stars",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 10:54:21 GMT",
+      "description": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng."
     },
     {
-      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 19:10:06 GMT",
-      "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election."
+      "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 11:44:49 GMT",
+      "description": "Dr Vincent Brown was allegedly a \"leader\" or \"supervisor\" of violent acts carried out by others in the early days of the genocide."
+    },
+    {
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 13:50:25 GMT",
+      "description": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government."
+    },
+    {
+      "title": "Two Renoir paintings stolen from French museum are recovered",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 14:25:18 GMT",
+      "description": "The two works were seized last month when thieves cut through a fence and smashed a window at the Renoir Museum on the French Riviera."
     },
     {
       "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
       "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 04:44:22 GMT",
+      "pubDate": "Fri, 09 Oct 2026 08:28:57 GMT",
       "description": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries."
     },
     {
-      "title": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee",
-      "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 04:53:50 GMT",
-      "description": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital."
+      "title": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
+      "link": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 02:09:45 GMT",
+      "description": "Pike's lawyers say her recovery is \"remarkable\" as they give an update on her condition after she survived an execution attempt by lethal injection."
     },
     {
-      "title": "Adidas sues Australian label White Fox over four stripes design",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 03:36:41 GMT",
-      "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages."
-    },
-    {
-      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 14:33:23 GMT",
-      "description": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship."
-    },
-    {
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 17:38:59 GMT",
-      "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power."
-    },
-    {
-      "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 12:04:25 GMT",
-      "description": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence."
-    },
-    {
-      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 12:32:12 GMT",
-      "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power."
-    },
-    {
-      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 17:16:32 GMT",
-      "description": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data."
-    },
-    {
-      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 20:38:11 GMT",
-      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema."
-    },
-    {
-      "title": "Residents airlifted to safety after flooding in central Chile",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 11:31:22 GMT",
-      "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days."
+      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+      "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 09:30:49 GMT",
+      "description": "The AI firm instead claims the researchers were fired for mishandling sensitive information."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Christa Pike is walking with help and eating after failed execution attempt",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5996402/christa-pike-updates",
-        "pubDate": "Fri, 09 Oct 2026 01:52:50 -0400",
-        "description": "Pike has begun walking and eating again at a hospital a week after surviving Tennessee&apos;s attempt to execute her with lethal drugs, her attorneys said Thursday."
+        "title": "Trump says U.S. won&apos;t attack Iran before midterms. And, ICE agent shoots man in NYC",
+        "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
+        "pubDate": "Fri, 09 Oct 2026 07:37:04 -0400",
+        "description": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck."
       },
       {
-        "title": "Pentagon says the firing squad execution of Fort Hood shooter will be livestreamed",
-        "link": "https://www.npr.org/2026/10/09/g-s1-147419/fort-hood-shooter-execution",
-        "pubDate": "Fri, 09 Oct 2026 01:35:41 -0400",
-        "description": "The Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed after Defense Secretary Pete Hegseth said the execution would be &quot;public."
+        "title": "Why American investors love European defense startups",
+        "link": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
+        "pubDate": "Fri, 09 Oct 2026 07:00:00 -0400",
+        "description": "As European defense spending takes off, just about half of the funding in Europe&apos;s defense tech industry is coming from American investors this year. One reason why: European investment firms hav"
       },
       {
-        "title": "Isaias strengthens into Category 2 hurricane on collision course with the Gulf Coast",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates",
-        "pubDate": "Fri, 09 Oct 2026 01:20:03 -0400",
-        "description": "The first hurricane of the Atlantic season was forecast to intensify rapidly and cause dangerous conditions in the Florida Panhandle, southern Alabama and southern Mississippi when it makes landfall l"
+        "title": "Why we remember: One student&apos;s journey into memory",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
+        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+        "description": "Why one teen can&apos;t let go of the time he ate fries with his great-grandpa."
       },
       {
-        "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
-        "link": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
-        "pubDate": "Thu, 08 Oct 2026 20:25:15 -0400",
-        "description": "The company says Russian operatives used its AI chatbot to update their bosses, shedding light on influence campaigns previously not attributed to Russia."
+        "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+        "description": "Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November."
       },
       {
-        "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
-        "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
-        "pubDate": "Thu, 08 Oct 2026 20:05:48 -0400",
-        "description": "The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention following reports of crew st"
+        "title": "Fill in the blank in the quiz: A plague research employee in Russia died from ____",
+        "link": "https://www.npr.org/2026/10/09/g-s1-147111/trump-bts-paramount-tv-el-nino-news-quiz",
+        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+        "description": "Plus: Nobels! Protests! Ambiguous quotes! A mysterious death in Russia!"
       },
       {
-        "title": "Suicide is up among Black Americans. We need to talk about it.",
-        "link": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis",
-        "pubDate": "Thu, 08 Oct 2026 14:37:02 -0400",
-        "description": "NPR&apos;s Michel Martin hosted a panel conversation about mental health and suicide in the Black community, exploring a difficult subject in deeply personal conversations."
+        "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don&apos;t work",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
+        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+        "description": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn&apos;t alert parents when users talk about self-harm and suicide."
       },
       {
-        "title": "The long-deployed USS Lincoln is returning home to San Diego",
-        "link": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego",
-        "pubDate": "Thu, 08 Oct 2026 12:18:20 -0400",
-        "description": "The USS Abraham Lincoln is returning home to San Diego Thursday after supporting the Iran war during a record long deployment of 265 uninterrupted days at sea that included reports of deteriorating co"
+        "title": "Why mailing a ballot close to Election Day may get it rejected for a late postmark",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5984981/mail-in-ballot-usps-postmark",
+        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+        "description": "If you&apos;re using the U.S. Postal Service to return a ballot close to Election Day, officials recommend getting it postmarked at a post office to avoid getting caught up in mail processing changes."
       },
       {
-        "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
-        "link": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
-        "pubDate": "Thu, 08 Oct 2026 12:05:37 -0400",
-        "description": "U.S. authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking al"
+        "title": "A student hated reading for years. Her podcast explores finding the right diagnosis",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5977043/dyslexia-teenager-diagnosis-reading",
+        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+        "description": "Middle schooler Cora Walsh of Long Island, N.Y., has won the 2026 NPR Student Podcast Challenge with a story about her journey with dyslexia."
       },
       {
-        "title": "4 people on NASA&apos;s Crew-12 mission return to Earth after 8 months in space",
-        "link": "https://www.npr.org/2026/10/08/nx-s1-5992845/nasa-spacex-crew-12-international-space-station-iss-splashdown",
-        "pubDate": "Thu, 08 Oct 2026 11:34:39 -0400",
-        "description": "Four people — two NASA astronauts, one from the European Space Agency and a Russian cosmonaut — spent nearly eight months at the space station, conducting spacewalks, science experiments and research."
+        "title": "In Central African Republic, deported immigrants find themselves in limbo",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5993805/third-country-deportations-cuba",
+        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
+        "description": "The Trump administration says it has deported more than 25,000 people to countries to which they have no ties. NPR spoke to three men who say it feels like they&apos;ve lost control over their own liv"
       },
       {
-        "title": "White House correspondent April Ryan reflects on reporting while under attack",
-        "link": "https://www.npr.org/2026/10/08/nx-s1-5994416/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack",
-        "pubDate": "Thu, 08 Oct 2026 11:24:23 -0400",
-        "description": "Ryan has spent decades pressing presidents for answers. She talks about access, power, race and how asking questions put her in President Trump&apos;s crosshairs. Her new book is &lt;em&gt;Notes on a "
+        "title": "NEWSBRIEF: HURRICANE ISAIAS, UKRAINE WAR LATEST, POLITICS OF IRAN WAR",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5988274/newsbrief-hurricane-isaias-ukraine-war-latest-politics-of-iran-war",
+        "pubDate": "Fri, 09 Oct 2026 04:28:16 -0400",
+        "description": "Gulf Coast Preps for Isaias, Ukraine expects Russian winter offensive, and Trump&apos;s Iran War in focus as Midterms approach."
       }
     ],
     "Canada": []
