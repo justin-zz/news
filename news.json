@@ -1,17 +1,23 @@
 {
-  "updated": "2026-10-09T01:42:14.044Z",
+  "updated": "2026-10-09T08:25:11.291Z",
   "world": [
     {
-      "title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+      "title": "Firing squad execution to be livestreamed, Pentagon says",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 07:05:05 GMT",
+      "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\"."
+    },
+    {
+      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
       "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 08 Oct 2026 23:11:10 GMT",
       "description": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev."
     },
     {
-      "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 01:25:33 GMT",
-      "description": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\"."
+      "title": "ICE agent shoots man in New York City",
+      "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 04:26:19 GMT",
+      "description": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\"."
     },
     {
       "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
@@ -20,22 +26,28 @@
       "description": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible."
     },
     {
-      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 15:02:32 GMT",
-      "description": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections."
-    },
-    {
-      "title": "Adidas sues Australian label White Fox over four stripes design",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 18:17:28 GMT",
-      "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages."
-    },
-    {
       "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
       "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 08 Oct 2026 19:10:06 GMT",
       "description": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election."
+    },
+    {
+      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 04:44:22 GMT",
+      "description": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries."
+    },
+    {
+      "title": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee",
+      "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 04:53:50 GMT",
+      "description": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital."
+    },
+    {
+      "title": "Adidas sues Australian label White Fox over four stripes design",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 03:36:41 GMT",
+      "description": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages."
     },
     {
       "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
@@ -50,18 +62,6 @@
       "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power."
     },
     {
-      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 17:16:32 GMT",
-      "description": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data."
-    },
-    {
-      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 20:38:11 GMT",
-      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema."
-    },
-    {
       "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
       "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 08 Oct 2026 12:04:25 GMT",
@@ -74,26 +74,44 @@
       "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power."
     },
     {
+      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 17:16:32 GMT",
+      "description": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data."
+    },
+    {
+      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 08 Oct 2026 20:38:11 GMT",
+      "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema."
+    },
+    {
       "title": "Residents airlifted to safety after flooding in central Chile",
       "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 08 Oct 2026 11:31:22 GMT",
       "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days."
-    },
-    {
-      "title": "Zambia signs US health deal after disputes over data-sharing",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 16:24:05 GMT",
-      "description": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding."
-    },
-    {
-      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-      "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 08 Oct 2026 12:11:31 GMT",
-      "description": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Christa Pike is walking with help and eating after failed execution attempt",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5996402/christa-pike-updates",
+        "pubDate": "Fri, 09 Oct 2026 01:52:50 -0400",
+        "description": "Pike has begun walking and eating again at a hospital a week after surviving Tennessee&apos;s attempt to execute her with lethal drugs, her attorneys said Thursday."
+      },
+      {
+        "title": "Pentagon says the firing squad execution of Fort Hood shooter will be livestreamed",
+        "link": "https://www.npr.org/2026/10/09/g-s1-147419/fort-hood-shooter-execution",
+        "pubDate": "Fri, 09 Oct 2026 01:35:41 -0400",
+        "description": "The Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed after Defense Secretary Pete Hegseth said the execution would be &quot;public."
+      },
+      {
+        "title": "Isaias strengthens into Category 2 hurricane on collision course with the Gulf Coast",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates",
+        "pubDate": "Fri, 09 Oct 2026 01:20:03 -0400",
+        "description": "The first hurricane of the Atlantic season was forecast to intensify rapidly and cause dangerous conditions in the Florida Panhandle, southern Alabama and southern Mississippi when it makes landfall l"
+      },
       {
         "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
         "link": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/10/08/nx-s1-5994416/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack",
         "pubDate": "Thu, 08 Oct 2026 11:24:23 -0400",
         "description": "Ryan has spent decades pressing presidents for answers. She talks about access, power, race and how asking questions put her in President Trump&apos;s crosshairs. Her new book is &lt;em&gt;Notes on a "
-      },
-      {
-        "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
-        "link": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
-        "pubDate": "Thu, 08 Oct 2026 08:13:54 -0400",
-        "description": "The South Korean announcement on Thursday came days after its President Lee Jae Myung threatened unspecified punitive steps if Ukraine refuses to apologize over the revelation."
-      },
-      {
-        "title": "South Korea test-flies its first domestically developed hypersonic weapon",
-        "link": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
-        "pubDate": "Thu, 08 Oct 2026 08:01:34 -0400",
-        "description": "The test follows North Korea&apos;s recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Kor"
-      },
-      {
-        "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
-        "link": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico",
-        "pubDate": "Thu, 08 Oct 2026 07:35:22 -0400",
-        "description": "People in the Gulf are preparing for bad weather this weekend after Isaias intensified into a hurricane. And, a judge has ordered Christa Pike&apos;s failed execution evidence be preserved."
       }
     ],
     "Canada": []
