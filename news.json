@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-10T06:10:34.167Z",
+  "updated": "2026-10-10T12:50:43.549Z",
   "world": [
+    {
+      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 10 Oct 2026 12:29:31 GMT",
+      "description": "Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration."
+    },
+    {
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 10 Oct 2026 11:17:15 GMT",
+      "description": "Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed."
+    },
     {
       "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss",
@@ -14,22 +26,10 @@
       "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
     },
     {
-      "title": "US country music star Ella Langley cancels show due to 'security threat'",
-      "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 02:02:54 GMT",
-      "description": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\"."
-    },
-    {
-      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-      "link": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 04:07:11 GMT",
-      "description": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay."
-    },
-    {
-      "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 05:25:12 GMT",
-      "description": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering."
+      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 21:55:51 GMT",
+      "description": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery."
     },
     {
       "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
@@ -38,19 +38,37 @@
       "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport."
     },
     {
-      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 10 Oct 2026 10:06:23 GMT",
+      "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach."
+    },
+    {
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
       "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 01:58:56 GMT",
-      "description": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana."
+      "pubDate": "Sat, 10 Oct 2026 11:55:12 GMT",
+      "description": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US."
     },
     {
-      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 21:55:51 GMT",
-      "description": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery."
+      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+      "link": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 10 Oct 2026 04:07:11 GMT",
+      "description": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay."
     },
     {
-      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+      "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 21:26:30 GMT",
+      "description": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online."
+    },
+    {
+      "title": "US country music star Ella Langley cancels show due to 'security threat'",
+      "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 10 Oct 2026 02:02:54 GMT",
+      "description": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\"."
+    },
+    {
+      "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
       "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 09 Oct 2026 21:50:47 GMT",
       "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years."
@@ -60,12 +78,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 09 Oct 2026 18:40:10 GMT",
       "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
-    },
-    {
-      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 21:26:30 GMT",
-      "description": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online."
     },
     {
       "title": "Man named Hitler Mussolini elected mayor in Peru",
@@ -78,22 +90,52 @@
       "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 09 Oct 2026 17:14:44 GMT",
       "description": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks."
-    },
-    {
-      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-      "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 15:24:43 GMT",
-      "description": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes."
-    },
-    {
-      "title": "Commentator Katie Zacharia picked as new White House press secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 22:41:21 GMT",
-      "description": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Opinion: Can I keep the baseball I caught?",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5982500/opinion-can-i-keep-the-baseball-i-caught",
+        "pubDate": "Sat, 10 Oct 2026 08:00:00 -0400",
+        "description": "What would you do if you caught a baseball during the MLB playoffs? Give it to a kid nearby or keep it? This very scenario played out this week, with a fan deciding to keep the ball."
+      },
+      {
+        "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don&apos;t know how often",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
+        "pubDate": "Sat, 10 Oct 2026 07:00:00 -0400",
+        "description": "Scant data about serious adverse effects makes it harder to answer scientific and legal questions about how often the drugs might cause serious harm like blindness or pancreatitis."
+      },
+      {
+        "title": "A year of ceasefire in Gaza through the lens of NPR&apos;s reporter",
+        "link": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+        "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
+        "description": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only."
+      },
+      {
+        "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
+        "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
+        "description": "Democrats are hoping to win back Latino voters who have soured on both parties. They hope Latino content creators will bridge the gap."
+      },
+      {
+        "title": "16 cozy activities to add to your fall bucket list",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list",
+        "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
+        "description": "Carve a pumpkin? You can do better than that. Fun and unusual ways to celebrate the season, from writing a gratitude letter to making an ancestral altar."
+      },
+      {
+        "title": "The Met puts a modern artist front and center (and there&apos;s some Jackson Pollock, too)",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5920376/lee-krasner-jackson-pollock-met",
+        "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
+        "description": "In a blockbuster show, The Metropolitan Museum of Art places the work of two major 20th century artists side by side: the married couple Lee Krasner and Jackson Pollock."
+      },
+      {
+        "title": "India cracks down on youth protests as anger grows against Modi and election chief",
+        "link": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
+        "pubDate": "Sat, 10 Oct 2026 04:31:28 -0400",
+        "description": "Indian authorities have launched a major security crackdown in New Delhi, detaining thousands of protesters who intended to hold a mass demonstration against Prime Minister Narendra Modi&apos;s govern"
+      },
       {
         "title": "Kalshi taps former FBI agent to fight against money laundering",
         "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
@@ -111,48 +153,6 @@
         "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
         "pubDate": "Fri, 09 Oct 2026 17:24:13 -0400",
         "description": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a p"
-      },
-      {
-        "title": "The U.S. last held a public execution in the 1930s. The Pentagon wants to change that",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5996529/firing-squad-livestream-execution-fort-hood-shooter",
-        "pubDate": "Fri, 09 Oct 2026 14:55:38 -0400",
-        "description": "The Pentagon says it will livestream the firing squad execution of Nidal Hasan at Fort Hood, the site of his 2009 mass shooting. That would be the first public execution in the U.S. since the 1930s."
-      },
-      {
-        "title": "U.S. working to reverse an Egyptian man&apos;s third-country deportation to Africa",
-        "link": "https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse",
-        "pubDate": "Fri, 09 Oct 2026 13:49:28 -0400",
-        "description": "The Trump administration&apos;s effort to return Ahmed Soliman to the U.S. come after an Arizona judge said his deportation violated due process."
-      },
-      {
-        "title": "Did Russia play by the rules in reporting lab worker&apos;s death?",
-        "link": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
-        "pubDate": "Fri, 09 Oct 2026 12:43:45 -0400",
-        "description": "A global treaty signed by 197 countries — including Russia — requires reporting any death that could be a sign of an outbreak to come."
-      },
-      {
-        "title": "How the oil industry is preparing for Hurricane Isaias",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
-        "pubDate": "Fri, 09 Oct 2026 12:03:32 -0400",
-        "description": "Hurricane Isaias is this season&apos;s first Atlantic hurricane, and is on a path to hit the northern Gulf Coast. How is the oil industry preparing?"
-      },
-      {
-        "title": "Trump says U.S. won&apos;t attack Iran before midterms. And, ICE agent shoots man in NYC",
-        "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
-        "pubDate": "Fri, 09 Oct 2026 07:37:04 -0400",
-        "description": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck."
-      },
-      {
-        "title": "Why American investors love European defense startups",
-        "link": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
-        "pubDate": "Fri, 09 Oct 2026 07:00:00 -0400",
-        "description": "As European defense spending takes off, just about half of the funding in Europe&apos;s defense tech industry is coming from American investors this year. One reason why: European investment firms hav"
-      },
-      {
-        "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
-        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
-        "description": "Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November."
       }
     ],
     "Canada": []
