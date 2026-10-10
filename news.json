@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-09T20:14:48.247Z",
+  "updated": "2026-10-10T00:11:32.471Z",
   "world": [
     {
       "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 20:13:23 GMT",
+      "pubDate": "Fri, 09 Oct 2026 21:54:28 GMT",
       "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended."
     },
     {
@@ -16,13 +16,13 @@
     {
       "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
       "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 18:40:05 GMT",
+      "pubDate": "Fri, 09 Oct 2026 21:50:47 GMT",
       "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years."
     },
     {
       "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
       "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 19:39:52 GMT",
+      "pubDate": "Fri, 09 Oct 2026 21:26:30 GMT",
       "description": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online."
     },
     {
@@ -44,6 +44,12 @@
       "description": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says."
     },
     {
+      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 09 Oct 2026 21:55:51 GMT",
+      "description": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found  at the bottom of a well."
+    },
+    {
       "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
       "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 09 Oct 2026 15:24:43 GMT",
@@ -52,7 +58,7 @@
     {
       "title": "Commentator Katie Zacharia picked as new White House press secretary",
       "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 19:58:27 GMT",
+      "pubDate": "Fri, 09 Oct 2026 22:41:21 GMT",
       "description": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group."
     },
     {
@@ -84,16 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 08 Oct 2026 23:11:10 GMT",
       "description": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev."
-    },
-    {
-      "title": "Crazy Rich Asians to return as TV show with original film's stars",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 10:54:21 GMT",
-      "description": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Kalshi taps former FBI agent to fight against money laundering",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
+        "pubDate": "Fri, 09 Oct 2026 18:23:11 -0400",
+        "description": "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site."
+      },
+      {
+        "title": "Fired OpenAI employees question the company&apos;s commitment to safety",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
+        "pubDate": "Fri, 09 Oct 2026 17:28:09 -0400",
+        "description": "The three fired workers say OpenAI punished them for being outspoken about safety. The company disputes the claims and says they were fired over mishandling sensitive information."
+      },
+      {
+        "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+        "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+        "pubDate": "Fri, 09 Oct 2026 17:24:13 -0400",
+        "description": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a p"
+      },
       {
         "title": "The U.S. last held a public execution in the 1930s. The Pentagon wants to change that",
         "link": "https://www.npr.org/2026/10/09/nx-s1-5996529/firing-squad-livestream-execution-fort-hood-shooter",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/10/09/g-s1-147111/trump-bts-paramount-tv-el-nino-news-quiz",
         "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
         "description": "Plus: Nobels! Protests! Ambiguous quotes! A mysterious death in Russia!"
-      },
-      {
-        "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don&apos;t work",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
-        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
-        "description": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn&apos;t alert parents when users talk about self-harm and suicide."
-      },
-      {
-        "title": "Why mailing a ballot close to Election Day may get it rejected for a late postmark",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5984981/mail-in-ballot-usps-postmark",
-        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
-        "description": "If you&apos;re using the U.S. Postal Service to return a ballot close to Election Day, officials recommend getting it postmarked at a post office to avoid getting caught up in mail processing changes."
-      },
-      {
-        "title": "In Central African Republic, deported immigrants find themselves in limbo",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5993805/third-country-deportations-cuba",
-        "pubDate": "Fri, 09 Oct 2026 05:00:00 -0400",
-        "description": "The Trump administration says it has deported more than 25,000 people to countries to which they have no ties. NPR spoke to three men who say it feels like they&apos;ve lost control over their own liv"
       }
     ],
     "Canada": []
