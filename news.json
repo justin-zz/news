@@ -1,17 +1,23 @@
 {
-  "updated": "2026-10-11T13:14:48.115Z",
+  "updated": "2026-10-11T18:15:46.368Z",
   "world": [
     {
-      "title": "Ukraine strikes Russian data centre again despite Trump warning",
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 11 Oct 2026 16:41:37 GMT",
+      "description": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities."
+    },
+    {
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
       "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 11 Oct 2026 12:50:46 GMT",
+      "pubDate": "Sun, 11 Oct 2026 14:38:10 GMT",
       "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
     },
     {
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 11 Oct 2026 12:52:38 GMT",
-      "description": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\"."
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 11 Oct 2026 17:27:24 GMT",
+      "description": "Police received credible information about possible attacks against Donald Tusk and his defence minister."
     },
     {
       "title": "Homes and bridges swept away as fresh floods hit Nepal",
@@ -20,10 +26,22 @@
       "description": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing."
     },
     {
-      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 11 Oct 2026 11:11:42 GMT",
-      "description": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday."
+      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 11 Oct 2026 15:18:52 GMT",
+      "description": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured."
+    },
+    {
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 11 Oct 2026 15:32:23 GMT",
+      "description": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night."
+    },
+    {
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 11 Oct 2026 13:38:55 GMT",
+      "description": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\"."
     },
     {
       "title": "US justice department investigates TV networks over Trump pool coverage",
@@ -32,28 +50,22 @@
       "description": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage."
     },
     {
-      "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 11 Oct 2026 12:08:20 GMT",
-      "description": "The boat was travelling from Djibouti to Yemen with 350 people on board, when it capsized near the port town of Obock on Thursday night."
-    },
-    {
       "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
       "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 10 Oct 2026 18:22:29 GMT",
       "description": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance."
     },
     {
+      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 11 Oct 2026 11:11:42 GMT",
+      "description": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday."
+    },
+    {
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 10 Oct 2026 17:44:26 GMT",
       "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
-    },
-    {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 20:51:12 GMT",
-      "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
     },
     {
       "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
@@ -74,22 +86,10 @@
       "description": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\"."
     },
     {
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 10:06:23 GMT",
-      "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach."
-    },
-    {
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 14:49:32 GMT",
-      "description": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people."
-    },
-    {
-      "title": "US country music star Ella Langley cancels show due to 'security threat'",
-      "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 02:02:54 GMT",
-      "description": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\"."
+      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 11 Oct 2026 15:32:32 GMT",
+      "description": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering."
     }
   ],
   "regions": {
@@ -107,13 +107,19 @@
         "description": "The eye of Hurricane Simon was just off the Pacific coast of Mexico early Sunday and was expected to move inland later in the day as an extremely powerful storm."
       },
       {
+        "title": "Justice Department investigates TV networks, citing possible anti-trust violations",
+        "link": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
+        "pubDate": "Sun, 11 Oct 2026 08:04:00 -0400",
+        "description": "The move escalates Trump&apos;s fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House."
+      },
+      {
         "title": "Don&apos;t be scared: Being afraid is outright fun, and maybe useful",
         "link": "https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful",
         "pubDate": "Sun, 11 Oct 2026 08:00:00 -0400",
         "description": "Listeners of NPR&apos;s Weekend Edition Sunday may already know that host Ayesha Rascoe loves horror. But why do scream queens (and kings) like her like what&apos;s frightening? The answer may surpris"
       },
       {
-        "title": "A heroic, 7-day bike ride made this teen a global star. Where is she now?",
+        "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
         "link": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
         "pubDate": "Sun, 11 Oct 2026 07:28:15 -0400",
         "description": "Her epic ride — carrying her injured dad on her $20 hot pink bicycle — made headlines. Promises were made — financial help, training for a cycling career, even a movie deal. Were any of them kept?"
@@ -143,16 +149,10 @@
         "description": "People who lose their jobs in this economy are taking longer to find new work. Nearly four in ten people exhaust their unemployment benefits before they land a new job."
       },
       {
-        "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+        "title": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
         "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
         "pubDate": "Sat, 10 Oct 2026 19:44:15 -0400",
-        "description": "Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300. Their statement says the dead on Saturday included four Saudi ci"
-      },
-      {
-        "title": "Christa Pike discharged from the hospital and back in prison",
-        "link": "https://www.npr.org/2026/10/10/nx-s1-5997504/christa-pike-hospital-prison-after-botched-execution",
-        "pubDate": "Sat, 10 Oct 2026 18:15:04 -0400",
-        "description": "Pike&apos;s attorneys say she is grateful for the care of first responders and her medical team."
+        "description": "A projectile struck a passenger terminal at the international airport in Riyadh on Sunday, a day after a missile hit the same terminal and killed 12 people, officials said."
       }
     ],
     "Canada": []
