@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-11T18:15:46.368Z",
+  "updated": "2026-10-11T22:14:33.205Z",
   "world": [
+    {
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 11 Oct 2026 21:36:40 GMT",
+      "description": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment."
+    },
     {
       "title": "Saudi capital airport hit by second Houthi strike in two days",
       "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 11 Oct 2026 16:41:37 GMT",
+      "pubDate": "Sun, 11 Oct 2026 21:30:11 GMT",
       "description": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities."
-    },
-    {
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 11 Oct 2026 14:38:10 GMT",
-      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
     },
     {
       "title": "Poland detains man suspected of planning assassination of PM Tusk",
@@ -20,10 +20,28 @@
       "description": "Police received credible information about possible attacks against Donald Tusk and his defence minister."
     },
     {
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 11 Oct 2026 21:12:44 GMT",
+      "description": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday."
+    },
+    {
       "title": "Homes and bridges swept away as fresh floods hit Nepal",
       "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 11 Oct 2026 12:03:52 GMT",
       "description": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing."
+    },
+    {
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 11 Oct 2026 14:38:10 GMT",
+      "description": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
+    },
+    {
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 11 Oct 2026 19:08:04 GMT",
+      "description": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer."
     },
     {
       "title": "Poland stabbings driven by online glorification of violence, Tusk says",
@@ -72,24 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 10 Oct 2026 12:28:51 GMT",
       "description": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher."
-    },
-    {
-      "title": "Woman injures three people in third Poland school knife attack in a week",
-      "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 14:58:55 GMT",
-      "description": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days."
-    },
-    {
-      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 15:23:47 GMT",
-      "description": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\"."
-    },
-    {
-      "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 11 Oct 2026 15:32:32 GMT",
-      "description": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering."
     }
   ],
   "regions": {
@@ -131,10 +131,10 @@
         "description": "A group of international researchers is pushing to rigorously study the potential health benefits of sauna and other heat therapies. They hope to bring scientific legitimacy to the age-old practices."
       },
       {
-        "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
-        "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
+        "title": "It&apos;s taking longer to find a new job after losing one",
+        "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
         "pubDate": "Sun, 11 Oct 2026 05:00:00 -0400",
-        "description": "Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division&apos;s enforcement powers to pursue the president&apos;s agend"
+        "description": "People who lose their jobs in this economy are taking longer to find new work. Nearly four in ten people exhaust their unemployment benefits before they land a new job."
       },
       {
         "title": "In one of the country&apos;s most competitive districts, a Democrat tries to keep her seat",
@@ -143,10 +143,10 @@
         "description": "In a highly competitive Washington congressional race, the incumbent Democrat has angered part of her party base and the Trump-backed Republican challenger faces backlash against the party in power."
       },
       {
-        "title": "It&apos;s taking longer to find a new job after losing one",
-        "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
+        "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
+        "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
         "pubDate": "Sun, 11 Oct 2026 05:00:00 -0400",
-        "description": "People who lose their jobs in this economy are taking longer to find new work. Nearly four in ten people exhaust their unemployment benefits before they land a new job."
+        "description": "Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division&apos;s enforcement powers to pursue the president&apos;s agend"
       },
       {
         "title": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
