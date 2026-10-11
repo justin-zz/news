@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T21:05:43.458Z",
+  "updated": "2026-10-11T00:18:50.994Z",
   "world": [
     {
       "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
@@ -8,16 +8,22 @@
       "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
     },
     {
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 10 Oct 2026 22:40:56 GMT",
+      "description": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it."
+    },
+    {
+      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 10 Oct 2026 22:13:08 GMT",
+      "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance."
+    },
+    {
       "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
       "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 10 Oct 2026 20:51:12 GMT",
       "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
-    },
-    {
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 18:37:10 GMT",
-      "description": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it."
     },
     {
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
@@ -28,7 +34,7 @@
     {
       "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
       "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 19:08:17 GMT",
+      "pubDate": "Sat, 10 Oct 2026 23:19:55 GMT",
       "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
     },
     {
@@ -36,6 +42,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 10 Oct 2026 18:22:29 GMT",
       "description": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance."
+    },
+    {
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 10 Oct 2026 12:28:51 GMT",
+      "description": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher."
     },
     {
       "title": "Woman injures three people in third Poland school knife attack in a week",
@@ -62,12 +74,6 @@
       "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach."
     },
     {
-      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 10 Oct 2026 12:28:51 GMT",
-      "description": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher."
-    },
-    {
       "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
       "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 10 Oct 2026 14:49:32 GMT",
@@ -84,16 +90,34 @@
       "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 10 Oct 2026 04:34:55 GMT",
       "description": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport."
-    },
-    {
-      "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 09 Oct 2026 21:55:51 GMT",
-      "description": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+        "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+        "pubDate": "Sat, 10 Oct 2026 19:44:15 -0400",
+        "description": "Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300. Their statement says the dead on Saturday included four Saudi ci"
+      },
+      {
+        "title": "Christa Pike discharged from the hospital and back in prison",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5997504/christa-pike-hospital-prison-after-botched-execution",
+        "pubDate": "Sat, 10 Oct 2026 18:15:04 -0400",
+        "description": "Pike&apos;s attorneys say she is grateful for the care of first responders and her medical team."
+      },
+      {
+        "title": "Bayeux Tapestry&apos;s London tour spurs enthusiasts to Battle of Hastings reenactment",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
+        "pubDate": "Sat, 10 Oct 2026 17:40:58 -0400",
+        "description": "A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK."
+      },
+      {
+        "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+        "link": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+        "pubDate": "Sat, 10 Oct 2026 17:32:53 -0400",
+        "description": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against t"
+      },
       {
         "title": "The Kennedy Center names new artistic director, amid concerns",
         "link": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list",
         "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
         "description": "Carve a pumpkin? You can do better than that. Fun and unusual ways to celebrate the season, from writing a gratitude letter to making an ancestral altar."
-      },
-      {
-        "title": "The Met puts a modern artist front and center (and there&apos;s some Jackson Pollock, too)",
-        "link": "https://www.npr.org/2026/10/10/nx-s1-5920376/lee-krasner-jackson-pollock-met",
-        "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
-        "description": "In a blockbuster show, The Metropolitan Museum of Art places the work of two major 20th century artists side by side: the married couple Lee Krasner and Jackson Pollock."
-      },
-      {
-        "title": "Photos: What a year of ceasefire in Gaza looks like",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
-        "pubDate": "Sat, 10 Oct 2026 05:00:00 -0400",
-        "description": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only."
-      },
-      {
-        "title": "India cracks down on youth protests as anger grows against Modi and election chief",
-        "link": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
-        "pubDate": "Sat, 10 Oct 2026 04:31:28 -0400",
-        "description": "The protests focus on the Election Commission&apos;s voter list revision, which the opposition claims disenfranchises millions. The government denies the allegations, saying the revision aims to elimi"
-      },
-      {
-        "title": "Kalshi taps former FBI agent to fight against money laundering",
-        "link": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
-        "pubDate": "Fri, 09 Oct 2026 18:23:11 -0400",
-        "description": "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site."
       }
     ],
     "Canada": []
