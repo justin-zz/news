@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-11T22:14:33.205Z",
+  "updated": "2026-10-12T01:30:39.087Z",
   "world": [
     {
       "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
       "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 11 Oct 2026 21:36:40 GMT",
-      "description": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment."
+      "description": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement."
     },
     {
-      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
       "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 11 Oct 2026 21:30:11 GMT",
-      "description": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities."
+      "pubDate": "Sun, 11 Oct 2026 22:45:58 GMT",
+      "description": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend."
     },
     {
       "title": "Poland detains man suspected of planning assassination of PM Tusk",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
+        "link": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
+        "pubDate": "Sun, 11 Oct 2026 19:54:21 -0400",
+        "description": "Forecasters say the storm, which brought heavy rain and coastal flooding, is a preview of what may be in store as California braces for a possibly record-setting El Niño."
+      },
+      {
         "title": "Pope Leo XIV to undergo lung surgery this week",
         "link": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
         "pubDate": "Sun, 11 Oct 2026 08:54:25 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
         "pubDate": "Sun, 11 Oct 2026 05:00:00 -0400",
         "description": "Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division&apos;s enforcement powers to pursue the president&apos;s agend"
-      },
-      {
-        "title": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
-        "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-        "pubDate": "Sat, 10 Oct 2026 19:44:15 -0400",
-        "description": "A projectile struck a passenger terminal at the international airport in Riyadh on Sunday, a day after a missile hit the same terminal and killed 12 people, officials said."
       }
     ],
     "Canada": []
