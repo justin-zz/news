@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-12T18:31:54.756Z",
+  "updated": "2026-10-13T01:04:46.563Z",
   "world": [
     {
       "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 12 Oct 2026 17:32:13 GMT",
+      "pubDate": "Mon, 12 Oct 2026 21:20:51 GMT",
       "description": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says."
+    },
+    {
+      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+      "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 12 Oct 2026 20:17:37 GMT",
+      "description": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little."
     },
     {
       "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
@@ -16,8 +22,14 @@
     {
       "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
       "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 12 Oct 2026 14:00:03 GMT",
+      "pubDate": "Mon, 12 Oct 2026 20:54:09 GMT",
       "description": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
+    },
+    {
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 13 Oct 2026 00:12:25 GMT",
+      "description": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series."
     },
     {
       "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
@@ -26,16 +38,22 @@
       "description": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old."
     },
     {
-      "title": "Immigration agents search Congresswoman Ilhan Omar's home",
+      "title": "Immigration agents search congresswoman Ilhan Omar's home",
       "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 12 Oct 2026 17:09:55 GMT",
-      "description": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and that she \"will not be silenced\"."
+      "pubDate": "Mon, 12 Oct 2026 22:05:31 GMT",
+      "description": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\"."
     },
     {
       "title": "Fridges in French supermarkets hit by cyber attack",
       "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 12 Oct 2026 18:31:32 GMT",
       "description": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros."
+    },
+    {
+      "title": "Qantas flight grounded after bedbug outbreak",
+      "link": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 12 Oct 2026 21:01:45 GMT",
+      "description": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites."
     },
     {
       "title": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
@@ -64,7 +82,7 @@
     {
       "title": "Pupil arrested after two teachers shot at French school",
       "link": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 12 Oct 2026 17:13:31 GMT",
+      "pubDate": "Mon, 12 Oct 2026 21:01:28 GMT",
       "description": "A 14-year-old was detained after the middle-school principal and teacher were injured."
     },
     {
@@ -72,28 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 11 Oct 2026 23:13:20 GMT",
       "description": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles."
-    },
-    {
-      "title": "Women's billion-dollar boom leaves players behind, says Fifpro",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 12 Oct 2026 10:04:50 GMT",
-      "description": "Women's football is on course to become a billion-dollar industry, but many professional players are still earning low wages, working on insecure contracts and experiencing rising psychological stress"
-    },
-    {
-      "title": "Poland detains man suspected of planning assassination of PM Tusk",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 11 Oct 2026 17:27:24 GMT",
-      "description": "Police received credible information about possible attacks against Donald Tusk and his defence minister."
-    },
-    {
-      "title": "Poland stabbings driven by online glorification of violence, Tusk says",
-      "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 11 Oct 2026 15:18:52 GMT",
-      "description": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "New White House press secretary a &quot;devoted fan&quot; of Trump and MAGA",
+        "link": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
+        "pubDate": "Mon, 12 Oct 2026 18:17:43 -0400",
+        "description": "Katie Zacharia worked for one of Trump&apos;s companies and raised her profile appearing on conservative-leaning talk shows. She also amplified right-wing conspiracy theories. Now she&apos;ll be the p"
+      },
+      {
+        "title": "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
+        "link": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
+        "pubDate": "Mon, 12 Oct 2026 18:16:47 -0400",
+        "description": "Nearly $22 million in taxpayers funds has been spent to air the ads, with nearly half spent after Trump promised to fund what the White House calls public service announcements through his super PAC."
+      },
       {
         "title": "Federal agents search Rep. Ilhan Omar&apos;s DC home, DOJ says it approved the warrant",
         "link": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
         "pubDate": "Mon, 12 Oct 2026 04:35:16 -0400",
         "description": "Two Americans have won the Nobel Prize in economics for their work on how to smooth boom-and-bust cycles to limit unemployment and inflation."
-      },
-      {
-        "title": "Trump says Russia and Ukraine agree to an &apos;energy ceasefire&apos;",
-        "link": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
-        "pubDate": "Mon, 12 Oct 2026 02:41:57 -0400",
-        "description": "President Trump said Sunday that Russia and Ukraine had agreed to an &quot;energy ceasefire,&quot; but he offered no details on it and Kyiv reported attacks by Moscow on energy sites after his stateme"
-      },
-      {
-        "title": "Tropical Storm Rachel downgraded as high winds and rain turn inward",
-        "link": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
-        "pubDate": "Sun, 11 Oct 2026 19:54:21 -0400",
-        "description": "Forecasters say the storm, which brought heavy rain and coastal flooding, is a preview of what may be in store as California braces for a possibly record-setting El Niño."
       }
     ],
     "Canada": []
