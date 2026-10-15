@@ -1,11 +1,23 @@
 {
-  "updated": "2026-10-15T11:52:37.504Z",
+  "updated": "2026-10-15T16:13:16.263Z",
   "world": [
     {
-      "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 15 Oct 2026 15:52:10 GMT",
+      "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years."
+    },
+    {
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
       "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 10:27:26 GMT",
-      "description": "Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks."
+      "pubDate": "Thu, 15 Oct 2026 15:09:15 GMT",
+      "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks."
+    },
+    {
+      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 15 Oct 2026 15:26:16 GMT",
+      "description": "Children were buried under the debris after the roof crashed through three classrooms, police say."
     },
     {
       "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
@@ -14,22 +26,16 @@
       "description": "Residents have been told to avoid leaving their homes unless absolutely necessary."
     },
     {
-      "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
       "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 11:12:54 GMT",
+      "pubDate": "Thu, 15 Oct 2026 14:51:30 GMT",
       "description": "A search and rescue operation is under way in the Black Sea after the latest attack in the area."
     },
     {
-      "title": "White House defends new press secretary amid questions about her legal credentials",
+      "title": "White House defends new press secretary over her legal credentials",
       "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 15 Oct 2026 08:41:04 GMT",
       "description": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived."
-    },
-    {
-      "title": "Brazil's Congress approves shorter working week in win for Lula",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 10:05:17 GMT",
-      "description": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days."
     },
     {
       "title": "Obama says drift towards extremism 'not inevitable'",
@@ -38,7 +44,13 @@
       "description": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. ."
     },
     {
-      "title": "At the Brooklyn novelty shop in 'surreal' row with Kelly Clarkson over mechanical bird",
+      "title": "Brazil's Congress approves shorter working week in win for Lula",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 15 Oct 2026 10:05:17 GMT",
+      "description": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days."
+    },
+    {
+      "title": "At the Brooklyn shop in 'surreal' row with Kelly Clarkson over mechanical bird",
       "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 14 Oct 2026 22:19:13 GMT",
       "description": "Art of Play says its staff have been threatened after the singer complained online about how she was treated."
@@ -78,18 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 15 Oct 2026 02:26:07 GMT",
       "description": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter."
-    },
-    {
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 11:25:19 GMT",
-      "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country."
-    },
-    {
-      "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
-      "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 05:00:23 GMT",
-      "description": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm."
     }
   ],
   "regions": {
@@ -119,7 +119,7 @@
         "description": "One plays the bull, the other the bullfighter, as a pair practices a dance of death in a sport that&apos;s prohibited in the Mexican capital city."
       },
       {
-        "title": "Essential items to stock in your medicine cabinet for cold and flu season",
+        "title": "Make a &apos;sick day&apos; kit for cold and flu season before your household gets hit",
         "link": "https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season",
         "pubDate": "Thu, 15 Oct 2026 05:02:00 -0400",
         "description": "Cold and flu season is here. Before someone in your household gets hit, make sure you have these essential meds and comfort items in your medicine cabinet."
@@ -131,7 +131,7 @@
         "description": "Some key voters in Georgia say deep frustration and disappointment with President Trump are motivating their election plans just weeks before Election Day."
       },
       {
-        "title": "For some Christians, Hegseth&apos;s plan for public execution fits a biblical mandate",
+        "title": "Trump cancels public execution, but a line may already have been crossed",
         "link": "https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist",
         "pubDate": "Thu, 15 Oct 2026 05:00:00 -0400",
         "description": "Defense Secretary Hegseth&apos;s announcement of a livestreamed execution elicited reactions of disgust and condemnation from some faith leaders and politicians. But within his church, it&apos;s not a"
@@ -149,10 +149,10 @@
         "description": "The roof of a private school collapsed in northwestern Pakistan on Thursday, killing at least 28 children and a female teacher and injuring more than 50 other people."
       },
       {
-        "title": "Aboard an icebreaker, a writer got a closer look at the Arctic&apos;s &apos;Sea Change&apos;",
-        "link": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
-        "pubDate": "Wed, 14 Oct 2026 15:42:03 -0400",
-        "description": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in &lt;em&gt;Sea Change.&lt;/em&gt;"
+        "title": "How one network of mall skincare stores targeted vulnerable people across the U.S.",
+        "link": "https://www.npr.org/2026/10/14/nx-s1-5992778/how-one-network-of-mall-skincare-stores-targeted-vulnerable-people-across-the-u-s",
+        "pubDate": "Wed, 14 Oct 2026 16:27:51 -0400",
+        "description": "Free samples, high-pressure pitches and $50,000 bills: An NPR investigation reveals how a network of mall skincare stores systematically targeted older adults and people with disabilities across the U"
       }
     ],
     "Canada": []
