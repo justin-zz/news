@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-14T22:56:39.283Z",
+  "updated": "2026-10-15T01:14:20.418Z",
   "world": [
     {
-      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
       "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 14 Oct 2026 20:55:24 GMT",
       "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\"."
     },
     {
-      "title": "Student protesters attack government buildings in Tirana",
+      "title": "Student protesters attack government buildings in Albania",
       "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 14 Oct 2026 20:29:05 GMT",
-      "description": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest."
+      "description": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects."
     },
     {
       "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
@@ -131,6 +131,18 @@
         "description": "The White House publicly asked for U.S. Ambassador to Greece Kimberly Guilfoyle&apos;s resignation on Tuesday as she faced mounting accusations of improper conduct."
       },
       {
+        "title": "&apos;They&apos;re stealing from the poor&apos;: A major source of SNAP fraud robs recipients of millions",
+        "link": "https://www.npr.org/2026/10/14/nx-s1-5985198/snap-fraud-ebt-card-skimming-chip-cards",
+        "pubDate": "Wed, 14 Oct 2026 05:00:00 -0400",
+        "description": "Organized criminal rings target SNAP recipients because of the government program&apos;s outdated security features. But upgrading the tech costs money and states&apos; SNAP budgets are getting squeez"
+      },
+      {
+        "title": "In Kansas, a newly competitive Senate race tests limit of Trump&apos;s unpopular policies",
+        "link": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
+        "pubDate": "Wed, 14 Oct 2026 05:00:00 -0400",
+        "description": "Kansas voters could send a Democrat to the Senate for the first time in nearly a century — and flip the governor&apos;s office back to Republican control, even in what could be a tough year for the GO"
+      },
+      {
         "title": "The skincare scheme that led to consumer complaints, lawsuits and a federal investigation",
         "link": "https://www.npr.org/2026/10/14/nx-s1-5550974/skincare-scheme-mazal-group-investigation",
         "pubDate": "Wed, 14 Oct 2026 05:00:00 -0400",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
         "pubDate": "Wed, 14 Oct 2026 05:00:00 -0400",
         "description": "For years, customers have complained of aggressive sales tactics and charges at mall skincare stores. NPR investigated the business that connects many of them."
-      },
-      {
-        "title": "Civil rights advocates plan to send thousands of observers to midterm polling places",
-        "link": "https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers",
-        "pubDate": "Wed, 14 Oct 2026 05:00:00 -0400",
-        "description": "For many election cycles, civil rights groups and political parties have fanned out to monitor polling places, but the charged midterm environment has many organizations stepping up efforts this year."
-      },
-      {
-        "title": "&apos;They&apos;re stealing from the poor&apos;: A major source of SNAP fraud robs recipients of millions",
-        "link": "https://www.npr.org/2026/10/14/nx-s1-5985198/snap-fraud-ebt-card-skimming-chip-cards",
-        "pubDate": "Wed, 14 Oct 2026 05:00:00 -0400",
-        "description": "Organized criminal rings target SNAP recipients because of the government program&apos;s outdated security features. But upgrading the tech costs money and states&apos; SNAP budgets are getting squeez"
       }
     ],
     "Canada": []
