@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-16T15:59:36.463Z",
+  "updated": "2026-10-16T19:29:57.969Z",
   "world": [
     {
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 16 Oct 2026 15:22:12 GMT",
-      "description": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\"."
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 16:00:30 GMT",
+      "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump."
     },
     {
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
@@ -14,28 +14,34 @@
       "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents."
     },
     {
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 15:59:30 GMT",
+      "description": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\"."
+    },
+    {
       "title": "Pope pictured for first time since surgery and cancer diagnosis",
       "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 16 Oct 2026 14:36:39 GMT",
       "description": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday."
     },
     {
-      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 16 Oct 2026 14:21:32 GMT",
-      "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window."
-    },
-    {
       "title": "India's 'cockroach' party founder detained ahead of protest",
       "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 16 Oct 2026 11:44:31 GMT",
-      "description": "The youth-led movement planned a fresh Delhi protest after mass detentions last week and the jailing of two leaders."
+      "description": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders."
     },
     {
       "title": "US senators call for investigation into Ukraine's Starlink restrictions",
       "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 16 Oct 2026 14:19:50 GMT",
       "description": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions."
+    },
+    {
+      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 16 Oct 2026 14:21:32 GMT",
+      "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window."
     },
     {
       "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
@@ -84,16 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 15 Oct 2026 22:37:21 GMT",
       "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said."
-    },
-    {
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 16:50:18 GMT",
-      "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Katie Zacharia is &apos;transitioning out&apos; as press secretary, White House says",
+        "link": "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future",
+        "pubDate": "Fri, 16 Oct 2026 14:08:33 -0400",
+        "description": "Katie Zacharia&apos;s first official day was on Monday."
+      },
+      {
+        "title": "Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment",
+        "link": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
+        "pubDate": "Fri, 16 Oct 2026 13:45:16 -0400",
+        "description": "For the first time since 2014, the American College of Obstetricians and Gynecologists has updated its guidelines for the treatment of symptoms commonly associated with menopause."
+      },
+      {
+        "title": "Amid talk of public execution, public opinion on death penalty is split",
+        "link": "https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty",
+        "pubDate": "Fri, 16 Oct 2026 12:28:00 -0400",
+        "description": "A majority of Americans support the death penalty for people convicted of murder, but support becomes more divided when questions vary."
+      },
       {
         "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
         "link": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
@@ -125,18 +143,6 @@
         "description": "Character.AI collected millions of users, making it a very appealing acquisition. Google took a unique route to &quot;acquiring&quot; it, hiring away its founders and licensing its technology. Now Cha"
       },
       {
-        "title": "Do Americans own the president&apos;s papers? Appeals court to weigh in",
-        "link": "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court",
-        "pubDate": "Fri, 16 Oct 2026 05:00:00 -0400",
-        "description": "The administration says papers created in the White House belong to Donald Trump, not to the American people. The case could ultimately end up at the conservative-leaning Supreme Court."
-      },
-      {
-        "title": "&apos;Everything got worse&apos;: Gen Z express frustration, regret after Trump vote",
-        "link": "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support",
-        "pubDate": "Fri, 16 Oct 2026 05:00:00 -0400",
-        "description": "A focus group of eight Gen Z Trump voters reported feeling unhappy or disappointed with the state of politics, with some going as far as to say they regret supporting him in 2024."
-      },
-      {
         "title": "Remembering Oscar-winning actor Eva Marie Saint",
         "link": "https://www.npr.org/2026/10/16/nx-s1-6003516/remembering-oscar-winning-actor-eva-marie-saint",
         "pubDate": "Fri, 16 Oct 2026 05:00:00 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/16/g-s1-148041/pope-leo-musk-mamdani-trump-guilfoyle-news-quiz",
         "pubDate": "Fri, 16 Oct 2026 05:00:00 -0400",
         "description": "Plus, this week saw comings and goings at the White House, the revenge of a child (reality) star, and Elon Musk doing Elon Musk things."
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/10/16/nx-s1-5998699/morning-news-brief",
-        "pubDate": "Fri, 16 Oct 2026 04:58:56 -0400",
-        "description": "Three children and a teacher were killed in a shooting at an Oregon school, how Russia is viewing Ukraine&apos;s strikes and its growing rift with the U.S., DOJ sues California over its voter rolls."
       }
     ],
     "Canada": []
