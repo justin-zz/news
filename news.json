@@ -1,12 +1,6 @@
 {
-  "updated": "2026-10-15T22:56:23.707Z",
+  "updated": "2026-10-16T01:00:29.006Z",
   "world": [
-    {
-      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 22:37:21 GMT",
-      "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said."
-    },
     {
       "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
       "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&amp;at_campaign=rss",
@@ -18,6 +12,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 15 Oct 2026 16:50:18 GMT",
       "description": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks."
+    },
+    {
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 15 Oct 2026 22:37:21 GMT",
+      "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said."
     },
     {
       "title": "Maduro pleads not guilty to new torture-related charges in New York",
@@ -32,16 +32,22 @@
       "description": "Children were buried under the debris after the roof crashed through three classrooms, police say."
     },
     {
-      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 17:18:49 GMT",
-      "description": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace."
-    },
-    {
       "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
       "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 15 Oct 2026 15:00:05 GMT",
       "description": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought."
+    },
+    {
+      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 15 Oct 2026 23:27:21 GMT",
+      "description": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police."
+    },
+    {
+      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 15 Oct 2026 23:38:46 GMT",
+      "description": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace."
     },
     {
       "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 15 Oct 2026 10:05:17 GMT",
       "description": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days."
-    },
-    {
-      "title": "At the Brooklyn shop in 'surreal' row with Kelly Clarkson over mechanical bird",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 14 Oct 2026 22:19:13 GMT",
-      "description": "Art of Play says its staff have been threatened after the singer complained online about how she was treated."
     }
   ],
   "regions": {
@@ -98,7 +98,7 @@
         "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
         "link": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide",
         "pubDate": "Thu, 15 Oct 2026 16:50:53 -0400",
-        "description": "In this first episode of &lt;em&gt;Your Turn with Allison Aubrey&lt;/em&gt;, we explore the science of the flow state with violinist Diane Allen, who lost her flow and then tried to find it again, and"
+        "description": "As part of her new podcast and newsletter &lt;em&gt;Your Turn with Allison Aubrey, &lt;/em&gt;NPR&apos;s Allison Aubrey went in search of tools to help navigate midlife — starting with this survey to "
       },
       {
         "title": "Suspicious mailings to election officials, congressional offices under investigation",
