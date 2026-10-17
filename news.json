@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-17T21:22:07.092Z",
+  "updated": "2026-10-17T23:17:25.645Z",
   "world": [
     {
-      "title": "Violent clashes, looting and buildings ablaze as hundreds arrested after France protests",
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
       "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 17 Oct 2026 20:52:17 GMT",
       "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests."
@@ -30,6 +30,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 17 Oct 2026 19:19:16 GMT",
       "description": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival."
+    },
+    {
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 17 Oct 2026 22:09:50 GMT",
+      "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans."
     },
     {
       "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 17 Oct 2026 00:38:34 GMT",
       "description": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\"."
-    },
-    {
-      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 16 Oct 2026 23:54:35 GMT",
-      "description": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
+        "link": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
+        "pubDate": "Sat, 17 Oct 2026 18:45:25 -0400",
+        "description": "NPR&apos;s Joel Rose talks with Oregon Governor Tina Kotek about the shooting at Silver Rail Elementary in Bend, Oregon."
+      },
       {
         "title": "Scuffles and fires break out as protesters rally across France, joining students",
         "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
         "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
         "description": "President Trump&apos;s midterm travel blitz ahead of Election Day includes several red states he won easily 2 years ago, showing the electoral landscape is more challenging for Republicans."
-      },
-      {
-        "title": "No Kings turns its focus to voting this weekend. Here&apos;s what we know",
-        "link": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
-        "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
-        "description": "The coalition behind nationwide anti-Trump protests is shifting its strategies this weekend to focus on voter turnout. Organizers say Saturday&apos;s events are a nonpartisan effort to get people to t"
       }
     ],
     "Canada": []
