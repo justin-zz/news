@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T16:33:56.537Z",
+  "updated": "2026-10-17T18:59:37.785Z",
   "world": [
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -137,12 +137,6 @@
         "description": "More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa&apos;s past&lt;br&gt;are still fighting for justice. As survivors and perpetrators g"
       },
       {
-        "title": "No Kings turns its focus to voting this weekend. Here&apos;s what we know",
-        "link": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
-        "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
-        "description": "The coalition behind nationwide anti-Trump protests is shifting its strategies this weekend to focus on voter turnout. Organizers say Saturday&apos;s events are a nonpartisan effort to get people to t"
-      },
-      {
         "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
         "link": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
         "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
@@ -153,6 +147,12 @@
         "link": "https://www.npr.org/2026/10/17/nx-s1-6004276/trump-travel-midterms",
         "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
         "description": "President Trump&apos;s midterm travel blitz ahead of Election Day includes several red states he won easily 2 years ago, showing the electoral landscape is more challenging for Republicans."
+      },
+      {
+        "title": "No Kings turns its focus to voting this weekend. Here&apos;s what we know",
+        "link": "https://www.npr.org/2026/10/17/nx-s1-6004887/no-kings-voting-trump",
+        "pubDate": "Sat, 17 Oct 2026 05:00:00 -0400",
+        "description": "The coalition behind nationwide anti-Trump protests is shifting its strategies this weekend to focus on voter turnout. Organizers say Saturday&apos;s events are a nonpartisan effort to get people to t"
       }
     ],
     "Canada": []
