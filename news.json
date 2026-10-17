@@ -1,17 +1,35 @@
 {
-  "updated": "2026-10-17T00:40:01.880Z",
+  "updated": "2026-10-17T05:16:41.260Z",
   "world": [
+    {
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 17 Oct 2026 02:33:09 GMT",
+      "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
+    },
+    {
+      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 17 Oct 2026 05:02:50 GMT",
+      "description": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests."
+    },
+    {
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 17 Oct 2026 01:19:04 GMT",
+      "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
+    },
+    {
+      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 17 Oct 2026 03:11:10 GMT",
+      "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery."
+    },
     {
       "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
       "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 16 Oct 2026 16:00:30 GMT",
       "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump."
-    },
-    {
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 16 Oct 2026 23:07:38 GMT",
-      "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
     },
     {
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
@@ -72,24 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 16 Oct 2026 14:33:32 GMT",
       "description": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale."
-    },
-    {
-      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 16 Oct 2026 14:57:51 GMT",
-      "description": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms."
-    },
-    {
-      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 16 Oct 2026 08:45:54 GMT",
-      "description": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference."
-    },
-    {
-      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-      "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 15 Oct 2026 15:26:16 GMT",
-      "description": "Children were buried under the debris after the roof crashed through three classrooms, police say."
     }
   ],
   "regions": {
@@ -149,10 +149,10 @@
         "description": "Character.AI collected millions of users, making it a very appealing acquisition. Google took a unique route to &quot;acquiring&quot; it, hiring away its founders and licensing its technology. Now Cha"
       },
       {
-        "title": "Remembering Oscar-winning actor Eva Marie Saint",
-        "link": "https://www.npr.org/2026/10/16/nx-s1-6003516/remembering-oscar-winning-actor-eva-marie-saint",
+        "title": "How much money has Musk given to Republican groups since July? The quiz knows",
+        "link": "https://www.npr.org/2026/10/16/g-s1-148041/pope-leo-musk-mamdani-trump-guilfoyle-news-quiz",
         "pubDate": "Fri, 16 Oct 2026 05:00:00 -0400",
-        "description": "Saint, who died Oct. 6, studied at the Actors Studio and was best known for her roles in &lt;em&gt;On the Waterfront&lt;/em&gt; and the Hitchcock film &lt;em&gt;North by Northwest.&lt;/em&gt; &lt;em&g"
+        "description": "Plus, this week saw comings and goings at the White House, the revenge of a child (reality) star, and Elon Musk doing Elon Musk things."
       }
     ],
     "Canada": []
