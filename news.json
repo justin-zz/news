@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-18T11:31:43.247Z",
+  "updated": "2026-10-18T15:18:32.877Z",
   "world": [
     {
       "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
       "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 10:53:54 GMT",
-      "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
+      "pubDate": "Sun, 18 Oct 2026 12:07:31 GMT",
+      "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
     },
     {
-      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 17 Oct 2026 22:09:50 GMT",
-      "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans."
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 18 Oct 2026 11:57:49 GMT",
+      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook."
     },
     {
       "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
@@ -22,14 +22,8 @@
     {
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 17 Oct 2026 23:52:38 GMT",
+      "pubDate": "Sun, 18 Oct 2026 12:16:14 GMT",
       "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
-    },
-    {
-      "title": "Several dead or injured in major fire at Canada military base",
-      "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 08:52:41 GMT",
-      "description": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright."
     },
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -42,6 +36,12 @@
       "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 17 Oct 2026 20:53:00 GMT",
       "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana."
+    },
+    {
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 18 Oct 2026 13:47:07 GMT",
+      "description": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days."
     },
     {
       "title": "At least 17 dead in crush at Hindu festival event in India",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Pope Leo says he will gradually resume duties after cancer surgery",
+        "link": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+        "pubDate": "Sun, 18 Oct 2026 08:55:01 -0400",
+        "description": "Pope Leo XIV thanked thousands of faithful in St. Peter&apos;s Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties."
+      },
+      {
+        "title": "If you have the scratch, they have the scares",
+        "link": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
+        "pubDate": "Sun, 18 Oct 2026 08:00:00 -0400",
+        "description": "Scary stories are more than fun, they&apos;re big business."
+      },
+      {
         "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
         "link": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
         "pubDate": "Sun, 18 Oct 2026 05:00:00 -0400",
@@ -113,10 +125,10 @@
         "description": "NPR&apos;s Joel Rose talks with Oregon Governor Tina Kotek about the shooting at Silver Rail Elementary in Bend, Oregon."
       },
       {
-        "title": "Paris police report 855 arrests after violent clashes and looting during protests",
+        "title": "French police arrest 1,800 after violent clashes and looting mar protests",
         "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
         "pubDate": "Sat, 17 Oct 2026 11:57:40 -0400",
-        "description": "Paris police said Sunday that 855 people were arrested in the French capital region after violent groups clashed with officers and looted shops during a protest march that drew about 110,000 people."
+        "description": "Police arrested at least 1,800 people across France after violent groups clashed with officers and looted shops during nationwide demonstrations that drew hundreds of thousands of people."
       },
       {
         "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
         "pubDate": "Sat, 17 Oct 2026 07:43:14 -0400",
         "description": "The major party candidates for Minnesota&apos;s U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration&apos;s policies "
-      },
-      {
-        "title": "Dozens of critically endangered orangutans rescued from Indonesian wildfires",
-        "link": "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires",
-        "pubDate": "Sat, 17 Oct 2026 07:43:13 -0400",
-        "description": "Rescuers in Indonesia have saved dozens of orangutans from wildfires. The critically endangered species is fighting for their lives and habitats during this deadly wildfire season."
-      },
-      {
-        "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
-        "link": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
-        "pubDate": "Sat, 17 Oct 2026 07:00:00 -0400",
-        "description": "More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa&apos;s past&lt;br&gt;are still fighting for justice. As survivors and perpetrators g"
       }
     ],
     "Canada": []
