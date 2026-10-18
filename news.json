@@ -1,11 +1,23 @@
 {
-  "updated": "2026-10-18T18:14:00.713Z",
+  "updated": "2026-10-18T20:56:32.524Z",
   "world": [
     {
       "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
       "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 18 Oct 2026 12:07:31 GMT",
       "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
+    },
+    {
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 18 Oct 2026 20:33:21 GMT",
+      "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris."
+    },
+    {
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 18 Oct 2026 19:42:37 GMT",
+      "description": "At least four people are confirmed to have died after a huge fire swept through the base."
     },
     {
       "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
@@ -78,22 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 17 Oct 2026 03:11:10 GMT",
       "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery."
-    },
-    {
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 17 Oct 2026 02:33:09 GMT",
-      "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
-    },
-    {
-      "title": "Katie Zacharia leaving White House role less than five days into job",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 17 Oct 2026 09:14:10 GMT",
-      "description": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Ukraine and the U.S. are at odds over Starshield. Here&apos;s what to know",
+        "link": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+        "pubDate": "Sun, 18 Oct 2026 14:38:49 -0400",
+        "description": "Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military&apos;s loss of normal access to the key satellite communications service used by the Ukrainian m"
+      },
       {
         "title": "Noah Adams, longtime host of NPR&apos;s All Things Considered, has died",
         "link": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died",
@@ -137,7 +143,7 @@
         "description": "NPR&apos;s Joel Rose talks with Oregon Governor Tina Kotek about the shooting at Silver Rail Elementary in Bend, Oregon."
       },
       {
-        "title": "French police arrest 1,800 after violent clashes and looting mar protests",
+        "title": "France&apos;s Macron vows to hold accountable those who &apos;sought to bring down the Republic&apos;",
         "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
         "pubDate": "Sat, 17 Oct 2026 11:57:40 -0400",
         "description": "Police arrested at least 1,800 people across France after violent groups clashed with officers and looted shops during nationwide demonstrations that drew hundreds of thousands of people."
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
         "pubDate": "Sat, 17 Oct 2026 11:10:14 -0400",
         "description": "The Pope left Rome&apos;s Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in November."
-      },
-      {
-        "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-        "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
-        "pubDate": "Sat, 17 Oct 2026 10:25:10 -0400",
-        "description": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details."
       }
     ],
     "Canada": []
