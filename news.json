@@ -1,12 +1,6 @@
 {
-  "updated": "2026-10-18T20:56:32.524Z",
+  "updated": "2026-10-18T22:48:12.705Z",
   "world": [
-    {
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 12:07:31 GMT",
-      "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
-    },
     {
       "title": "Macron calls for 'calm and order' after riots across France",
       "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&amp;at_campaign=rss",
@@ -16,8 +10,20 @@
     {
       "title": "What we know so far about deadly fire at Canadian military base",
       "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 19:42:37 GMT",
+      "pubDate": "Sun, 18 Oct 2026 21:37:56 GMT",
       "description": "At least four people are confirmed to have died after a huge fire swept through the base."
+    },
+    {
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 18 Oct 2026 22:10:45 GMT",
+      "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
+    },
+    {
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 18 Oct 2026 21:00:22 GMT",
+      "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs."
     },
     {
       "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
@@ -26,16 +32,22 @@
       "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook."
     },
     {
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 05:04:31 GMT",
-      "description": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
+      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 18 Oct 2026 19:53:27 GMT",
+      "description": "Presley Gerber's death in September is being investigated as a suspected overdose."
     },
     {
       "title": "European diplomats attacked by Israeli settlers in West Bank",
       "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 18 Oct 2026 12:16:14 GMT",
       "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
+    },
+    {
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 18 Oct 2026 13:47:07 GMT",
+      "description": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days."
     },
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -48,12 +60,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 17 Oct 2026 20:53:00 GMT",
       "description": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana."
-    },
-    {
-      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 13:47:07 GMT",
-      "description": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days."
     },
     {
       "title": "At least 17 dead in crush at Hindu festival event in India",
@@ -84,12 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 17 Oct 2026 13:51:36 GMT",
       "description": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday."
-    },
-    {
-      "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-      "link": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 17 Oct 2026 03:11:10 GMT",
-      "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery."
     }
   ],
   "regions": {
