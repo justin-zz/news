@@ -1,29 +1,41 @@
 {
-  "updated": "2026-10-19T05:39:47.238Z",
+  "updated": "2026-10-19T11:59:14.959Z",
   "world": [
-    {
-      "title": "Macron calls for 'calm and order' after riots across France",
-      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 05:07:21 GMT",
-      "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris."
-    },
-    {
-      "title": "France's government under pressure after weekend of widespread violence",
-      "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 04:16:46 GMT",
-      "description": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes."
-    },
-    {
-      "title": "Major fire at Canada military base leaves four dead, dozens injured",
-      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 23:06:09 GMT",
-      "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\"."
-    },
     {
       "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
       "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 19 Oct 2026 00:06:25 GMT",
       "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war."
+    },
+    {
+      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+      "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 09:24:33 GMT",
+      "description": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive."
+    },
+    {
+      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 10:33:12 GMT",
+      "description": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children."
+    },
+    {
+      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 06:00:18 GMT",
+      "description": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million."
+    },
+    {
+      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 09:11:42 GMT",
+      "description": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance."
+    },
+    {
+      "title": "Italian PM Meloni to hold emergency meeting after weekend of violent clashes",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 11:23:36 GMT",
+      "description": "More than 200 people were detained during two days of rioting in the city, Italian media reports."
     },
     {
       "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
@@ -32,34 +44,28 @@
       "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
     },
     {
-      "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 01:50:48 GMT",
-      "description": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd."
+      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 08:17:19 GMT",
+      "description": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque."
     },
     {
-      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 03:44:02 GMT",
-      "description": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell."
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 09:40:44 GMT",
+      "description": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest."
+    },
+    {
+      "title": "Bollywood actor Tiger Shroff survives shooting attempt in Mumbai",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 07:35:06 GMT",
+      "description": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd."
     },
     {
       "title": "Bomb threat forces Israel to Austria flight into emergency landing",
       "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 02:41:50 GMT",
+      "pubDate": "Mon, 19 Oct 2026 06:29:55 GMT",
       "description": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said."
-    },
-    {
-      "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 19:53:27 GMT",
-      "description": "Presley Gerber's death in September is being investigated as a suspected overdose."
-    },
-    {
-      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 04:30:59 GMT",
-      "description": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing."
     },
     {
       "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
@@ -68,32 +74,74 @@
       "description": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports."
     },
     {
+      "title": "Musk and Anthropic pledge public share giveaways",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 09:38:25 GMT",
+      "description": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing."
+    },
+    {
       "title": "Australian Greens senator denies claims of misconduct towards women",
       "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 19 Oct 2026 04:54:25 GMT",
       "description": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens."
     },
     {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 15:46:10 GMT",
-      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook."
-    },
-    {
-      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
-      "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 13:47:07 GMT",
-      "description": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days."
-    },
-    {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 12:16:14 GMT",
-      "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 18 Oct 2026 05:04:31 GMT",
+      "description": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Australian prime minister says lawmaker critically injured by car is &apos;no accident&apos;",
+        "link": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
+        "pubDate": "Mon, 19 Oct 2026 07:38:43 -0400",
+        "description": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested."
+      },
+      {
+        "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
+        "link": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
+        "pubDate": "Mon, 19 Oct 2026 07:15:43 -0400",
+        "description": "More than $15 billion has been raised in this year&apos;s midterm elections. And, France&apos;s president is condemning the violent protests erupting across the country."
+      },
+      {
+        "title": "The real reason it&apos;s going to take a while to know who won in some midterm races",
+        "link": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
+        "pubDate": "Mon, 19 Oct 2026 05:00:00 -0400",
+        "description": "Hint: It&apos;s not &lt;em&gt;only &lt;/em&gt;because California counts slowly."
+      },
+      {
+        "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+        "link": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
+        "pubDate": "Mon, 19 Oct 2026 05:00:00 -0400",
+        "description": "A large underwater wave moved up the West Coast, raising sea levels. Scientists say it&apos;s driven by El Niño and it&apos;s going to happen again."
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/10/19/nx-s1-6003499/morning-news-brief",
+        "pubDate": "Mon, 19 Oct 2026 04:46:44 -0400",
+        "description": "Ukraine and Russia exchange strikes as relations between U.S. and Ukraine deteriorate, the midterms are on track to be the most expensive on record, French president denounces violent protests."
+      },
+      {
+        "title": "Michigan&apos;s Democratic Senate candidate Abdul El-Sayed campaigns in GOP stronghold",
+        "link": "https://www.npr.org/2026/10/19/nx-s1-6005195/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
+        "pubDate": "Mon, 19 Oct 2026 04:46:18 -0400",
+        "description": "Michigan&apos;s Democratic U.S. Senate candidate Abdul El-Sayed is campaigning in the GOP stronghold of Michigan&apos;s Upper Peninsula, an area that hasn&apos;t voted for a Democrat in Congress in ov"
+      },
+      {
+        "title": "Solar power is changing agriculture in Pakistan, but some fear it could cause issues",
+        "link": "https://www.npr.org/2026/10/19/nx-s1-5993523/solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues",
+        "pubDate": "Mon, 19 Oct 2026 04:45:58 -0400",
+        "description": "Solar power is transforming agriculture in Pakistan. But in a country already facing water scarcity and extreme weather, some fear their widespread use could cause problems."
+      },
+      {
+        "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+        "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
+        "pubDate": "Mon, 19 Oct 2026 01:35:39 -0400",
+        "description": "Trump said in a post on social media that Netanyahu &quot;has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran.&quot;"
+      },
       {
         "title": "Trump to close and renovate D.C. golf course, despite legal battle",
         "link": "https://www.npr.org/2026/10/18/nx-s1-6007384/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle",
@@ -105,54 +153,6 @@
         "link": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do",
         "pubDate": "Sun, 18 Oct 2026 21:41:24 -0400",
         "description": "Katie Zacharia&apos;s short time as White House press secretary has brought renewed attention to the high-profile role."
-      },
-      {
-        "title": "Ukraine and the U.S. are at odds over Starshield. Here&apos;s what to know",
-        "link": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
-        "pubDate": "Sun, 18 Oct 2026 14:38:49 -0400",
-        "description": "Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military&apos;s loss of normal access to the key satellite communications service used by the Ukrainian m"
-      },
-      {
-        "title": "Noah Adams, longtime host of NPR&apos;s All Things Considered, has died",
-        "link": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died",
-        "pubDate": "Sun, 18 Oct 2026 12:30:00 -0400",
-        "description": "One of NPR&apos;s most gifted storytellers, his soft voice and vivid writing helped define the network&apos;s sound for a generation of Americans."
-      },
-      {
-        "title": "Pope Leo says he will gradually resume duties after cancer surgery",
-        "link": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
-        "pubDate": "Sun, 18 Oct 2026 08:55:01 -0400",
-        "description": "Pope Leo XIV thanked thousands of faithful in St. Peter&apos;s Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties."
-      },
-      {
-        "title": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
-        "link": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings",
-        "pubDate": "Sun, 18 Oct 2026 08:00:57 -0400",
-        "description": "President Trump&apos;s executive order deferring federal taxes on diesel is aimed at helping farmers but it&apos;s more complicated than it sounds and states are warning drivers they may owe taxes lat"
-      },
-      {
-        "title": "If you have the scratch, they have the scares",
-        "link": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
-        "pubDate": "Sun, 18 Oct 2026 08:00:00 -0400",
-        "description": "Scary stories are more than fun, they&apos;re big business."
-      },
-      {
-        "title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
-        "link": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
-        "pubDate": "Sun, 18 Oct 2026 05:00:00 -0400",
-        "description": "Rep. María Elvira Salazar filmed an ad warning the president that he&apos;s &quot;gone too far&quot; on immigration. It reflected concern among some Republicans that their gains with Latino voters cou"
-      },
-      {
-        "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
-        "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
-        "pubDate": "Sun, 18 Oct 2026 03:56:08 -0400",
-        "description": "Canadian Prime Minister Mark Carney described the incident as one of the worst peacetime tragedies for Canada&apos;s military on domestic soil."
-      },
-      {
-        "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
-        "link": "https://www.npr.org/2026/10/17/nx-s1-6005814/oregon-governor-tina-kotek-reacts-to-silver-rail-elementary-school-shooting",
-        "pubDate": "Sat, 17 Oct 2026 18:45:25 -0400",
-        "description": "NPR&apos;s Joel Rose talks with Oregon Governor Tina Kotek about the shooting at Silver Rail Elementary in Bend, Oregon."
       }
     ],
     "Canada": []
