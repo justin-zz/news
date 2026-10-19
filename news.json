@@ -1,17 +1,11 @@
 {
-  "updated": "2026-10-19T18:38:35.551Z",
+  "updated": "2026-10-19T22:47:18.607Z",
   "world": [
-    {
-      "title": "Australian MP critically injured after being hit by car in apparent attack",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 14:09:54 GMT",
-      "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack."
-    },
     {
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 18:23:50 GMT",
-      "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks."
+      "pubDate": "Mon, 19 Oct 2026 20:49:00 GMT",
+      "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing."
     },
     {
       "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
@@ -20,16 +14,16 @@
       "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children."
     },
     {
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
       "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 16:22:12 GMT",
+      "pubDate": "Mon, 19 Oct 2026 21:12:30 GMT",
       "description": "The Saudi government did not immediately respond to BBC requests for comment."
     },
     {
-      "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 13:44:57 GMT",
-      "description": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive."
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 21:02:33 GMT",
+      "description": "The two top tennis pros married in 2021 and have one child together."
     },
     {
       "title": "Exiled critic of Rwandan president found beheaded",
@@ -90,6 +84,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 18 Oct 2026 23:20:15 GMT",
       "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
+    },
+    {
+      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+      "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 08:17:19 GMT",
+      "description": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque."
     }
   ],
   "regions": {
@@ -107,16 +107,16 @@
         "description": "More than $15 billion has been raised in this year&apos;s midterm elections. And, France&apos;s president is condemning the violent protests erupting across the country."
       },
       {
-        "title": "The real reason it&apos;s going to take a while to know who won in some midterm races",
-        "link": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
-        "pubDate": "Mon, 19 Oct 2026 05:00:00 -0400",
-        "description": "Hint: It&apos;s not &lt;em&gt;only &lt;/em&gt;because California counts slowly."
-      },
-      {
         "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
         "link": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
         "pubDate": "Mon, 19 Oct 2026 05:00:00 -0400",
         "description": "A large underwater wave moved up the West Coast, raising sea levels. Scientists say it&apos;s driven by El Niño and it&apos;s going to happen again."
+      },
+      {
+        "title": "The real reason it&apos;s going to take a while to know who won in some midterm races",
+        "link": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
+        "pubDate": "Mon, 19 Oct 2026 05:00:00 -0400",
+        "description": "Hint: It&apos;s not &lt;em&gt;only &lt;/em&gt;because California counts slowly."
       },
       {
         "title": "Morning news brief",
