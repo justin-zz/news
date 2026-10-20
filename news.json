@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-19T22:47:18.607Z",
+  "updated": "2026-10-20T01:31:06.345Z",
   "world": [
+    {
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 21:14:53 GMT",
+      "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities."
+    },
     {
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&amp;at_campaign=rss",
@@ -14,16 +20,22 @@
       "description": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children."
     },
     {
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 21:12:30 GMT",
-      "description": "The Saudi government did not immediately respond to BBC requests for comment."
-    },
-    {
       "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
       "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 19 Oct 2026 21:02:33 GMT",
       "description": "The two top tennis pros married in 2021 and have one child together."
+    },
+    {
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 23:08:25 GMT",
+      "description": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence."
+    },
+    {
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 19 Oct 2026 21:12:30 GMT",
+      "description": "The Saudi government did not immediately respond to BBC requests for comment."
     },
     {
       "title": "Exiled critic of Rwandan president found beheaded",
@@ -78,22 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 19 Oct 2026 11:23:36 GMT",
       "description": "The government crackdown comes after protests over rising costs broke out into violent clashes."
-    },
-    {
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 18 Oct 2026 23:20:15 GMT",
-      "description": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
-    },
-    {
-      "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 08:17:19 GMT",
-      "description": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
+        "link": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal",
+        "pubDate": "Mon, 19 Oct 2026 17:56:37 -0400",
+        "description": "The Trump administration wants to turn a historic public golf course into championship links. Despite a judge&apos;s order, hundreds of trees were cut down to make way for the renovation."
+      },
+      {
+        "title": "Schools struggle to measure how much AI experiments are helping",
+        "link": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping",
+        "pubDate": "Mon, 19 Oct 2026 16:59:57 -0400",
+        "description": "Schools are experimenting with AI, and a lot of them are encountering the same problem: It&apos;s hard to measure whether the technology is good or bad for students."
+      },
       {
         "title": "Australian prime minister says lawmaker critically injured by car is &apos;no accident&apos;",
         "link": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote",
         "pubDate": "Mon, 19 Oct 2026 04:45:01 -0400",
         "description": "On Monday voters in the oil-rich Canadian province of Alberta are deciding whether to take the first step toward a future referendum on independence."
-      },
-      {
-        "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
-        "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
-        "pubDate": "Mon, 19 Oct 2026 01:35:39 -0400",
-        "description": "Trump said in a post on social media that Netanyahu &quot;has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran.&quot;"
-      },
-      {
-        "title": "Trump to close and renovate D.C. golf course, despite legal battle",
-        "link": "https://www.npr.org/2026/10/18/nx-s1-6007384/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle",
-        "pubDate": "Sun, 18 Oct 2026 22:09:43 -0400",
-        "description": "President Trump continues his efforts to remake Washington, D.C. He wants to turn an area used by the public into a world-class golf course."
       }
     ],
     "Canada": []
