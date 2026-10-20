@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-20T17:44:39.943Z",
+  "updated": "2026-10-20T21:11:39.494Z",
   "world": [
+    {
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 20:01:04 GMT",
+      "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington."
+    },
     {
       "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
       "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&amp;at_campaign=rss",
@@ -8,16 +14,16 @@
       "description": "France's second city saw some of the worst violence as chaos gripped the country on Saturday."
     },
     {
-      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "title": "Man charged with attack on Australia MP to face court",
       "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 20 Oct 2026 11:25:35 GMT",
       "description": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years."
     },
     {
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 17:30:15 GMT",
-      "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
+      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 20:00:57 GMT",
+      "description": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
     },
     {
       "title": "'Great result for Canada', says Carney as Alberta votes to reject separatism",
@@ -26,16 +32,16 @@
       "description": "The Canadian province has voted overwhelmingly to remain part of Canada, though deep political divisions endure."
     },
     {
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 19:30:05 GMT",
+      "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
+    },
+    {
       "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
       "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 20 Oct 2026 11:45:49 GMT",
       "description": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread."
-    },
-    {
-      "title": "Why Israeli Gen Z voters are drawn to the far right",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 08:53:06 GMT",
-      "description": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference."
     },
     {
       "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
@@ -44,10 +50,10 @@
       "description": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC."
     },
     {
-      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
-      "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 13:23:32 GMT",
-      "description": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother."
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 17:30:15 GMT",
+      "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
     },
     {
       "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
@@ -58,8 +64,14 @@
     {
       "title": "Suspect arrested after historic town hall set alight - French media",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 16:06:39 GMT",
+      "pubDate": "Tue, 20 Oct 2026 21:05:50 GMT",
       "description": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday."
+    },
+    {
+      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 13:23:32 GMT",
+      "description": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother."
     },
     {
       "title": "Mission blasts off for Mars to grab a piece of its moon",
@@ -78,22 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 19 Oct 2026 21:02:33 GMT",
       "description": "The two top tennis pros married in 2021 and have one child together."
-    },
-    {
-      "title": "Vinted blocks French looters listing stolen goods for sale",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 16:46:35 GMT",
-      "description": "The platform said since the weekend it had \"taken immediate action to identify and remove listings linked to looting\"."
-    },
-    {
-      "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 21:12:30 GMT",
-      "description": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+        "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
+        "pubDate": "Tue, 20 Oct 2026 16:19:16 -0400",
+        "description": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections."
+      },
       {
         "title": "Vanessa Kerry is the new WHO envoy for health resilience. What&apos;s on her to-do list?",
         "link": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization",
@@ -113,10 +119,10 @@
         "description": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers."
       },
       {
-        "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
-        "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+        "title": "Why these 5 everyday items fluctuate in price at the grocery store",
+        "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
         "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
-        "description": "The warnings surfaced in a trove of unreported court records. &quot;I have been fighting about fixing this for months with people who didn&apos;t think the harms are severe enough,&quot; wrote one exe"
+        "description": "Here&apos;s what&apos;s behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies."
       },
       {
         "title": "Can the new federal voucher program help public schools? Democrats are torn",
@@ -125,10 +131,10 @@
         "description": "The new scholarship tax credit program could help public school families pay for some educational services, but advocates worry it could do more harm than good."
       },
       {
-        "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-        "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+        "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+        "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
         "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
-        "description": "Here&apos;s what&apos;s behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies."
+        "description": "The warnings surfaced in a trove of unreported court records. &quot;I have been fighting about fixing this for months with people who didn&apos;t think the harms are severe enough,&quot; wrote one exe"
       },
       {
         "title": "Morning news brief",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
         "pubDate": "Tue, 20 Oct 2026 02:02:40 -0400",
         "description": "Voters in Canada&apos;s oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney&apos;s push for national "
-      },
-      {
-        "title": "A new poll shows what voters are thinking 2 weeks out from Election Day",
-        "link": "https://www.npr.org/2026/10/19/nx-s1-6007856/a-new-poll-shows-what-voters-are-thinking-2-weeks-out-from-election-day",
-        "pubDate": "Mon, 19 Oct 2026 18:35:59 -0400",
-        "description": "Midterm election day is just over two weeks away. What are some numbers on the mind of voters?"
       }
     ],
     "Canada": []
