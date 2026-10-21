@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-21T00:00:07.929Z",
+  "updated": "2026-10-21T05:06:54.732Z",
   "world": [
     {
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
       "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 21:27:39 GMT",
+      "pubDate": "Wed, 21 Oct 2026 03:59:18 GMT",
       "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington."
     },
     {
-      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 12:08:06 GMT",
-      "description": "France's second city saw some of the worst violence as chaos gripped the country on Saturday."
+      "title": "France is divided over who to blame for weekend riots and what to learn from them",
+      "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Oct 2026 01:22:51 GMT",
+      "description": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history."
     },
     {
       "title": "Elon Musk says Tesla-SpaceX merger being considered",
@@ -38,10 +38,10 @@
       "description": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet."
     },
     {
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 19:30:05 GMT",
-      "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 17:30:15 GMT",
+      "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
     },
     {
       "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
@@ -50,10 +50,10 @@
       "description": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC."
     },
     {
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 17:30:15 GMT",
-      "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 19:30:05 GMT",
+      "description": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
     },
     {
       "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
@@ -80,20 +80,26 @@
       "description": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother."
     },
     {
+      "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
+      "link": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 19:08:06 GMT",
+      "description": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\"."
+    },
+    {
       "title": "Mission blasts off for Mars to grab a piece of its moon",
       "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 19 Oct 2026 19:45:46 GMT",
       "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
-    },
-    {
-      "title": "Seventh day of violent clashes between Albanian protesters and police",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 02:45:05 GMT",
-      "description": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Some on DOJ&apos;s 20,000 &quot;likely&quot; noncitizen list in Calif. appear to be U.S.-born",
+        "link": "https://www.npr.org/2026/10/20/nx-s1-6009873/california-doj-voter-rolls-noncitizens",
+        "pubDate": "Tue, 20 Oct 2026 22:15:50 -0400",
+        "description": "Election officials in Los Angeles County say their preliminary analysis of the federal government&apos;s list of 20,000 &quot;likely&quot; noncitizens registered to vote in California shows the list i"
+      },
       {
         "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
         "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
@@ -119,6 +125,12 @@
         "description": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers."
       },
       {
+        "title": "Why these 5 everyday items fluctuate in price at the grocery store",
+        "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+        "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
+        "description": "Here&apos;s what&apos;s behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies."
+      },
+      {
         "title": "Can the new federal voucher program help public schools? Democrats are torn",
         "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
         "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
@@ -131,12 +143,6 @@
         "description": "The warnings surfaced in a trove of unreported court records. &quot;I have been fighting about fixing this for months with people who didn&apos;t think the harms are severe enough,&quot; wrote one exe"
       },
       {
-        "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-        "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
-        "pubDate": "Tue, 20 Oct 2026 05:00:00 -0400",
-        "description": "Here&apos;s what&apos;s behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies."
-      },
-      {
         "title": "Morning news brief",
         "link": "https://www.npr.org/2026/10/20/nx-s1-6003501/morning-news-brief",
         "pubDate": "Tue, 20 Oct 2026 04:50:27 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series",
         "pubDate": "Tue, 20 Oct 2026 02:28:10 -0400",
         "description": "The Rays will face the NL champion Milwaukee Brewers in the first matchup in which both teams are seeking their first World Series title since 1980."
-      },
-      {
-        "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-        "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
-        "pubDate": "Tue, 20 Oct 2026 02:02:40 -0400",
-        "description": "Voters in Canada&apos;s oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney&apos;s push for national "
       }
     ],
     "Canada": []
