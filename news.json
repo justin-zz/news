@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-21T22:37:56.728Z",
+  "updated": "2026-10-22T01:09:51.409Z",
   "world": [
     {
       "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
       "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 21 Oct 2026 21:27:41 GMT",
-      "description": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war."
+      "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war."
     },
     {
       "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
@@ -42,6 +42,12 @@
       "link": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 21 Oct 2026 20:19:51 GMT",
       "description": "César Jáuregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April."
+    },
+    {
+      "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Oct 2026 22:59:18 GMT",
+      "description": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood."
     },
     {
       "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
@@ -84,16 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 20 Oct 2026 17:30:15 GMT",
       "description": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted."
-    },
-    {
-      "title": "Trump and Zelensky at loggerheads despite new optimism",
-      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 20:00:57 GMT",
-      "description": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Citing &apos;challenges,&apos; AIPAC halts endorsements and direct contributions to candidates",
+        "link": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+        "pubDate": "Wed, 21 Oct 2026 20:22:48 -0400",
+        "description": "The pro-Israel lobbying group and influential political donor announced it would no longer endorse candidates or give directly to campaigns, instead mobilizing its members to give individually."
+      },
+      {
+        "title": "The Justice Department begins notifying counties where it wants to monitor elections",
+        "link": "https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors",
+        "pubDate": "Wed, 21 Oct 2026 20:18:47 -0400",
+        "description": "The department has long deployed election monitors, but the Trump administration&apos;s unprecedented steps to try to wrestle control over elections have led to new concerns about DOJ monitoring this "
+      },
       {
         "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
         "link": "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/10/21/nx-s1-6003634/sentenced-to-death-at-17-at-68-quilt-artist-receives-solo-museum-exhibition",
         "pubDate": "Wed, 21 Oct 2026 11:21:47 -0400",
         "description": "A quilt artist who spent decades on death row now has his first solo exhibit at the Grand Rapids Art Museum."
-      },
-      {
-        "title": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
-        "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
-        "pubDate": "Wed, 21 Oct 2026 09:28:04 -0400",
-        "description": "Democratic congressional candidate Brad Lander along with about 80 American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces."
-      },
-      {
-        "title": "Trump leans into unprecedented power ahead of midterm elections",
-        "link": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections",
-        "pubDate": "Wed, 21 Oct 2026 08:09:41 -0400",
-        "description": "Less than two weeks before Election Day, President Trump continues to crash through barriers that he wouldn&apos;t dare cross in his first term."
       }
     ],
     "Canada": []
