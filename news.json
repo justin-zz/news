@@ -1,11 +1,35 @@
 {
-  "updated": "2026-10-22T20:42:31.241Z",
+  "updated": "2026-10-22T23:51:20.661Z",
   "world": [
+    {
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 22 Oct 2026 23:16:16 GMT",
+      "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes."
+    },
+    {
+      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 22 Oct 2026 21:42:39 GMT",
+      "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
+    },
     {
       "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
       "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 22 Oct 2026 15:56:36 GMT",
       "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
+    },
+    {
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 22 Oct 2026 23:22:45 GMT",
+      "description": "The quake hit a mountainous, sparsely-populated region in north-eastern Tibet."
+    },
+    {
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 22 Oct 2026 22:27:53 GMT",
+      "description": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
     },
     {
       "title": "Race to update services' computer systems after cyber-security flaw found",
@@ -66,30 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 22 Oct 2026 18:26:56 GMT",
       "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
-    },
-    {
-      "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 17:21:42 GMT",
-      "description": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025."
-    },
-    {
-      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
-      "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 09:47:54 GMT",
-      "description": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\"."
-    },
-    {
-      "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 13:46:33 GMT",
-      "description": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom."
-    },
-    {
-      "title": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
-      "link": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 13:36:21 GMT",
-      "description": "The congresswoman said federal agents seized over a dozen items, including cell phones and notebooks, as part of a federal investigation."
     }
   ],
   "regions": {
@@ -143,16 +143,16 @@
         "description": "President Trump, seeking to reshape the voting map, prompted a rare wave of mid-decade redistricting that gave Republicans a boost for holding the House. But the voters will determine if it works."
       },
       {
-        "title": "How long does it take to save up for a starter home? Twice as long as it did in 2019",
-        "link": "https://www.npr.org/2026/10/22/nx-s1-6009378/down-payment-real-estate-affordability",
-        "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
-        "description": "A new analysis finds that the average renter household now needs 16 years to save for a down payment and closing costs. Rising rents and other costs have consumed a growing share of household budgets."
-      },
-      {
         "title": "See how Big Tech is transforming Spain&apos;s landscape",
         "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
         "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
         "description": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers."
+      },
+      {
+        "title": "Farm country has beef with Trump as midterms approach",
+        "link": "https://www.npr.org/2026/10/22/nx-s1-6011214/farm-country-has-beef-with-trump-as-midterms-approach",
+        "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
+        "description": "President Trump&apos;s attempts to bring beef prices down has potentially backfired politically in several key states."
       }
     ],
     "Canada": []
