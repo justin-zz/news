@@ -1,26 +1,26 @@
 {
-  "updated": "2026-10-23T03:11:36.502Z",
+  "updated": "2026-10-23T08:44:22.778Z",
   "world": [
     {
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 23:16:16 GMT",
+      "pubDate": "Fri, 23 Oct 2026 07:52:32 GMT",
       "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes."
     },
     {
-      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
       "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 21:42:39 GMT",
+      "pubDate": "Fri, 23 Oct 2026 08:36:32 GMT",
       "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access."
     },
     {
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 15:56:36 GMT",
-      "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 23 Oct 2026 05:16:37 GMT",
+      "description": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region."
     },
     {
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
       "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 22 Oct 2026 22:27:53 GMT",
       "description": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
@@ -30,6 +30,18 @@
       "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 23 Oct 2026 01:38:44 GMT",
       "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021."
+    },
+    {
+      "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 23 Oct 2026 08:00:07 GMT",
+      "description": "Officials say they both travelled through Entebbe International Airport on 3 October."
+    },
+    {
+      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 22 Oct 2026 15:56:36 GMT",
+      "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
     },
     {
       "title": "Race to update services' computer systems after cyber-security flaw found",
@@ -68,12 +80,6 @@
       "description": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday."
     },
     {
-      "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 14:09:54 GMT",
-      "description": "The teacher said she could not help children because she was badly injured by the attacker."
-    },
-    {
       "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
       "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 22 Oct 2026 19:27:57 GMT",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 22 Oct 2026 18:26:56 GMT",
       "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force."
-    },
-    {
-      "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 17:21:42 GMT",
-      "description": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Europe&apos;s heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+        "link": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
+        "pubDate": "Fri, 23 Oct 2026 04:17:06 -0400",
+        "description": "Blistering record heat in Europe this summer helped kill more than 50,000 people, with nearly two-thirds of that death toll blamed on human-caused climate change, a new study found."
+      },
       {
         "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
         "link": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
         "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
         "description": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers."
-      },
-      {
-        "title": "Farm country has beef with Trump as midterms approach",
-        "link": "https://www.npr.org/2026/10/22/nx-s1-6011214/farm-country-has-beef-with-trump-as-midterms-approach",
-        "pubDate": "Thu, 22 Oct 2026 05:00:00 -0400",
-        "description": "President Trump&apos;s attempts to bring beef prices down has potentially backfired politically in several key states."
       }
     ],
     "Canada": []
