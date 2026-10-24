@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T21:43:24.323Z",
+  "updated": "2026-10-24T23:57:50.066Z",
   "world": [
     {
       "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
@@ -16,7 +16,7 @@
     {
       "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
       "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 17:21:42 GMT",
+      "pubDate": "Sat, 24 Oct 2026 23:02:06 GMT",
       "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election."
     },
     {
@@ -95,6 +95,24 @@
   "regions": {
     "US": [
       {
+        "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
+        "link": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
+        "pubDate": "Sat, 24 Oct 2026 18:47:58 -0400",
+        "description": "The 1,300 survivors of sexual abuse by clergy members and lay workers have all agreed to the settlement, according to an attorney for some of the plaintiffs."
+      },
+      {
+        "title": "Trade tariffs cause whiplash at Port Milwaukee",
+        "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
+        "pubDate": "Sat, 24 Oct 2026 17:20:55 -0400",
+        "description": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump&apos;s tariffs have affected the flow of goods and impacted the regional economy."
+      },
+      {
+        "title": "How data centers became a bipartisan political issue in Wisconsin",
+        "link": "https://www.npr.org/2026/10/24/nx-s1-6011182/how-data-centers-became-a-bipartisan-political-issue-in-wisconsin",
+        "pubDate": "Sat, 24 Oct 2026 17:20:53 -0400",
+        "description": "Data centers are a big issue across the country. As midterms approach, many look to the swing state of Wisconsin for lessons for how that issue could play out nationally."
+      },
+      {
         "title": "Ukraine says Starlink is back to normal after disruptions",
         "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
         "pubDate": "Sat, 24 Oct 2026 13:54:25 -0400",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
         "pubDate": "Sat, 24 Oct 2026 03:04:13 -0400",
         "description": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situatio"
-      },
-      {
-        "title": "Flooding in Four Corners region displaces residents, as storms move southeast",
-        "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
-        "pubDate": "Fri, 23 Oct 2026 20:40:42 -0400",
-        "description": "Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues."
-      },
-      {
-        "title": "Russia steps up election influence efforts in final stretch of midterms",
-        "link": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence",
-        "pubDate": "Fri, 23 Oct 2026 17:40:02 -0400",
-        "description": "Researchers who track online influence operations say Kremlin-backed groups are renewing tactics they&apos;ve used to sow distrust and discord in previous elections in the U.S. and around the world."
-      },
-      {
-        "title": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
-        "link": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack",
-        "pubDate": "Fri, 23 Oct 2026 17:38:54 -0400",
-        "description": "Israel&apos;s Prime Minister is vowing to launch a major military operation in the West Bank in response to an attack by two Palestinian gunmen on an Israeli military checkpoint that killed two soldie"
       }
     ],
     "Canada": []
