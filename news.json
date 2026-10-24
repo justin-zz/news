@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T13:27:20.590Z",
+  "updated": "2026-10-24T16:49:24.432Z",
   "world": [
     {
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
@@ -8,10 +8,10 @@
       "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
     },
     {
-      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
       "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 11:23:59 GMT",
-      "description": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
+      "pubDate": "Sat, 24 Oct 2026 15:21:44 GMT",
+      "description": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
     },
     {
       "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
@@ -26,10 +26,16 @@
       "description": "The children were subsequently rescued from the water, police say."
     },
     {
-      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 23:08:23 GMT",
-      "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule."
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 14:45:30 GMT",
+      "description": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer."
+    },
+    {
+      "title": "Three released without charge after fatal arson attack in Ireland",
+      "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 09:38:28 GMT",
+      "description": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say."
     },
     {
       "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
@@ -42,6 +48,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 24 Oct 2026 01:55:15 GMT",
       "description": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital."
+    },
+    {
+      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 23 Oct 2026 23:08:23 GMT",
+      "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule."
     },
     {
       "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
@@ -78,18 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 23 Oct 2026 19:46:30 GMT",
       "description": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
-    },
-    {
-      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 15:37:07 GMT",
-      "description": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning."
-    },
-    {
-      "title": "Argentina drops investigation into President Milei over crypto fraud",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 20:59:39 GMT",
-      "description": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it."
     }
   ],
   "regions": {
@@ -107,16 +107,16 @@
         "description": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday."
       },
       {
-        "title": "Is your Medicare Advantage plan ending next year? Here&apos;s what to know",
-        "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
-        "pubDate": "Sat, 24 Oct 2026 06:00:00 -0400",
-        "description": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan."
-      },
-      {
         "title": "U.S. birth rate drops to record low, but older women are having more babies",
         "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
         "pubDate": "Sat, 24 Oct 2026 06:00:00 -0400",
         "description": "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women over age 30 are havin"
+      },
+      {
+        "title": "Is your Medicare Advantage plan ending next year? Here&apos;s what to know",
+        "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+        "pubDate": "Sat, 24 Oct 2026 06:00:00 -0400",
+        "description": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan."
       },
       {
         "title": "This decade has been missing its big-impact midterm",
@@ -143,16 +143,16 @@
         "description": "Researchers who track online influence operations say Kremlin-backed groups are renewing tactics they&apos;ve used to sow distrust and discord in previous elections in the U.S. and around the world."
       },
       {
+        "title": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
+        "link": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack",
+        "pubDate": "Fri, 23 Oct 2026 17:38:54 -0400",
+        "description": "Israel&apos;s Prime Minister is vowing to launch a major military operation in the West Bank in response to an attack by two Palestinian gunmen on an Israeli military checkpoint that killed two soldie"
+      },
+      {
         "title": "The Pentagon&apos;s guidelines for &quot;responsible AI&quot; aren&apos;t always followed, report shows",
         "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
         "pubDate": "Fri, 23 Oct 2026 15:31:15 -0400",
         "description": "The Pentagon is building weapons and projects with AI capabilities that officials say don&apos;t always closely adhere to the agency&apos;s own guidelines for AI, according to a congressional watchdog"
-      },
-      {
-        "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
-        "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
-        "pubDate": "Fri, 23 Oct 2026 14:30:00 -0400",
-        "description": "Ohio has been a reliably red state for several elections but it&apos;s competitive this year. If Democrats want to prevail, they&apos;ll have to win people who have backed Republicans, like rural vote"
       }
     ],
     "Canada": []
