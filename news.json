@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-24T16:49:24.432Z",
+  "updated": "2026-10-24T19:12:40.579Z",
   "world": [
     {
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
       "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 24 Oct 2026 12:12:40 GMT",
       "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
+    },
+    {
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 17:21:42 GMT",
+      "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election."
     },
     {
       "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
@@ -22,8 +28,8 @@
     {
       "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
       "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 09:45:47 GMT",
-      "description": "The children were subsequently rescued from the water, police say."
+      "pubDate": "Sat, 24 Oct 2026 17:11:56 GMT",
+      "description": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\"."
     },
     {
       "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
@@ -62,10 +68,10 @@
       "description": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
     },
     {
-      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "title": "Two rescued after Nairobi building collapse with five still missing",
       "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 09:44:01 GMT",
-      "description": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled."
+      "pubDate": "Sat, 24 Oct 2026 17:25:46 GMT",
+      "description": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction."
     },
     {
       "title": "Trump administration sues to block certification of upcoming Alaska election",
@@ -84,16 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 24 Oct 2026 07:17:44 GMT",
       "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
-    },
-    {
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 19:46:30 GMT",
-      "description": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Ukraine says Starlink is back to normal after disruptions",
+        "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+        "pubDate": "Sat, 24 Oct 2026 13:54:25 -0400",
+        "description": "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions."
+      },
       {
         "title": "Perspective: The next James Bond",
         "link": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
@@ -107,16 +113,16 @@
         "description": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday."
       },
       {
-        "title": "U.S. birth rate drops to record low, but older women are having more babies",
-        "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
-        "pubDate": "Sat, 24 Oct 2026 06:00:00 -0400",
-        "description": "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women over age 30 are havin"
-      },
-      {
         "title": "Is your Medicare Advantage plan ending next year? Here&apos;s what to know",
         "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
         "pubDate": "Sat, 24 Oct 2026 06:00:00 -0400",
         "description": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan."
+      },
+      {
+        "title": "U.S. birth rate drops to record low, but older women are having more babies",
+        "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+        "pubDate": "Sat, 24 Oct 2026 06:00:00 -0400",
+        "description": "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women over age 30 are havin"
       },
       {
         "title": "This decade has been missing its big-impact midterm",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack",
         "pubDate": "Fri, 23 Oct 2026 17:38:54 -0400",
         "description": "Israel&apos;s Prime Minister is vowing to launch a major military operation in the West Bank in response to an attack by two Palestinian gunmen on an Israeli military checkpoint that killed two soldie"
-      },
-      {
-        "title": "The Pentagon&apos;s guidelines for &quot;responsible AI&quot; aren&apos;t always followed, report shows",
-        "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
-        "pubDate": "Fri, 23 Oct 2026 15:31:15 -0400",
-        "description": "The Pentagon is building weapons and projects with AI capabilities that officials say don&apos;t always closely adhere to the agency&apos;s own guidelines for AI, according to a congressional watchdog"
       }
     ],
     "Canada": []
