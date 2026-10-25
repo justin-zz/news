@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T17:22:37.421Z",
+  "updated": "2026-10-25T19:50:28.120Z",
   "world": [
     {
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
@@ -10,7 +10,7 @@
     {
       "title": "Venezuelan opposition leader María Machado returns after months in exile",
       "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 16:21:40 GMT",
+      "pubDate": "Sun, 25 Oct 2026 18:29:00 GMT",
       "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
     },
     {
@@ -44,10 +44,10 @@
       "description": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week."
     },
     {
-      "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
       "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 03:20:16 GMT",
-      "description": "Police are searching for other casualties, with officials warning the actual death toll could rise further."
+      "pubDate": "Sun, 25 Oct 2026 19:14:27 GMT",
+      "description": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze."
     },
     {
       "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
@@ -94,6 +94,12 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+        "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+        "pubDate": "Sun, 25 Oct 2026 13:50:35 -0400",
+        "description": "Attorney General Todd Blanche defended the Justice Department&apos;s suit over Alaska&apos;s Senate race in an interview on CNN."
+      },
       {
         "title": "Venezuela&apos;s opposition leader María Corina Machado returns after months in exile",
         "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
         "pubDate": "Sun, 25 Oct 2026 03:15:00 -0400",
         "description": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana."
-      },
-      {
-        "title": "Drought, fire and high diesel prices &apos;addin&apos; up tough&apos; for Oregon ranchers",
-        "link": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-        "pubDate": "Sun, 25 Oct 2026 00:01:00 -0400",
-        "description": "Record diesel prices are kicking Western ranchers while they&apos;re down. Drought means they have to buy extra hay, and pay truckers extra to deliver it because of fuel price hikes."
       }
     ],
     "Canada": []
