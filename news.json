@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-25T19:50:28.120Z",
+  "updated": "2026-10-25T22:15:38.851Z",
   "world": [
     {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 09:00:00 GMT",
-      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
+      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 22:06:26 GMT",
+      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
     },
     {
       "title": "Venezuelan opposition leader María Machado returns after months in exile",
@@ -14,10 +14,10 @@
       "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
     },
     {
-      "title": "Early reports suggest record high turnout in Serbia elections",
-      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 16:05:15 GMT",
-      "description": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić."
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 09:00:00 GMT",
+      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
     },
     {
       "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
+        "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
+        "pubDate": "Sun, 25 Oct 2026 16:35:35 -0400",
+        "description": "Pennsylvania is the worst hit state, with at least 1,338 cases of measles confirmed in 44 counties so far this year, according to the Pennsylvania Department of Health."
+      },
+      {
         "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
         "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
         "pubDate": "Sun, 25 Oct 2026 13:50:35 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
         "pubDate": "Sun, 25 Oct 2026 05:00:00 -0400",
         "description": "In a sign of the potentially dire midterm political environment, Republicans have spent millions of dollars playing defense in Arkansas, one of the most conservative states in the country."
-      },
-      {
-        "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
-        "link": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
-        "pubDate": "Sun, 25 Oct 2026 03:15:00 -0400",
-        "description": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana."
       }
     ],
     "Canada": []
