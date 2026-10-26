@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-26T00:31:43.944Z",
+  "updated": "2026-10-26T05:43:59.331Z",
   "world": [
     {
-      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 22:54:57 GMT",
+      "pubDate": "Mon, 26 Oct 2026 01:07:05 GMT",
       "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
+    },
+    {
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 05:20:19 GMT",
+      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
     },
     {
       "title": "Deeply divided Israel braces for pivotal election",
@@ -14,22 +20,34 @@
       "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
     },
     {
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 23:33:14 GMT",
-      "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
-    },
-    {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 25 Oct 2026 09:00:00 GMT",
-      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
+      "title": "Australian murderer loses bid to eat Vegemite in prison",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 26 Oct 2026 04:05:28 GMT",
+      "description": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture."
     },
     {
       "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
       "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 25 Oct 2026 15:32:51 GMT",
       "description": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said."
+    },
+    {
+      "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 14:34:33 GMT",
+      "description": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine."
+    },
+    {
+      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 23:33:19 GMT",
+      "description": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms."
+    },
+    {
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 25 Oct 2026 09:00:00 GMT",
+      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
     },
     {
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
@@ -72,28 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 24 Oct 2026 19:12:51 GMT",
       "description": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer."
-    },
-    {
-      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 15:21:44 GMT",
-      "description": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
-    },
-    {
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 09:46:53 GMT",
-      "description": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo."
-    },
-    {
-      "title": "Australian MP's condition improves after alleged car attack",
-      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 01:55:15 GMT",
-      "description": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Brazil&apos;s left-wing President Lula elected for fourth term",
+        "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+        "pubDate": "Sun, 25 Oct 2026 20:35:00 -0400",
+        "description": "Brazil&apos;s 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff."
+      },
       {
         "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
         "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
         "pubDate": "Sun, 25 Oct 2026 05:00:00 -0400",
         "description": "As they look to win the Senate, Democrats are hoping that independent candidates in Nebraska and Montana can help them topple Republicans in a part of the country where their own brand is hurting."
-      },
-      {
-        "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
-        "link": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
-        "pubDate": "Sun, 25 Oct 2026 05:00:00 -0400",
-        "description": "In a sign of the potentially dire midterm political environment, Republicans have spent millions of dollars playing defense in Arkansas, one of the most conservative states in the country."
       }
     ],
     "Canada": []
