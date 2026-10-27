@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T22:59:51.946Z",
+  "updated": "2026-10-27T01:58:10.566Z",
   "world": [
     {
       "title": "Lula wins fourth term in dramatic Brazil election comeback",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+        "link": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+        "pubDate": "Mon, 26 Oct 2026 20:31:45 -0400",
+        "description": "The Trump administration is attempting to prosecute James Comey for what it calls a decade-old leak of classified information. Comey&apos;s lawyers immediately dismissed the effort as invalid and outs"
+      },
+      {
         "title": "Trump administration pushes for food assistance card upgrade to fight fraud",
         "link": "https://www.npr.org/2026/10/26/nx-s1-6017810/snap-benefits-ebt-card-chip-usda-rule",
         "pubDate": "Mon, 26 Oct 2026 14:41:43 -0400",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/10/26/nx-s1-6009247/loggers-say-roadless-rule-repeal-wont-solve-their-biggest-challenges",
         "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
         "description": "President Trump is planning to open up some of the nation&apos;s last pristine forests to road building and timber companies. But those who work in the woods say it won&apos;t do enough to revive the "
-      },
-      {
-        "title": "Republicans are spending millions and still may not win districts drawn to favor them",
-        "link": "https://www.npr.org/2026/10/26/nx-s1-6008167/republican-redistricting-midterms-competitive-map",
-        "pubDate": "Mon, 26 Oct 2026 05:00:00 -0400",
-        "description": "Republicans redrew congressional district lines to try to tilt the midterms in their favor. But now they are facing expensive and competitive races they had hoped to outmaneuver."
       }
     ],
     "Canada": []
