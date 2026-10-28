@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-28T15:41:33.342Z",
+  "updated": "2026-10-28T20:44:31.039Z",
   "world": [
+    {
+      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 20:22:49 GMT",
+      "description": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports."
+    },
+    {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 20:24:39 GMT",
+      "description": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
+    },
+    {
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 14:30:31 GMT",
+      "description": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections."
+    },
     {
       "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
       "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&amp;at_campaign=rss",
@@ -62,38 +80,38 @@
       "description": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder."
     },
     {
-      "title": "Israel's election result is messy - here's why",
-      "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 14:26:24 GMT",
-      "description": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell."
+      "title": "How did Flávio Bolsonaro end up in Miami?",
+      "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 18:51:05 GMT",
+      "description": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami."
     },
     {
-      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
-      "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 20:42:38 GMT",
-      "description": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive."
-    },
-    {
-      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
-      "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 17:11:27 GMT",
-      "description": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong."
-    },
-    {
-      "title": "What does Israel's election mean for Gaza and the wider world?",
-      "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 10:17:36 GMT",
-      "description": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast."
-    },
-    {
-      "title": "What we know so far about deadly Spain train crash",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 15:36:11 GMT",
-      "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid."
+      "title": "Watch: At the scene of Spain's deadly train crash",
+      "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 16:45:16 GMT",
+      "description": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
+        "pubDate": "Wed, 28 Oct 2026 14:07:33 -0400",
+        "description": "Jordan Neely was frightening fellow passengers. A former Marine named Daniel Penny put Neely into a chokehold, killing him. Journalist Anand Giridharadas investigates the incident in &lt;em&gt;Man in "
+      },
+      {
+        "title": "Fed holds interest rates steady even as inflation remains stubborn",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+        "pubDate": "Wed, 28 Oct 2026 14:04:42 -0400",
+        "description": "The Federal Reserve opted to leave its benchmark interest rate unchanged  — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation."
+      },
+      {
+        "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+        "pubDate": "Wed, 28 Oct 2026 12:10:43 -0400",
+        "description": "Huerta co-founded the United Farm Workers union to improve working conditions in the nation&apos;s fruit and vegetable fields and coined the phrase &quot;Sí, se puede!&quot; that became a widespread r"
+      },
       {
         "title": "What&apos;s gone up even faster than gas or rent? The cost of caregiving",
         "link": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
@@ -113,6 +131,12 @@
         "description": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain&apos;s second major train accident this ye"
       },
       {
+        "title": "Are you an organ donor? Here are some rule changes you may want to know",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6019613/organ-donor-ethics-risk",
+        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
+        "description": "Transplant teams can talk to families about organ donation before they&apos;ve decided whether to continue life-sustaining medical care for loved ones. Until now, that has been forbidden."
+      },
+      {
         "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
         "link": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
         "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/10/28/g-s1-150095/democrats-prepare-election-fraud-claims",
         "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
         "description": "Congressional Democrats are working with good governance groups to create an action plan for any potential claims of election fraud."
-      },
-      {
-        "title": "Are you an organ donor? Here are some rule changes you may want to know",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6019613/organ-donor-ethics-risk",
-        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
-        "description": "Transplant teams can talk to families about organ donation before they&apos;ve decided whether to continue life-sustaining medical care for loved ones. Until now, that has been forbidden."
-      },
-      {
-        "title": "How a lifelong Republican came to lead the data center battle in Ohio",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
-        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
-        "description": "In Ohio, many people are displeased with the state&apos;s rapid buildout of data centers. It&apos;s a hot issue in the midterms, as political candidates from both parties try to ease voter concerns."
-      },
-      {
-        "title": "New teachers union president wants to steer educators away from partisan politics",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-5953069/national-education-association-nea-president-princess-moss-politics",
-        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
-        "description": "NEA President Princess Moss wants to move her organization, the nation&apos;s largest labor union, toward issue-based advocacy — and away from party politics."
-      },
-      {
-        "title": "Partnerships between ICE and local police surge, report finds",
-        "link": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice",
-        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
-        "description": "The number of state and local officers working with Immigration and Customs Enforcement has doubled in size in the last eight months, according to a new report from the immigration reform advocacy gro"
       }
     ],
     "Canada": []
