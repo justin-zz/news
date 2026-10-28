@@ -1,11 +1,29 @@
 {
-  "updated": "2026-10-28T08:54:48.038Z",
+  "updated": "2026-10-28T15:41:33.342Z",
   "world": [
     {
       "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
       "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 07:53:20 GMT",
+      "pubDate": "Wed, 28 Oct 2026 10:31:22 GMT",
       "description": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\"."
+    },
+    {
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 10:17:54 GMT",
+      "description": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
+    },
+    {
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 10:18:40 GMT",
+      "description": "The energy minister described it as a \"major milestone\" for the East African nation."
+    },
+    {
+      "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+      "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 08:28:39 GMT",
+      "description": "No official reason has been given for postponing next month’s hearing to May 2027, the family says."
     },
     {
       "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
@@ -44,40 +62,10 @@
       "description": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder."
     },
     {
-      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 02:20:25 GMT",
-      "description": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them."
-    },
-    {
-      "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 20:44:40 GMT",
-      "description": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\"."
-    },
-    {
-      "title": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 18:43:41 GMT",
-      "description": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money."
-    },
-    {
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 13:25:54 GMT",
-      "description": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes."
-    },
-    {
-      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 14:29:39 GMT",
-      "description": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie."
-    },
-    {
-      "title": "Watch: What happens now after close vote in Israeli election?",
-      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 04:22:59 GMT",
-      "description": "Polls have closed in the Israeli election, but there is no clear winner."
+      "title": "Israel's election result is messy - here's why",
+      "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 14:26:24 GMT",
+      "description": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell."
     },
     {
       "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
@@ -90,69 +78,81 @@
       "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 27 Oct 2026 17:11:27 GMT",
       "description": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong."
+    },
+    {
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "link": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 27 Oct 2026 10:17:36 GMT",
+      "description": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast."
+    },
+    {
+      "title": "What we know so far about deadly Spain train crash",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 15:36:11 GMT",
+      "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6012226/morning-news-brief",
-        "pubDate": "Wed, 28 Oct 2026 04:47:33 -0400",
-        "description": "President Trump crisscrosses the country with scattershot closing messages midterms approach, deadlock after Israeli election shows no clear winner, Fed expected to hold interest rates steady."
+        "title": "What&apos;s gone up even faster than gas or rent? The cost of caregiving",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
+        "pubDate": "Wed, 28 Oct 2026 09:05:33 -0400",
+        "description": "A new study from AARP shows caregivers&apos; out-of-pocket costs rose about 60% in the last five years."
       },
       {
-        "title": "A U.S. cruise ship ends voyage due to fuel costs and passengers lose their homes",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes",
-        "pubDate": "Wed, 28 Oct 2026 03:57:51 -0400",
-        "description": "The Odyssey set sail two years ago on a three-year voyage to the seven continents marketed as combining long-term living at sea with global travel."
+        "title": "Israel&apos;s election too close to call. And, the Ebola outbreak reaches grim milestone",
+        "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+        "pubDate": "Wed, 28 Oct 2026 07:28:55 -0400",
+        "description": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May."
       },
       {
-        "title": "Trump says he&apos;s ending restrictions on climate-warming methane from oil drilling",
-        "link": "https://www.npr.org/2026/10/28/g-s1-150299/trump-methane-restrictions",
-        "pubDate": "Wed, 28 Oct 2026 02:15:31 -0400",
-        "description": "President Donald Trump said that his administration is &quot;terminating&quot; a Biden-era rule that aimed to cut planet-warming emissions of methane from oil and gas drilling."
+        "title": "Dozens are dead in a high-speed train crash in Spain",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+        "pubDate": "Wed, 28 Oct 2026 06:09:46 -0400",
+        "description": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain&apos;s second major train accident this ye"
       },
       {
-        "title": "Rays stun Brewers with 2-run rally in 12th inning and force World Series Game 5",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6020169/rays-brewers-game-5",
-        "pubDate": "Wed, 28 Oct 2026 02:13:28 -0400",
-        "description": "Tampa Bay became the fourth team in World Series history to avoid elimination with an extra-inning comeback. Game 5 in the best-of-seven matchup is Wednesday night at Tropicana Field."
+        "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
+        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
+        "description": "In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home."
       },
       {
-        "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
-        "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
-        "pubDate": "Tue, 27 Oct 2026 21:58:08 -0400",
-        "description": "Flávio Bolsonaro leaves Brazil for the U.S. amid a money-laundering probe, as Washington agrees to issue visas to him and his family."
+        "title": "Why many student voters have a right to choose where to register to vote",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
+        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
+        "description": "Student voters studying outside their hometown have a right to choose where they register to vote. Advocates say a Montana legal fight is a reminder of a misunderstanding of those students&apos; right"
       },
       {
-        "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
-        "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
-        "pubDate": "Tue, 27 Oct 2026 17:17:57 -0400",
-        "description": "Intense rainstorms &lt;a href=&quot;https://www.kuer.org/science-environment/2026-10-27/super-el-nino-utah-october-rain-southwest-precipitation&quot;target=&quot;_blank&quot;   &gt;linked to a very ac"
+        "title": "Here&apos;s how Democrats in Congress are preparing for election fraud claims",
+        "link": "https://www.npr.org/2026/10/28/g-s1-150095/democrats-prepare-election-fraud-claims",
+        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
+        "description": "Congressional Democrats are working with good governance groups to create an action plan for any potential claims of election fraud."
       },
       {
-        "title": "Israel&apos;s voter turnout soars as Netanyahu faces a tight election",
-        "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
-        "pubDate": "Tue, 27 Oct 2026 16:45:39 -0400",
-        "description": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu&apos;s far-right coalition."
+        "title": "Are you an organ donor? Here are some rule changes you may want to know",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6019613/organ-donor-ethics-risk",
+        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
+        "description": "Transplant teams can talk to families about organ donation before they&apos;ve decided whether to continue life-sustaining medical care for loved ones. Until now, that has been forbidden."
       },
       {
-        "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
-        "link": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
-        "pubDate": "Tue, 27 Oct 2026 15:53:12 -0400",
-        "description": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?"
+        "title": "How a lifelong Republican came to lead the data center battle in Ohio",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
+        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
+        "description": "In Ohio, many people are displeased with the state&apos;s rapid buildout of data centers. It&apos;s a hot issue in the midterms, as political candidates from both parties try to ease voter concerns."
       },
       {
-        "title": "A judge halted D.C. golf course renovations. Trump says they&apos;ll still start next month",
-        "link": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
-        "pubDate": "Tue, 27 Oct 2026 13:01:37 -0400",
-        "description": "A federal judge has barred the government from clearing more trees or making other alterations to D.C.&apos;s East Potomac Park without proper notice. Trump says his administration will appeal."
+        "title": "New teachers union president wants to steer educators away from partisan politics",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-5953069/national-education-association-nea-president-princess-moss-politics",
+        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
+        "description": "NEA President Princess Moss wants to move her organization, the nation&apos;s largest labor union, toward issue-based advocacy — and away from party politics."
       },
       {
-        "title": "Bolsonaro&apos;s party accepts Brazil election defeat, but he refuses to concede",
-        "link": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
-        "pubDate": "Tue, 27 Oct 2026 10:41:17 -0400",
-        "description": "Brazil&apos;s opposition party accepts President Luiz Inácio Lula da Silva&apos;s election victory, but Flávio Bolsonaro won&apos;t concede, while President Trump calls the vote &quot;rigged&quot; wit"
+        "title": "Partnerships between ICE and local police surge, report finds",
+        "link": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice",
+        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
+        "description": "The number of state and local officers working with Immigration and Customs Enforcement has doubled in size in the last eight months, according to a new report from the immigration reform advocacy gro"
       }
     ],
     "Canada": []
