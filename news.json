@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T23:02:38.832Z",
+  "updated": "2026-10-28T02:29:26.113Z",
   "world": [
     {
       "title": "Norway and Finland leaders hold rare call with Putin",
@@ -38,10 +38,10 @@
       "description": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder."
     },
     {
-      "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
       "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 21:12:39 GMT",
-      "description": "The three brothers were found guilty of drugging and raping several women over the course of decades."
+      "pubDate": "Wed, 28 Oct 2026 02:20:25 GMT",
+      "description": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them."
     },
     {
       "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
@@ -95,16 +95,22 @@
   "regions": {
     "US": [
       {
+        "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
+        "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
+        "pubDate": "Tue, 27 Oct 2026 21:58:08 -0400",
+        "description": "Flávio Bolsonaro leaves Brazil for the U.S. amid a money-laundering probe, as Washington agrees to issue visas to him and his family."
+      },
+      {
         "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
         "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
         "pubDate": "Tue, 27 Oct 2026 17:17:57 -0400",
         "description": "Intense rainstorms &lt;a href=&quot;https://www.kuer.org/science-environment/2026-10-27/super-el-nino-utah-october-rain-southwest-precipitation&quot;target=&quot;_blank&quot;   &gt;linked to a very ac"
       },
       {
-        "title": "Israel&apos;s election has a high turnout, lifting opposition hopes of beating Netanyahu",
+        "title": "Israel&apos;s voter turnout soars as Netanyahu faces a tight election",
         "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
         "pubDate": "Tue, 27 Oct 2026 16:45:39 -0400",
-        "description": "Israelis voted in their highest numbers in decades in a tense national election on Tuesday to decide whether to stick with Prime Minister Benjamin Netanyahu&apos;s far-right coalition or change course"
+        "description": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu&apos;s far-right coalition."
       },
       {
         "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
         "pubDate": "Tue, 27 Oct 2026 06:30:00 -0400",
         "description": "The German-owned chain&apos;s low prices are winning over shoppers — and pushing competitors to respond."
-      },
-      {
-        "title": "Polymarket has investigated &apos;dozens&apos; of election-related cases",
-        "link": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
-        "pubDate": "Tue, 27 Oct 2026 05:00:00 -0400",
-        "description": "The prediction market has hired a former FBI official to make sure political insiders don&apos;t use the platform for profit from confidential election information.&lt;strong&gt; &lt;/strong&gt;"
       }
     ],
     "Canada": []
