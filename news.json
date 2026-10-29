@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T00:34:19.762Z",
+  "updated": "2026-10-29T06:42:59.174Z",
   "world": [
     {
       "title": "High-speed train crash kills at least 68 people in Spain",
@@ -16,7 +16,7 @@
     {
       "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
       "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 23:21:48 GMT",
+      "pubDate": "Thu, 29 Oct 2026 01:14:01 GMT",
       "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”."
     },
     {
@@ -95,6 +95,36 @@
   "regions": {
     "US": [
       {
+        "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+        "link": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates",
+        "pubDate": "Thu, 29 Oct 2026 02:10:11 -0400",
+        "description": "Spain&apos;s second high-speed rail disaster this year, a crash in which one train struck another from behind, killing 68 people, has raised fresh concerns about the safety of the country&apos;s rail "
+      },
+      {
+        "title": "Brewers beat the Rays to win the first World Series title in franchise history",
+        "link": "https://www.npr.org/2026/10/29/nx-s1-6021953/brewers-win-first-world-series-title",
+        "pubDate": "Thu, 29 Oct 2026 00:49:24 -0400",
+        "description": "The small-ball Milwaukee Brewers playing in the smallest market in the majors are World Series champions for the first time. The championship comes in the 58th season for a franchise that began as the"
+      },
+      {
+        "title": "Hackers expose the identities of more than 40,000 DHS employees",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
+        "pubDate": "Wed, 28 Oct 2026 23:28:50 -0400",
+        "description": "A group of hacktivists calling themselves Distributed Denial of Secrets, said the unmasking of ICE agents, DHS operatives and contractors was fair play, given the government&apos;s lack of transparenc"
+      },
+      {
+        "title": "Forecasters are predicting a warmer and wetter winter. Here&apos;s how El Niño will affect your region",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6009547/el-nino-forecast-us-winter",
+        "pubDate": "Wed, 28 Oct 2026 22:20:45 -0400",
+        "description": "El Niño years typically lead to more precipitation and higher-than-average temperatures. The latest data shows the different potential impacts by region."
+      },
+      {
+        "title": "Judge denies the Justice Department&apos;s bid to stop processing California ballots",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+        "pubDate": "Wed, 28 Oct 2026 20:52:50 -0400",
+        "description": "While the judge rejected the Department of Justice&apos;s unprecedented demand in California, the case isn&apos;t over yet. The federal government immediately filed notice that it will appeal."
+      },
+      {
         "title": "Trump administration will allow pharmacies to make popular peptides",
         "link": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
         "pubDate": "Wed, 28 Oct 2026 18:26:48 -0400",
@@ -123,36 +153,6 @@
         "link": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
         "pubDate": "Wed, 28 Oct 2026 14:04:42 -0400",
         "description": "The Federal Reserve opted to leave its benchmark interest rate unchanged  — but investors widely expect the central bank to raise rates at its next meeting in December to combat stubborn inflation."
-      },
-      {
-        "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
-        "pubDate": "Wed, 28 Oct 2026 12:10:43 -0400",
-        "description": "Huerta co-founded the United Farm Workers union to improve working conditions in the nation&apos;s fruit and vegetable fields and coined the phrase &quot;Sí, se puede!&quot; that became a widespread r"
-      },
-      {
-        "title": "What&apos;s gone up even faster than gas or rent? The cost of caregiving",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
-        "pubDate": "Wed, 28 Oct 2026 09:05:33 -0400",
-        "description": "A new study from AARP shows caregivers&apos; out-of-pocket costs rose about 60% in the last five years."
-      },
-      {
-        "title": "Israel&apos;s election too close to call. And, the Ebola outbreak reaches grim milestone",
-        "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
-        "pubDate": "Wed, 28 Oct 2026 07:28:55 -0400",
-        "description": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May."
-      },
-      {
-        "title": "Dozens are dead in a high-speed train crash in Spain",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
-        "pubDate": "Wed, 28 Oct 2026 06:09:46 -0400",
-        "description": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain&apos;s second major train accident this ye"
-      },
-      {
-        "title": "Are you an organ donor? Here are some rule changes you may want to know",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-6019613/organ-donor-ethics-risk",
-        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
-        "description": "Transplant teams can talk to families about organ donation before they&apos;ve decided whether to continue life-sustaining medical care for loved ones. Until now, that has been forbidden."
       }
     ],
     "Canada": []
