@@ -1,11 +1,23 @@
 {
-  "updated": "2026-10-29T19:23:29.081Z",
+  "updated": "2026-10-29T23:28:24.890Z",
   "world": [
+    {
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 29 Oct 2026 20:21:54 GMT",
+      "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority."
+    },
     {
       "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
       "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 29 Oct 2026 11:07:35 GMT",
       "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled."
+    },
+    {
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 29 Oct 2026 20:05:57 GMT",
+      "description": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes."
     },
     {
       "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
@@ -26,22 +38,16 @@
       "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines."
     },
     {
-      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 13:44:39 GMT",
-      "description": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum."
-    },
-    {
       "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
       "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 29 Oct 2026 17:02:59 GMT",
       "description": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany."
     },
     {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 15:47:20 GMT",
-      "description": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
+      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 29 Oct 2026 13:44:39 GMT",
+      "description": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum."
     },
     {
       "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
@@ -58,7 +64,7 @@
     {
       "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
       "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 16:26:02 GMT",
+      "pubDate": "Thu, 29 Oct 2026 21:31:12 GMT",
       "description": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan."
     },
     {
@@ -84,21 +90,33 @@
       "link": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 29 Oct 2026 08:23:31 GMT",
       "description": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month."
-    },
-    {
-      "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 09:17:05 GMT",
-      "description": "The jailbreak began with a fake seizure and ended 36 hours later with all the inmates back behind bars."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Senate Election Results 2026 Live",
-        "link": "https://www.npr.org/2026/10/29/g-s1-148801/senate-election-results-2026",
-        "pubDate": "Thu, 29 Oct 2026 15:19:49 -0400",
-        "description": "View live results for the 2026 United States Senate elections."
+        "title": "Alaska&apos;s all-important Senate race is roiled by a report on alleged spoiler candidate",
+        "link": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate",
+        "pubDate": "Thu, 29 Oct 2026 18:23:38 -0400",
+        "description": "New reporting alleging Democratic efforts to prop up a spoiler candidate has roiled Alaska&apos;s all-important U.S. Senate race."
+      },
+      {
+        "title": "Patrick Stewart, a perceptive patriarch in &apos;Star Trek&apos; and &apos;X-Men,&apos; dies at 86",
+        "link": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
+        "pubDate": "Thu, 29 Oct 2026 16:29:13 -0400",
+        "description": "Stewart was raised by an abusive father but became best known for playing kind, paternal leaders who united families of misfits."
+      },
+      {
+        "title": "What killed 500-plus penguins? How scientists solved the mystery",
+        "link": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
+        "pubDate": "Thu, 29 Oct 2026 16:03:26 -0400",
+        "description": "The penguins that perished lived on the Danger Islands in Antarctica. The prime suspect was avian flu. Researchers were surprised by what they found."
+      },
+      {
+        "title": "Lost your spark? The &quot;silent sister&quot; of depression, and a quiz to spot her",
+        "link": "https://www.npr.org/2026/10/29/nx-s1-5996687/anhedonia-quiz-high-functioning-depression",
+        "pubDate": "Thu, 29 Oct 2026 16:00:00 -0400",
+        "description": "Always busy, but rarely joyful? Allison Aubrey and Juana Summers discuss a tool to spot &quot;high functioning depression.&quot;"
       },
       {
         "title": "Even birds get jet lagged, study shows",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",
         "pubDate": "Thu, 29 Oct 2026 10:52:11 -0400",
         "description": "The English writer visited Iraq multiple times in the first half of the 20th century and set some of her mystery novels there. The house in Baghdad where she once lived now sits abandoned and crumblin"
-      },
-      {
-        "title": "A stress-free guide to organizing important paperwork and documents",
-        "link": "https://www.npr.org/2026/10/29/nx-s1-6020623/a-stress-free-guide-to-organizing-important-paperwork-and-documents",
-        "pubDate": "Thu, 29 Oct 2026 10:38:32 -0400",
-        "description": "Got piles of mail stacking up in the kitchen? Not sure where your Social Security card is? It might be time to sort through your paperwork. Don&apos;t let it overwhelm you with this simple guide."
-      },
-      {
-        "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
-        "link": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
-        "pubDate": "Thu, 29 Oct 2026 09:05:03 -0400",
-        "description": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability."
-      },
-      {
-        "title": "GDP report to give insight before Election Day. And, Israel&apos;s election is deadlocked",
-        "link": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
-        "pubDate": "Thu, 29 Oct 2026 07:34:30 -0400",
-        "description": "Economists expect the GDP report to show economic growth, but say that growth is &quot;fragile.&quot; And, after 90% of the votes in Israel have been counted, no clear winner has emerged."
       }
     ],
     "Canada": []
