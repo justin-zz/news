@@ -1,11 +1,23 @@
 {
-  "updated": "2026-10-28T20:44:31.039Z",
+  "updated": "2026-10-29T00:34:19.762Z",
   "world": [
     {
-      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 21:38:54 GMT",
+      "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said."
+    },
+    {
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 21:24:41 GMT",
+      "description": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday."
+    },
+    {
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
       "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 20:22:49 GMT",
-      "description": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports."
+      "pubDate": "Wed, 28 Oct 2026 23:21:48 GMT",
+      "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”."
     },
     {
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
@@ -20,10 +32,22 @@
       "description": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections."
     },
     {
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 22:08:52 GMT",
+      "description": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked."
+    },
+    {
       "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
       "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 28 Oct 2026 10:31:22 GMT",
       "description": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\"."
+    },
+    {
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 21:16:30 GMT",
+      "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs."
     },
     {
       "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
@@ -66,34 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 27 Oct 2026 18:28:23 GMT",
       "description": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
-    },
-    {
-      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 01:46:38 GMT",
-      "description": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
-    },
-    {
-      "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 21:09:12 GMT",
-      "description": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder."
-    },
-    {
-      "title": "How did Flávio Bolsonaro end up in Miami?",
-      "link": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 18:51:05 GMT",
-      "description": "BBC Verify has pieced together defeated presidential candidate Flávio Bolsonaro's journey through Brazil, Argentina and Ecuador to reach Miami."
-    },
-    {
-      "title": "Watch: At the scene of Spain's deadly train crash",
-      "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 16:45:16 GMT",
-      "description": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Trump administration will allow pharmacies to make popular peptides",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
+        "pubDate": "Wed, 28 Oct 2026 18:26:48 -0400",
+        "description": "The Department of Health and Human Services will let small compounding pharmacies make six peptides that haven&apos;t been approved by the Food and Drug Administration. It may not be enough to meet de"
+      },
+      {
+        "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+        "pubDate": "Wed, 28 Oct 2026 17:46:27 -0400",
+        "description": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S. after Brazilian authorities ordered him to surrender his passport. He is facing multiple investigations in Braz"
+      },
+      {
+        "title": "Trump administration wants to remove regulations on a super planet-heating gas",
+        "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
+        "pubDate": "Wed, 28 Oct 2026 17:15:09 -0400",
+        "description": "The Trump administration wants to undo a Biden-era rule that would reduce methane emissions from the oil and gas industry."
+      },
       {
         "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
         "link": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/10/28/nx-s1-6019613/organ-donor-ethics-risk",
         "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
         "description": "Transplant teams can talk to families about organ donation before they&apos;ve decided whether to continue life-sustaining medical care for loved ones. Until now, that has been forbidden."
-      },
-      {
-        "title": "Senate candidates built up massive campaign war chests with out-of-state donations",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-5940017/senate-campaign-fundraising-actblue-winred-ossoff",
-        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
-        "description": "In several competitive U.S. Senate contests, candidates have built healthy campaign accounts with out-of-state donations. But the messages to those donors is very different from the one back at home."
-      },
-      {
-        "title": "Why many student voters have a right to choose where to register to vote",
-        "link": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
-        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
-        "description": "Student voters studying outside their hometown have a right to choose where they register to vote. Advocates say a Montana legal fight is a reminder of a misunderstanding of those students&apos; right"
-      },
-      {
-        "title": "Here&apos;s how Democrats in Congress are preparing for election fraud claims",
-        "link": "https://www.npr.org/2026/10/28/g-s1-150095/democrats-prepare-election-fraud-claims",
-        "pubDate": "Wed, 28 Oct 2026 05:00:00 -0400",
-        "description": "Congressional Democrats are working with good governance groups to create an action plan for any potential claims of election fraud."
       }
     ],
     "Canada": []
