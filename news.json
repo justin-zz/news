@@ -1,11 +1,47 @@
 {
-  "updated": "2026-10-30T09:32:49.857Z",
+  "updated": "2026-10-30T16:30:22.698Z",
   "world": [
     {
-      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 09:02:31 GMT",
-      "description": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor."
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 15:59:17 GMT",
+      "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September."
+    },
+    {
+      "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 16:26:11 GMT",
+      "description": "But several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water."
+    },
+    {
+      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 11:23:06 GMT",
+      "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
+    },
+    {
+      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 15:03:39 GMT",
+      "description": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people."
+    },
+    {
+      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 14:48:22 GMT",
+      "description": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress."
+    },
+    {
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 15:46:28 GMT",
+      "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
+    },
+    {
+      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 15:17:11 GMT",
+      "description": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists."
     },
     {
       "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
@@ -14,103 +50,91 @@
       "description": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all."
     },
     {
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 03:24:12 GMT",
-      "description": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say."
-    },
-    {
       "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
       "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 30 Oct 2026 06:02:23 GMT",
       "description": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government."
     },
     {
-      "title": "How Kenyans got caught in $130m US ghost student scam",
-      "link": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 08:32:35 GMT",
-      "description": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged."
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 13:46:16 GMT",
+      "description": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race."
     },
     {
-      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 20:05:57 GMT",
-      "description": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes."
+      "title": "Six dead after helicopter crashes in northern Indian state",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 15:06:05 GMT",
+      "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact."
     },
     {
-      "title": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 06:10:50 GMT",
-      "description": "In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash."
+      "title": "China denies allegations of spy operation targeting Nvidia CEO",
+      "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 12:20:04 GMT",
+      "description": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports."
     },
     {
-      "title": "Student-backed election winners demand sweeping resignations in Serbia",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 00:17:28 GMT",
-      "description": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down."
+      "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+      "link": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 07:53:38 GMT",
+      "description": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan."
     },
     {
-      "title": "Google value plunges by $500bn as it admits AI search is hitting its ad sales",
+      "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 12:36:55 GMT",
+      "description": "Andreas Malm was due to appear on a panel alongside a co-founder of the proscribed group next week."
+    },
+    {
+      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
       "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 22:17:52 GMT",
-      "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
-    },
-    {
-      "title": "More than 43 million ballots cast so far in midterms early voting surge",
-      "link": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 01:44:24 GMT",
-      "description": "Hispanic voters have helped drive the early voting numbers, which appear to outpace overall turnout for previous elections in some battleground counties."
-    },
-    {
-      "title": "New York police will now investigate Cornell sex complaints, governor says",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 03:32:44 GMT",
-      "description": "The change was announced amid backlash over the school's handling of gang rape allegations involving a fraternity on campus."
-    },
-    {
-      "title": "Venezuela opposition leader María Machado calls for elections upon return",
-      "link": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 21:05:03 GMT",
-      "description": "Machado, who was in exile for nearly a year, said the transition in Venezuela's government would be  \"irreversible, organised, pacific\"."
-    },
-    {
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 20:21:54 GMT",
-      "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority."
-    },
-    {
-      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 11:07:35 GMT",
-      "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled."
-    },
-    {
-      "title": "Three dead after two helicopters collide midair near Oregon airport",
-      "link": "https://www.bbc.co.uk/news/articles/cked3p81303yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 03:05:17 GMT",
-      "description": "The collision involving a Robinson R22 and an Airbus helicopter occurred on Thursday afternoon, with both aircraft crashing in a field adjacent to a highway."
+      "pubDate": "Fri, 30 Oct 2026 12:04:02 GMT",
+      "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue."
     }
   ],
   "regions": {
     "US": [
       {
+        "title": "NPR special: 5 takeaways from a year of listening to swing voters",
+        "link": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups",
+        "pubDate": "Fri, 30 Oct 2026 11:00:00 -0400",
+        "description": "Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024."
+      },
+      {
+        "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+        "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+        "pubDate": "Fri, 30 Oct 2026 09:01:22 -0400",
+        "description": "The world&apos;s biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack."
+      },
+      {
+        "title": "Why is the Cheesecake Factory at the center of the latest culture war?",
+        "link": "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama",
+        "pubDate": "Fri, 30 Oct 2026 08:00:31 -0400",
+        "description": "A joke by former President Obama has gone viral and received backlash from the Trump administration as the issue of affordability looms large over next week&apos;s midterm elections."
+      },
+      {
+        "title": "Binance flags &apos;potential security issue,&apos; says approximately $6.3 billion impacted",
+        "link": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue",
+        "pubDate": "Fri, 30 Oct 2026 07:21:56 -0400",
+        "description": "It wasn&apos;t immediately clear the extent of the damage hackers might have been able to cause, and Binance had not explicitly confirmed that funds had been pilfered. The company said its teams are &"
+      },
+      {
+        "title": "Alaska&apos;s Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
+        "link": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
+        "pubDate": "Fri, 30 Oct 2026 07:20:26 -0400",
+        "description": "Alaska&apos;s governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on"
+      },
+      {
+        "title": "The two most interesting risks to Anthropic",
+        "link": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
+        "pubDate": "Fri, 30 Oct 2026 07:00:00 -0400",
+        "description": "Anthropic gave a 94-page list of risk factors in its S-1 this week. Two of them stood out."
+      },
+      {
         "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
         "link": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate",
         "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
         "description": "Prices for candy, the most popular Halloween purchase, and gum have risen 7.7% in one year and are up more than 18% in two years, according to the latest federal data."
-      },
-      {
-        "title": "Here are the Senate races to watch ahead of Election Day",
-        "link": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map",
-        "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
-        "description": "The competitive map for control of the U.S. Senate has expanded considerably in the final days before Election Day. Here&apos;s a ranking of those competitive races from most likely to flip to least l"
-      },
-      {
-        "title": "Democrats seek to weaken the Republican lead in state legislatures",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-6022353/midterms-state-legislatures-pennsylvania",
-        "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
-        "description": "Republicans control 10 more state legislatures than Democrats. That&apos;s where most laws on taxes, abortion, crime and schools are made."
       },
       {
         "title": "On what anatomical feature was Trump fixated this week? The quiz knows — do you?",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/10/30/nx-s1-6014548/midterms-chatgpt-local-news-democrats",
         "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
         "description": "The websites of unknown origin are targeting key U.S. House races. They are getting picked up by ChatGPT&apos;s responses but Google&apos;s products avoid promoting them."
-      },
-      {
-        "title": "How powerful is Elon Musk? How his political influence compares to past U.S. moguls",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-6019325/elon-musk-power-moguls-politics",
-        "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
-        "description": "Critics say the tech entrepreneur&apos;s enormous wealth has given him too much political power. But when stacked up against other notable American moguls, historians say he&apos;s not unique."
-      },
-      {
-        "title": "Israel is in a political deadlock. What comes next?",
-        "link": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs",
-        "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
-        "description": "Israel&apos;s consequential election has ended in a deadlock, with neither side able to claim a majority, What happens now?"
-      },
-      {
-        "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
-        "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
-        "description": "Most kids say they use chatbots for help with homework and when they&apos;re stressed, lonely, or anxious. And how they use chatbots is tied to their mental health."
-      },
-      {
-        "title": "Trump&apos;s VA killed a home loan program. Thousands of veterans are paying the price",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-5995628/trump-va-home-loan-program-veterans-paying",
-        "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
-        "description": "An NPR investigation finds that more than 15,000 military veterans were put into much-higher-cost home loans after the Trump administration cut a key program. Many now pay $1,000 more per month."
       }
     ],
     "Canada": []
