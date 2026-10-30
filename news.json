@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T23:28:24.890Z",
+  "updated": "2026-10-30T02:50:05.003Z",
   "world": [
     {
       "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Justice Department issues subpoenas to California election workers",
+        "link": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
+        "pubDate": "Thu, 29 Oct 2026 21:35:54 -0400",
+        "description": "Grand jury subpoenas sent to election workers in Los Angeles come amid escalating tensions between the Trump administration and California election officials over the state&apos;s voter rolls."
+      },
+      {
         "title": "Alaska&apos;s all-important Senate race is roiled by a report on alleged spoiler candidate",
         "link": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate",
         "pubDate": "Thu, 29 Oct 2026 18:23:38 -0400",
@@ -105,6 +111,12 @@
         "link": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
         "pubDate": "Thu, 29 Oct 2026 16:29:13 -0400",
         "description": "Stewart was raised by an abusive father but became best known for playing kind, paternal leaders who united families of misfits."
+      },
+      {
+        "title": "Some rural Republicans in California say redistricting has left them without a voice",
+        "link": "https://www.npr.org/2026/10/29/nx-s1-5902139/some-rural-republicans-in-california-say-redistricting-has-left-them-without-a-voice",
+        "pubDate": "Thu, 29 Oct 2026 16:19:31 -0400",
+        "description": "California&apos;s far northeastern corner used to be a reliably red congressional district. But Proposition 50 carved it up, meaning many voters there may soon have a Democrat representing them in D.C"
       },
       {
         "title": "What killed 500-plus penguins? How scientists solved the mystery",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
         "pubDate": "Thu, 29 Oct 2026 11:53:46 -0400",
         "description": "This move comes about a year before President Xi Jinping is expected to secure his fourth five-year term."
-      },
-      {
-        "title": "Who benefits when massive AI data centers come to town?",
-        "link": "https://www.npr.org/2026/10/29/nx-s1-6022096/who-benefits-when-massive-ai-data-centers-come-to-town",
-        "pubDate": "Thu, 29 Oct 2026 11:41:59 -0400",
-        "description": "The battle over data centers is hitting the ballot box. Brookings scholar Darrell West talks about how the backlash against the AI boom, flock cameras and tech companies is crossing party lines."
-      },
-      {
-        "title": "Greetings from Baghdad, where Agatha Christie&apos;s old home presents its own mystery",
-        "link": "https://www.npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",
-        "pubDate": "Thu, 29 Oct 2026 10:52:11 -0400",
-        "description": "The English writer visited Iraq multiple times in the first half of the 20th century and set some of her mystery novels there. The house in Baghdad where she once lived now sits abandoned and crumblin"
       }
     ],
     "Canada": []
