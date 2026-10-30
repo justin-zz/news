@@ -1,22 +1,28 @@
 {
-  "updated": "2026-10-30T16:30:22.698Z",
+  "updated": "2026-10-30T21:21:39.368Z",
   "world": [
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 21:13:14 GMT",
+      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
+    },
     {
       "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
       "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 15:59:17 GMT",
+      "pubDate": "Fri, 30 Oct 2026 17:07:19 GMT",
       "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September."
     },
     {
-      "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
       "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 30 Oct 2026 16:26:11 GMT",
-      "description": "But several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water."
+      "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
     },
     {
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
       "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 11:23:06 GMT",
+      "pubDate": "Fri, 30 Oct 2026 20:41:51 GMT",
       "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
     },
     {
@@ -32,10 +38,22 @@
       "description": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress."
     },
     {
-      "title": "US tech stocks see sharp falls over AI cost fears",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
       "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 15:46:28 GMT",
+      "pubDate": "Fri, 30 Oct 2026 20:34:46 GMT",
       "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
+    },
+    {
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 17:25:20 GMT",
+      "description": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta."
+    },
+    {
+      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+      "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 17:00:32 GMT",
+      "description": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts."
     },
     {
       "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
@@ -58,7 +76,7 @@
     {
       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
       "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 13:46:16 GMT",
+      "pubDate": "Fri, 30 Oct 2026 20:55:18 GMT",
       "description": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race."
     },
     {
@@ -72,28 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 30 Oct 2026 12:20:04 GMT",
       "description": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports."
-    },
-    {
-      "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-      "link": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 07:53:38 GMT",
-      "description": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan."
-    },
-    {
-      "title": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 12:36:55 GMT",
-      "description": "Andreas Malm was due to appear on a panel alongside a co-founder of the proscribed group next week."
-    },
-    {
-      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 12:04:02 GMT",
-      "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
+        "link": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
+        "pubDate": "Fri, 30 Oct 2026 13:45:27 -0400",
+        "description": "Across the country, there are reports of heightened ICE activity. Advocates worry about how close it is to midterms, but so far voter turnout is surging."
+      },
       {
         "title": "NPR special: 5 takeaways from a year of listening to swing voters",
         "link": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups",
@@ -131,28 +137,22 @@
         "description": "Anthropic gave a 94-page list of risk factors in its S-1 this week. Two of them stood out."
       },
       {
-        "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate",
+        "title": "Trump&apos;s VA killed a home loan program. Thousands of veterans are paying the price",
+        "link": "https://www.npr.org/2026/10/30/nx-s1-5995628/trump-va-home-loan-program-veterans-paying",
         "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
-        "description": "Prices for candy, the most popular Halloween purchase, and gum have risen 7.7% in one year and are up more than 18% in two years, according to the latest federal data."
+        "description": "An NPR investigation finds that more than 15,000 military veterans were put into much-higher-cost home loans after the Trump administration cut a key program. Many now pay $1,000 more per month."
       },
       {
-        "title": "On what anatomical feature was Trump fixated this week? The quiz knows — do you?",
-        "link": "https://www.npr.org/2026/10/30/g-s1-150445/trump-midterms-ai-china-star-trek-dhs-news-quiz",
+        "title": "Democrats seek to weaken the Republican lead in state legislatures",
+        "link": "https://www.npr.org/2026/10/30/nx-s1-6022353/midterms-state-legislatures-pennsylvania",
         "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
-        "description": "Hint: He likes them big (and he cannot lie)."
+        "description": "Republicans control 10 more state legislatures than Democrats. That&apos;s where most laws on taxes, abortion, crime and schools are made."
       },
       {
-        "title": "2026 midterm election voter guides: Find local resources in your community",
-        "link": "https://www.npr.org/2026/10/30/g-s1-149560/2026-vote-midterm-election-local-voter-guides",
+        "title": "For voters from immigrant families and new citizens, voting is bigger than themselves",
+        "link": "https://www.npr.org/2026/10/30/nx-s1-6022142/new-citizens-immigrant-voting-ice-trump",
         "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
-        "description": "NPR member stations are gathering information for voters — from voter guides down to local races. Scroll through to find your state and the resources available from your local member station."
-      },
-      {
-        "title": "Websites pretending to be local news are boosting Democratic candidates",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-6014548/midterms-chatgpt-local-news-democrats",
-        "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
-        "description": "The websites of unknown origin are targeting key U.S. House races. They are getting picked up by ChatGPT&apos;s responses but Google&apos;s products avoid promoting them."
+        "description": "While many young voters are focused on the cost of living in the election, for some from immigrant families, the political calculation — and their votes — is often about even more than the economy."
       }
     ],
     "Canada": []
