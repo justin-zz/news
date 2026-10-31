@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-30T21:21:39.368Z",
+  "updated": "2026-10-31T00:55:52.101Z",
   "world": [
+    {
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 31 Oct 2026 00:40:43 GMT",
+      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+    },
     {
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
       "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss",
@@ -18,6 +24,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 30 Oct 2026 16:26:11 GMT",
       "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
+    },
+    {
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 20:52:01 GMT",
+      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
     },
     {
       "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
@@ -46,8 +58,8 @@
     {
       "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
       "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 17:25:20 GMT",
-      "description": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta."
+      "pubDate": "Fri, 30 Oct 2026 22:11:52 GMT",
+      "description": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
     },
     {
       "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
@@ -56,16 +68,16 @@
       "description": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts."
     },
     {
-      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
-      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 15:17:11 GMT",
-      "description": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists."
-    },
-    {
       "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
       "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 30 Oct 2026 01:35:40 GMT",
       "description": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all."
+    },
+    {
+      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 15:17:11 GMT",
+      "description": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists."
     },
     {
       "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
@@ -76,24 +88,24 @@
     {
       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
       "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 20:55:18 GMT",
-      "description": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race."
-    },
-    {
-      "title": "Six dead after helicopter crashes in northern Indian state",
-      "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 15:06:05 GMT",
-      "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact."
-    },
-    {
-      "title": "China denies allegations of spy operation targeting Nvidia CEO",
-      "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 12:20:04 GMT",
-      "description": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports."
+      "pubDate": "Sat, 31 Oct 2026 00:29:58 GMT",
+      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
+        "link": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump",
+        "pubDate": "Fri, 30 Oct 2026 18:06:18 -0400",
+        "description": "&lt;strong&gt;Several children have had to leave the state to receive medical care, including abortions, that is unavailable in Texas.&lt;/strong&gt;"
+      },
+      {
+        "title": "Judge orders an inquiry into potential DOJ misconduct in Trump&apos;s golf course case",
+        "link": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
+        "pubDate": "Fri, 30 Oct 2026 17:56:52 -0400",
+        "description": "A federal judge is opening an formal inquiry into Trump officials&apos; conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course."
+      },
       {
         "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
         "link": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
@@ -137,22 +149,10 @@
         "description": "Anthropic gave a 94-page list of risk factors in its S-1 this week. Two of them stood out."
       },
       {
-        "title": "Trump&apos;s VA killed a home loan program. Thousands of veterans are paying the price",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-5995628/trump-va-home-loan-program-veterans-paying",
+        "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
+        "link": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate",
         "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
-        "description": "An NPR investigation finds that more than 15,000 military veterans were put into much-higher-cost home loans after the Trump administration cut a key program. Many now pay $1,000 more per month."
-      },
-      {
-        "title": "Democrats seek to weaken the Republican lead in state legislatures",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-6022353/midterms-state-legislatures-pennsylvania",
-        "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
-        "description": "Republicans control 10 more state legislatures than Democrats. That&apos;s where most laws on taxes, abortion, crime and schools are made."
-      },
-      {
-        "title": "For voters from immigrant families and new citizens, voting is bigger than themselves",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-6022142/new-citizens-immigrant-voting-ice-trump",
-        "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
-        "description": "While many young voters are focused on the cost of living in the election, for some from immigrant families, the political calculation — and their votes — is often about even more than the economy."
+        "description": "Prices for candy, the most popular Halloween purchase, and gum have risen 7.7% in one year and are up more than 18% in two years, according to the latest federal data."
       }
     ],
     "Canada": []
