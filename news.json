@@ -1,11 +1,23 @@
 {
-  "updated": "2026-10-31T17:51:05.529Z",
+  "updated": "2026-10-31T20:55:47.496Z",
   "world": [
+    {
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 31 Oct 2026 19:22:26 GMT",
+      "description": "One evacuated couple says they crossed minefields in Oleshky in search of food."
+    },
     {
       "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
       "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 15:50:41 GMT",
+      "pubDate": "Sat, 31 Oct 2026 17:53:35 GMT",
       "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
+    },
+    {
+      "title": "Clashes erupt between police and protesters in Paris",
+      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 31 Oct 2026 19:37:43 GMT",
+      "description": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services."
     },
     {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -18,12 +30,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 31 Oct 2026 15:16:20 GMT",
       "description": "Government data shows that more than 10,000 people have contracted the rare virus."
-    },
-    {
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 01:11:43 GMT",
-      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
     },
     {
       "title": "Ethiopian PM puts ministers through military training",
@@ -44,10 +50,10 @@
       "description": "Countries have been trying to get a global agreement to halt nature decline back on track."
     },
     {
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 12:21:25 GMT",
-      "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 31 Oct 2026 01:11:43 GMT",
+      "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
     },
     {
       "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
@@ -84,16 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 30 Oct 2026 14:48:22 GMT",
       "description": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress."
-    },
-    {
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 20:34:46 GMT",
-      "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "France seethes again as youth-led protests sweep Europe",
+        "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+        "pubDate": "Sat, 31 Oct 2026 15:30:19 -0400",
+        "description": "French Interior Minister Laurent Nuñez warned of a &quot;very high risk&quot; of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets."
+      },
+      {
+        "title": "Key takeaways from this week&apos;s political meeting in Beijing",
+        "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+        "pubDate": "Sat, 31 Oct 2026 14:42:33 -0400",
+        "description": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term."
+      },
+      {
+        "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+        "link": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
+        "pubDate": "Sat, 31 Oct 2026 14:11:02 -0400",
+        "description": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector."
+      },
       {
         "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
         "link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
         "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
         "description": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites."
-      },
-      {
-        "title": "Your writing was flagged as AI. What does that actually mean?",
-        "link": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
-        "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
-        "description": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result."
-      },
-      {
-        "title": "100 years later, Harry Houdini&apos;s death still haunts Detroit",
-        "link": "https://www.npr.org/2026/10/31/nx-s1-6008110/100-years-harry-houdinis-death-haunts-detroit",
-        "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
-        "description": "The legacy of magician Harry Houdini still looms large in Detroit 100 years after his death there. Some mark the anniversary of Houdini&apos;s death by trying to make contact with his spirit."
-      },
-      {
-        "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
-        "link": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
-        "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
-        "description": "Oyster reefs once abounded in the Chesapeake, but overharvesting slashed their populations, leading to poorer water quality and less habitat for other species. Now, researchers and local residents are"
       }
     ],
     "Canada": []
