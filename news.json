@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-31T06:37:15.374Z",
+  "updated": "2026-10-31T13:15:52.032Z",
   "world": [
+    {
+      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 31 Oct 2026 13:12:46 GMT",
+      "description": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump."
+    },
     {
       "title": "US approves sale of 500 Patriot missiles to Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 00:40:43 GMT",
+      "pubDate": "Sat, 31 Oct 2026 12:21:25 GMT",
       "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
-    },
-    {
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 21:13:14 GMT",
-      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
     },
     {
       "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
@@ -32,10 +32,10 @@
       "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
     },
     {
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 16:26:11 GMT",
-      "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 22:11:52 GMT",
+      "description": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
     },
     {
       "title": "Global nature talks reach deal but money remains an issue",
@@ -50,22 +50,22 @@
       "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
     },
     {
-      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "title": "The fight to save Canadian town threatened by Trump's tariffs",
       "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 31 Oct 2026 02:39:25 GMT",
       "description": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work."
+    },
+    {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 30 Oct 2026 21:13:14 GMT",
+      "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
     },
     {
       "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
       "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 30 Oct 2026 17:07:19 GMT",
       "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September."
-    },
-    {
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 22:11:52 GMT",
-      "description": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
     },
     {
       "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
@@ -95,64 +95,64 @@
   "regions": {
     "US": [
       {
-        "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump",
-        "pubDate": "Fri, 30 Oct 2026 18:06:18 -0400",
-        "description": "&lt;strong&gt;Several children have had to leave the state to receive medical care, including abortions, that is unavailable in Texas.&lt;/strong&gt;"
+        "title": "Perspective: Forget the ballroom, we&apos;re headed to Cheesecake Factory!",
+        "link": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
+        "pubDate": "Sat, 31 Oct 2026 08:00:00 -0400",
+        "description": "Former President Obama caused a kerfuffle with his comments about President Trump&apos;s interior decorating at the White House. But maybe state dinners should happen at The Cheesecake Factory."
       },
       {
-        "title": "Judge orders an inquiry into potential DOJ misconduct in Trump&apos;s golf course case",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
-        "pubDate": "Fri, 30 Oct 2026 17:56:52 -0400",
-        "description": "A federal judge is opening an formal inquiry into Trump officials&apos; conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course."
+        "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+        "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
+        "pubDate": "Sat, 31 Oct 2026 07:56:10 -0400",
+        "description": "The Siena Drone Photo Awards for 2026 offer breathtaking bird&apos;s-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground."
       },
       {
-        "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
-        "pubDate": "Fri, 30 Oct 2026 13:45:27 -0400",
-        "description": "Across the country, there are reports of heightened ICE activity. Advocates worry about how close it is to midterms, but so far voter turnout is surging."
+        "title": "Do you have seasonal affective disorder? How to tell — and what to do about it",
+        "link": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
+        "pubDate": "Sat, 31 Oct 2026 05:01:00 -0400",
+        "description": "The syndrome can make people feel like a &quot;hibernating bear,&quot; says Dr. Norman Rosenthal, who published the first research on SAD. He explains how to identify the symptoms and what to do to fe"
       },
       {
-        "title": "NPR special: 5 takeaways from a year of listening to swing voters",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups",
-        "pubDate": "Fri, 30 Oct 2026 11:00:00 -0400",
-        "description": "Every election, there is a crucial sliver of voters who help determine which candidates win. Here are five takeaways from a year of listening to voters who backed Biden in 2020 and then Trump in 2024."
+        "title": "After last year&apos;s storm, this remote Alaska town is still picking up the pieces",
+        "link": "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk",
+        "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
+        "description": "In October, 2025, the remnants of a typhoon seriously damaged Alaska Native villages in the far western part of the state. A year later, one of the hardest hit communities is still recovering.&lt;br&g"
       },
       {
-        "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-        "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-        "pubDate": "Fri, 30 Oct 2026 09:01:22 -0400",
-        "description": "The world&apos;s biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack."
+        "title": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
+        "link": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
+        "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
+        "description": "Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress."
       },
       {
-        "title": "Why is the Cheesecake Factory at the center of the latest culture war?",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama",
-        "pubDate": "Fri, 30 Oct 2026 08:00:31 -0400",
-        "description": "A joke by former President Obama has gone viral and received backlash from the Trump administration as the issue of affordability looms large over next week&apos;s midterm elections."
+        "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+        "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
+        "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
+        "description": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites."
       },
       {
-        "title": "Binance flags &apos;potential security issue,&apos; says approximately $6.3 billion impacted",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue",
-        "pubDate": "Fri, 30 Oct 2026 07:21:56 -0400",
-        "description": "It wasn&apos;t immediately clear the extent of the damage hackers might have been able to cause, and Binance had not explicitly confirmed that funds had been pilfered. The company said its teams are &"
+        "title": "Your writing was flagged as AI. What does that actually mean?",
+        "link": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+        "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
+        "description": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result."
       },
       {
-        "title": "Alaska&apos;s Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
-        "link": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
-        "pubDate": "Fri, 30 Oct 2026 07:20:26 -0400",
-        "description": "Alaska&apos;s governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on"
+        "title": "100 years later, Harry Houdini&apos;s death still haunts Detroit",
+        "link": "https://www.npr.org/2026/10/31/nx-s1-6008110/100-years-harry-houdinis-death-haunts-detroit",
+        "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
+        "description": "The legacy of magician Harry Houdini still looms large in Detroit 100 years after his death there. Some mark the anniversary of Houdini&apos;s death by trying to make contact with his spirit."
       },
       {
-        "title": "The two most interesting risks to Anthropic",
-        "link": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
-        "pubDate": "Fri, 30 Oct 2026 07:00:00 -0400",
-        "description": "Anthropic gave a 94-page list of risk factors in its S-1 this week. Two of them stood out."
+        "title": "Oyster stocks have plunged in the Chesapeake. This resident wants to bring them back",
+        "link": "https://www.npr.org/2026/10/31/nx-s1-6011228/oyster-farming-conservation-chesapeake-bay",
+        "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
+        "description": "Oyster reefs once abounded in the Chesapeake, but overharvesting slashed their populations, leading to poorer water quality and less habitat for other species. Now, researchers and local residents are"
       },
       {
-        "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
-        "link": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate",
-        "pubDate": "Fri, 30 Oct 2026 05:00:00 -0400",
-        "description": "Prices for candy, the most popular Halloween purchase, and gum have risen 7.7% in one year and are up more than 18% in two years, according to the latest federal data."
+        "title": "Oil company earnings skyrocket — again",
+        "link": "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices",
+        "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
+        "description": "Oil companies are reporting another quarter of sky-high profits as the war in Iran pushes up the price of oil — and prices at the pump."
       }
     ],
     "Canada": []
