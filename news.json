@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T20:55:47.496Z",
+  "updated": "2026-10-31T23:56:20.651Z",
   "world": [
     {
       "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
@@ -14,16 +14,16 @@
       "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
     },
     {
-      "title": "Clashes erupt between police and protesters in Paris",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
       "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 19:37:43 GMT",
-      "description": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services."
+      "pubDate": "Sat, 31 Oct 2026 21:29:01 GMT",
+      "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police."
     },
     {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 16:32:08 GMT",
-      "description": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit."
+      "pubDate": "Sat, 31 Oct 2026 22:11:45 GMT",
+      "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
     },
     {
       "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Virginia and D.C. sue to block construction of Trump arch",
+        "link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+        "pubDate": "Sat, 31 Oct 2026 18:48:51 -0400",
+        "description": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening."
+      },
+      {
+        "title": "Mixed economic forecast weighs heavy ahead of midterms",
+        "link": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
+        "pubDate": "Sat, 31 Oct 2026 17:14:35 -0400",
+        "description": "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices.  For now at least, interest rates are staying the same.  What does that mean for the midterm elections?"
+      },
+      {
         "title": "France seethes again as youth-led protests sweep Europe",
         "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
         "pubDate": "Sat, 31 Oct 2026 15:30:19 -0400",
@@ -137,22 +149,10 @@
         "description": "The syndrome can make people feel like a &quot;hibernating bear,&quot; says Dr. Norman Rosenthal, who published the first research on SAD. He explains how to identify the symptoms and what to do to fe"
       },
       {
-        "title": "After last year&apos;s storm, this remote Alaska town is still picking up the pieces",
-        "link": "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk",
+        "title": "Your writing was flagged as AI. What does that actually mean?",
+        "link": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
         "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
-        "description": "In October, 2025, the remnants of a typhoon seriously damaged Alaska Native villages in the far western part of the state. A year later, one of the hardest hit communities is still recovering.&lt;br&g"
-      },
-      {
-        "title": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
-        "link": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
-        "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
-        "description": "Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress."
-      },
-      {
-        "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
-        "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
-        "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
-        "description": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dark sky sites."
+        "description": "As editors turn to imperfect AI detection tools to weed out machine-generated submissions, writers who say they were falsely accused of using AI are left wondering what triggered a positive result."
       }
     ],
     "Canada": []
