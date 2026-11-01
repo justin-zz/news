@@ -1,11 +1,29 @@
 {
-  "updated": "2026-11-01T11:37:59.722Z",
+  "updated": "2026-11-01T17:34:23.262Z",
   "world": [
     {
-      "title": "Shops looted as German cost of living protests turn violent",
+      "title": "Shops looted as German cost-of-living protests turn violent",
       "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 11:03:36 GMT",
+      "pubDate": "Sun, 01 Nov 2026 11:57:48 GMT",
       "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
+    },
+    {
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 17:06:32 GMT",
+      "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say."
+    },
+    {
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 00:41:24 GMT",
+      "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book."
+    },
+    {
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 07:00:55 GMT",
+      "description": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down."
     },
     {
       "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
@@ -20,22 +38,10 @@
       "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
     },
     {
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 00:41:24 GMT",
-      "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book."
-    },
-    {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 09:28:06 GMT",
+      "pubDate": "Sun, 01 Nov 2026 13:11:37 GMT",
       "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
-    },
-    {
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 07:00:55 GMT",
-      "description": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls."
     },
     {
       "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
@@ -84,16 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 31 Oct 2026 01:11:43 GMT",
       "description": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
-    },
-    {
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 22:11:52 GMT",
-      "description": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Living with high prices in Virginia&apos;s 1st Congressional District",
+        "link": "https://www.npr.org/2026/11/01/nx-s1-5945628/living-with-high-prices-in-virginias-1st-congressional-district",
+        "pubDate": "Sun, 01 Nov 2026 08:00:00 -0500",
+        "description": "High prices are straining budgets for both a small business owner and a single mom in a rural part of Va.&apos;s 1st Congressional district. They explain how they&apos;re handling the economic stress "
+      },
+      {
+        "title": "It&apos;s ACA open enrollment time. Here are the changes for health insurance shoppers",
+        "link": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
+        "pubDate": "Sun, 01 Nov 2026 07:00:00 -0500",
+        "description": "The ACA health insurance marketplaces — find yours at HealthCare.gov — open Nov. 1 for 2027 coverage. Getting an early start may be especially important this year."
+      },
       {
         "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
         "link": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
@@ -113,10 +125,10 @@
         "description": "The majority of congressional races this cycle are rated either solid Democrat or solid Republican. They&apos;re the opposite of tossups, where candidates from the minority party face near impossible "
       },
       {
-        "title": "Supreme Court hears religious freedom case centered on universal pre-K program",
-        "link": "https://www.npr.org/2026/11/01/nx-s1-6000367/supreme-court-colorado-catholic-preschool-religious-freedom-lgbtq",
+        "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+        "link": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
         "pubDate": "Sun, 01 Nov 2026 05:00:00 -0400",
-        "description": "The Archdiocese of Denver wants to be able to turn away LGBTQ families from Catholic preschools that receive state funding."
+        "description": "President Trump has maintained a near-daily rally schedule as Election Day draws closer, playing his greatest hits for loyal crowds in red states in what is a sort-of goodbye to campaigning."
       },
       {
         "title": "How one family gave a critical boost to gene therapy research",
@@ -125,10 +137,10 @@
         "description": "A family affected by Sanfilippo syndrome raised millions of dollars for research. The Food and Drug Administration just approved a gene therapy the support helped make possible."
       },
       {
-        "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
-        "link": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+        "title": "Supreme Court hears religious freedom case centered on universal pre-K program",
+        "link": "https://www.npr.org/2026/11/01/nx-s1-6000367/supreme-court-colorado-catholic-preschool-religious-freedom-lgbtq",
         "pubDate": "Sun, 01 Nov 2026 05:00:00 -0400",
-        "description": "President Trump has maintained a near-daily rally schedule as Election Day draws closer, playing his greatest hits for loyal crowds in red states in what is a sort-of goodbye to campaigning."
+        "description": "The Archdiocese of Denver wants to be able to turn away LGBTQ families from Catholic preschools that receive state funding."
       },
       {
         "title": "&apos;Grasping at straws&apos;: Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
         "pubDate": "Sat, 31 Oct 2026 18:48:51 -0400",
         "description": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening."
-      },
-      {
-        "title": "Mixed economic forecast weighs heavy ahead of midterms",
-        "link": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
-        "pubDate": "Sat, 31 Oct 2026 17:14:35 -0400",
-        "description": "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices.  For now at least, interest rates are staying the same.  What does that mean for the midterm elections?"
-      },
-      {
-        "title": "France seethes again as youth-led protests sweep Europe",
-        "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
-        "pubDate": "Sat, 31 Oct 2026 15:30:19 -0400",
-        "description": "French Interior Minister Laurent Nuñez warned of a &quot;very high risk&quot; of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets."
       }
     ],
     "Canada": []
