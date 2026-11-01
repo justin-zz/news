@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-01T04:38:03.679Z",
+  "updated": "2026-11-01T11:37:59.722Z",
   "world": [
     {
       "title": "Shops looted as German cost of living protests turn violent",
       "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 01:59:57 GMT",
-      "description": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne."
+      "pubDate": "Sun, 01 Nov 2026 11:03:36 GMT",
+      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
     },
     {
       "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
@@ -20,15 +20,21 @@
       "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
     },
     {
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 00:41:24 GMT",
+      "description": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book."
+    },
+    {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 22:11:45 GMT",
+      "pubDate": "Sun, 01 Nov 2026 09:28:06 GMT",
       "description": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack."
     },
     {
-      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
       "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 00:12:07 GMT",
+      "pubDate": "Sun, 01 Nov 2026 07:00:55 GMT",
       "description": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls."
     },
     {
@@ -38,22 +44,28 @@
       "description": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary."
     },
     {
-      "title": "Ethiopian PM puts ministers through military training",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 14:28:15 GMT",
-      "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
+      "title": "Judge orders Trump administration to stop threatening US election officials",
+      "link": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 00:27:33 GMT",
+      "description": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters."
     },
     {
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 21:29:01 GMT",
-      "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police."
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 00:46:12 GMT",
+      "description": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race."
     },
     {
       "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
       "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 31 Oct 2026 15:16:20 GMT",
       "description": "Government data shows that more than 10,000 people have contracted the rare virus."
+    },
+    {
+      "title": "Ethiopian PM puts ministers through military training",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 31 Oct 2026 14:28:15 GMT",
+      "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
     },
     {
       "title": "Spain train disaster clouds Sánchez chances of re-election",
@@ -78,22 +90,52 @@
       "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 30 Oct 2026 22:11:52 GMT",
       "description": "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
-    },
-    {
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 20:41:51 GMT",
-      "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades."
-    },
-    {
-      "title": "The fight to save Canadian town threatened by Trump's tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 02:39:25 GMT",
-      "description": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
+        "link": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
+        "pubDate": "Sun, 01 Nov 2026 06:00:00 -0500",
+        "description": "On the eve of what may prove to be a tough election for the GOP, young conservatives vying to be part of the first class of Gen Z Republicans in Congress want a role shaping the party&apos;s next chap"
+      },
+      {
+        "title": "Here&apos;s how to watch election night as the polls close, hour-by-hour",
+        "link": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
+        "pubDate": "Sun, 01 Nov 2026 05:00:00 -0400",
+        "description": "As polls close on election night, here&apos;s a look at what to expect each hour and which midterm races are key to deciding control of Congress."
+      },
+      {
+        "title": "What&apos;s it like to run for Congress when the odds are stacked heavily against you?",
+        "link": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts",
+        "pubDate": "Sun, 01 Nov 2026 05:00:00 -0400",
+        "description": "The majority of congressional races this cycle are rated either solid Democrat or solid Republican. They&apos;re the opposite of tossups, where candidates from the minority party face near impossible "
+      },
+      {
+        "title": "Supreme Court hears religious freedom case centered on universal pre-K program",
+        "link": "https://www.npr.org/2026/11/01/nx-s1-6000367/supreme-court-colorado-catholic-preschool-religious-freedom-lgbtq",
+        "pubDate": "Sun, 01 Nov 2026 05:00:00 -0400",
+        "description": "The Archdiocese of Denver wants to be able to turn away LGBTQ families from Catholic preschools that receive state funding."
+      },
+      {
+        "title": "How one family gave a critical boost to gene therapy research",
+        "link": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
+        "pubDate": "Sun, 01 Nov 2026 05:00:00 -0400",
+        "description": "A family affected by Sanfilippo syndrome raised millions of dollars for research. The Food and Drug Administration just approved a gene therapy the support helped make possible."
+      },
+      {
+        "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+        "link": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+        "pubDate": "Sun, 01 Nov 2026 05:00:00 -0400",
+        "description": "President Trump has maintained a near-daily rally schedule as Election Day draws closer, playing his greatest hits for loyal crowds in red states in what is a sort-of goodbye to campaigning."
+      },
+      {
+        "title": "&apos;Grasping at straws&apos;: Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+        "link": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
+        "pubDate": "Sun, 01 Nov 2026 04:20:19 -0400",
+        "description": "Saying the president was &quot;grasping at straws,&quot; a federal judge on Saturday threw out Donald Trump&apos;s $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch ov"
+      },
       {
         "title": "Virginia and D.C. sue to block construction of Trump arch",
         "link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
@@ -111,48 +153,6 @@
         "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
         "pubDate": "Sat, 31 Oct 2026 15:30:19 -0400",
         "description": "French Interior Minister Laurent Nuñez warned of a &quot;very high risk&quot; of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets."
-      },
-      {
-        "title": "Key takeaways from this week&apos;s political meeting in Beijing",
-        "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-        "pubDate": "Sat, 31 Oct 2026 14:42:33 -0400",
-        "description": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term."
-      },
-      {
-        "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
-        "link": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
-        "pubDate": "Sat, 31 Oct 2026 14:11:02 -0400",
-        "description": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector."
-      },
-      {
-        "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
-        "link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
-        "pubDate": "Sat, 31 Oct 2026 09:50:58 -0400",
-        "description": "The latest developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the toss-up U.S. Senate race."
-      },
-      {
-        "title": "Perspective: Forget the ballroom, we&apos;re headed to Cheesecake Factory!",
-        "link": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
-        "pubDate": "Sat, 31 Oct 2026 08:00:00 -0400",
-        "description": "Former President Obama caused a kerfuffle with his comments about President Trump&apos;s interior decorating at the White House. But maybe state dinners should happen at The Cheesecake Factory."
-      },
-      {
-        "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
-        "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
-        "pubDate": "Sat, 31 Oct 2026 07:56:10 -0400",
-        "description": "The Siena Drone Photo Awards for 2026 offer breathtaking bird&apos;s-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground."
-      },
-      {
-        "title": "Do you have seasonal affective disorder? How to tell — and what to do about it",
-        "link": "https://www.npr.org/2026/10/31/nx-s1-6023200/do-you-have-seasonal-affective-disorder-how-to-tell-and-what-to-do-about-it",
-        "pubDate": "Sat, 31 Oct 2026 05:01:00 -0400",
-        "description": "The syndrome can make people feel like a &quot;hibernating bear,&quot; says Dr. Norman Rosenthal, who published the first research on SAD. He explains how to identify the symptoms and what to do to fe"
-      },
-      {
-        "title": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
-        "link": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
-        "pubDate": "Sat, 31 Oct 2026 05:00:00 -0400",
-        "description": "Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they win control of Congress."
       }
     ],
     "Canada": []
