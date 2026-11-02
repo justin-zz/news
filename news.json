@@ -1,11 +1,23 @@
 {
-  "updated": "2026-11-01T21:38:08.034Z",
+  "updated": "2026-11-02T01:12:20.740Z",
   "world": [
+    {
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 22:38:24 GMT",
+      "description": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information."
+    },
     {
       "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
       "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 21:01:58 GMT",
+      "pubDate": "Sun, 01 Nov 2026 21:55:01 GMT",
       "description": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky."
+    },
+    {
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 02 Nov 2026 00:02:15 GMT",
+      "description": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat."
     },
     {
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -14,16 +26,16 @@
       "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say."
     },
     {
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 02 Nov 2026 00:15:30 GMT",
+      "description": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row."
+    },
+    {
       "title": "University of Cambridge scientist among those who died in Spanish train crash",
       "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 01 Nov 2026 17:05:18 GMT",
       "description": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked."
-    },
-    {
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 11:57:48 GMT",
-      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
     },
     {
       "title": "Armed police start patrols in Sydney after Bondi Beach attack",
@@ -32,10 +44,10 @@
       "description": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival."
     },
     {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 21:16:45 GMT",
-      "description": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote."
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 01 Nov 2026 11:57:48 GMT",
+      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
     },
     {
       "title": "India's opposition holds mega rally seeking election chief's resignation",
@@ -78,22 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 31 Oct 2026 14:28:15 GMT",
       "description": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
-    },
-    {
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 05:44:21 GMT",
-      "description": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
-    },
-    {
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 31 Oct 2026 17:53:35 GMT",
-      "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Do you know signs of a stroke? BE FAST are the words to remember",
+        "link": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
+        "pubDate": "Sun, 01 Nov 2026 17:22:12 -0500",
+        "description": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly."
+      },
       {
         "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
         "link": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
         "pubDate": "Sun, 01 Nov 2026 06:00:00 -0500",
         "description": "On the eve of what may prove to be a tough election for the GOP, young conservatives vying to be part of the first class of Gen Z Republicans in Congress want a role shaping the party&apos;s next chap"
-      },
-      {
-        "title": "Here&apos;s how to watch election night as the polls close, hour-by-hour",
-        "link": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
-        "pubDate": "Sun, 01 Nov 2026 05:00:00 -0400",
-        "description": "As polls close on election night, here&apos;s a look at what to expect each hour and which midterm races are key to deciding control of Congress."
       }
     ],
     "Canada": []
