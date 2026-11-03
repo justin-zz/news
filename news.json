@@ -1,17 +1,29 @@
 {
-  "updated": "2026-11-03T15:23:42.351Z",
+  "updated": "2026-11-03T21:10:27.237Z",
   "world": [
     {
-      "title": "US strikes Iranian island ahead of midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 11:33:33 GMT",
-      "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Nov 2026 20:56:32 GMT",
+      "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid."
     },
     {
-      "title": "Tenerife striker De Miguel dies after on-field collision",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 09:09:18 GMT",
-      "description": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match."
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Nov 2026 20:42:47 GMT",
+      "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
+    },
+    {
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Nov 2026 16:19:29 GMT",
+      "description": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says."
+    },
+    {
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Nov 2026 16:57:41 GMT",
+      "description": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble."
     },
     {
       "title": "Libya's top religious authority rules against wearing Nike clothes",
@@ -20,22 +32,46 @@
       "description": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic."
     },
     {
-      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
-      "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 11:51:08 GMT",
-      "description": "The two aircraft crashed just metres from the ground after trying to land at the same spot."
-    },
-    {
       "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
       "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 03 Nov 2026 13:55:47 GMT",
       "description": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food."
     },
     {
+      "title": "US strikes Iranian island ahead of midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Nov 2026 11:33:33 GMT",
+      "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
+    },
+    {
+      "title": "Indian tourist killed after two helicopters collide near Everest base camp",
+      "link": "https://www.bbc.co.uk/news/articles/cmqlnx7z1549o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Nov 2026 11:51:08 GMT",
+      "description": "The two aircraft crashed just metres from the ground after trying to land at the same spot."
+    },
+    {
+      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+      "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Nov 2026 17:07:28 GMT",
+      "description": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer."
+    },
+    {
+      "title": "Tenerife striker De Miguel dies after on-field collision",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Nov 2026 09:09:18 GMT",
+      "description": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match."
+    },
+    {
       "title": "US urges Venezuela to release remaining political prisoners",
       "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 03 Nov 2026 12:09:20 GMT",
       "description": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'."
+    },
+    {
+      "title": "Mining giant joins fight to stop killer toad march across Australia",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Nov 2026 15:05:01 GMT",
+      "description": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region."
     },
     {
       "title": "Asian Cup postponed in wake of attacks on Saudi Arabia",
@@ -54,46 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 03 Nov 2026 13:26:19 GMT",
       "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack."
-    },
-    {
-      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-      "link": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 13:44:44 GMT",
-      "description": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived."
-    },
-    {
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 13:28:30 GMT",
-      "description": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury."
-    },
-    {
-      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 03:32:36 GMT",
-      "description": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state."
-    },
-    {
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 02 Nov 2026 17:33:19 GMT",
-      "description": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on."
-    },
-    {
-      "title": "Major test for Australia's social media ban begins in High Court",
-      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 07:53:38 GMT",
-      "description": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication."
-    },
-    {
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 03 Nov 2026 08:33:20 GMT",
-      "description": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "When caring for aging family members becomes cost prohibitive",
+        "link": "https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive",
+        "pubDate": "Tue, 03 Nov 2026 12:09:56 -0500",
+        "description": "AARP reports family caregivers are spending 60% more than they were five years ago. Journalist Paula Span discusses the rising costs of caregiving and senior living, and the options available to us."
+      },
+      {
+        "title": "For Ukraine&apos;s Kherson region, a short ceasefire meant a momentary return to normal life",
+        "link": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
+        "pubDate": "Tue, 03 Nov 2026 10:54:39 -0500",
+        "description": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. &quot;The city seems alive,&quot; said one resident, &quot;just like it"
+      },
       {
         "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
         "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
@@ -119,16 +131,10 @@
         "description": "As polls close on Election Day and results start rolling in, these are some of the House races that will help explain how the midterms are unfolding."
       },
       {
-        "title": "A new cold war: hackers target fridges across the globe",
-        "link": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges",
-        "pubDate": "Tue, 03 Nov 2026 05:00:00 -0500",
-        "description": "NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption."
-      },
-      {
-        "title": "It&apos;s Election Day. Control of Congress is on the line, and what else you need to know",
-        "link": "https://www.npr.org/2026/11/03/nx-s1-5992757/election-day-live-updates-key-races",
-        "pubDate": "Tue, 03 Nov 2026 05:00:00 -0500",
-        "description": "There are a lot of variables for how things will go today. Results will start to come in at 6 p.m. ET in Kentucky and Indiana, and then it will be off to the races."
+        "title": "New restrictions at Texas Tech are changing what professors can teach",
+        "link": "https://www.npr.org/2026/11/03/nx-s1-5963883/texas-tech-academic-sb17-odyssey",
+        "pubDate": "Tue, 03 Nov 2026 05:01:00 -0500",
+        "description": "The rules have led to changes in course materials, prompted accusations of censorship and fueled pushback from faculty and students, including faculty departures, student protests and a federal lawsui"
       },
       {
         "title": "How NPR makes race calls in the 2026 election",
@@ -143,16 +149,10 @@
         "description": "A massacre allegedly targeting Hindu Americans was recently thwarted, but researchers say it helps to illustrate a growing and increasingly mainstream hate directed at South Asians in the U.S."
       },
       {
-        "title": "&apos;Messy,&apos; &apos;divided&apos; and &apos;scary&apos;: swing voters rate the country ahead of Election Day",
-        "link": "https://www.npr.org/2026/11/03/nx-s1-6014577/swing-voters-midterm-elections-voting-trump",
+        "title": "A new cold war: hackers target fridges across the globe",
+        "link": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges",
         "pubDate": "Tue, 03 Nov 2026 05:00:00 -0500",
-        "description": "One last check in with the Swing Shift voters before Election Day. All of them voted for President Trump. Now, they&apos;re rating his presidency and deciding who to support when he&apos;s not on the "
-      },
-      {
-        "title": "Connect250 creates a time capsule of life in America",
-        "link": "https://www.npr.org/2026/11/03/nx-s1-6026459/connect250-creates-a-time-capsule-of-life-in-america",
-        "pubDate": "Tue, 03 Nov 2026 04:44:42 -0500",
-        "description": "We hear some of the results of StoryCorps teaming up with Morning Edition to connect listeners across America for a series of conversations about the country on the 250th anniversary of its founding."
+        "description": "NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disruption."
       }
     ],
     "Canada": []
