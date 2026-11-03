@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-02T17:46:18.494Z",
+  "updated": "2026-11-03T00:26:25.384Z",
   "world": [
+    {
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 02 Nov 2026 21:10:04 GMT",
+      "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
+    },
+    {
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Nov 2026 00:07:05 GMT",
+      "description": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations."
+    },
+    {
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 03 Nov 2026 00:08:14 GMT",
+      "description": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause."
+    },
     {
       "title": "Shop freezers in seven European countries hit by cyber-attack",
       "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&amp;at_campaign=rss",
@@ -14,16 +32,34 @@
       "description": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on."
     },
     {
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 02 Nov 2026 23:37:31 GMT",
+      "description": "A rights group will argue the world-leading policy robs under-16s of their right to free communication."
+    },
+    {
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 02 Nov 2026 20:08:51 GMT",
+      "description": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga."
+    },
+    {
       "title": "Dutch police offer record €2m reward in hunt for drug lord",
       "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 02 Nov 2026 17:29:49 GMT",
       "description": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone."
     },
     {
-      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 02 Nov 2026 14:35:01 GMT",
-      "description": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening."
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 02 Nov 2026 19:33:10 GMT",
+      "description": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury."
+    },
+    {
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 02 Nov 2026 18:34:24 GMT",
+      "description": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity."
     },
     {
       "title": "Five arrested after South African farmer shot and tortured",
@@ -54,51 +90,33 @@
       "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 02 Nov 2026 12:05:34 GMT",
       "description": "Uganda has been helping Somalia battle an insurgency led by the al-Shabab militant group since 2007."
-    },
-    {
-      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
-      "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 02 Nov 2026 03:58:38 GMT",
-      "description": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last."
-    },
-    {
-      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 02 Nov 2026 00:15:30 GMT",
-      "description": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row."
-    },
-    {
-      "title": "Popular Australian children's author jailed over child exploitation offences",
-      "link": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 02 Nov 2026 08:03:39 GMT",
-      "description": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier."
-    },
-    {
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 17:06:32 GMT",
-      "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say."
-    },
-    {
-      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 17:56:47 GMT",
-      "description": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival."
-    },
-    {
-      "title": "University of Cambridge scientist among those who died in Spanish train crash",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 01 Nov 2026 17:05:18 GMT",
-      "description": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "DOJ asks for Supreme Court to intervene on California ballot demands",
+        "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+        "link": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+        "pubDate": "Mon, 02 Nov 2026 15:02:41 -0500",
+        "description": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters&apos; decisions."
+      },
+      {
+        "title": "Is America really that polarized? The answer might be a surprise",
+        "link": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
+        "pubDate": "Mon, 02 Nov 2026 15:00:00 -0500",
+        "description": "The U.S. has become more politically polarized, but research shows people overestimate their differences and there is &apos;messy middle&apos; majority of Americans who share overlapping political vie"
+      },
+      {
+        "title": "Judge accuses DOJ of &apos;weaponization,&apos; tosses case against ex-FBI officials",
+        "link": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
+        "pubDate": "Mon, 02 Nov 2026 13:54:01 -0500",
+        "description": "The judge said he was &quot;deeply troubled&quot; by the mistakes and rushed nature of the case over the FBI&apos;s Hunter Biden probes — one of several politically charged DOJ actions ahead of the mi"
+      },
+      {
+        "title": "The Supreme Court rejects a DOJ push to separate California ballots",
         "link": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
         "pubDate": "Mon, 02 Nov 2026 11:34:17 -0500",
-        "description": "On the eve of the Nov. 3 election, the Trump administration is hoping the Supreme Court will reverse lower courts that rejected its request to order California to set aside the ballots of thousands of"
+        "description": "The U.S. Supreme Court has denied a last-minute request from the Department of Justice to wade into its unprecedented feud with California over the state&apos;s voter rolls."
       },
       {
         "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
@@ -113,12 +131,6 @@
         "description": "What happens in California could shape how America taxes the superrich. But will its billionaire tax fill state coffers — or drain them?"
       },
       {
-        "title": "6 things to watch for on election night",
-        "link": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
-        "pubDate": "Mon, 02 Nov 2026 05:00:00 -0500",
-        "description": "Some of the key storylines to watch will center around various voters groups that have soured on President Trump during his second turn out."
-      },
-      {
         "title": "When it comes to election pressure, this year&apos;s Georgia or Michigan could be anywhere",
         "link": "https://www.npr.org/2026/11/02/nx-s1-5989648/midterm-voting-election-pressure",
         "pubDate": "Mon, 02 Nov 2026 05:00:00 -0500",
@@ -131,28 +143,16 @@
         "description": "Many people are swapping out their fluoride dental products for ones made with a mineral called hydroxyapatite. What do dentists say about it?"
       },
       {
+        "title": "6 things to watch for on election night",
+        "link": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
+        "pubDate": "Mon, 02 Nov 2026 05:00:00 -0500",
+        "description": "Some of the key storylines to watch will center around various voters groups that have soured on President Trump during his second turn out."
+      },
+      {
         "title": "With students scarce, college admissions offices get friendlier, less intimidating",
         "link": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
         "pubDate": "Mon, 02 Nov 2026 05:00:00 -0500",
         "description": "Colleges are trying to transform an admissions process that has often been daunting, secretive and stressful into an experience that&apos;s open, easier — and downright friendly."
-      },
-      {
-        "title": "What Vance&apos;s midterm push reveals about his potential 2028 bid",
-        "link": "https://www.npr.org/2026/11/02/nx-s1-6023159/what-vances-midterm-push-reveals-about-his-potential-2028-bid",
-        "pubDate": "Mon, 02 Nov 2026 05:00:00 -0500",
-        "description": "Vance&apos;s delivery is different from the president&apos;s but his speeches contain plenty of MAGA DNA."
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/11/02/nx-s1-6023084/morning-news-brief",
-        "pubDate": "Mon, 02 Nov 2026 04:42:20 -0500",
-        "description": "Democratic Rep. Haley Stevens endorses GOP candidate in Michigan race, key races remain close in last day before midterm election, Gulf states concerned about possible U.S. attack on Iran."
-      },
-      {
-        "title": "UN&apos;s peacekeeping mission in disputed Western Sahara ends after 35 years",
-        "link": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
-        "pubDate": "Mon, 02 Nov 2026 02:19:35 -0500",
-        "description": "The U.N.&apos;s long-running peacekeeping mission for the disputed Western Sahara ceased operations Sunday after 35 years. Once ruled by Spain, it is claimed by both Morocco and the pro-independence P"
       }
     ],
     "Canada": []
