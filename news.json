@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-06T19:49:26.728Z",
+  "updated": "2026-11-06T23:55:50.642Z",
   "world": [
     {
       "title": "AI stocks climb after trillions wiped from market values",
       "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 19:37:10 GMT",
+      "pubDate": "Fri, 06 Nov 2026 21:06:25 GMT",
       "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
     },
     {
@@ -30,6 +30,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 06 Nov 2026 14:46:03 GMT",
       "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
+    },
+    {
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 17:44:02 GMT",
+      "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people."
     },
     {
       "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
@@ -64,7 +70,7 @@
     {
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 09:57:04 GMT",
+      "pubDate": "Fri, 06 Nov 2026 21:49:50 GMT",
       "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver."
     },
     {
@@ -84,16 +90,34 @@
       "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 05 Nov 2026 23:09:33 GMT",
       "description": "California has historically had the largest population of people on death row in the US."
-    },
-    {
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 17:35:55 GMT",
-      "description": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Israel&apos;s Arab-led parties in spotlight after inconclusive election",
+        "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+        "pubDate": "Fri, 06 Nov 2026 15:42:51 -0500",
+        "description": "Israel&apos;s center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key."
+      },
+      {
+        "title": "The incoming class of U.S. senators is full of historic firsts",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
+        "pubDate": "Fri, 06 Nov 2026 15:21:13 -0500",
+        "description": "From the first Native American woman elected to the U.S. Senate and the first Muslim who will join the upper chamber to the Senate&apos;s first Paralympian, voters elected historic candidates on Tuesd"
+      },
+      {
+        "title": "Trump&apos;s global health strategy is emerging. What will the Democratic Congress say?",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
+        "pubDate": "Fri, 06 Nov 2026 15:09:58 -0500",
+        "description": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?"
+      },
+      {
+        "title": "No one knows how many ballots are outstanding in Mississippi&apos;s Senate race",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+        "pubDate": "Fri, 06 Nov 2026 14:50:14 -0500",
+        "description": "The razor-thin margin between GOP Sen. Cindy Hyde-Smith and Democrat Scott Colom is shining a light on an election process in Mississippi that is among the slowest and most decentralized in the U.S."
+      },
       {
         "title": "Stephen Miller will replace Susie Wiles as Trump&apos;s chief of staff",
         "link": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
@@ -104,7 +128,7 @@
         "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
         "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
         "pubDate": "Fri, 06 Nov 2026 14:13:06 -0500",
-        "description": "After lung surgery, Pope Leo embarks on a 12-day tour of South America, navigating political tensions and returning to Peru, the place he once called home."
+        "description": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades."
       },
       {
         "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
         "pubDate": "Fri, 06 Nov 2026 09:53:46 -0500",
         "description": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus."
-      },
-      {
-        "title": "Ex-lawmaker gets 12.5 years in Macao&apos;s first national security case",
-        "link": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
-        "pubDate": "Fri, 06 Nov 2026 08:56:43 -0500",
-        "description": "Au&apos;s arrest last year was the first publicly known prosecution under Macao&apos;s national security law since it was enacted in 2009."
-      },
-      {
-        "title": "Hiring jumps: The economy added 165,000 jobs last month",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
-        "pubDate": "Fri, 06 Nov 2026 08:49:21 -0500",
-        "description": "The U.S. job market improved last month, according to a report from the Labor Department Friday.  Employers added more jobs than forecasters had expected and the unemployment rate dipped to 4.1%."
-      },
-      {
-        "title": "Judge halts construction of Trump&apos;s arch. And, Labor Department to release jobs report",
-        "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
-        "pubDate": "Fri, 06 Nov 2026 07:24:52 -0500",
-        "description": "A judge has blocked construction of Trump&apos;s arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day after stocks plu"
-      },
-      {
-        "title": "Why gold prices are surprisingly low",
-        "link": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
-        "pubDate": "Fri, 06 Nov 2026 07:00:00 -0500",
-        "description": "Gold tends to go up when there&apos;s uncertainty in the economy. For a while, the price reflected that. But this week, it dropped from a nearly $5,600 in January to below $4,000. What&apos;s going on"
       }
     ],
     "Canada": []
