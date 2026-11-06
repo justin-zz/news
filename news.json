@@ -1,23 +1,29 @@
 {
-  "updated": "2026-11-06T04:54:38.816Z",
+  "updated": "2026-11-06T12:41:28.151Z",
   "world": [
-    {
-      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 02:57:24 GMT",
-      "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
-    },
-    {
-      "title": "Trump signs order preventing future presidents from changing Oval Office",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 04:29:25 GMT",
-      "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
-    },
     {
       "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
       "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 06 Nov 2026 02:08:57 GMT",
-      "description": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run."
+      "description": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run."
+    },
+    {
+      "title": "Trump signs order to preserve Oval Office as national monument",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 09:19:57 GMT",
+      "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
+    },
+    {
+      "title": "Two dead after bus crashes in France, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 12:27:33 GMT",
+      "description": "One child and one young adult were killed in the crash, local authorities say, with more injured."
+    },
+    {
+      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 12:19:41 GMT",
+      "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
     },
     {
       "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
@@ -26,10 +32,28 @@
       "description": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru."
     },
     {
-      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 17:39:48 GMT",
-      "description": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
+      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 11:36:14 GMT",
+      "description": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated."
+    },
+    {
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 09:57:04 GMT",
+      "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver."
+    },
+    {
+      "title": "Somalia's top court rejects president's term extension amid political crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 08:18:10 GMT",
+      "description": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt."
+    },
+    {
+      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 07:33:41 GMT",
+      "description": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest."
     },
     {
       "title": "California governor commutes sentences for state's 548 death row inmates",
@@ -38,121 +62,97 @@
       "description": "California has historically had the largest population of people on death row in the US."
     },
     {
+      "title": "Nigerian court rules opposition candidate cannot stand in elections",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Nov 2026 22:00:33 GMT",
+      "description": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections."
+    },
+    {
+      "title": "Macau jails pro-democracy campaigner in city's first national security case",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 06:46:21 GMT",
+      "description": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\"."
+    },
+    {
       "title": "Paraguay President Santiago Peña resigns after bank collapse",
       "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 05 Nov 2026 17:40:40 GMT",
       "description": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him."
     },
     {
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Nov 2026 17:39:48 GMT",
+      "description": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
+    },
+    {
       "title": "French protests see numbers surge as unions join strikes over high cost of living",
       "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 05 Nov 2026 17:59:53 GMT",
       "description": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher."
-    },
-    {
-      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 01:28:03 GMT",
-      "description": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists."
-    },
-    {
-      "title": "Eight killed in series of shootings in western Turkey",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 19:32:54 GMT",
-      "description": "Victims are found in several locations in three separate vehicles, according to local reports."
-    },
-    {
-      "title": "Who could be behind hoax bomb threats to European air travel?",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 19:58:40 GMT",
-      "description": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups."
-    },
-    {
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 19:08:08 GMT",
-      "description": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire."
-    },
-    {
-      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
-      "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 18:22:46 GMT",
-      "description": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week."
-    },
-    {
-      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-      "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 19:08:48 GMT",
-      "description": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters."
-    },
-    {
-      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-      "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 10:33:21 GMT",
-      "description": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\"."
     }
   ],
   "regions": {
     "US": [
       {
+        "title": "Judge halts construction of Trump&apos;s arch. And, Labor Department to release jobs report",
+        "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
+        "pubDate": "Fri, 06 Nov 2026 07:24:52 -0500",
+        "description": "A judge has blocked construction of Trump&apos;s arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day after stocks plu"
+      },
+      {
+        "title": "Why gold prices are surprisingly low",
+        "link": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
+        "pubDate": "Fri, 06 Nov 2026 07:00:00 -0500",
+        "description": "Gold tends to go up when there&apos;s uncertainty in the economy. For a while, the price reflected that. But this week, it dropped from a nearly $5,600 in January to below $4,000. What&apos;s going on"
+      },
+      {
+        "title": "Past White House adviser Raj Panjabi has written a playbook for &apos;living room&apos; crises",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
+        "pubDate": "Fri, 06 Nov 2026 06:57:32 -0500",
+        "description": "Dr. Raj Panjabi is the author of &lt;em&gt;Safer: A Playbook.&lt;/em&gt; His goal is to help people face a personal crisis — health, workplace, family conflicts — and &quot;turn fear into action.&quot"
+      },
+      {
+        "title": "Low birth rates were emptying public schools. ICE deportations are now making it worse",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
+        "pubDate": "Fri, 06 Nov 2026 05:00:00 -0500",
+        "description": "School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse."
+      },
+      {
+        "title": "Fill in the blank in the quiz: Vance says they lost the midterms because of ____",
+        "link": "https://www.npr.org/2026/11/06/g-s1-152045/news-quiz-midterms-vance-pope-kennedy-center",
+        "pubDate": "Fri, 06 Nov 2026 05:00:00 -0500",
+        "description": "Plus: Heidi Klum&apos;s hand, hackers and the pope&apos;s visitor!"
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6023117/morning-news-brief",
+        "pubDate": "Fri, 06 Nov 2026 04:47:37 -0500",
+        "description": "The Labor Department to release October jobs report Friday, what tactics are available to the Democratic Party to bring down fuel prices, judge  blocks construction of Trump&apos;s arch for 14 days."
+      },
+      {
+        "title": "Former Army medic reflects on his toughest moments helping the wounded",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6027720/former-army-medic-reflects-on-his-toughest-moments-helping-the-wounded",
+        "pubDate": "Fri, 06 Nov 2026 04:46:06 -0500",
+        "description": "Twenty years ago, Army Staff Sergeant Phillip Trezza deployed to Iraq as a medic. He speaks with his teenage daughter about some of his toughest moments."
+      },
+      {
+        "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
+        "pubDate": "Fri, 06 Nov 2026 04:19:57 -0500",
+        "description": "Pope Leo XIV is kicking off a three-nation tour of Latin America with a visit to Uruguay, three weeks after undergoing lung cancer surgery that had put the entire trip into question."
+      },
+      {
+        "title": "A judge blocks construction of Trump&apos;s arch moments after it won federal approval",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
+        "pubDate": "Fri, 06 Nov 2026 00:05:43 -0500",
+        "description": "The Trump administration hoped to begin construction immediately after a federal panel approved its arch late Thursday. But just after midnight, the judge issued an order blocking work for 14 days."
+      },
+      {
         "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
         "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
         "pubDate": "Thu, 05 Nov 2026 19:16:53 -0500",
         "description": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers."
-      },
-      {
-        "title": "These are the races in the House and Senate that haven&apos;t been called yet",
-        "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
-        "pubDate": "Thu, 05 Nov 2026 19:03:45 -0500",
-        "description": "Democrats are poised to have a strong majority in the upcoming Congress. The final numbers are still being determined. Here&apos;s where things stand in the races that are waiting to be called by the "
-      },
-      {
-        "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
-        "link": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
-        "pubDate": "Thu, 05 Nov 2026 18:52:48 -0500",
-        "description": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine."
-      },
-      {
-        "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
-        "link": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts",
-        "pubDate": "Thu, 05 Nov 2026 18:34:36 -0500",
-        "description": "All of these seats were in districts redrawn in 2023 to favor Republican candidates."
-      },
-      {
-        "title": "Paraguay&apos;s president is impeached minutes after resigning following a bank collapse",
-        "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
-        "pubDate": "Thu, 05 Nov 2026 13:30:16 -0500",
-        "description": "Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people&apos;s savings."
-      },
-      {
-        "title": "Head of Justice Department office on Civil Rights resigns",
-        "link": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns",
-        "pubDate": "Thu, 05 Nov 2026 13:01:57 -0500",
-        "description": "The head of the Justice Department&apos;s Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge."
-      },
-      {
-        "title": "Discursive Verses: Is &apos;Spend Dat&apos; the best financial indicator of America&apos;s grift economy?",
-        "link": "https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat",
-        "pubDate": "Thu, 05 Nov 2026 11:30:00 -0500",
-        "description": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: How Yung Miami&apos;s summer bop became a sweeping indictment."
-      },
-      {
-        "title": "Russell Brand is convicted of rape, and judge says he&apos;ll get a prison term",
-        "link": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
-        "pubDate": "Thu, 05 Nov 2026 11:15:02 -0500",
-        "description": "A prosecutor described Brand as a ruthless, calculating, manipulative &quot;sexual predator.&quot; Brand, 51, denied the charges, saying he had never forced anyone to do something against their will."
-      },
-      {
-        "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
-        "link": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
-        "pubDate": "Thu, 05 Nov 2026 10:00:00 -0500",
-        "description": "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high."
-      },
-      {
-        "title": "Teens worldwide aren&apos;t getting enough exercise -- especially girls",
-        "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
-        "pubDate": "Thu, 05 Nov 2026 07:24:14 -0500",
-        "description": "A new study looks at the recommended amount of daily exercise for adolescents — and how few are getting it."
       }
     ],
     "Canada": []
