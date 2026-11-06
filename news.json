@@ -1,29 +1,47 @@
 {
-  "updated": "2026-11-06T12:41:28.151Z",
+  "updated": "2026-11-06T19:49:26.728Z",
   "world": [
     {
-      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 02:08:57 GMT",
-      "description": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run."
+      "title": "AI stocks climb after trillions wiped from market values",
+      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 19:37:10 GMT",
+      "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
     },
     {
-      "title": "Trump signs order to preserve Oval Office as national monument",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 09:19:57 GMT",
-      "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
+      "title": "Four midterms takeaways for 2028 White House race",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 16:12:22 GMT",
+      "description": "The buzz about the presidential election is already under way - here's what we learned this week."
     },
     {
       "title": "Two dead after bus crashes in France, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 12:27:33 GMT",
+      "pubDate": "Fri, 06 Nov 2026 15:33:52 GMT",
       "description": "One child and one young adult were killed in the crash, local authorities say, with more injured."
+    },
+    {
+      "title": "New wave of bomb threats hit European airlines",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 15:25:35 GMT",
+      "description": "No link has been established between the threats against the airlines and those against the media outlets."
     },
     {
       "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
       "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 12:19:41 GMT",
+      "pubDate": "Fri, 06 Nov 2026 14:46:03 GMT",
       "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
+    },
+    {
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 15:30:42 GMT",
+      "description": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week."
+    },
+    {
+      "title": "Russian extremist group denies sending hoax bomb threats",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 12:51:38 GMT",
+      "description": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far."
     },
     {
       "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
@@ -32,9 +50,15 @@
       "description": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru."
     },
     {
+      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 16:51:01 GMT",
+      "description": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff."
+    },
+    {
       "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
       "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 11:36:14 GMT",
+      "pubDate": "Fri, 06 Nov 2026 14:57:08 GMT",
       "description": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated."
     },
     {
@@ -64,36 +88,60 @@
     {
       "title": "Nigerian court rules opposition candidate cannot stand in elections",
       "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 22:00:33 GMT",
+      "pubDate": "Fri, 06 Nov 2026 17:35:55 GMT",
       "description": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections."
-    },
-    {
-      "title": "Macau jails pro-democracy campaigner in city's first national security case",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 06:46:21 GMT",
-      "description": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\"."
-    },
-    {
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 17:40:40 GMT",
-      "description": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him."
-    },
-    {
-      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 17:39:48 GMT",
-      "description": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
-    },
-    {
-      "title": "French protests see numbers surge as unions join strikes over high cost of living",
-      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 17:59:53 GMT",
-      "description": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Stephen Miller will replace Susie Wiles as Trump&apos;s chief of staff",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+        "pubDate": "Fri, 06 Nov 2026 14:13:52 -0500",
+        "description": "The change comes after sweeping Republican losses in the midterm elections."
+      },
+      {
+        "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
+        "pubDate": "Fri, 06 Nov 2026 14:13:06 -0500",
+        "description": "After lung surgery, Pope Leo embarks on a 12-day tour of South America, navigating political tensions and returning to Peru, the place he once called home."
+      },
+      {
+        "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+        "pubDate": "Fri, 06 Nov 2026 14:00:21 -0500",
+        "description": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank."
+      },
+      {
+        "title": "Remembering &apos;Star Trek&apos; actor Patrick Stewart",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart",
+        "pubDate": "Fri, 06 Nov 2026 12:36:39 -0500",
+        "description": "Stewart, who died Oct. 28, performed with the Royal Shakespeare Company before becoming famous as &lt;em&gt;Star Trek&apos;s &lt;/em&gt;Picard. Critic David Bianculli has a tribute, and we listen back"
+      },
+      {
+        "title": "European flights and broadcasters are targeted with another wave of bomb threats",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
+        "pubDate": "Fri, 06 Nov 2026 10:21:31 -0500",
+        "description": "Officials across Europe reported a slew of bomb threats against multiple flights, following a string of hoaxes that caused flight diversions this week. Three broadcasters also received threats."
+      },
+      {
+        "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+        "pubDate": "Fri, 06 Nov 2026 09:53:46 -0500",
+        "description": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus."
+      },
+      {
+        "title": "Ex-lawmaker gets 12.5 years in Macao&apos;s first national security case",
+        "link": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
+        "pubDate": "Fri, 06 Nov 2026 08:56:43 -0500",
+        "description": "Au&apos;s arrest last year was the first publicly known prosecution under Macao&apos;s national security law since it was enacted in 2009."
+      },
+      {
+        "title": "Hiring jumps: The economy added 165,000 jobs last month",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
+        "pubDate": "Fri, 06 Nov 2026 08:49:21 -0500",
+        "description": "The U.S. job market improved last month, according to a report from the Labor Department Friday.  Employers added more jobs than forecasters had expected and the unemployment rate dipped to 4.1%."
+      },
       {
         "title": "Judge halts construction of Trump&apos;s arch. And, Labor Department to release jobs report",
         "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
@@ -105,54 +153,6 @@
         "link": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
         "pubDate": "Fri, 06 Nov 2026 07:00:00 -0500",
         "description": "Gold tends to go up when there&apos;s uncertainty in the economy. For a while, the price reflected that. But this week, it dropped from a nearly $5,600 in January to below $4,000. What&apos;s going on"
-      },
-      {
-        "title": "Past White House adviser Raj Panjabi has written a playbook for &apos;living room&apos; crises",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
-        "pubDate": "Fri, 06 Nov 2026 06:57:32 -0500",
-        "description": "Dr. Raj Panjabi is the author of &lt;em&gt;Safer: A Playbook.&lt;/em&gt; His goal is to help people face a personal crisis — health, workplace, family conflicts — and &quot;turn fear into action.&quot"
-      },
-      {
-        "title": "Low birth rates were emptying public schools. ICE deportations are now making it worse",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
-        "pubDate": "Fri, 06 Nov 2026 05:00:00 -0500",
-        "description": "School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the crisis worse."
-      },
-      {
-        "title": "Fill in the blank in the quiz: Vance says they lost the midterms because of ____",
-        "link": "https://www.npr.org/2026/11/06/g-s1-152045/news-quiz-midterms-vance-pope-kennedy-center",
-        "pubDate": "Fri, 06 Nov 2026 05:00:00 -0500",
-        "description": "Plus: Heidi Klum&apos;s hand, hackers and the pope&apos;s visitor!"
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6023117/morning-news-brief",
-        "pubDate": "Fri, 06 Nov 2026 04:47:37 -0500",
-        "description": "The Labor Department to release October jobs report Friday, what tactics are available to the Democratic Party to bring down fuel prices, judge  blocks construction of Trump&apos;s arch for 14 days."
-      },
-      {
-        "title": "Former Army medic reflects on his toughest moments helping the wounded",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6027720/former-army-medic-reflects-on-his-toughest-moments-helping-the-wounded",
-        "pubDate": "Fri, 06 Nov 2026 04:46:06 -0500",
-        "description": "Twenty years ago, Army Staff Sergeant Phillip Trezza deployed to Iraq as a medic. He speaks with his teenage daughter about some of his toughest moments."
-      },
-      {
-        "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
-        "pubDate": "Fri, 06 Nov 2026 04:19:57 -0500",
-        "description": "Pope Leo XIV is kicking off a three-nation tour of Latin America with a visit to Uruguay, three weeks after undergoing lung cancer surgery that had put the entire trip into question."
-      },
-      {
-        "title": "A judge blocks construction of Trump&apos;s arch moments after it won federal approval",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
-        "pubDate": "Fri, 06 Nov 2026 00:05:43 -0500",
-        "description": "The Trump administration hoped to begin construction immediately after a federal panel approved its arch late Thursday. But just after midnight, the judge issued an order blocking work for 14 days."
-      },
-      {
-        "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
-        "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
-        "pubDate": "Thu, 05 Nov 2026 19:16:53 -0500",
-        "description": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers."
       }
     ],
     "Canada": []
