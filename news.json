@@ -1,11 +1,29 @@
 {
-  "updated": "2026-11-07T16:57:21.623Z",
+  "updated": "2026-11-07T20:41:31.044Z",
   "world": [
+    {
+      "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 20:23:17 GMT",
+      "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city."
+    },
     {
       "title": "No clear winner after tight New Zealand general election",
       "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 07 Nov 2026 15:56:28 GMT",
       "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
+    },
+    {
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 18:14:38 GMT",
+      "description": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities."
+    },
+    {
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 17:09:24 GMT",
+      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
     },
     {
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
@@ -20,9 +38,9 @@
       "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
     },
     {
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "title": "Paraguay's former president charged after bank collapse",
       "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 07:20:00 GMT",
+      "pubDate": "Sat, 07 Nov 2026 19:17:22 GMT",
       "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
     },
     {
@@ -72,28 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 06 Nov 2026 17:44:02 GMT",
       "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people."
-    },
-    {
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 14:46:03 GMT",
-      "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
-    },
-    {
-      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 15:02:03 GMT",
-      "description": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs."
-    },
-    {
-      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
-      "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 18:22:46 GMT",
-      "description": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Israel&apos;s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+        "link": "https://www.npr.org/2026/11/07/g-s1-152536/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu",
+        "pubDate": "Sat, 07 Nov 2026 15:18:18 -0500",
+        "description": "Gadi Eisenkot ran as the main challenger to Prime Minister Benjamin Netanyahu — neither won a clear majority. Israel&apos;s main parties have recommended Eisenkot put together a new government."
+      },
+      {
+        "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+        "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+        "pubDate": "Sat, 07 Nov 2026 13:37:36 -0500",
+        "description": "A gunman targeted random people as he drove into Krakow&apos;s Main Square, a major tourist spot. Police shot and wounded the gunman during a gunfight."
+      },
+      {
+        "title": "Ousted Paraguayan president appears before prosecutors",
+        "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+        "pubDate": "Sat, 07 Nov 2026 12:14:36 -0500",
+        "description": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank."
+      },
       {
         "title": "A promising new medicine against heart disease fails unexpectedly",
         "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
         "pubDate": "Fri, 06 Nov 2026 15:42:51 -0500",
         "description": "Israel&apos;s center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key."
-      },
-      {
-        "title": "The incoming class of U.S. senators is full of historic firsts",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
-        "pubDate": "Fri, 06 Nov 2026 15:21:13 -0500",
-        "description": "From the first Native American woman elected to the U.S. Senate and the first Muslim who will join the upper chamber to the Senate&apos;s first Paralympian, voters elected historic candidates on Tuesd"
-      },
-      {
-        "title": "Trump&apos;s global health strategy is emerging. What will the Democratic Congress say?",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
-        "pubDate": "Fri, 06 Nov 2026 15:09:58 -0500",
-        "description": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?"
-      },
-      {
-        "title": "No one knows how many ballots are outstanding in Mississippi&apos;s Senate race",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
-        "pubDate": "Fri, 06 Nov 2026 14:50:14 -0500",
-        "description": "The razor-thin margin between GOP Sen. Cindy Hyde-Smith and Democrat Scott Colom is shining a light on an election process in Mississippi that is among the slowest and most decentralized in the U.S."
       }
     ],
     "Canada": []
