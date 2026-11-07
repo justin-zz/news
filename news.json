@@ -1,23 +1,29 @@
 {
-  "updated": "2026-11-07T04:41:33.250Z",
+  "updated": "2026-11-07T11:27:40.408Z",
   "world": [
+    {
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 23:24:15 GMT",
+      "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
+    },
+    {
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 07:20:00 GMT",
+      "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
+    },
+    {
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 06:59:48 GMT",
+      "description": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
+    },
     {
       "title": "AI stocks climb after trillions wiped from market values",
       "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 06 Nov 2026 21:06:25 GMT",
       "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
-    },
-    {
-      "title": "Four midterms takeaways for 2028 White House race",
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 16:12:22 GMT",
-      "description": "The buzz about the presidential election is already under way - here's what we learned this week."
-    },
-    {
-      "title": "Two dead after bus crashes in France, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 15:33:52 GMT",
-      "description": "One child and one young adult were killed in the crash, local authorities say, with more injured."
     },
     {
       "title": "New wave of bomb threats hit European airlines",
@@ -26,16 +32,22 @@
       "description": "No link has been established between the threats against the airlines and those against the media outlets."
     },
     {
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 17:44:02 GMT",
+      "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people."
+    },
+    {
       "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
       "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 06 Nov 2026 14:46:03 GMT",
       "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
     },
     {
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 17:44:02 GMT",
-      "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people."
+      "title": "Two dead after bus crashes in France, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 15:33:52 GMT",
+      "description": "One child and one young adult were killed in the crash, local authorities say, with more injured."
     },
     {
       "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
@@ -44,16 +56,16 @@
       "description": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week."
     },
     {
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 23:46:08 GMT",
+      "description": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university."
+    },
+    {
       "title": "Russian extremist group denies sending hoax bomb threats",
       "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 06 Nov 2026 12:51:38 GMT",
       "description": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far."
-    },
-    {
-      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 00:02:57 GMT",
-      "description": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru."
     },
     {
       "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
@@ -74,26 +86,26 @@
       "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver."
     },
     {
-      "title": "Somalia's top court rejects president's term extension amid political crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 08:18:10 GMT",
-      "description": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt."
-    },
-    {
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 07:33:41 GMT",
-      "description": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest."
-    },
-    {
-      "title": "California governor commutes sentences for state's 548 death row inmates",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 23:09:33 GMT",
-      "description": "California has historically had the largest population of people on death row in the US."
+      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 15:02:03 GMT",
+      "description": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+        "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+        "pubDate": "Sat, 07 Nov 2026 05:00:00 -0500",
+        "description": "Thousands across the U.S. have gotten involved to oppose data centers. One is a Maryland woman who&apos;d been evicted after a pay cut and became a leader of a community effort that blocked a vast pro"
+      },
+      {
+        "title": "The economy propelled Democrats to victory. What can they actually do about it?",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
+        "pubDate": "Fri, 06 Nov 2026 16:53:10 -0500",
+        "description": "The party&apos;s success was fueled by frustrations over the cost of living. But in divided government, they&apos;ll face opposition from Republicans in Congress and a president vowing to use his veto"
+      },
       {
         "title": "Israel&apos;s Arab-led parties in spotlight after inconclusive election",
         "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart",
         "pubDate": "Fri, 06 Nov 2026 12:36:39 -0500",
         "description": "Stewart, who died Oct. 28, performed with the Royal Shakespeare Company before becoming famous as &lt;em&gt;Star Trek&apos;s &lt;/em&gt;Picard. Critic David Bianculli has a tribute, and we listen back"
-      },
-      {
-        "title": "European flights and broadcasters are targeted with another wave of bomb threats",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
-        "pubDate": "Fri, 06 Nov 2026 10:21:31 -0500",
-        "description": "Officials across Europe reported a slew of bomb threats against multiple flights, following a string of hoaxes that caused flight diversions this week. Three broadcasters also received threats."
-      },
-      {
-        "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
-        "pubDate": "Fri, 06 Nov 2026 09:53:46 -0500",
-        "description": "Cult leader Paul Mackenzie was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus."
       }
     ],
     "Canada": []
