@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-07T11:27:40.408Z",
+  "updated": "2026-11-07T16:57:21.623Z",
   "world": [
+    {
+      "title": "No clear winner after tight New Zealand general election",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 15:56:28 GMT",
+      "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
+    },
+    {
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 15:19:35 GMT",
+      "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
+    },
     {
       "title": "With Stephen Miller pick, Trump readies for a battle",
       "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&amp;at_campaign=rss",
@@ -18,6 +30,30 @@
       "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 07 Nov 2026 06:59:48 GMT",
       "description": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer."
+    },
+    {
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 16:50:06 GMT",
+      "description": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
+    },
+    {
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 12:49:36 GMT",
+      "description": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
+    },
+    {
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 07:27:44 GMT",
+      "description": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented."
+    },
+    {
+      "title": "Texas mayor instructs police to limit co-operation with ICE",
+      "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 08:15:55 GMT",
+      "description": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work."
     },
     {
       "title": "AI stocks climb after trillions wiped from market values",
@@ -44,56 +80,44 @@
       "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\"."
     },
     {
-      "title": "Two dead after bus crashes in France, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 15:33:52 GMT",
-      "description": "One child and one young adult were killed in the crash, local authorities say, with more injured."
-    },
-    {
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 15:30:42 GMT",
-      "description": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week."
-    },
-    {
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 23:46:08 GMT",
-      "description": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university."
-    },
-    {
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 12:51:38 GMT",
-      "description": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far."
-    },
-    {
-      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 16:51:01 GMT",
-      "description": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff."
-    },
-    {
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 14:57:08 GMT",
-      "description": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated."
-    },
-    {
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 21:49:50 GMT",
-      "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver."
-    },
-    {
       "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
       "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 06 Nov 2026 15:02:03 GMT",
       "description": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs."
+    },
+    {
+      "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+      "link": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Nov 2026 18:22:46 GMT",
+      "description": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "A promising new medicine against heart disease fails unexpectedly",
+        "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
+        "pubDate": "Sat, 07 Nov 2026 09:50:00 -0500",
+        "description": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients&apos; lives. The medicine made no difference."
+      },
+      {
+        "title": "Democrats plan to widen their probes of fatal ICE shootings",
+        "link": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
+        "pubDate": "Sat, 07 Nov 2026 08:19:09 -0500",
+        "description": "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country. After Democrats&apos; sweeping wins this week, their deaths at the hand"
+      },
+      {
+        "title": "Perspective: Simon Winchester was here to tell a story",
+        "link": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
+        "pubDate": "Sat, 07 Nov 2026 08:00:00 -0500",
+        "description": "British American reporter and author Simon Winchester died of a heart attack Nov. 3. We take a moment to remember his long career, which included covering Bloody Sunday and Watergate."
+      },
+      {
+        "title": "This teen boy set out to get people talking about periods. He&apos;s now a Diana honoree",
+        "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+        "pubDate": "Sat, 07 Nov 2026 06:50:21 -0500",
+        "description": "This year&apos;s the Princess Diana honor roll highlights 198 inspiring young activists and advocates — including an 18-year-old guy in India who founded Team Period."
+      },
       {
         "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
         "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
         "pubDate": "Fri, 06 Nov 2026 14:50:14 -0500",
         "description": "The razor-thin margin between GOP Sen. Cindy Hyde-Smith and Democrat Scott Colom is shining a light on an election process in Mississippi that is among the slowest and most decentralized in the U.S."
-      },
-      {
-        "title": "Stephen Miller will replace Susie Wiles as Trump&apos;s chief of staff",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
-        "pubDate": "Fri, 06 Nov 2026 14:13:52 -0500",
-        "description": "The change comes after sweeping Republican losses in the midterm elections."
-      },
-      {
-        "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
-        "pubDate": "Fri, 06 Nov 2026 14:13:06 -0500",
-        "description": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades."
-      },
-      {
-        "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
-        "pubDate": "Fri, 06 Nov 2026 14:00:21 -0500",
-        "description": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank."
-      },
-      {
-        "title": "Remembering &apos;Star Trek&apos; actor Patrick Stewart",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6030777/remembering-star-trek-actor-patrick-stewart",
-        "pubDate": "Fri, 06 Nov 2026 12:36:39 -0500",
-        "description": "Stewart, who died Oct. 28, performed with the Royal Shakespeare Company before becoming famous as &lt;em&gt;Star Trek&apos;s &lt;/em&gt;Picard. Critic David Bianculli has a tribute, and we listen back"
       }
     ],
     "Canada": []
