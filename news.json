@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T18:37:53.026Z",
+  "updated": "2026-11-08T22:38:14.679Z",
   "world": [
     {
       "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
@@ -10,7 +10,7 @@
     {
       "title": "Seven dead and more than 100 injured after trains collide in Egypt",
       "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 17:35:13 GMT",
+      "pubDate": "Sun, 08 Nov 2026 19:58:02 GMT",
       "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+        "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+        "pubDate": "Sun, 08 Nov 2026 14:25:30 -0500",
+        "description": "France says European officials will attend this week&apos;s U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February."
+      },
+      {
         "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
         "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
         "pubDate": "Sun, 08 Nov 2026 11:46:15 -0500",
@@ -113,22 +119,28 @@
         "description": "Comedian Brand faces a &quot;significant&quot; prison sentence, which a London court judge is set to hand down on Monday."
       },
       {
+        "title": "SS United States, a historic ship will be sunk to create an artificial reef",
+        "link": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
+        "pubDate": "Sun, 08 Nov 2026 08:34:34 -0500",
+        "description": "NPR&apos;s Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage."
+      },
+      {
         "title": "Climate change is altering the colors we see in the world: an illustrated journey",
         "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
         "pubDate": "Sun, 08 Nov 2026 06:00:00 -0500",
         "description": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature."
       },
       {
-        "title": "A desert stirs to life: Chile&apos;s Atacama erupts in its biggest floral display in decades",
-        "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
-        "pubDate": "Sun, 08 Nov 2026 06:00:00 -0500",
-        "description": "El Niño rains have transformed Chile&apos;s Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth."
-      },
-      {
         "title": "One air ambulance service rethinks what it takes to practice medicine in the sky",
         "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
         "pubDate": "Sun, 08 Nov 2026 06:00:00 -0500",
         "description": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first. &lt;br"
+      },
+      {
+        "title": "A desert stirs to life: Chile&apos;s Atacama erupts in its biggest floral display in decades",
+        "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
+        "pubDate": "Sun, 08 Nov 2026 06:00:00 -0500",
+        "description": "El Niño rains have transformed Chile&apos;s Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth."
       },
       {
         "title": "How Gen Z voters helped fuel a blue wave for Democrats",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
         "pubDate": "Sun, 08 Nov 2026 02:35:29 -0500",
         "description": "President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White."
-      },
-      {
-        "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
-        "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
-        "pubDate": "Sat, 07 Nov 2026 19:19:52 -0500",
-        "description": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop."
-      },
-      {
-        "title": "The surprising and often forgotten history of economic populism in Texas",
-        "link": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
-        "pubDate": "Sat, 07 Nov 2026 17:12:07 -0500",
-        "description": "NPR&apos;s Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled &lt;em&gt;The Myth of Red Texas&lt;/em&gt; which tells the story of economic populism in "
       }
     ],
     "Canada": []
