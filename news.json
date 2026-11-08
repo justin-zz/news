@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-07T20:41:31.044Z",
+  "updated": "2026-11-08T00:09:20.113Z",
   "world": [
     {
-      "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+      "title": "What we know so far after Krakow gun attack",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 20:23:17 GMT",
-      "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city."
+      "pubDate": "Sat, 07 Nov 2026 22:58:49 GMT",
+      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home."
+    },
+    {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 22:19:59 GMT",
+      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
     },
     {
       "title": "No clear winner after tight New Zealand general election",
@@ -84,21 +90,21 @@
       "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 06 Nov 2026 15:25:35 GMT",
       "description": "No link has been established between the threats against the airlines and those against the media outlets."
-    },
-    {
-      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 17:44:02 GMT",
-      "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Israel&apos;s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
-        "link": "https://www.npr.org/2026/11/07/g-s1-152536/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-netanyahu",
+        "title": "The surprising and often forgotten history of economic populism in Texas",
+        "link": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
+        "pubDate": "Sat, 07 Nov 2026 17:12:07 -0500",
+        "description": "NPR&apos;s Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled &lt;em&gt;The Myth of Red Texas&lt;/em&gt; which tells the story of economic populism in "
+      },
+      {
+        "title": "Israel&apos;s president taps opposition candidate, not Netanyahu, to form a government",
+        "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
         "pubDate": "Sat, 07 Nov 2026 15:18:18 -0500",
-        "description": "Gadi Eisenkot ran as the main challenger to Prime Minister Benjamin Netanyahu — neither won a clear majority. Israel&apos;s main parties have recommended Eisenkot put together a new government."
+        "description": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel&apos;s main parties have recommended Eisenkot form a new governme"
       },
       {
         "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
         "pubDate": "Fri, 06 Nov 2026 16:53:10 -0500",
         "description": "The party&apos;s success was fueled by frustrations over the cost of living. But in divided government, they&apos;ll face opposition from Republicans in Congress and a president vowing to use his veto"
-      },
-      {
-        "title": "Israel&apos;s Arab-led parties in spotlight after inconclusive election",
-        "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
-        "pubDate": "Fri, 06 Nov 2026 15:42:51 -0500",
-        "description": "Israel&apos;s center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key."
       }
     ],
     "Canada": []
