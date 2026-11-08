@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-08T00:09:20.113Z",
+  "updated": "2026-11-08T06:27:42.372Z",
   "world": [
     {
       "title": "What we know so far after Krakow gun attack",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 22:58:49 GMT",
-      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home."
+      "pubDate": "Sun, 08 Nov 2026 01:47:41 GMT",
+      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker."
     },
     {
       "title": "Israel's president tasks opposition leader Eisenkot with forming government",
@@ -23,12 +23,12 @@
       "title": "US offers $20m reward for information about Iran's nuclear programme",
       "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 07 Nov 2026 18:14:38 GMT",
-      "description": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities."
+      "description": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities."
     },
     {
-      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
       "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 17:09:24 GMT",
+      "pubDate": "Sun, 08 Nov 2026 04:03:12 GMT",
       "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
     },
     {
@@ -95,6 +95,12 @@
   "regions": {
     "US": [
       {
+        "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+        "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
+        "pubDate": "Sat, 07 Nov 2026 19:19:52 -0500",
+        "description": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop."
+      },
+      {
         "title": "The surprising and often forgotten history of economic populism in Texas",
         "link": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
         "pubDate": "Sat, 07 Nov 2026 17:12:07 -0500",
@@ -107,7 +113,7 @@
         "description": "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority. Israel&apos;s main parties have recommended Eisenkot form a new governme"
       },
       {
-        "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+        "title": "Polish gunman who killed 6 people in Krakow has &apos;ultranationalistic&apos; views, authorities say",
         "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
         "pubDate": "Sat, 07 Nov 2026 13:37:36 -0500",
         "description": "A gunman targeted random people as he drove into Krakow&apos;s Main Square, a major tourist spot. Police shot and wounded the gunman during a gunfight."
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
         "pubDate": "Sat, 07 Nov 2026 05:00:00 -0500",
         "description": "Thousands across the U.S. have gotten involved to oppose data centers. One is a Maryland woman who&apos;d been evicted after a pay cut and became a leader of a community effort that blocked a vast pro"
-      },
-      {
-        "title": "The economy propelled Democrats to victory. What can they actually do about it?",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
-        "pubDate": "Fri, 06 Nov 2026 16:53:10 -0500",
-        "description": "The party&apos;s success was fueled by frustrations over the cost of living. But in divided government, they&apos;ll face opposition from Republicans in Congress and a president vowing to use his veto"
       }
     ],
     "Canada": []
