@@ -1,29 +1,11 @@
 {
-  "updated": "2026-11-08T06:27:42.372Z",
+  "updated": "2026-11-08T13:46:00.757Z",
   "world": [
     {
       "title": "What we know so far after Krakow gun attack",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 01:47:41 GMT",
-      "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker."
-    },
-    {
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 22:19:59 GMT",
-      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
-    },
-    {
-      "title": "No clear winner after tight New Zealand general election",
-      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 15:56:28 GMT",
-      "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
-    },
-    {
-      "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 18:14:38 GMT",
-      "description": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities."
+      "pubDate": "Sun, 08 Nov 2026 11:22:17 GMT",
+      "description": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker."
     },
     {
       "title": "Houthis say at least 33 killed in Saudi air strike",
@@ -32,16 +14,28 @@
       "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
     },
     {
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 21:36:16 GMT",
+      "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls."
+    },
+    {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 22:19:59 GMT",
+      "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
+    },
+    {
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 18:14:38 GMT",
+      "description": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities."
+    },
+    {
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 07 Nov 2026 15:19:35 GMT",
       "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
-    },
-    {
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 23:24:15 GMT",
-      "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
     },
     {
       "title": "Paraguay's former president charged after bank collapse",
@@ -90,10 +84,46 @@
       "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 06 Nov 2026 15:25:35 GMT",
       "description": "No link has been established between the threats against the airlines and those against the media outlets."
+    },
+    {
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 17:44:02 GMT",
+      "description": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "In Maine, a new approach to practicing medicine in the sky",
+        "link": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+        "pubDate": "Sun, 08 Nov 2026 06:00:00 -0500",
+        "description": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first. &lt;br"
+      },
+      {
+        "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+        "link": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+        "pubDate": "Sun, 08 Nov 2026 06:00:00 -0500",
+        "description": "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature."
+      },
+      {
+        "title": "A desert stirs to life: Chile&apos;s Atacama erupts in its biggest floral display in decades",
+        "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
+        "pubDate": "Sun, 08 Nov 2026 06:00:00 -0500",
+        "description": "El Niño rains have transformed Chile&apos;s Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth."
+      },
+      {
+        "title": "How Gen Z voters helped fuel a blue wave for Democrats",
+        "link": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
+        "pubDate": "Sun, 08 Nov 2026 05:00:00 -0500",
+        "description": "Republicans made gains with young voters in 2024, but in this year&apos;s midterms Americans under 30 issued a strong rebuke of President Trump and his party, voting decisively for Democrats instead."
+      },
+      {
+        "title": "UFC&apos;s Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+        "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
+        "pubDate": "Sun, 08 Nov 2026 02:35:29 -0500",
+        "description": "President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White."
+      },
       {
         "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
         "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
@@ -107,6 +137,12 @@
         "description": "NPR&apos;s Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled &lt;em&gt;The Myth of Red Texas&lt;/em&gt; which tells the story of economic populism in "
       },
       {
+        "title": "Oklahoma tribes say proposed legal changes put ancestral lands in Ohio at risk",
+        "link": "https://www.npr.org/2026/11/07/nx-s1-6029409/oklahoma-tribes-says-proposed-legal-changes-puts-ancestral-lands-in-ohio-at-risk",
+        "pubDate": "Sat, 07 Nov 2026 17:12:02 -0500",
+        "description": "The Trump administration has proposed changes to the National Historic Preservation Act that could endanger historic sites significant to tribal nations across the country. Oklahoma tribes say that pu"
+      },
+      {
         "title": "Israel&apos;s president taps opposition candidate, not Netanyahu, to form a government",
         "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
         "pubDate": "Sat, 07 Nov 2026 15:18:18 -0500",
@@ -117,42 +153,6 @@
         "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
         "pubDate": "Sat, 07 Nov 2026 13:37:36 -0500",
         "description": "A gunman targeted random people as he drove into Krakow&apos;s Main Square, a major tourist spot. Police shot and wounded the gunman during a gunfight."
-      },
-      {
-        "title": "Ousted Paraguayan president appears before prosecutors",
-        "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
-        "pubDate": "Sat, 07 Nov 2026 12:14:36 -0500",
-        "description": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank."
-      },
-      {
-        "title": "A promising new medicine against heart disease fails unexpectedly",
-        "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
-        "pubDate": "Sat, 07 Nov 2026 09:50:00 -0500",
-        "description": "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients&apos; lives. The medicine made no difference."
-      },
-      {
-        "title": "Democrats plan to widen their probes of fatal ICE shootings",
-        "link": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
-        "pubDate": "Sat, 07 Nov 2026 08:19:09 -0500",
-        "description": "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country. After Democrats&apos; sweeping wins this week, their deaths at the hand"
-      },
-      {
-        "title": "Perspective: Simon Winchester was here to tell a story",
-        "link": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
-        "pubDate": "Sat, 07 Nov 2026 08:00:00 -0500",
-        "description": "British American reporter and author Simon Winchester died of a heart attack Nov. 3. We take a moment to remember his long career, which included covering Bloody Sunday and Watergate."
-      },
-      {
-        "title": "This teen boy set out to get people talking about periods. He&apos;s now a Diana honoree",
-        "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
-        "pubDate": "Sat, 07 Nov 2026 06:50:21 -0500",
-        "description": "This year&apos;s the Princess Diana honor roll highlights 198 inspiring young activists and advocates — including an 18-year-old guy in India who founded Team Period."
-      },
-      {
-        "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
-        "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
-        "pubDate": "Sat, 07 Nov 2026 05:00:00 -0500",
-        "description": "Thousands across the U.S. have gotten involved to oppose data centers. One is a Maryland woman who&apos;d been evicted after a pay cut and became a leader of a community effort that blocked a vast pro"
       }
     ],
     "Canada": []
