@@ -1,35 +1,65 @@
 {
-  "updated": "2026-11-09T10:01:50.833Z",
+  "updated": "2026-11-09T20:55:25.466Z",
   "world": [
     {
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 07:26:09 GMT",
-      "description": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home."
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 20:20:08 GMT",
+      "description": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up."
     },
     {
-      "title": "Inside the French drug gangs recruiting children to kill",
-      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 06:00:26 GMT",
-      "description": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited."
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 19:58:01 GMT",
+      "description": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
     },
     {
-      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
-      "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 08:49:17 GMT",
-      "description": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday."
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 17:47:29 GMT",
+      "description": "Trump made the claims, without evidence, on Truth Social on Monday."
     },
     {
-      "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
+      "title": "Turkey steel factory blast kills at least 17 people",
+      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 20:42:04 GMT",
+      "description": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga."
+    },
+    {
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 20:23:14 GMT",
+      "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process."
+    },
+    {
+      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 17:06:18 GMT",
+      "description": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine."
+    },
+    {
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 18:08:07 GMT",
+      "description": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations."
+    },
+    {
+      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
       "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 08:16:57 GMT",
+      "pubDate": "Mon, 09 Nov 2026 16:33:55 GMT",
       "description": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life"
     },
     {
-      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
-      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 05:30:37 GMT",
-      "description": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour."
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 11:56:25 GMT",
+      "description": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home."
+    },
+    {
+      "title": "Thirteen migrants die after boat sinks off Crete",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynyxrjdyeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 13:50:01 GMT",
+      "description": "The Greek coastguard says it has rescued 18 people, all of whom were Sudanese nationals."
     },
     {
       "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
@@ -38,121 +68,91 @@
       "description": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast."
     },
     {
-      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 19:58:02 GMT",
-      "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 05:30:37 GMT",
+      "description": "Pope Leo made the comments as he arrived in Argentina on the second leg of his Latin America tour."
     },
     {
-      "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 17:51:03 GMT",
-      "description": "President Cyril Ramaphosa says the verdict must be respected, while the party's secretary-general calls the outcome \"catastrophic\"."
+      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 10:41:57 GMT",
+      "description": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza."
     },
     {
-      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 23:34:18 GMT",
-      "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
+      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+      "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 08:49:17 GMT",
+      "description": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday."
     },
     {
-      "title": "Homes and temples glow across India to mark Diwali",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 14:42:09 GMT",
-      "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets."
-    },
-    {
-      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 21:37:36 GMT",
-      "description": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district."
-    },
-    {
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 21:36:16 GMT",
-      "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls."
-    },
-    {
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 13:37:50 GMT",
-      "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year."
-    },
-    {
-      "title": "Paraguay's former president charged after bank collapse",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 19:17:22 GMT",
-      "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money."
-    },
-    {
-      "title": "Italian foreign minister says hackers leaked his personal data",
-      "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 16:50:06 GMT",
-      "description": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
+      "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
+      "link": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 16:59:46 GMT",
+      "description": "\"It destroys people, but we all make our own choices\" - Marseille drug-gang members spoke to the BBC."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/11/09/nx-s1-6027654/morning-news-brief",
-        "pubDate": "Mon, 09 Nov 2026 04:45:58 -0500",
-        "description": "President Trump shakes up his staff after midterm losses, Congress returns to Washington, Nvidia launches investigation into CEO&apos;s alleged relationship with Chinese spy."
+        "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+        "pubDate": "Mon, 09 Nov 2026 15:52:24 -0500",
+        "description": "The articles accuse Hegseth of &quot;high crimes and misdemeanors,&quot; including for waging war against Iran in violation of the War Powers Resolution."
       },
       {
-        "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
-        "link": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-hires-a-former-democratic-senator-as-it-faces-scrutiny-in-new-congress",
-        "pubDate": "Mon, 09 Nov 2026 04:43:19 -0500",
-        "description": "Facing likely investigations by incoming congressional Democrats, the controversial tech company Palantir {PAL-en-teer} is hiring a former Democratic senator to burnish its image."
+        "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+        "link": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
+        "pubDate": "Mon, 09 Nov 2026 10:09:53 -0500",
+        "description": "New Delhi, home to over 30 million people, regularly ranks among the world&apos;s most polluted areas during winter, with pollution worsening in late October and November.&lt;br&gt;&lt;br&gt;&lt;br&gt"
       },
       {
-        "title": "How a bank collapse left millions in limbo and toppled Paraguay&apos;s president",
-        "link": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
-        "pubDate": "Mon, 09 Nov 2026 01:20:44 -0500",
-        "description": "A bank&apos;s collapse in Paraguay left millions locked out of their money, toppled the president and exposed a web of political and financial ties."
+        "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+        "pubDate": "Mon, 09 Nov 2026 09:36:54 -0500",
+        "description": "Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women."
       },
       {
-        "title": "Nvidia launches investigation into CEO&apos;s alleged relationship with Chinese spy",
-        "link": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
-        "pubDate": "Sun, 08 Nov 2026 19:17:43 -0500",
-        "description": "The chipmaking giant says it is looking into reports by &lt;em&gt;The New York Times&lt;/em&gt; that its CEO, Jensen Huang, was the target of a Chinese intelligence operation."
+        "title": "Congress is back after GOP&apos;s midterm defeat. And, Trump appoints new chief of staff",
+        "link": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+        "pubDate": "Mon, 09 Nov 2026 07:45:14 -0500",
+        "description": "Republicans have just weeks left of control of Congress. Here&apos;s what to expect. And, Trump has appointed Stephen Miller as his new chief of staff, signaling his readiness to confront his oppositi"
       },
       {
-        "title": "NASA is looking for astronauts to live and work on the Moon",
-        "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
-        "pubDate": "Sun, 08 Nov 2026 18:36:47 -0500",
-        "description": "NASA needs more recruits in order to return to the moon after being gone more than half a century."
+        "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
+        "link": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
+        "pubDate": "Mon, 09 Nov 2026 05:47:00 -0500",
+        "description": "Through civic participation and liberal education, South Korean educators hope to &quot;quietly stitch the fabric of our democracy…before it unravels beyond repair.&quot;"
       },
       {
-        "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
-        "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
-        "pubDate": "Sun, 08 Nov 2026 14:25:30 -0500",
-        "description": "France says European officials will attend this week&apos;s U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February."
+        "title": "Democrats won big on issues like immigration. But ICE still has the money",
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
+        "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
+        "description": "Following Tuesday&apos;s &quot;blue wave,&quot; Democrats have vowed to reign in ICE&apos;s power. What could they actually accomplish?"
       },
       {
-        "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
-        "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
-        "pubDate": "Sun, 08 Nov 2026 11:46:15 -0500",
-        "description": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: &quot;I think everyone&apos;s over politics so let&apos;s all have a bit of a break for the "
+        "title": "On wild Cumberland Island, a land swap proposal stirs controversy",
+        "link": "https://www.npr.org/2026/11/09/nx-s1-5981341/cumberland-island-national-park-service-proposal",
+        "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
+        "description": "Visitors, ecologists, park rangers and residents all love this wild barrier island off the coast of southern Georgia. But they have different ideas of how to best protect it."
       },
       {
-        "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
-        "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
-        "pubDate": "Sun, 08 Nov 2026 11:30:16 -0500",
-        "description": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak."
+        "title": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
+        "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
+        "description": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems."
       },
       {
-        "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
-        "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
-        "pubDate": "Sun, 08 Nov 2026 10:07:15 -0500",
-        "description": "Comedian Brand faces a &quot;significant&quot; prison sentence, which a London court judge is set to hand down on Monday."
+        "title": "U.N. climate talks begin today. Here are 3 things to know",
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6026787/climate-talks-antalya-turkey-cop31",
+        "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
+        "description": "Countries are gathering in Antalya, Turkey, for the annual U.N. climate conference. Many are frustrated with the lack of focus on fossil fuels, the main driver of climate change."
       },
       {
-        "title": "SS United States, a historic ship will be sunk to create an artificial reef",
-        "link": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
-        "pubDate": "Sun, 08 Nov 2026 08:34:34 -0500",
-        "description": "NPR&apos;s Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage."
+        "title": "Supreme Court weighs effort to shield federal law enforcement as ICE complaints rise",
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6013575/supreme-court-federal-law-enforcement-prison-rights",
+        "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
+        "description": "The Supreme Court considers the case of a prisoner who suffered brutal injuries, only to be denied medical care behind bars. He wants to sue the prison nurse in a case that could change the law on hol"
       }
     ],
     "Canada": []
