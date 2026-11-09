@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08T22:38:14.679Z",
+  "updated": "2026-11-09T02:19:47.233Z",
   "world": [
     {
       "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
       "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 18:22:53 GMT",
+      "pubDate": "Sun, 08 Nov 2026 23:34:18 GMT",
       "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
     },
     {
@@ -26,10 +26,10 @@
       "description": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year."
     },
     {
-      "title": "Houthis say at least 33 killed in Saudi air strike",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 08 Nov 2026 04:03:12 GMT",
-      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 08 Nov 2026 21:37:36 GMT",
+      "description": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district."
     },
     {
       "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Nvidia launches investigation into CEO&apos;s alleged relationship with Chinese spy",
+        "link": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+        "pubDate": "Sun, 08 Nov 2026 19:17:43 -0500",
+        "description": "The chipmaking giant says it is looking into reports by &lt;em&gt;The New York Times&lt;/em&gt; that its CEO, Jensen Huang, was the target of a Chinese intelligence operation."
+      },
+      {
+        "title": "NASA is looking for astronauts to live and work on the Moon",
+        "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
+        "pubDate": "Sun, 08 Nov 2026 18:36:47 -0500",
+        "description": "NASA needs more recruits in order to return to the moon after being gone more than half a century."
+      },
+      {
         "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
         "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
         "pubDate": "Sun, 08 Nov 2026 14:25:30 -0500",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
         "pubDate": "Sun, 08 Nov 2026 06:00:00 -0500",
         "description": "El Niño rains have transformed Chile&apos;s Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth."
-      },
-      {
-        "title": "How Gen Z voters helped fuel a blue wave for Democrats",
-        "link": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
-        "pubDate": "Sun, 08 Nov 2026 05:00:00 -0500",
-        "description": "Republicans made gains with young voters in 2024, but in this year&apos;s midterms Americans under 30 issued a strong rebuke of President Trump and his party, voting decisively for Democrats instead."
-      },
-      {
-        "title": "UFC&apos;s Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-        "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
-        "pubDate": "Sun, 08 Nov 2026 02:35:29 -0500",
-        "description": "President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White."
       }
     ],
     "Canada": []
