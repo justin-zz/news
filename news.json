@@ -1,35 +1,41 @@
 {
-  "updated": "2026-11-10T03:08:05.549Z",
+  "updated": "2026-11-10T11:29:32.162Z",
   "world": [
     {
       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
       "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 01:44:53 GMT",
+      "pubDate": "Tue, 10 Nov 2026 08:23:21 GMT",
       "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
-    },
-    {
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 19:58:01 GMT",
-      "description": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
     },
     {
       "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
       "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 00:09:49 GMT",
-      "description": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February."
+      "pubDate": "Tue, 10 Nov 2026 09:07:00 GMT",
+      "description": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February."
     },
     {
-      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "title": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
       "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 10 Nov 2026 00:14:03 GMT",
       "description": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home."
     },
     {
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 20:20:08 GMT",
-      "description": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up."
+      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
+      "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 11:25:46 GMT",
+      "description": "Officers attended the scene in connection with a separate incident at a residential building in the city."
+    },
+    {
+      "title": "'Cruise for life' ship seized in Singapore",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 01:49:06 GMT",
+      "description": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money."
+    },
+    {
+      "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+      "link": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 08:39:05 GMT",
+      "description": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks."
     },
     {
       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
@@ -38,16 +44,34 @@
       "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year."
     },
     {
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 09:40:31 GMT",
+      "description": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change."
+    },
+    {
+      "title": "Oxford museum returns ancestral  Naga skulls to India",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 06:23:42 GMT",
+      "description": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial."
+    },
+    {
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 05:22:39 GMT",
+      "description": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites."
+    },
+    {
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 09 Nov 2026 20:20:08 GMT",
+      "description": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up."
+    },
+    {
       "title": "Qantas to outsource 850 local jobs with most roles moving to India",
       "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 10 Nov 2026 01:55:22 GMT",
       "description": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI."
-    },
-    {
-      "title": "Russia's leading independent newspaper closes after eviction",
-      "link": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 18:08:07 GMT",
-      "description": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations."
     },
     {
       "title": "Turkey steel factory blast kills at least 17 people",
@@ -66,34 +90,52 @@
       "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 09 Nov 2026 21:48:38 GMT",
       "description": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist."
-    },
-    {
-      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 17:06:18 GMT",
-      "description": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine."
-    },
-    {
-      "title": "Trump questions midterm elections integrity after previously accepting results",
-      "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 17:47:29 GMT",
-      "description": "Trump made the claims, without evidence, on Truth Social on Monday."
-    },
-    {
-      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
-      "link": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 16:33:55 GMT",
-      "description": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life"
-    },
-    {
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 11:56:25 GMT",
-      "description": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+        "link": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+        "pubDate": "Tue, 10 Nov 2026 05:58:18 -0500",
+        "description": "The two-day session in the UAE&apos;s capital, Abu Dhabi, is the first such meeting since February. It will focus on security guarantees, the White House said before the discussions."
+      },
+      {
+        "title": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
+        "link": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
+        "pubDate": "Tue, 10 Nov 2026 05:01:00 -0500",
+        "description": "After sweeping losses in the midterm elections, the House GOP will vote on Tuesday to elect a successor to Mike Johnson, who says he&apos;s stepping down as the chamber&apos;s top Republican."
+      },
+      {
+        "title": "Is honesty always the best policy? When to speak up — or stay silent",
+        "link": "https://www.npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent",
+        "pubDate": "Tue, 10 Nov 2026 05:00:00 -0500",
+        "description": "Should you tell your boss she&apos;s got food on their face? Your partner you hate their outfit? Social psychologist Vanessa Bohns shares advice on when to tell someone the truth — or keep your mouth "
+      },
+      {
+        "title": "How word of mouth is helping an Amish community&apos;s fight against measles",
+        "link": "https://www.npr.org/2026/11/10/nx-s1-6021511/pennsylvania-amish-measles-vaccine-trust",
+        "pubDate": "Tue, 10 Nov 2026 05:00:00 -0500",
+        "description": "In Pennsylvania, health officials use a quiet vaccination campaign designed to win the trust of the state&apos;s Amish community, which has been hit hard by the measles outbreak."
+      },
+      {
+        "title": "The Democratic Party gained power across the country in the midterms. Now what?",
+        "link": "https://www.npr.org/2026/11/10/nx-s1-6035008/democratic-party-blue-wave-midterm-congress",
+        "pubDate": "Tue, 10 Nov 2026 05:00:00 -0500",
+        "description": "Voters handed Democrats the keys to power across the country and expect them to drive in a different direction. Party leaders are now trying to figure out which way to go."
+      },
+      {
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/11/10/nx-s1-6032705/morning-news-brief",
+        "pubDate": "Tue, 10 Nov 2026 04:38:48 -0500",
+        "description": "The House could vote this week to impeach Pete Hegseth, Trump&apos;s shares mixed messaging on next steps in Iran, the investigation continues into Nvidia CEO&apos;s alleged relationship with Chinese "
+      },
+      {
+        "title": "California voters defeat billionaire tax proposal that divided Democrats",
+        "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
+        "pubDate": "Mon, 09 Nov 2026 22:05:39 -0500",
+        "description": "The novel proposal would have charged billionaires a one-time 5% tax on most of their overall wealth, including their ownership in companies."
+      },
       {
         "title": "France accuses Iran of cyber &apos;sabotage&apos; in fridge attacks",
         "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
@@ -101,58 +143,16 @@
         "description": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of do"
       },
       {
+        "title": "What Trump meant when he said the U.S. is cutting aid to Israel",
+        "link": "https://www.npr.org/2026/11/09/nx-s1-6029320/us-trump-israel-military-aid",
+        "pubDate": "Mon, 09 Nov 2026 16:58:14 -0500",
+        "description": "President Trump says he&apos;s halting aid to Israel. Israelis are worried. But experts say the U.S. is just shifting aid from the State Department to the Pentagon, with less congressional oversight."
+      },
+      {
         "title": "Supreme Court says border wall construction can continue in west Texas",
         "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
         "pubDate": "Mon, 09 Nov 2026 16:47:39 -0500",
         "description": "The Trump administration filed an emergency relief request with the high court earlier in October asking for the construction to continue while a lawsuit over the plan moves forward."
-      },
-      {
-        "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
-        "link": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
-        "pubDate": "Mon, 09 Nov 2026 15:52:24 -0500",
-        "description": "The articles accuse Hegseth of &quot;high crimes and misdemeanors,&quot; including for waging war against Iran in violation of the War Powers Resolution."
-      },
-      {
-        "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
-        "link": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
-        "pubDate": "Mon, 09 Nov 2026 10:09:53 -0500",
-        "description": "New Delhi, home to over 30 million people, regularly ranks among the world&apos;s most polluted areas during winter, with pollution worsening in late October and November.&lt;br&gt;&lt;br&gt;&lt;br&gt"
-      },
-      {
-        "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
-        "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
-        "pubDate": "Mon, 09 Nov 2026 09:36:54 -0500",
-        "description": "Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women."
-      },
-      {
-        "title": "Congress is back after GOP&apos;s midterm defeat. And, Trump appoints new chief of staff",
-        "link": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
-        "pubDate": "Mon, 09 Nov 2026 07:45:14 -0500",
-        "description": "Republicans have just weeks left of control of Congress. Here&apos;s what to expect. And, Trump has appointed Stephen Miller as his new chief of staff, signaling his readiness to confront his oppositi"
-      },
-      {
-        "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
-        "link": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
-        "pubDate": "Mon, 09 Nov 2026 05:47:00 -0500",
-        "description": "Through civic participation and liberal education, South Korean educators hope to &quot;quietly stitch the fabric of our democracy…before it unravels beyond repair.&quot;"
-      },
-      {
-        "title": "Democrats won big on issues like immigration. But ICE still has the money",
-        "link": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
-        "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
-        "description": "Following Tuesday&apos;s &quot;blue wave,&quot; Democrats have vowed to reign in ICE&apos;s power. What could they actually accomplish?"
-      },
-      {
-        "title": "On wild Cumberland Island, a land swap proposal stirs controversy",
-        "link": "https://www.npr.org/2026/11/09/nx-s1-5981341/cumberland-island-national-park-service-proposal",
-        "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
-        "description": "Visitors, ecologists, park rangers and residents all love this wild barrier island off the coast of southern Georgia. But they have different ideas of how to best protect it."
-      },
-      {
-        "title": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
-        "link": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
-        "pubDate": "Mon, 09 Nov 2026 05:00:00 -0500",
-        "description": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems."
       }
     ],
     "Canada": []
