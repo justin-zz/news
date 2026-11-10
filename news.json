@@ -1,35 +1,65 @@
 {
-  "updated": "2026-11-10T11:29:32.162Z",
+  "updated": "2026-11-10T18:46:21.993Z",
   "world": [
     {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 08:23:21 GMT",
-      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
-    },
-    {
-      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 09:07:00 GMT",
-      "description": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February."
+      "pubDate": "Tue, 10 Nov 2026 17:29:36 GMT",
+      "description": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February."
     },
     {
-      "title": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
-      "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 00:14:03 GMT",
-      "description": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home."
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 18:33:51 GMT",
+      "description": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund."
     },
     {
-      "title": "Police officer dies and another injured after backpack explosion in Oviedo",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 17:03:16 GMT",
+      "description": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister."
+    },
+    {
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 15:21:18 GMT",
+      "description": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza."
+    },
+    {
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 18:04:18 GMT",
+      "description": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones."
+    },
+    {
+      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 13:23:54 GMT",
+      "description": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces."
+    },
+    {
+      "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 16:07:51 GMT",
+      "description": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said."
+    },
+    {
+      "title": "US federal authorities could have prevented Epstein crimes, report finds",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 17:59:02 GMT",
+      "description": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case."
+    },
+    {
+      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 16:19:48 GMT",
+      "description": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police."
+    },
+    {
+      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
       "link": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 10 Nov 2026 11:25:46 GMT",
-      "description": "Officers attended the scene in connection with a separate incident at a residential building in the city."
-    },
-    {
-      "title": "'Cruise for life' ship seized in Singapore",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 01:49:06 GMT",
-      "description": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money."
+      "description": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city."
     },
     {
       "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
@@ -38,121 +68,91 @@
       "description": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks."
     },
     {
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 01:38:49 GMT",
-      "description": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year."
+      "title": "'Cruise for life' ship seized in Singapore",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 01:49:06 GMT",
+      "description": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money."
     },
     {
-      "title": "Trump says more US attacks on Iran 'highly unlikely'",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 09:40:31 GMT",
-      "description": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change."
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 08:23:21 GMT",
+      "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
     },
     {
-      "title": "Oxford museum returns ancestral  Naga skulls to India",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 06:23:42 GMT",
-      "description": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial."
-    },
-    {
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 05:22:39 GMT",
-      "description": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites."
-    },
-    {
-      "title": "France accuses Iran of supermarket fridge hacking",
+      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
       "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 20:20:08 GMT",
+      "pubDate": "Tue, 10 Nov 2026 13:45:13 GMT",
       "description": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up."
     },
     {
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 01:55:22 GMT",
-      "description": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI."
-    },
-    {
-      "title": "Turkey steel factory blast kills at least 17 people",
-      "link": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 20:42:04 GMT",
-      "description": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga."
-    },
-    {
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 23:28:53 GMT",
-      "description": "The ruling means the case can move forward, possibly with reduced charges in a new trial."
-    },
-    {
-      "title": "Trial date of alleged Charlie Kirk killer set for June 2028",
-      "link": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 21:48:38 GMT",
-      "description": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist."
+      "title": "California police investigate after 27 fall ill at half-marathon running event",
+      "link": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 13:22:12 GMT",
+      "description": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+        "title": "Americans across the economic spectrum feel a &apos;panic&apos; about finances, author says",
+        "link": "https://www.npr.org/2026/11/10/nx-s1-6032767/mona-chalabi-ten-lives",
+        "pubDate": "Tue, 10 Nov 2026 12:46:25 -0500",
+        "description": "Mona Chalabi spent five years following Americans living paycheck to paycheck, as well as those earning top wages. Her new book, &lt;em&gt;Ten Lives, &lt;/em&gt;explores why financial security can fee"
+      },
+      {
+        "title": "Gas prices dip below $4 but inflation remains stubbornly high",
+        "link": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices",
+        "pubDate": "Tue, 10 Nov 2026 09:35:50 -0500",
+        "description": "Gasoline prices fell below $4 a gallon Tuesday for the first time in three months — but the overall cost of living remains stubbornly high."
+      },
+      {
+        "title": "&apos;Like gods reigning over humans&apos;: Many defectors see daughter of North Korea&apos;s Kim as heir apparent",
+        "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
+        "pubDate": "Tue, 10 Nov 2026 09:16:53 -0500",
+        "description": "Little is known about her except that she&apos;s reportedly about 13 and named Kim Ju Ae, but Korea&apos;s spy agency says she&apos;s likely her father&apos;s heir."
+      },
+      {
+        "title": "Indonesia&apos;s VP offers resignation as questions mount over his eligibility",
+        "link": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
+        "pubDate": "Tue, 10 Nov 2026 09:01:14 -0500",
+        "description": "His resignation offer comes amid a widening political rift between Prabowo and Widodo and a separate investigation into allegations that senior police officials wiretapped the president."
+      },
+      {
+        "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+        "link": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
+        "pubDate": "Tue, 10 Nov 2026 08:30:00 -0500",
+        "description": "Vehicle transaction prices are up to a new record high, according to the Kelley Blue Book — and some buyers are extending their car loans to finance them."
+      },
+      {
+        "title": "Seven days of chaos in the ER: How this country&apos;s healthcare system is unraveling",
+        "link": "https://www.npr.org/2026/11/10/g-s1-152693/healthcare-ethiopia-conflict-emergency-room",
+        "pubDate": "Tue, 10 Nov 2026 07:48:48 -0500",
+        "description": "Renewed fighting has pushed Ethiopia&apos;s healthcare system close to collapse: &quot;The whole emergency (room) was flooded with war trauma patients,&quot; one surgeon says of a brutal week in Septe"
+      },
+      {
+        "title": "Get in, loser: Broadway&apos;s newest &apos;Mean Girls&apos; are ready to insult (and enlighten) you",
+        "link": "https://www.npr.org/2026/11/10/g-s1-152641/get-in-loser-broadways-newest-mean-girls-are-ready-to-insult-and-enlighten-you",
+        "pubDate": "Tue, 10 Nov 2026 07:28:36 -0500",
+        "description": "&quot;School Girls; Or, The African Mean Girls Play,&quot; is ending a Broadway run this week and celebrating with livestream broadcasts. We interviewed the Tony-nominated playwright, Jocelyn Bioh."
+      },
+      {
+        "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
+        "link": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
+        "pubDate": "Tue, 10 Nov 2026 07:01:04 -0500",
+        "description": "The House could vote to impeach Hegseth, but removing him from office will be tough. And, SCOTUS ruled that a federal judge did not have the authority to halt border wall construction."
+      },
+      {
+        "title": "Why did California&apos;s billionaire tax fail to surf the blue wave?",
+        "link": "https://www.npr.org/sections/planet-money/2026/11/10/g-s1-152755/why-did-californias-billionaire-tax-fail-to-surf-the-blue-wave",
+        "pubDate": "Tue, 10 Nov 2026 06:30:00 -0500",
+        "description": "Two economists debate what California&apos;s vote on Prop 40 means for the wealth tax movement."
+      },
+      {
+        "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
         "link": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
         "pubDate": "Tue, 10 Nov 2026 05:58:18 -0500",
-        "description": "The two-day session in the UAE&apos;s capital, Abu Dhabi, is the first such meeting since February. It will focus on security guarantees, the White House said before the discussions."
-      },
-      {
-        "title": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
-        "link": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
-        "pubDate": "Tue, 10 Nov 2026 05:01:00 -0500",
-        "description": "After sweeping losses in the midterm elections, the House GOP will vote on Tuesday to elect a successor to Mike Johnson, who says he&apos;s stepping down as the chamber&apos;s top Republican."
-      },
-      {
-        "title": "Is honesty always the best policy? When to speak up — or stay silent",
-        "link": "https://www.npr.org/2026/11/10/nx-s1-6034519/is-honesty-always-the-best-policy-when-to-speak-up-or-stay-silent",
-        "pubDate": "Tue, 10 Nov 2026 05:00:00 -0500",
-        "description": "Should you tell your boss she&apos;s got food on their face? Your partner you hate their outfit? Social psychologist Vanessa Bohns shares advice on when to tell someone the truth — or keep your mouth "
-      },
-      {
-        "title": "How word of mouth is helping an Amish community&apos;s fight against measles",
-        "link": "https://www.npr.org/2026/11/10/nx-s1-6021511/pennsylvania-amish-measles-vaccine-trust",
-        "pubDate": "Tue, 10 Nov 2026 05:00:00 -0500",
-        "description": "In Pennsylvania, health officials use a quiet vaccination campaign designed to win the trust of the state&apos;s Amish community, which has been hit hard by the measles outbreak."
-      },
-      {
-        "title": "The Democratic Party gained power across the country in the midterms. Now what?",
-        "link": "https://www.npr.org/2026/11/10/nx-s1-6035008/democratic-party-blue-wave-midterm-congress",
-        "pubDate": "Tue, 10 Nov 2026 05:00:00 -0500",
-        "description": "Voters handed Democrats the keys to power across the country and expect them to drive in a different direction. Party leaders are now trying to figure out which way to go."
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/11/10/nx-s1-6032705/morning-news-brief",
-        "pubDate": "Tue, 10 Nov 2026 04:38:48 -0500",
-        "description": "The House could vote this week to impeach Pete Hegseth, Trump&apos;s shares mixed messaging on next steps in Iran, the investigation continues into Nvidia CEO&apos;s alleged relationship with Chinese "
-      },
-      {
-        "title": "California voters defeat billionaire tax proposal that divided Democrats",
-        "link": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
-        "pubDate": "Mon, 09 Nov 2026 22:05:39 -0500",
-        "description": "The novel proposal would have charged billionaires a one-time 5% tax on most of their overall wealth, including their ownership in companies."
-      },
-      {
-        "title": "France accuses Iran of cyber &apos;sabotage&apos; in fridge attacks",
-        "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-        "pubDate": "Mon, 09 Nov 2026 17:30:49 -0500",
-        "description": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of do"
-      },
-      {
-        "title": "What Trump meant when he said the U.S. is cutting aid to Israel",
-        "link": "https://www.npr.org/2026/11/09/nx-s1-6029320/us-trump-israel-military-aid",
-        "pubDate": "Mon, 09 Nov 2026 16:58:14 -0500",
-        "description": "President Trump says he&apos;s halting aid to Israel. Israelis are worried. But experts say the U.S. is just shifting aid from the State Department to the Pentagon, with less congressional oversight."
-      },
-      {
-        "title": "Supreme Court says border wall construction can continue in west Texas",
-        "link": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
-        "pubDate": "Mon, 09 Nov 2026 16:47:39 -0500",
-        "description": "The Trump administration filed an emergency relief request with the high court earlier in October asking for the construction to continue while a lawsuit over the plan moves forward."
+        "description": "Hopes of progress in ending Europe&apos;s biggest conflict since World War II are tempered by the absence of any significant breakthroughs in three previous rounds of talks early this year."
       }
     ],
     "Canada": []
