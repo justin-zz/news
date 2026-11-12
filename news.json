@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-12T17:40:52.399Z",
+  "updated": "2026-11-12T23:09:17.394Z",
   "world": [
     {
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
       "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 16:31:12 GMT",
-      "description": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky."
+      "pubDate": "Thu, 12 Nov 2026 21:00:42 GMT",
+      "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks."
     },
     {
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 13:02:46 GMT",
-      "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia."
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 20:09:16 GMT",
+      "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
     },
     {
       "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
       "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 12:39:39 GMT",
+      "pubDate": "Thu, 12 Nov 2026 19:23:02 GMT",
       "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
     },
     {
@@ -26,10 +26,10 @@
       "description": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate."
     },
     {
-      "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
       "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 16:52:53 GMT",
-      "description": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties."
+      "pubDate": "Thu, 12 Nov 2026 18:47:35 GMT",
+      "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier."
     },
     {
       "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
@@ -62,10 +62,10 @@
       "description": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says."
     },
     {
-      "title": "British woman missing from cruise ship in Atlantic",
+      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
       "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 10:13:35 GMT",
-      "description": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean."
+      "pubDate": "Thu, 12 Nov 2026 21:27:21 GMT",
+      "description": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean."
     },
     {
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -95,6 +95,30 @@
   "regions": {
     "US": [
       {
+        "title": "Cindy Holscher wins in Kansas, holding governor&apos;s office for Democrats",
+        "link": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
+        "pubDate": "Thu, 12 Nov 2026 17:52:49 -0500",
+        "description": "Holscher, a state senator, overcame a more well-known Republican who had Trump&apos;s endorsement in the state that has gone to the GOP in most other statewide races."
+      },
+      {
+        "title": "What&apos;s a Honey Trap? The spy tactic that helped topple Jensen Huang",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
+        "pubDate": "Thu, 12 Nov 2026 17:45:40 -0500",
+        "description": "Jensen Huang, CEO of Nvidia, the leading AI chipmaker, resigned after admitting an extramarital affair with a woman the U.S. says is a Chinese spy. This espionage tactic is known as a honey trap."
+      },
+      {
+        "title": "&apos;Punch in the gut&apos;: Homes sales fall to their lowest in 16 years",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
+        "pubDate": "Thu, 12 Nov 2026 13:44:00 -0500",
+        "description": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors."
+      },
+      {
+        "title": "Casualties continue to rise after Brooklyn building collapses",
+        "link": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
+        "pubDate": "Thu, 12 Nov 2026 13:15:00 -0500",
+        "description": "First responders continue to search for survivors after a building in Brooklyn collapsed, leaving at least eight dead and dozens injured."
+      },
+      {
         "title": "Democrats want to stop Trump&apos;s arch, golf course and more. What are their options?",
         "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
         "pubDate": "Thu, 12 Nov 2026 12:13:54 -0500",
@@ -107,7 +131,7 @@
         "description": "A ship bigger than the Titanic is being sunk off the coast of Florida to make an artificial reef."
       },
       {
-        "title": "DC shooting leaves 1 person killed, 4 injured. Gunman dead",
+        "title": "Witnesses describe the D.C. shooting that left 1 dead, 4 injured",
         "link": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
         "pubDate": "Thu, 12 Nov 2026 11:12:53 -0500",
         "description": "A gunman opened fire at a gym in Washington, D.C.&apos;s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police."
@@ -129,30 +153,6 @@
         "link": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down",
         "pubDate": "Thu, 12 Nov 2026 09:17:20 -0500",
         "description": "Huang co-founded the chipmaker Nvidia, which has become one of the driving forces behind the AI boom. But reports that he may have had an affair with an alleged Chinese spy quickly sank his career."
-      },
-      {
-        "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
-        "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
-        "pubDate": "Thu, 12 Nov 2026 07:15:48 -0500",
-        "description": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administratio"
-      },
-      {
-        "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
-        "link": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
-        "pubDate": "Thu, 12 Nov 2026 05:00:00 -0500",
-        "description": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now."
-      },
-      {
-        "title": "At least 23 states considered laws governing ICE and schools this year",
-        "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
-        "pubDate": "Thu, 12 Nov 2026 05:00:00 -0500",
-        "description": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies."
-      },
-      {
-        "title": "Senators don&apos;t always share bill text online before votes. They should, advocates say",
-        "link": "https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review",
-        "pubDate": "Thu, 12 Nov 2026 05:00:00 -0500",
-        "description": "The text of what lawmakers are considering isn&apos;t always made available for public review before it is voted on. A group of open governance advocates is calling on Senate leadership for a change."
       }
     ],
     "Canada": []
