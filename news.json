@@ -1,17 +1,47 @@
 {
-  "updated": "2026-11-12T01:46:26.570Z",
+  "updated": "2026-11-12T09:12:13.791Z",
   "world": [
+    {
+      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 07:59:33 GMT",
+      "description": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll."
+    },
+    {
+      "title": "New York building collapse kills at least two, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 05:12:56 GMT",
+      "description": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon."
+    },
+    {
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 04:00:30 GMT",
+      "description": "Colom is the first black person from the southern state elected to the US Senate in over 140 years."
+    },
+    {
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 09:00:15 GMT",
+      "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
+    },
+    {
+      "title": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 07:45:52 GMT",
+      "description": "The head teacher of the school has been arrested to assist police investigations."
+    },
+    {
+      "title": "Australian teen missing in bush for six days rescued alive",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 02:40:18 GMT",
+      "description": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\"."
+    },
     {
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
       "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 11 Nov 2026 22:07:37 GMT",
       "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
-    },
-    {
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 01:00:04 GMT",
-      "description": "Colom is the first black person from the southern state elected to the US Senate in over 140 years."
     },
     {
       "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
@@ -20,28 +50,22 @@
       "description": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday."
     },
     {
-      "title": "New York building collapse kills one person and injures 12",
-      "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 01:34:58 GMT",
-      "description": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn."
-    },
-    {
-      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 16:38:07 GMT",
-      "description": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo."
-    },
-    {
       "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
       "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 11 Nov 2026 14:56:11 GMT",
       "description": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy."
     },
     {
-      "title": "Famed ship SS United States to be sunk off coast of Florida",
+      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 08:46:57 GMT",
+      "description": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo."
+    },
+    {
+      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
       "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 18:42:27 GMT",
-      "description": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef."
+      "pubDate": "Thu, 12 Nov 2026 04:03:13 GMT",
+      "description": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef."
     },
     {
       "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
@@ -66,34 +90,16 @@
       "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 11 Nov 2026 13:24:29 GMT",
       "description": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month."
-    },
-    {
-      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 12:53:11 GMT",
-      "description": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded."
-    },
-    {
-      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
-      "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 20:00:54 GMT",
-      "description": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine."
-    },
-    {
-      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 13:25:47 GMT",
-      "description": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment."
-    },
-    {
-      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
-      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 00:19:42 GMT",
-      "description": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "World&apos;s fastest ocean liner is sunk to break another record: largest artificial reef",
+        "link": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
+        "pubDate": "Wed, 11 Nov 2026 22:10:32 -0500",
+        "description": "The SS United States broke trans-Atlantic speed records. On Wednesday, it was sunk off the Florida coast and will become a diving destination and home for marine life."
+      },
       {
         "title": "Democrat Scott Colom wins the closest Senate race in the country",
         "link": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
@@ -147,12 +153,6 @@
         "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
         "pubDate": "Wed, 11 Nov 2026 07:21:59 -0500",
         "description": "Defense Secretary Pete Hegseth has been spared from the House&apos;s impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives."
-      },
-      {
-        "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
-        "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
-        "pubDate": "Wed, 11 Nov 2026 05:02:54 -0500",
-        "description": "Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K. base housing U.S. troops. Separately, a U.S. soldier is held in the U.K. on Russia spying claims."
       }
     ],
     "Canada": []
