@@ -1,41 +1,71 @@
 {
-  "updated": "2026-11-12T09:12:13.791Z",
+  "updated": "2026-11-12T17:40:52.399Z",
   "world": [
     {
-      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 07:59:33 GMT",
-      "description": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll."
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 16:31:12 GMT",
+      "description": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky."
     },
     {
-      "title": "New York building collapse kills at least two, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 05:12:56 GMT",
-      "description": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon."
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 13:02:46 GMT",
+      "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia."
     },
     {
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 12:39:39 GMT",
+      "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
+    },
+    {
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 04:00:30 GMT",
-      "description": "Colom is the first black person from the southern state elected to the US Senate in over 140 years."
+      "pubDate": "Thu, 12 Nov 2026 12:56:55 GMT",
+      "description": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate."
+    },
+    {
+      "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 16:52:53 GMT",
+      "description": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties."
+    },
+    {
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 15:18:20 GMT",
+      "description": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns"
     },
     {
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
       "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 09:00:15 GMT",
+      "pubDate": "Thu, 12 Nov 2026 16:54:12 GMT",
       "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
     },
     {
-      "title": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 07:45:52 GMT",
-      "description": "The head teacher of the school has been arrested to assist police investigations."
+      "title": "Five new miniature frog species found in eastern Himalayas",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 11:07:19 GMT",
+      "description": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape."
     },
     {
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 02:40:18 GMT",
-      "description": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\"."
+      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 07:45:52 GMT",
+      "description": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from."
+    },
+    {
+      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 13:58:49 GMT",
+      "description": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says."
+    },
+    {
+      "title": "British woman missing from cruise ship in Atlantic",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 10:13:35 GMT",
+      "description": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean."
     },
     {
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -44,16 +74,10 @@
       "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
     },
     {
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 18:04:58 GMT",
-      "description": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday."
-    },
-    {
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 14:56:11 GMT",
-      "description": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy."
+      "title": "Australian teen missing in bush for six days rescued alive",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 02:40:18 GMT",
+      "description": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\"."
     },
     {
       "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
@@ -66,93 +90,69 @@
       "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 12 Nov 2026 04:03:13 GMT",
       "description": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef."
-    },
-    {
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 18:38:45 GMT",
-      "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public."
-    },
-    {
-      "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
-      "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 18:10:57 GMT",
-      "description": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital."
-    },
-    {
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 16:45:11 GMT",
-      "description": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns."
-    },
-    {
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 13:24:29 GMT",
-      "description": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "World&apos;s fastest ocean liner is sunk to break another record: largest artificial reef",
-        "link": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
-        "pubDate": "Wed, 11 Nov 2026 22:10:32 -0500",
-        "description": "The SS United States broke trans-Atlantic speed records. On Wednesday, it was sunk off the Florida coast and will become a diving destination and home for marine life."
+        "title": "Democrats want to stop Trump&apos;s arch, golf course and more. What are their options?",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
+        "pubDate": "Thu, 12 Nov 2026 12:13:54 -0500",
+        "description": "As Trump&apos;s arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight."
       },
       {
-        "title": "Democrat Scott Colom wins the closest Senate race in the country",
-        "link": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
-        "pubDate": "Wed, 11 Nov 2026 18:33:59 -0500",
-        "description": "Mississippi hadn&apos;t elected a Democrat to the U.S. Senate in more than 40 years."
+        "title": "The SS United States takes its final voyage to the bottom of the Gulf of Mexico",
+        "link": "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states",
+        "pubDate": "Thu, 12 Nov 2026 11:20:04 -0500",
+        "description": "A ship bigger than the Titanic is being sunk off the coast of Florida to make an artificial reef."
       },
       {
-        "title": "Democrat Scott Colom wins Mississippi Senate race",
-        "link": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
-        "pubDate": "Wed, 11 Nov 2026 18:04:51 -0500",
-        "description": "Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith."
+        "title": "DC shooting leaves 1 person killed, 4 injured. Gunman dead",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
+        "pubDate": "Thu, 12 Nov 2026 11:12:53 -0500",
+        "description": "A gunman opened fire at a gym in Washington, D.C.&apos;s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police."
       },
       {
-        "title": "Why is gasoline suddenly under $4 a gallon?",
-        "link": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
-        "pubDate": "Wed, 11 Nov 2026 14:59:14 -0500",
-        "description": "The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers?"
+        "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+        "pubDate": "Thu, 12 Nov 2026 10:26:34 -0500",
+        "description": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy."
       },
       {
-        "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
-        "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
-        "pubDate": "Wed, 11 Nov 2026 12:23:10 -0500",
-        "description": "Senegal&apos;s breakdancers have been practicing for their country&apos;s historic hosting of the Youth Olympic Games this month. It&apos;s the first time Africa is hosting an Olympic event."
+        "title": "Indonesia&apos;s VP resigns as his eligibility and academic credentials are questioned",
+        "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+        "pubDate": "Thu, 12 Nov 2026 09:22:50 -0500",
+        "description": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn&apos;t mee"
       },
       {
-        "title": "Kennedy relatives join the fight against Trump&apos;s arch, alleging harm to JFK&apos;s grave",
-        "link": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
-        "pubDate": "Wed, 11 Nov 2026 11:59:32 -0500",
-        "description": "Nine members of the Kennedy family have joined the legal fight against Trump&apos;s D.C. arch, arguing it would disrupt views and cast shadows over their ancestors&apos; graves at Arlington National C"
+        "title": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down",
+        "pubDate": "Thu, 12 Nov 2026 09:17:20 -0500",
+        "description": "Huang co-founded the chipmaker Nvidia, which has become one of the driving forces behind the AI boom. But reports that he may have had an affair with an alleged Chinese spy quickly sank his career."
       },
       {
-        "title": "What&apos;s behind democratic socialists&apos; historic victories in the midterms?",
-        "link": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
-        "pubDate": "Wed, 11 Nov 2026 11:41:48 -0500",
-        "description": "Historian and &lt;em&gt;The New Yorker&lt;/em&gt; writer Jill Lepore says the DSA, once maligned, is no longer &quot;beyond the political pale.&quot; She discusses the history of socialism in America,"
+        "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+        "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+        "pubDate": "Thu, 12 Nov 2026 07:15:48 -0500",
+        "description": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administratio"
       },
       {
-        "title": "Following big Democratic wins, these swing voters are looking for results",
-        "link": "https://www.npr.org/2026/11/11/nx-s1-6036790/swing-voters-swing-states-democrats-congress",
-        "pubDate": "Wed, 11 Nov 2026 09:19:42 -0500",
-        "description": "For the swing voters NPR is regularly checking in with as part of its Swing Shift series, the election results brought mixed emotions, as does the pending Democratic control of Congress."
+        "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
+        "pubDate": "Thu, 12 Nov 2026 05:00:00 -0500",
+        "description": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now."
       },
       {
-        "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
-        "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
-        "pubDate": "Wed, 11 Nov 2026 08:30:00 -0500",
-        "description": "Russia and Ukraine have agreed to a large exchange of prisoners of war. U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022."
+        "title": "At least 23 states considered laws governing ICE and schools this year",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
+        "pubDate": "Thu, 12 Nov 2026 05:00:00 -0500",
+        "description": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies."
       },
       {
-        "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
-        "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
-        "pubDate": "Wed, 11 Nov 2026 07:21:59 -0500",
-        "description": "Defense Secretary Pete Hegseth has been spared from the House&apos;s impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives."
+        "title": "Senators don&apos;t always share bill text online before votes. They should, advocates say",
+        "link": "https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review",
+        "pubDate": "Thu, 12 Nov 2026 05:00:00 -0500",
+        "description": "The text of what lawmakers are considering isn&apos;t always made available for public review before it is voted on. A group of open governance advocates is calling on Senate leadership for a change."
       }
     ],
     "Canada": []
