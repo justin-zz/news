@@ -1,35 +1,35 @@
 {
-  "updated": "2026-11-13T11:27:30.179Z",
+  "updated": "2026-11-13T18:39:53.697Z",
   "world": [
     {
-      "title": "What we know about the global Microsoft outage",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 10:53:40 GMT",
-      "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
+      "pubDate": "Fri, 13 Nov 2026 18:36:57 GMT",
+      "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
     },
     {
-      "title": "Watch: How Microsoft services went down around the world",
-      "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 07:18:17 GMT",
-      "description": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\"."
+      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 11:43:27 GMT",
+      "description": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
     },
     {
-      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 03:57:01 GMT",
-      "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs."
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 16:40:31 GMT",
+      "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
     },
     {
-      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 02:01:35 GMT",
-      "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU."
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 15:40:08 GMT",
+      "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China."
     },
     {
-      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-      "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 02:48:29 GMT",
-      "description": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 15:42:52 GMT",
+      "description": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
     },
     {
       "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
@@ -38,62 +38,110 @@
       "description": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles."
     },
     {
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 15:48:07 GMT",
+      "description": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
+    },
+    {
+      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
+      "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 12:28:28 GMT",
+      "description": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago."
+    },
+    {
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 11:38:54 GMT",
+      "description": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews."
+    },
+    {
+      "title": "Nigerian university in mourning after four students die at post-exam party",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 11:37:08 GMT",
+      "description": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths."
+    },
+    {
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 02:48:29 GMT",
+      "description": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
+    },
+    {
+      "title": "At least 24 killed after bus collides with truck in north-east India",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 15:16:50 GMT",
+      "description": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified."
+    },
+    {
       "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
       "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 12 Nov 2026 18:47:35 GMT",
       "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier."
     },
     {
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 20:09:16 GMT",
-      "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
-    },
-    {
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 03:02:54 GMT",
-      "description": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne."
-    },
-    {
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 19:23:02 GMT",
-      "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
+      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+      "link": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 15:09:40 GMT",
+      "description": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef."
     },
     {
       "title": "Will the Eurovision Song Contest succeed in Asia?",
       "link": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 13 Nov 2026 02:24:11 GMT",
       "description": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday."
-    },
-    {
-      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-      "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 23:42:52 GMT",
-      "description": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct."
-    },
-    {
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 13:02:46 GMT",
-      "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia."
-    },
-    {
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 21:43:35 GMT",
-      "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet."
-    },
-    {
-      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
-      "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 09:28:36 GMT",
-      "description": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "The Trump administration&apos;s voter roll crusade could continue",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
+        "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
+        "description": "Election officials are preparing for the Trump administration&apos;s pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles."
+      },
+      {
+        "title": "Does Europe regret its bet on U.S. defense?",
+        "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
+        "pubDate": "Fri, 13 Nov 2026 11:17:43 -0500",
+        "description": "Europe bet big on American defense technology and they&apos;re now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs."
+      },
+      {
+        "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
+        "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
+        "pubDate": "Fri, 13 Nov 2026 10:46:35 -0500",
+        "description": "The Maryland Democrat, who&apos;s the ranking member of the Senate Foreign Relations Subcommittee, just announced he&apos;s going to run for Majority Leader. He spoke to NPR about his foreign aid visi"
+      },
+      {
+        "title": "Remembering singer and actor Peggy King",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6038917/remembering-singer-and-actor-peggy-king",
+        "pubDate": "Fri, 13 Nov 2026 08:35:22 -0500",
+        "description": "King, who died Oct. 25, got her start singing in big bands in the 1950s. She had a string of hits, a contract with MGM and was a popular fixture on TV variety shows. &lt;em&gt;Originally broadcast in "
+      },
+      {
+        "title": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
+        "pubDate": "Fri, 13 Nov 2026 08:32:23 -0500",
+        "description": "Mauricio Pochettino is out as head coach of the U.S. men&apos;s national soccer team. Pochettino led the U.S. to the round of 16 at last year&apos;s World Cup. He&apos;s departing to coach Manchester "
+      },
+      {
+        "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+        "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+        "pubDate": "Fri, 13 Nov 2026 07:07:12 -0500",
+        "description": "Nvidia&apos;s chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader."
+      },
+      {
+        "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
+        "link": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
+        "pubDate": "Fri, 13 Nov 2026 07:06:28 -0500",
+        "description": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!"
+      },
+      {
+        "title": "Nvidia&apos;s interim CEO inherits risky AI bets and a legal mess",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
+        "pubDate": "Fri, 13 Nov 2026 06:47:00 -0500",
+        "description": "AI expert Gary Marcus breaks down what&apos;s at stake for Nvidia and the mess its new CEO has inherited."
+      },
       {
         "title": "Kratom and 7-OH can feel like &apos;a miracle.&apos; They can also be addictive",
         "link": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
@@ -105,54 +153,6 @@
         "link": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
         "pubDate": "Fri, 13 Nov 2026 05:27:08 -0500",
         "description": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense has&lt;br&gt;given him a medal."
-      },
-      {
-        "title": "Rivers in the sky are raining down on the Pacific Northwest. What are they?",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they",
-        "pubDate": "Fri, 13 Nov 2026 05:01:00 -0500",
-        "description": "Atmospheric rivers are large bands of water vapor in the sky. They are dumping trillions of gallons of water on Washington and Oregon, just as high tides and winds batter shorelines."
-      },
-      {
-        "title": "SpaceX&apos;s giant rocket may leave NASA in the dust",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
-        "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
-        "description": "As it races to develop its new massive rocket, the space launch company is preparing to retire NASA&apos;s main ride to the International Space Station."
-      },
-      {
-        "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
-        "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
-        "description": "The forthcoming move has left some parents and educators frustrated and wondering about the company&apos;s motivations."
-      },
-      {
-        "title": "These swing voters have low expectations for divided government",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6035826/north-carolina-swing-voters-congress-trump",
-        "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
-        "description": "Key voters in North Carolina are pessimistic the blue wave flipping control of Congress will solve their economic woes. Many say President Trump will be the chief obstacle."
-      },
-      {
-        "title": "These two voter turnout trends explain what happened across the South in the election",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6038701/midterm-election-voter-turnout-south",
-        "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
-        "description": "In six states across the Deep South, a drastic swing to the left this election was driven by high Black voter turnout and compounded by a sharp decline in voting rates across Republican-heavy areas."
-      },
-      {
-        "title": "Fed up with the healthcare industry, this red state capped insulin prices for patients",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6032717/diabetes-insurance-insulin-price",
-        "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
-        "description": "Republicans and Democrats in North Dakota worked together to limit what people with diabetes have to pay for insulin, joining a growing bipartisan push across the country to protect patients."
-      },
-      {
-        "title": "Why even a fraction of a degree can escalate climate change impacts",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6035801/climate-goal-degrees-cop31-summit",
-        "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
-        "description": "Countries are not meeting their goal of limiting climate change to 1.5 degrees Celsius. How much hotter the planet gets makes a profound difference for the impacts the world could see."
-      },
-      {
-        "title": "The cost of college is confusing. Some schools are trying to change that",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6023392/real-college-costs-confusing",
-        "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
-        "description": "Many Americans have soured on higher education because of how frustratingly hard it is to figure out what they will pay to attend."
       }
     ],
     "Canada": []
