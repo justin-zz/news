@@ -1,11 +1,23 @@
 {
-  "updated": "2026-11-13T03:30:08.161Z",
+  "updated": "2026-11-13T11:27:30.179Z",
   "world": [
     {
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "title": "What we know about the global Microsoft outage",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 10:53:40 GMT",
+      "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
+    },
+    {
+      "title": "Watch: How Microsoft services went down around the world",
+      "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 07:18:17 GMT",
+      "description": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\"."
+    },
+    {
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
       "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 02:39:00 GMT",
-      "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+      "pubDate": "Fri, 13 Nov 2026 03:57:01 GMT",
+      "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs."
     },
     {
       "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
@@ -20,28 +32,10 @@
       "description": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
     },
     {
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 20:09:16 GMT",
-      "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
-    },
-    {
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 00:20:24 GMT",
-      "description": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back."
-    },
-    {
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 19:23:02 GMT",
-      "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
-    },
-    {
-      "title": "Australian footballers will not be charged after hotel incident, police say",
-      "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 03:02:54 GMT",
-      "description": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne."
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 07:01:43 GMT",
+      "description": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles."
     },
     {
       "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
@@ -50,109 +44,115 @@
       "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier."
     },
     {
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 12:56:55 GMT",
-      "description": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate."
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 20:09:16 GMT",
+      "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
     },
     {
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 15:18:20 GMT",
-      "description": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns"
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 03:02:54 GMT",
+      "description": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne."
     },
     {
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 16:54:12 GMT",
-      "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 19:23:02 GMT",
+      "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
     },
     {
-      "title": "Five new miniature frog species found in eastern Himalayas",
-      "link": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 11:07:19 GMT",
-      "description": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape."
+      "title": "Will the Eurovision Song Contest succeed in Asia?",
+      "link": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 02:24:11 GMT",
+      "description": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday."
     },
     {
-      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 07:45:52 GMT",
-      "description": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from."
+      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+      "link": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 23:42:52 GMT",
+      "description": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct."
     },
     {
-      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 13:58:49 GMT",
-      "description": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says."
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 12 Nov 2026 13:02:46 GMT",
+      "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia."
     },
     {
-      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 21:27:21 GMT",
-      "description": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean."
+      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+      "link": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 11 Nov 2026 21:43:35 GMT",
+      "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet."
+    },
+    {
+      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
+      "link": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 11 Nov 2026 09:28:36 GMT",
+      "description": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
-        "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
-        "pubDate": "Thu, 12 Nov 2026 20:26:24 -0500",
-        "description": "A widespread outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts."
+        "title": "Kratom and 7-OH can feel like &apos;a miracle.&apos; They can also be addictive",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
+        "pubDate": "Fri, 13 Nov 2026 06:00:00 -0500",
+        "description": "In the last decade, strong support for kratom and 7-OH products have kept them federally legal. That&apos;s started to change. A crackdown for some highly potent products related to kratom is coming."
       },
       {
-        "title": "Cindy Holscher wins in Kansas, holding governor&apos;s office for Democrats",
-        "link": "https://www.npr.org/2026/11/12/g-s1-151239/kansas-governor-midterms-holscher-masterson",
-        "pubDate": "Thu, 12 Nov 2026 18:36:19 -0500",
-        "description": "Holscher, a state senator, overcame a more well-known Republican who had Trump&apos;s endorsement in the state that has gone to the GOP in most other statewide races."
+        "title": "Hegseth awards medal to soldier who chastised him",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
+        "pubDate": "Fri, 13 Nov 2026 05:27:08 -0500",
+        "description": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense has&lt;br&gt;given him a medal."
       },
       {
-        "title": "Cindy Holscher wins in Kansas, holding governor&apos;s office for Democrats",
-        "link": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
-        "pubDate": "Thu, 12 Nov 2026 17:52:49 -0500",
-        "description": "Holscher, a state senator, overcame a more well-known Republican who had Trump&apos;s endorsement in the state that has gone to the GOP in most other statewide races."
+        "title": "Rivers in the sky are raining down on the Pacific Northwest. What are they?",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they",
+        "pubDate": "Fri, 13 Nov 2026 05:01:00 -0500",
+        "description": "Atmospheric rivers are large bands of water vapor in the sky. They are dumping trillions of gallons of water on Washington and Oregon, just as high tides and winds batter shorelines."
       },
       {
-        "title": "What&apos;s a Honey Trap? The spy tactic that helped topple Jensen Huang",
-        "link": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
-        "pubDate": "Thu, 12 Nov 2026 17:45:40 -0500",
-        "description": "Jensen Huang, CEO of Nvidia, the leading AI chipmaker, resigned after admitting an extramarital affair with a woman the U.S. says is a Chinese spy. This espionage tactic is known as a honey trap."
+        "title": "SpaceX&apos;s giant rocket may leave NASA in the dust",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
+        "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
+        "description": "As it races to develop its new massive rocket, the space launch company is preparing to retire NASA&apos;s main ride to the International Space Station."
       },
       {
-        "title": "&apos;Punch in the gut&apos;: Homes sales fall to their lowest in 16 years",
-        "link": "https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years",
-        "pubDate": "Thu, 12 Nov 2026 13:44:00 -0500",
-        "description": "Existing homes sales in October declined 8.8% from a year earlier, according to the National Association of Realtors."
+        "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
+        "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
+        "description": "The forthcoming move has left some parents and educators frustrated and wondering about the company&apos;s motivations."
       },
       {
-        "title": "Casualties continue to rise after Brooklyn building collapses",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
-        "pubDate": "Thu, 12 Nov 2026 13:15:00 -0500",
-        "description": "First responders continue to search for survivors after a building in Brooklyn collapsed, leaving at least eight dead and dozens injured."
+        "title": "These swing voters have low expectations for divided government",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6035826/north-carolina-swing-voters-congress-trump",
+        "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
+        "description": "Key voters in North Carolina are pessimistic the blue wave flipping control of Congress will solve their economic woes. Many say President Trump will be the chief obstacle."
       },
       {
-        "title": "Democrats want to stop Trump&apos;s arch, golf course and more. What are their options?",
-        "link": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
-        "pubDate": "Thu, 12 Nov 2026 12:13:54 -0500",
-        "description": "As Trump&apos;s arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight."
+        "title": "These two voter turnout trends explain what happened across the South in the election",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6038701/midterm-election-voter-turnout-south",
+        "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
+        "description": "In six states across the Deep South, a drastic swing to the left this election was driven by high Black voter turnout and compounded by a sharp decline in voting rates across Republican-heavy areas."
       },
       {
-        "title": "The SS United States takes its final voyage to the bottom of the Gulf of Mexico",
-        "link": "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states",
-        "pubDate": "Thu, 12 Nov 2026 11:20:04 -0500",
-        "description": "A ship bigger than the Titanic is being sunk off the coast of Florida to make an artificial reef."
+        "title": "Fed up with the healthcare industry, this red state capped insulin prices for patients",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6032717/diabetes-insurance-insulin-price",
+        "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
+        "description": "Republicans and Democrats in North Dakota worked together to limit what people with diabetes have to pay for insulin, joining a growing bipartisan push across the country to protect patients."
       },
       {
-        "title": "Witnesses describe the D.C. shooting that left 1 dead, 4 injured",
-        "link": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
-        "pubDate": "Thu, 12 Nov 2026 11:12:53 -0500",
-        "description": "A gunman opened fire at a gym in Washington, D.C.&apos;s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police."
+        "title": "Why even a fraction of a degree can escalate climate change impacts",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6035801/climate-goal-degrees-cop31-summit",
+        "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
+        "description": "Countries are not meeting their goal of limiting climate change to 1.5 degrees Celsius. How much hotter the planet gets makes a profound difference for the impacts the world could see."
       },
       {
-        "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
-        "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
-        "pubDate": "Thu, 12 Nov 2026 10:26:34 -0500",
-        "description": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy."
+        "title": "The cost of college is confusing. Some schools are trying to change that",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6023392/real-college-costs-confusing",
+        "pubDate": "Fri, 13 Nov 2026 05:00:00 -0500",
+        "description": "Many Americans have soured on higher education because of how frustratingly hard it is to figure out what they will pay to attend."
       }
     ],
     "Canada": []
