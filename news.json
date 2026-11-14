@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-14T18:56:05.407Z",
+  "updated": "2026-11-14T22:52:05.106Z",
   "world": [
     {
       "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
       "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 17:16:36 GMT",
+      "pubDate": "Sat, 14 Nov 2026 19:12:25 GMT",
       "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
     },
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 15:15:57 GMT",
-      "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
+      "pubDate": "Sat, 14 Nov 2026 22:37:25 GMT",
+      "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\"."
     },
     {
       "title": "Italy fines Meta €805m over accessing users' photos",
@@ -20,16 +20,16 @@
       "description": "The social media giant is accused of not informing 20 million users it had access to their photos."
     },
     {
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 22:09:40 GMT",
+      "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
+    },
+    {
       "title": "Philippines wins first Eurovision Song Contest Asia",
       "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 14 Nov 2026 18:17:58 GMT",
       "description": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
-    },
-    {
-      "title": "Second catch attempt for SpaceX Starship rocket",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 14:18:41 GMT",
-      "description": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean."
     },
     {
       "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
@@ -64,7 +64,7 @@
     {
       "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
       "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 23:40:45 GMT",
+      "pubDate": "Sat, 14 Nov 2026 20:23:06 GMT",
       "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
     },
     {
@@ -82,7 +82,7 @@
     {
       "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
       "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 11:30:10 GMT",
+      "pubDate": "Sat, 14 Nov 2026 19:14:33 GMT",
       "description": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans,  Louisiana on Friday."
     },
     {
@@ -94,6 +94,30 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "US has lost measles elimination status, global health authorities say",
+        "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+        "pubDate": "Sat, 14 Nov 2026 17:15:02 -0500",
+        "description": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization."
+      },
+      {
+        "title": "SpaceX successfully catches Starship and makes history",
+        "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+        "pubDate": "Sat, 14 Nov 2026 16:42:41 -0500",
+        "description": "The company&apos;s spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it."
+      },
+      {
+        "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
+        "link": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
+        "pubDate": "Sat, 14 Nov 2026 15:12:34 -0500",
+        "description": "The bomb was discovered Friday afternoon at the BioUrja Renewables plant in Peoria. Officials say the bomb has been &quot;rendered safe,&quot; but called it a &quot;credible threat.&quot; The FBI is i"
+      },
+      {
+        "title": "&apos;We can&apos;t let them down&apos; -- After midterm wins, Democrats turn to charting path ahead",
+        "link": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
+        "pubDate": "Sat, 14 Nov 2026 14:13:54 -0500",
+        "description": "Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections."
+      },
       {
         "title": "FAA blames Friday&apos;s ground stop on &apos;equipment issue&apos; during telecoms network upgrade",
         "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
@@ -119,12 +143,6 @@
         "description": "With the White House press secretary job still left unfilled, maybe an AI assistant might be the answer?"
       },
       {
-        "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
-        "pubDate": "Sat, 14 Nov 2026 05:00:00 -0500",
-        "description": "It&apos;s everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it&apos;s bigger than a meme and says a lot about politics of masculinity in the age "
-      },
-      {
         "title": "Hegseth&apos;s failed impeachment was a warning to Democrats. Where will they go from here?",
         "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
         "pubDate": "Sat, 14 Nov 2026 05:00:00 -0500",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
         "pubDate": "Sat, 14 Nov 2026 05:00:00 -0500",
         "description": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions."
-      },
-      {
-        "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
-        "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
-        "pubDate": "Sat, 14 Nov 2026 00:12:43 -0500",
-        "description": "Kreiss-Tomkins, a former state legislator, ran a campaign emphasizing bipartisanship in the the state that usually votes Republican. At 37, he&apos;ll be the youngest governor in the state&apos;s hist"
-      },
-      {
-        "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
-        "pubDate": "Fri, 13 Nov 2026 17:36:46 -0500",
-        "description": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing."
-      },
-      {
-        "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
-        "pubDate": "Fri, 13 Nov 2026 17:36:45 -0500",
-        "description": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories."
       }
     ],
     "Canada": []
