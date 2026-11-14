@@ -1,6 +1,12 @@
 {
-  "updated": "2026-11-13T18:39:53.697Z",
+  "updated": "2026-11-14T00:07:49.506Z",
   "world": [
+    {
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 21:14:22 GMT",
+      "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
+    },
     {
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&amp;at_campaign=rss",
@@ -14,6 +20,12 @@
       "description": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
     },
     {
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 00:01:01 GMT",
+      "description": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
+    },
+    {
       "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 13 Nov 2026 16:40:31 GMT",
@@ -22,8 +34,14 @@
     {
       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
       "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 15:40:08 GMT",
+      "pubDate": "Fri, 13 Nov 2026 19:53:57 GMT",
       "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China."
+    },
+    {
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 18:34:45 GMT",
+      "description": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer."
     },
     {
       "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
@@ -32,22 +50,16 @@
       "description": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
     },
     {
-      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-      "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 07:01:43 GMT",
-      "description": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles."
-    },
-    {
       "title": "Democratic Senate leader Schumer set to face leadership challenge",
       "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 15:48:07 GMT",
+      "pubDate": "Fri, 13 Nov 2026 19:03:10 GMT",
       "description": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
     },
     {
-      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
-      "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 12:28:28 GMT",
-      "description": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago."
+      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 13:11:23 GMT",
+      "description": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov."
     },
     {
       "title": "Rosalía scoops historic third best album award at Latin Grammys",
@@ -56,16 +68,10 @@
       "description": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews."
     },
     {
-      "title": "Nigerian university in mourning after four students die at post-exam party",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 11:37:08 GMT",
-      "description": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths."
-    },
-    {
-      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-      "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 02:48:29 GMT",
-      "description": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months."
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 07:01:43 GMT",
+      "description": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles."
     },
     {
       "title": "At least 24 killed after bus collides with truck in north-east India",
@@ -74,26 +80,62 @@
       "description": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified."
     },
     {
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 18:47:35 GMT",
-      "description": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier."
+      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 21:15:24 GMT",
+      "description": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship."
     },
     {
       "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
       "link": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 13 Nov 2026 15:09:40 GMT",
       "description": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef."
-    },
-    {
-      "title": "Will the Eurovision Song Contest succeed in Asia?",
-      "link": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 02:24:11 GMT",
-      "description": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+        "pubDate": "Fri, 13 Nov 2026 17:36:46 -0500",
+        "description": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing."
+      },
+      {
+        "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+        "pubDate": "Fri, 13 Nov 2026 17:36:45 -0500",
+        "description": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories."
+      },
+      {
+        "title": "GOP state officials push to revive Trump&apos;s mail voting restrictions for 2028 election",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
+        "pubDate": "Fri, 13 Nov 2026 17:18:55 -0500",
+        "description": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule."
+      },
+      {
+        "title": "FAA issues nationwide ground stop for all U.S. airports",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
+        "pubDate": "Fri, 13 Nov 2026 16:55:13 -0500",
+        "description": "The FAA has issued a nationwide ground stop for all U.S. airports following a &quot;communication issue impacting all Air Route Traffic Control Centers,&quot; according to Transportation Secretary Sea"
+      },
+      {
+        "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats&apos; mandate",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
+        "pubDate": "Fri, 13 Nov 2026 16:06:09 -0500",
+        "description": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it."
+      },
+      {
+        "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
+        "link": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
+        "pubDate": "Fri, 13 Nov 2026 16:06:05 -0500",
+        "description": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump&apos;s renovation wishes."
+      },
+      {
+        "title": "What&apos;s Trump&apos;s strategy now with Iran? To keep things as they are",
+        "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+        "pubDate": "Fri, 13 Nov 2026 14:02:04 -0500",
+        "description": "President Trump says the &quot;status quo&quot; is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure."
+      },
       {
         "title": "The Trump administration&apos;s voter roll crusade could continue",
         "link": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
@@ -110,49 +152,7 @@
         "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
         "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
         "pubDate": "Fri, 13 Nov 2026 10:46:35 -0500",
-        "description": "The Maryland Democrat, who&apos;s the ranking member of the Senate Foreign Relations Subcommittee, just announced he&apos;s going to run for Majority Leader. He spoke to NPR about his foreign aid visi"
-      },
-      {
-        "title": "Remembering singer and actor Peggy King",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6038917/remembering-singer-and-actor-peggy-king",
-        "pubDate": "Fri, 13 Nov 2026 08:35:22 -0500",
-        "description": "King, who died Oct. 25, got her start singing in big bands in the 1950s. She had a string of hits, a contract with MGM and was a popular fixture on TV variety shows. &lt;em&gt;Originally broadcast in "
-      },
-      {
-        "title": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
-        "pubDate": "Fri, 13 Nov 2026 08:32:23 -0500",
-        "description": "Mauricio Pochettino is out as head coach of the U.S. men&apos;s national soccer team. Pochettino led the U.S. to the round of 16 at last year&apos;s World Cup. He&apos;s departing to coach Manchester "
-      },
-      {
-        "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
-        "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
-        "pubDate": "Fri, 13 Nov 2026 07:07:12 -0500",
-        "description": "Nvidia&apos;s chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader."
-      },
-      {
-        "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
-        "link": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
-        "pubDate": "Fri, 13 Nov 2026 07:06:28 -0500",
-        "description": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!"
-      },
-      {
-        "title": "Nvidia&apos;s interim CEO inherits risky AI bets and a legal mess",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
-        "pubDate": "Fri, 13 Nov 2026 06:47:00 -0500",
-        "description": "AI expert Gary Marcus breaks down what&apos;s at stake for Nvidia and the mess its new CEO has inherited."
-      },
-      {
-        "title": "Kratom and 7-OH can feel like &apos;a miracle.&apos; They can also be addictive",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
-        "pubDate": "Fri, 13 Nov 2026 06:00:00 -0500",
-        "description": "In the last decade, strong support for kratom and 7-OH products have kept them federally legal. That&apos;s started to change. A crackdown for some highly potent products related to kratom is coming."
-      },
-      {
-        "title": "Hegseth awards medal to soldier who chastised him",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
-        "pubDate": "Fri, 13 Nov 2026 05:27:08 -0500",
-        "description": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense has&lt;br&gt;given him a medal."
+        "description": "He&apos;s the ranking member of the Senate Foreign Relations Subcommittee that oversees health aid and he&apos;s just announced he&apos;s running for Majority Leader. He spoke to NPR about his foreign"
       }
     ],
     "Canada": []
