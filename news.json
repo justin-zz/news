@@ -1,41 +1,59 @@
 {
-  "updated": "2026-11-14T13:55:15.524Z",
+  "updated": "2026-11-14T18:56:05.407Z",
   "world": [
     {
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 07:42:11 GMT",
-      "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 17:16:36 GMT",
+      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
     },
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 11:41:20 GMT",
+      "pubDate": "Sat, 14 Nov 2026 15:15:57 GMT",
       "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
+    },
+    {
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 18:28:06 GMT",
+      "description": "The social media giant is accused of not informing 20 million users it had access to their photos."
+    },
+    {
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 18:17:58 GMT",
+      "description": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
+    },
+    {
+      "title": "Second catch attempt for SpaceX Starship rocket",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 14:18:41 GMT",
+      "description": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean."
+    },
+    {
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 18:00:10 GMT",
+      "description": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution."
     },
     {
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 05:52:31 GMT",
+      "pubDate": "Sat, 14 Nov 2026 15:53:55 GMT",
       "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
     },
     {
-      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 23:40:45 GMT",
-      "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 00:03:52 GMT",
+      "description": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession."
     },
     {
-      "title": "Setback for SpaceX Starship rocket's double-catch test",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 00:01:01 GMT",
-      "description": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean."
-    },
-    {
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 06:42:27 GMT",
-      "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 15:42:54 GMT",
+      "description": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa."
     },
     {
       "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
@@ -44,56 +62,50 @@
       "description": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April."
     },
     {
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 16:40:31 GMT",
-      "description": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 23:40:45 GMT",
+      "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for."
     },
     {
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 19:53:57 GMT",
-      "description": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China."
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 06:42:27 GMT",
+      "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
     },
     {
-      "title": "Estonia bans Russian athletes as backlash intensifies",
-      "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 17:54:33 GMT",
-      "description": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine."
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 01:47:36 GMT",
+      "description": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”."
     },
     {
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 18:34:45 GMT",
-      "description": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer."
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 11:30:10 GMT",
+      "description": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans,  Louisiana on Friday."
     },
     {
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 19:03:10 GMT",
-      "description": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
-    },
-    {
-      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 15:42:52 GMT",
-      "description": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage."
-    },
-    {
-      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-      "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 13:11:23 GMT",
-      "description": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov."
-    },
-    {
-      "title": "Rosalía scoops historic third best album award at Latin Grammys",
-      "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 11:38:54 GMT",
-      "description": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews."
+      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+      "link": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 15:09:40 GMT",
+      "description": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "FAA blames Friday&apos;s ground stop on &apos;equipment issue&apos; during telecoms network upgrade",
+        "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+        "pubDate": "Sat, 14 Nov 2026 11:53:04 -0500",
+        "description": "Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location."
+      },
+      {
+        "title": "Fuel crisis and protests pressure Chile&apos;s far-right president",
+        "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+        "pubDate": "Sat, 14 Nov 2026 11:05:12 -0500",
+        "description": "Chile&apos;s far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country."
+      },
       {
         "title": "Alaska voters aren&apos;t ditching ranked choice voting, top-four primaries",
         "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
@@ -113,16 +125,16 @@
         "description": "It&apos;s everywhere on social media: Democrats celebrating the attractive men voters elected in the midterms. But it&apos;s bigger than a meme and says a lot about politics of masculinity in the age "
       },
       {
-        "title": "An organ transplant controversy tests &apos;the dead donor rule&apos;",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
-        "pubDate": "Sat, 14 Nov 2026 05:00:00 -0500",
-        "description": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions."
-      },
-      {
         "title": "Hegseth&apos;s failed impeachment was a warning to Democrats. Where will they go from here?",
         "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
         "pubDate": "Sat, 14 Nov 2026 05:00:00 -0500",
         "description": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests."
+      },
+      {
+        "title": "A new policy could help solve the U.S. organ shortage. Critics say it&apos;s unethical",
+        "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
+        "pubDate": "Sat, 14 Nov 2026 05:00:00 -0500",
+        "description": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions."
       },
       {
         "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
         "pubDate": "Fri, 13 Nov 2026 17:36:45 -0500",
         "description": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories."
-      },
-      {
-        "title": "What we know about the FAA nationwide ground stop",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
-        "pubDate": "Fri, 13 Nov 2026 17:27:38 -0500",
-        "description": "The Federal Aviation Administration took an extraordinary step Friday afternoon by issuing a nationwide ground stop. No planes are taking off at any airport and millions of passengers are stranded."
-      },
-      {
-        "title": "GOP state officials push to revive Trump&apos;s mail voting restrictions for 2028 election",
-        "link": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
-        "pubDate": "Fri, 13 Nov 2026 17:18:55 -0500",
-        "description": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule."
       }
     ],
     "Canada": []
