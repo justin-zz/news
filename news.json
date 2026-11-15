@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T22:52:05.106Z",
+  "updated": "2026-11-15T02:21:12.054Z",
   "world": [
     {
       "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
@@ -95,6 +95,24 @@
   "regions": {
     "US": [
       {
+        "title": "FAA ground stop disrupts college football",
+        "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
+        "pubDate": "Sat, 14 Nov 2026 20:13:59 -0500",
+        "description": "Some college football games were delayed a few hours on Saturday or postponed to Sunday. And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, including cheap beers."
+      },
+      {
+        "title": "Florida city cancels St. Patrick&apos;s Day parade, citing new anti-DEI law",
+        "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
+        "pubDate": "Sat, 14 Nov 2026 19:03:52 -0500",
+        "description": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick&apos;s Day parade after a nearly 60-year run."
+      },
+      {
+        "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+        "link": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
+        "pubDate": "Sat, 14 Nov 2026 17:48:38 -0500",
+        "description": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday&apos;s nation-wide aviation ground stop."
+      },
+      {
         "title": "US has lost measles elimination status, global health authorities say",
         "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
         "pubDate": "Sat, 14 Nov 2026 17:15:02 -0500",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
         "pubDate": "Sat, 14 Nov 2026 08:08:05 -0500",
         "description": "This is the second time Alaskans voted down an effort to repeal the state&apos;s unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly."
-      },
-      {
-        "title": "Perspective: A new kind of White House press secretary",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
-        "pubDate": "Sat, 14 Nov 2026 08:00:00 -0500",
-        "description": "With the White House press secretary job still left unfilled, maybe an AI assistant might be the answer?"
-      },
-      {
-        "title": "Hegseth&apos;s failed impeachment was a warning to Democrats. Where will they go from here?",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
-        "pubDate": "Sat, 14 Nov 2026 05:00:00 -0500",
-        "description": "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests."
-      },
-      {
-        "title": "A new policy could help solve the U.S. organ shortage. Critics say it&apos;s unethical",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
-        "pubDate": "Sat, 14 Nov 2026 05:00:00 -0500",
-        "description": "New guidelines are supposed to protect organ donors in a retrieval procedure that keeps blood flowing through livers, kidneys, lungs and hearts. But bioethicists have troubling questions."
       }
     ],
     "Canada": []
