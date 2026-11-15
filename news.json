@@ -1,6 +1,36 @@
 {
-  "updated": "2026-11-15T16:46:23.180Z",
+  "updated": "2026-11-15T21:26:57.624Z",
   "world": [
+    {
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 19:32:39 GMT",
+      "description": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks."
+    },
+    {
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 13:37:45 GMT",
+      "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
+    },
+    {
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 18:38:11 GMT",
+      "description": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour."
+    },
+    {
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 14:56:21 GMT",
+      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+    },
+    {
+      "title": "Czechs rally against plan to switch funding of public media",
+      "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 21:03:40 GMT",
+      "description": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
+    },
     {
       "title": "Iran targets US military base in Bahrain with drone attack",
       "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&amp;at_campaign=rss",
@@ -14,34 +44,16 @@
       "description": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month."
     },
     {
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 13:37:45 GMT",
-      "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 16:15:20 GMT",
+      "description": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month."
     },
     {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 14:56:21 GMT",
-      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
-    },
-    {
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 08:17:41 GMT",
-      "description": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
-    },
-    {
-      "title": "Czechs rally against plan to switch funding of public media",
-      "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 16:36:42 GMT",
-      "description": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs."
-    },
-    {
-      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-      "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 09:26:37 GMT",
-      "description": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright."
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 19:20:53 GMT",
+      "description": "The US transport secretary says that normal air-traffic operations may not be restored until Monday."
     },
     {
       "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
@@ -50,55 +62,49 @@
       "description": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course."
     },
     {
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 09:57:25 GMT",
-      "description": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023."
+      "title": "Ronaldinho makes comeback in Ravenna win",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 19:31:48 GMT",
+      "description": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli."
     },
     {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 22:37:25 GMT",
-      "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\"."
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 08:17:41 GMT",
+      "description": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
     },
     {
-      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 14:33:59 GMT",
-      "description": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages."
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 22:09:40 GMT",
+      "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
     },
     {
-      "title": "Philippines wins first Eurovision Song Contest Asia",
-      "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 18:17:58 GMT",
-      "description": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra."
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 14 Nov 2026 19:14:33 GMT",
+      "description": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans,  Louisiana on Friday."
     },
     {
-      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 07:10:31 GMT",
-      "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
-    },
-    {
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 18:28:06 GMT",
-      "description": "The social media giant is accused of not informing 20 million users it had access to their photos."
-    },
-    {
-      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 14 Nov 2026 18:00:10 GMT",
-      "description": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution."
+      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+      "link": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 15:09:40 GMT",
+      "description": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "New Mexico wanted free childcare for all. This is what&apos;s worked — and what hasn&apos;t",
-        "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-        "pubDate": "Sun, 15 Nov 2026 05:00:00 -0500",
-        "description": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income."
+        "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
+        "link": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
+        "pubDate": "Sun, 15 Nov 2026 12:45:27 -0500",
+        "description": "Officials are seeking at least $1 million in damages from the owners of the tanker that hit a cruise ship last week. The incident was dubbed &quot;the miracle on the Mississippi&quot; after no one was"
+      },
+      {
+        "title": "Laws limiting coal miners&apos; exposure to toxic dust are in danger of being rolled back",
+        "link": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
+        "pubDate": "Sun, 15 Nov 2026 08:11:30 -0500",
+        "description": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat."
       },
       {
         "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
@@ -113,7 +119,13 @@
         "description": "The film &lt;em&gt;Being Heumann&lt;/em&gt; tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they &quot;carry the torch&quot; today"
       },
       {
-        "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+        "title": "New Mexico wanted free childcare for all. This is what&apos;s worked — and what hasn&apos;t",
+        "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+        "pubDate": "Sun, 15 Nov 2026 05:00:00 -0500",
+        "description": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income."
+      },
+      {
+        "title": "Trump blasts judge for halting his Washington golf project and says he will appeal",
         "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
         "pubDate": "Sat, 14 Nov 2026 23:28:45 -0500",
         "description": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House."
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
         "pubDate": "Sat, 14 Nov 2026 17:15:02 -0500",
         "description": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization."
-      },
-      {
-        "title": "SpaceX successfully catches Starship and makes history",
-        "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
-        "pubDate": "Sat, 14 Nov 2026 16:42:41 -0500",
-        "description": "The company&apos;s spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it."
-      },
-      {
-        "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
-        "link": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
-        "pubDate": "Sat, 14 Nov 2026 15:12:34 -0500",
-        "description": "The bomb was discovered Friday afternoon at the BioUrja Renewables plant in Peoria. Officials say the bomb has been &quot;rendered safe,&quot; but called it a &quot;credible threat.&quot; The FBI is i"
       }
     ],
     "Canada": []
