@@ -1,11 +1,23 @@
 {
-  "updated": "2026-11-15T21:26:57.624Z",
+  "updated": "2026-11-16T01:17:35.675Z",
   "world": [
     {
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 15 Nov 2026 19:32:39 GMT",
-      "description": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks."
+      "description": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
+    },
+    {
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 22:24:20 GMT",
+      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+    },
+    {
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 23:52:10 GMT",
+      "description": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation."
     },
     {
       "title": "South Korea's top scorer in tax accountancy exam admits cheating",
@@ -20,10 +32,10 @@
       "description": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour."
     },
     {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 14:56:21 GMT",
-      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 22:57:27 GMT",
+      "description": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday."
     },
     {
       "title": "Czechs rally against plan to switch funding of public media",
@@ -32,10 +44,10 @@
       "description": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
     },
     {
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 13:42:58 GMT",
-      "description": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
+      "title": "Police ban protests near 10 schools and five universities in Paris",
+      "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 22:28:54 GMT",
+      "description": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says."
     },
     {
       "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
@@ -46,32 +58,20 @@
     {
       "title": "Clothing factories shut in Bangladesh as workers strike over pay",
       "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 16:15:20 GMT",
+      "pubDate": "Mon, 16 Nov 2026 01:05:44 GMT",
       "description": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month."
     },
     {
       "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
       "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 19:20:53 GMT",
+      "pubDate": "Mon, 16 Nov 2026 00:03:29 GMT",
       "description": "The US transport secretary says that normal air-traffic operations may not be restored until Monday."
     },
     {
-      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 15:57:03 GMT",
-      "description": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course."
-    },
-    {
-      "title": "Ronaldinho makes comeback in Ravenna win",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 19:31:48 GMT",
-      "description": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli."
-    },
-    {
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 15 Nov 2026 08:17:41 GMT",
-      "description": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 13:42:58 GMT",
+      "description": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
     },
     {
       "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
@@ -95,6 +95,18 @@
   "regions": {
     "US": [
       {
+        "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+        "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+        "pubDate": "Sun, 15 Nov 2026 17:41:22 -0500",
+        "description": "NASA&apos;s Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth."
+      },
+      {
+        "title": "Who makes Sydney Sweeney&apos;s American Eagle jeans — and under what conditions?",
+        "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+        "pubDate": "Sun, 15 Nov 2026 17:07:55 -0500",
+        "description": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?"
+      },
+      {
         "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
         "link": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
         "pubDate": "Sun, 15 Nov 2026 12:45:27 -0500",
@@ -107,6 +119,12 @@
         "description": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat."
       },
       {
+        "title": "New Mexico wanted free childcare for all. This is what&apos;s worked — and what hasn&apos;t",
+        "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+        "pubDate": "Sun, 15 Nov 2026 05:00:00 -0500",
+        "description": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income."
+      },
+      {
         "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
         "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
         "pubDate": "Sun, 15 Nov 2026 05:00:00 -0500",
@@ -117,12 +135,6 @@
         "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
         "pubDate": "Sun, 15 Nov 2026 05:00:00 -0500",
         "description": "The film &lt;em&gt;Being Heumann&lt;/em&gt; tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they &quot;carry the torch&quot; today"
-      },
-      {
-        "title": "New Mexico wanted free childcare for all. This is what&apos;s worked — and what hasn&apos;t",
-        "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-        "pubDate": "Sun, 15 Nov 2026 05:00:00 -0500",
-        "description": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income."
       },
       {
         "title": "Trump blasts judge for halting his Washington golf project and says he will appeal",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
         "pubDate": "Sat, 14 Nov 2026 19:03:52 -0500",
         "description": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick&apos;s Day parade after a nearly 60-year run."
-      },
-      {
-        "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
-        "pubDate": "Sat, 14 Nov 2026 17:48:38 -0500",
-        "description": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday&apos;s nation-wide aviation ground stop."
-      },
-      {
-        "title": "US has lost measles elimination status, global health authorities say",
-        "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
-        "pubDate": "Sat, 14 Nov 2026 17:15:02 -0500",
-        "description": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization."
       }
     ],
     "Canada": []
