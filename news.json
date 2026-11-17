@@ -1,17 +1,47 @@
 {
-  "updated": "2026-11-17T10:56:35.662Z",
+  "updated": "2026-11-17T19:38:21.667Z",
   "world": [
     {
-      "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 10:45:55 GMT",
-      "description": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge."
+      "pubDate": "Tue, 17 Nov 2026 16:56:38 GMT",
+      "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
     },
     {
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 05:59:01 GMT",
-      "description": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say."
+      "title": "How the attack on Crimean Bridge unfolded",
+      "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 15:38:10 GMT",
+      "description": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv."
+    },
+    {
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 18:24:21 GMT",
+      "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return."
+    },
+    {
+      "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+      "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 12:54:32 GMT",
+      "description": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\"."
+    },
+    {
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 17:10:03 GMT",
+      "description": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s."
+    },
+    {
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 15:36:11 GMT",
+      "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked."
+    },
+    {
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 17:19:57 GMT",
+      "description": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea."
     },
     {
       "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
@@ -20,80 +50,86 @@
       "description": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back."
     },
     {
-      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-      "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 01:26:01 GMT",
-      "description": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice."
+      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 11:17:32 GMT",
+      "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules."
     },
     {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 02:37:53 GMT",
-      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back."
+      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+      "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 17:37:04 GMT",
+      "description": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\"."
     },
     {
-      "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
-      "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 07:01:00 GMT",
-      "description": "The remains of a top Australian racehorse that died of colic on Monday were found at a public rubbish tip."
+      "title": "UK sanctions firms over Israeli West Bank settlements",
+      "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 18:27:27 GMT",
+      "description": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory."
     },
     {
-      "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-      "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 07:44:17 GMT",
-      "description": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces."
+      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+      "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 18:58:57 GMT",
+      "description": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy."
     },
     {
-      "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
-      "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 09:20:29 GMT",
-      "description": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead."
+      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 11:58:16 GMT",
+      "description": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica."
     },
     {
-      "title": "OpenAI sued by California over Hugging Face attack",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 16 Nov 2026 23:12:24 GMT",
-      "description": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public."
+      "title": "BBC reports from Kyiv bridge hit by Russian attack",
+      "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 15:54:15 GMT",
+      "description": "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike."
     },
     {
-      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-      "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 16 Nov 2026 20:33:57 GMT",
-      "description": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide."
-    },
-    {
-      "title": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 08:11:20 GMT",
-      "description": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa."
-    },
-    {
-      "title": "Will President Trump meet Kim Jong Un?",
-      "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 10:13:27 GMT",
-      "description": "President Trump says he would be keen to meet the North Korea leader in China."
-    },
-    {
-      "title": "Will President Trump meet Kim Jong Un?",
-      "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 10:13:27 GMT",
-      "description": "President Trump says he would be keen to meet the North Korea leader in China."
-    },
-    {
-      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
-      "link": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 16 Nov 2026 15:08:59 GMT",
-      "description": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings."
-    },
-    {
-      "title": "New York teen reunites with cat missing after building collapse",
-      "link": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 16 Nov 2026 04:36:45 GMT",
-      "description": "Rescuers found the pet cat in the ruins of Zariah's apartment four days after she made an emotional plea to the public."
+      "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+      "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 06:23:51 GMT",
+      "description": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Iran launches third round of strikes on Bahrain, host of U.S. Navy&apos;s 5th Fleet",
+        "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+        "pubDate": "Tue, 17 Nov 2026 13:34:31 -0500",
+        "description": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, its third attack in recent days on American military targets in the Gulf island kingdom after a roughly two-month lull in fighting."
+      },
+      {
+        "title": "Huang says he&apos;d be &quot;honored&quot; to return to Nvidia as he agrees to testify to Congress",
+        "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+        "pubDate": "Tue, 17 Nov 2026 12:36:31 -0500",
+        "description": "The former Nvidia CEO&apos;s comments come as some in Silicon Valley have tried to argue that Huang was pushed out of the company too quickly amid a swirl of national security scandals."
+      },
+      {
+        "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+        "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+        "pubDate": "Tue, 17 Nov 2026 07:20:57 -0500",
+        "description": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang&apos;s return to Nvid"
+      },
+      {
+        "title": "Sen. Jack Reed says FAA needs a real plan, not just more money",
+        "link": "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding",
+        "pubDate": "Tue, 17 Nov 2026 06:58:42 -0500",
+        "description": "Sen. Jack Reed raised concerns about FAA oversight of contractors after last week&apos;s nationwide ground stop and criticized the Trump administration&apos;s request for $50 billion in additional fun"
+      },
+      {
+        "title": "Can Google win the AI race without killing its cash cow?",
+        "link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
+        "pubDate": "Tue, 17 Nov 2026 06:30:00 -0500",
+        "description": "In late October, Google had the worst stock day in its history as a public company.&lt;em&gt; The Planet Money &lt;/em&gt;newsletter asks: has Google been caught in &quot;the innovator&apos;s dilemma&"
+      },
+      {
+        "title": "I&apos;m a human doctor with human intelligence. But I sure do like my AI notetaker",
+        "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
+        "pubDate": "Tue, 17 Nov 2026 06:00:00 -0500",
+        "description": "&lt;em&gt;Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It&apos;s very popular, and here&apos;s how to think through the pros and the cons of the new"
+      },
       {
         "title": "Trump arrives in Philippines to kick off Asia trip",
         "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
@@ -113,46 +149,10 @@
         "description": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including coll"
       },
       {
-        "title": "Do school cellphone bans work? New study says yes – but it&apos;s complicated",
+        "title": "Does locking up a student&apos;s cell phone improve test scores? A new study suggests so",
         "link": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
         "pubDate": "Tue, 17 Nov 2026 05:00:00 -0500",
         "description": "A new study of school cellphone bans finds they may help students make up for some of the learning they&apos;ve lost since 2013 – a divergence from earlier study results."
-      },
-      {
-        "title": "Russia downs over 1,400 Ukrainian drones as Kyiv hits a key bridge in Crimea",
-        "link": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
-        "pubDate": "Tue, 17 Nov 2026 04:50:45 -0500",
-        "description": "Ukraine&apos;s forces targeted a key rail and road bridge between Russia and the Crimean Peninsula for a second day. Moscow&apos;s forces, meanwhile, fired ballistic missiles and drones at Kyiv."
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/11/17/nx-s1-6042259/morning-news-brief",
-        "pubDate": "Tue, 17 Nov 2026 04:46:54 -0500",
-        "description": "The FAA says it will rethink how it upgrades its aging system after nationwide ground stop, Trump to hold joint summit with leaders of China and Russia, Silicon Valley reacts to Nvidia scandal."
-      },
-      {
-        "title": "California sues OpenAI over hacking risks",
-        "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
-        "pubDate": "Mon, 16 Nov 2026 17:06:22 -0500",
-        "description": "The state&apos;s attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was &quot;entirely foreseeable&quot; due to OpenAI&apos;s poor security practices."
-      },
-      {
-        "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
-        "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
-        "pubDate": "Mon, 16 Nov 2026 13:49:26 -0500",
-        "description": "The new rule closes a loophole that existed that allowed Chinese companies to still access advanced AI chips remotely, despite U.S. restrictions on their physical sale to China."
-      },
-      {
-        "title": "U.N. talks seek to rein in &apos;killer robots&apos; as fears over AI weapons grow",
-        "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
-        "pubDate": "Mon, 16 Nov 2026 13:04:50 -0500",
-        "description": "Countries are meeting in Geneva to negotiate rules on weapons that can select and kill targets without human intervention. But with the U.S., Russia and Israel resisting legally binding controls, camp"
-      },
-      {
-        "title": "Nearly two million people are behind bars in the US. How did we get here?",
-        "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
-        "pubDate": "Mon, 16 Nov 2026 12:34:07 -0500",
-        "description": "Lynn Novick&apos;s new, four-part PBS documentary series, &lt;em&gt;Crime and Punishment in America&lt;/em&gt;, goes inside the U.S. prison system and explores how &lt;br&gt;our approach to criminals "
       }
     ],
     "Canada": []
