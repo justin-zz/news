@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-18T02:02:58.010Z",
+  "updated": "2026-11-18T10:28:21.086Z",
   "world": [
+    {
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 23:02:12 GMT",
+      "description": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips."
+    },
+    {
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 01:18:18 GMT",
+      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
+    },
+    {
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 04:57:06 GMT",
+      "description": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected."
+    },
+    {
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 10:23:57 GMT",
+      "description": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election."
+    },
     {
       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
@@ -8,21 +32,9 @@
       "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
     },
     {
-      "title": "How the attack on Crimean Bridge unfolded",
-      "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 15:38:10 GMT",
-      "description": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv."
-    },
-    {
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 01:18:18 GMT",
-      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
-    },
-    {
-      "title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
       "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 22:44:15 GMT",
+      "pubDate": "Wed, 18 Nov 2026 07:48:18 GMT",
       "description": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations."
     },
     {
@@ -32,16 +44,16 @@
       "description": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea."
     },
     {
-      "title": "Russian military plane crashes, killing all 19 on board",
-      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 21:06:11 GMT",
-      "description": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region."
-    },
-    {
       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
       "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 17 Nov 2026 20:30:20 GMT",
       "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked."
+    },
+    {
+      "title": "Ghana's new $60m presidential jet sparks public outrage",
+      "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 09:27:51 GMT",
+      "description": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living."
     },
     {
       "title": "US loses measles elimination status after 26 years amid record case numbers",
@@ -62,10 +74,10 @@
       "description": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony."
     },
     {
-      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-      "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 20:25:46 GMT",
-      "description": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\"."
+      "title": "Russian military plane crashes, killing all 19 on board",
+      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 21:06:11 GMT",
+      "description": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region."
     },
     {
       "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
@@ -78,81 +90,69 @@
       "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 17 Nov 2026 11:17:32 GMT",
       "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules."
-    },
-    {
-      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-      "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 17:37:04 GMT",
-      "description": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\"."
-    },
-    {
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 18:27:27 GMT",
-      "description": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy&apos;s 5th Fleet",
-        "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-        "pubDate": "Tue, 17 Nov 2026 13:34:31 -0500",
-        "description": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route."
+        "title": "How the East Potomac golf course became a D.C. landmark — and what could happen to it",
+        "link": "https://www.npr.org/2026/11/18/nx-s1-6042889/how-the-east-potomac-golf-course-became-a-d-c-landmark-and-what-could-happen-to-it",
+        "pubDate": "Wed, 18 Nov 2026 05:02:00 -0500",
+        "description": "A federal judge is keeping East Potomac Park open for now, but hasn&apos;t ordered the government to keep the municipal golf course operational."
       },
       {
-        "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
-        "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
-        "pubDate": "Tue, 17 Nov 2026 12:36:31 -0500",
-        "description": "The former Nvidia CEO said he would be &quot;honored&quot; to return if the board allowed. But the board says it has no intention of reinstating him."
+        "title": "OpenAI announces new AI safety program; researchers worry it won&apos;t be enough",
+        "link": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
+        "pubDate": "Wed, 18 Nov 2026 05:00:00 -0500",
+        "description": "OpenAI CEO Sam Altman said he would grant &quot;employee level&quot; access to outside researchers to evaluate AI safety. The pilot program appears much more restrictive."
       },
       {
-        "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-        "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
-        "pubDate": "Tue, 17 Nov 2026 07:20:57 -0500",
-        "description": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang&apos;s return to Nvid"
+        "title": "Iran-backed militias tortured him, but Iraqi environmentalist refuses to quit",
+        "link": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
+        "pubDate": "Wed, 18 Nov 2026 05:00:00 -0500",
+        "description": "Iran-backed militias kidnapped and tortured him, but Iraqi environmentalist is still on a mission to save marshes, and a way of life stretching back to the dawn of history."
       },
       {
-        "title": "Sen. Jack Reed says FAA needs a real plan, not just more money",
-        "link": "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding",
-        "pubDate": "Tue, 17 Nov 2026 06:58:42 -0500",
-        "description": "Sen. Jack Reed raised concerns about FAA oversight of contractors after last week&apos;s nationwide ground stop and criticized the Trump administration&apos;s request for $50 billion in additional fun"
+        "title": "Project Gryffindor: Meta&apos;s plan to get more school kids using Instagram",
+        "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
+        "pubDate": "Wed, 18 Nov 2026 05:00:00 -0500",
+        "description": "Meta said it launched its &quot;school partnership program&quot; to keep teens safe, but internal documents tell a different story."
       },
       {
-        "title": "Can Google win the AI race without killing its cash cow?",
-        "link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
-        "pubDate": "Tue, 17 Nov 2026 06:30:00 -0500",
-        "description": "In late October, Google had the worst stock day in its history as a public company.&lt;em&gt; The Planet Money &lt;/em&gt;newsletter asks: has Google been caught in &quot;the innovator&apos;s dilemma&"
+        "title": "China and the U.S. are still the biggest polluters, but only China is doing better",
+        "link": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
+        "pubDate": "Wed, 18 Nov 2026 05:00:00 -0500",
+        "description": "The two largest emitters of greenhouse gases are China and the United States. Now, the countries&apos; stories are diverging: many Chinese provinces are reducing coal use, while the U.S. is falling be"
       },
       {
-        "title": "I&apos;m a human doctor with human intelligence. But I sure do like my AI notetaker",
-        "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
-        "pubDate": "Tue, 17 Nov 2026 06:00:00 -0500",
-        "description": "&lt;em&gt;Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It&apos;s very popular, and here&apos;s how to think through the pros and the cons of the new"
+        "title": "She retired early to care for family. New work rules for food aid disrupted that",
+        "link": "https://www.npr.org/2026/11/18/nx-s1-5954231/snap-work-rules-retirees",
+        "pubDate": "Wed, 18 Nov 2026 05:00:00 -0500",
+        "description": "The Trump administration&apos;s sweeping changes to SNAP food aid mean older adults up to age 65 must work or volunteer to get the benefit."
       },
       {
-        "title": "Trump arrives in Philippines to kick off Asia trip",
-        "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
-        "pubDate": "Tue, 17 Nov 2026 05:43:55 -0500",
-        "description": "Manila is President Trump&apos;s first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir "
+        "title": "Special education teachers shared their stories. You told NPR you felt seen",
+        "link": "https://www.npr.org/2026/11/18/nx-s1-6031176/special-education-teachers-audience-response",
+        "pubDate": "Wed, 18 Nov 2026 05:00:00 -0500",
+        "description": "NPR is following along as about a dozen special education teachers navigate this school year and share their joys and challenges. Listeners say they&apos;re not alone."
       },
       {
-        "title": "More people are getting the flu. Should you get a flu shot before you travel?",
-        "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
-        "pubDate": "Tue, 17 Nov 2026 05:00:00 -0500",
-        "description": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that&apos;s upon us? Cold and flu season."
+        "title": "Morning news brief",
+        "link": "https://www.npr.org/2026/11/18/nx-s1-6042284/morning-news-brief",
+        "pubDate": "Wed, 18 Nov 2026 04:44:52 -0500",
+        "description": "President Trump is in China for a meeting with its leader and Russia&apos;s Putin, Nvidia holds first earning call since CEO&apos;s resignation, concerns grow after ongoing tech outages nationwide."
       },
       {
-        "title": "Does locking up a student&apos;s cell phone improve test scores? A new study suggests so",
-        "link": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
-        "pubDate": "Tue, 17 Nov 2026 05:00:00 -0500",
-        "description": "A new study of school cellphone bans finds they may help students make up for some of the learning they&apos;ve lost since 2013 – a divergence from earlier study results."
+        "title": "Rubio says there&apos;s &apos;zero&apos; information that U.S. outages are caused by a malign actor",
+        "link": "https://www.npr.org/2026/11/18/nx-s1-6045411/rubio-outages-malign-actor",
+        "pubDate": "Wed, 18 Nov 2026 03:27:50 -0500",
+        "description": "Secretary of State Marco Rubio sought to calm Americans as he traveled with President Trump and they prepared for key meetings with Chinese President Xi Jinping and Russian President Vladimir Putin."
       },
       {
-        "title": "She went to college to become a social worker. Now she&apos;s joined the skilled trades",
-        "link": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
-        "pubDate": "Tue, 17 Nov 2026 05:00:00 -0500",
-        "description": "While the rise of AI continues to fuel the debate over whether college is worth the cost, apprenticeships in the skilled trades are having a moment, drawing in people of all backgrounds including coll"
+        "title": "Mary Peltola flips Alaska&apos;s Senate seat into Democrats&apos; column",
+        "link": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
+        "pubDate": "Tue, 17 Nov 2026 22:27:23 -0500",
+        "description": "Former Democratic Rep. Mary Peltola has narrowly won Alaska&apos;s U.S. Senate race, toppling the Republican incumbent, according to a race call by The Associated Press."
       }
     ],
     "Canada": []
