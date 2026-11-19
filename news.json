@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-19T01:01:15.586Z",
+  "updated": "2026-11-19T09:05:10.365Z",
   "world": [
+    {
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 04:42:52 GMT",
+      "description": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump."
+    },
     {
       "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
       "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 18 Nov 2026 17:00:40 GMT",
       "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
-    },
-    {
-      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 17:00:04 GMT",
-      "description": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region."
     },
     {
       "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
@@ -20,10 +20,10 @@
       "description": "No state has ever been found guilty by an international court of committing genocide."
     },
     {
-      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "title": "Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut",
       "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 23:44:27 GMT",
-      "description": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence."
+      "pubDate": "Thu, 19 Nov 2026 02:20:15 GMT",
+      "description": "The company behind the Claude chatbot will become one of the most valuable firms in the world."
     },
     {
       "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
@@ -32,13 +32,25 @@
       "description": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life."
     },
     {
+      "title": "Crimean Bridge attacked again, Russia says",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 07:32:06 GMT",
+      "description": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory."
+    },
+    {
       "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
       "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 18 Nov 2026 22:34:56 GMT",
       "description": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation."
     },
     {
-      "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 02:59:06 GMT",
+      "description": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
+    },
+    {
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
       "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 18 Nov 2026 23:28:03 GMT",
       "description": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say."
@@ -78,27 +90,51 @@
       "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 18 Nov 2026 16:33:16 GMT",
       "description": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021."
-    },
-    {
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 10:23:57 GMT",
-      "description": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election."
-    },
-    {
-      "title": "Bancroft sandpaper claims heap pressure on Cummins",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 11:12:46 GMT",
-      "description": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins."
     }
   ],
   "regions": {
     "US": [
       {
+        "title": "Win a trip to go behind the news with NPR",
+        "link": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway",
+        "pubDate": "Thu, 19 Nov 2026 00:01:00 -0500",
+        "description": "Enter for a chance to go behind the scenes at HQ, meet our journalists face-to-face and experience public media like never before."
+      },
+      {
         "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
         "link": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
         "pubDate": "Wed, 18 Nov 2026 18:54:56 -0500",
         "description": "The five-year-old artificial intelligence powerhouse priced its initial public offering at $83 a share, shrugging off growing concern about a possible AI bubble and volatility in tech stocks."
+      },
+      {
+        "title": "The law releasing the Epstein files passed one year ago. What do his victims say?",
+        "link": "https://www.npr.org/2026/11/18/nx-s1-6041708/the-law-releasing-the-epstein-files-passed-one-year-ago-what-do-his-victims-say",
+        "pubDate": "Wed, 18 Nov 2026 17:27:43 -0500",
+        "description": "It&apos;s been a year since the House passed the Epstein Files Transparency Act, forcing the Justice Department to release millions of files connected to the convicted sex offender. His victims speak "
+      },
+      {
+        "title": "Why the Nvidia scandal is a national security issue",
+        "link": "https://www.npr.org/2026/11/18/nx-s1-6044275/why-the-nvidia-scandal-is-a-national-security-issue",
+        "pubDate": "Wed, 18 Nov 2026 17:12:56 -0500",
+        "description": "The Nvidia scandal has spilled over into the Trump administration, which is now under intense scrutiny for how it allowed America&apos;s top AI chips to end up in China&apos;s hands."
+      },
+      {
+        "title": "Democrats nominate Jeffries for speaker, prep investigations into Trump&apos;s orbit",
+        "link": "https://www.npr.org/2026/11/18/nx-s1-6043185/democrats-nominate-jeffries-for-speaker-prep-investigations-into-trumps-orbit",
+        "pubDate": "Wed, 18 Nov 2026 17:01:19 -0500",
+        "description": "Democrats gave the official nod to Hakeem Jeffries to be the next speaker of the House. Meanwhile, Democrats are ramping up their plans to investigate the Trump administration come January."
+      },
+      {
+        "title": "After Nepal&apos;s epic flood, they&apos;re restoring their community ... and their lives",
+        "link": "https://www.npr.org/2026/11/18/nx-s1-6022034/flood-nepal-survival-climate-change",
+        "pubDate": "Wed, 18 Nov 2026 17:01:17 -0500",
+        "description": "As the emergency response to the flood ends, aid workers turn to the hard work of rebuilding communities that lost everything. Many of those workers lost everything, too."
+      },
+      {
+        "title": "Democratic Black women take over almost all state agencies in Georgia soon",
+        "link": "https://www.npr.org/2026/11/18/nx-s1-6043103/democratic-black-women-take-over-almost-all-state-agencies-in-georgia-soon",
+        "pubDate": "Wed, 18 Nov 2026 16:51:33 -0500",
+        "description": "In January, most of Georgia&apos;s state agencies will be headed by Black women who were all elected in the 2026 midterms."
       },
       {
         "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
@@ -117,42 +153,6 @@
         "link": "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
         "pubDate": "Wed, 18 Nov 2026 12:10:44 -0500",
         "description": "Flying somewhere for Thanksgiving or the holidays? Travel insiders explain what to do if your flight gets canceled or delayed — so you can quickly get to your destination."
-      },
-      {
-        "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
-        "link": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
-        "pubDate": "Wed, 18 Nov 2026 10:56:30 -0500",
-        "description": "The New York Democrat moved a step closer to becoming the first Black lawmaker in U.S. history to serve in the job, after House Democrats voted overwhelmingly to support him."
-      },
-      {
-        "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
-        "link": "https://www.npr.org/2026/11/18/g-s1-154147/robert-garcia-house-democrats-investigations-trump-administration",
-        "pubDate": "Wed, 18 Nov 2026 10:01:32 -0500",
-        "description": "Among the recipients of letters from Robert Garcia, incoming chair of the House Oversight Committee, are Donald Trump Jr. and Eric Trump, Jared Kushner and White House Chief of Staff Stephen Miller."
-      },
-      {
-        "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
-        "link": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
-        "pubDate": "Wed, 18 Nov 2026 08:03:38 -0500",
-        "description": "After dismantling the United States Agency for International Development, the Trump administration is restarting foreign aid. In Zambia and Zimbabwe, there are different approaches but similar worries"
-      },
-      {
-        "title": "Mary Peltola flips Alaska&apos;s Senate seat. And, Nvidia won&apos;t reinstate Jensen Huang",
-        "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
-        "pubDate": "Wed, 18 Nov 2026 07:14:28 -0500",
-        "description": "Former Democratic Rep. Mary Peltola has won one of the U.S.&apos; most watched Senate races. And, Nvidia&apos;s board says it doesn&apos;t plan to reinstate former CEO Jensen Huang despite pressure fr"
-      },
-      {
-        "title": "Greetings from a Berlin square, where an artist&apos;s statue watches over children at play",
-        "link": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
-        "pubDate": "Wed, 18 Nov 2026 06:00:00 -0500",
-        "description": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I."
-      },
-      {
-        "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
-        "link": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
-        "pubDate": "Wed, 18 Nov 2026 06:00:00 -0500",
-        "description": "An inspired synthesis of violent satire and contemplative storytelling, &lt;em&gt;Grand Theft Auto VI &lt;/em&gt;is more mature and ambitious than any prior game in the record-breaking franchise."
       }
     ],
     "Canada": []
