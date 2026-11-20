@@ -1,29 +1,65 @@
 {
-  "updated": "2026-11-20T08:01:03.346Z",
+  "updated": "2026-11-20T17:05:24.646Z",
   "world": [
     {
-      "title": "UK and EU to agree youth mobility scheme, BBC understands",
-      "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 07:14:46 GMT",
-      "description": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table."
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 16:54:29 GMT",
+      "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
     },
     {
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 23:33:51 GMT",
-      "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry."
+      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 13:01:16 GMT",
+      "description": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine."
     },
     {
-      "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-      "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 00:13:21 GMT",
-      "description": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks."
+      "title": "Anthropic shares fall a day after blockbuster opening",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 16:27:47 GMT",
+      "description": "Other tech companies have also taken a hit as share markets broadly slump."
     },
     {
-      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 20:07:02 GMT",
-      "description": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands."
+      "title": "Nearly 600 women killed in South Africa within three months",
+      "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 15:55:16 GMT",
+      "description": "Police officials called for \"greater efforts to prevent... violence\" against women and children."
+    },
+    {
+      "title": "Texas death-row inmate screams as execution takes more than one hour",
+      "link": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 12:42:37 GMT",
+      "description": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug."
+    },
+    {
+      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "link": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 15:55:02 GMT",
+      "description": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US."
+    },
+    {
+      "title": "South Korea catches 111 students with new measures against exam cheating",
+      "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 10:16:19 GMT",
+      "description": "The students were caught with banned smart devices while taking the high-stakes Suneung exam."
+    },
+    {
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 13:28:32 GMT",
+      "description": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller."
+    },
+    {
+      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 00:08:22 GMT",
+      "description": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers."
+    },
+    {
+      "title": "Nigeria moves to end jail terms for attempted suicide",
+      "link": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 06:32:17 GMT",
+      "description": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill."
     },
     {
       "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
@@ -32,127 +68,91 @@
       "description": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
     },
     {
-      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 17:38:22 GMT",
-      "description": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion."
+      "title": "Cost of living protests sweep across Europe",
+      "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 16:45:34 GMT",
+      "description": "Thousands marched across European cities on Friday to protest against the cost of living and other issues."
     },
     {
-      "title": "California targets Nvidia in China AI chip probe",
-      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 23:04:30 GMT",
-      "description": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure."
+      "title": "What we know about the latest Russian missile strikes on Ukraine",
+      "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 15:14:01 GMT",
+      "description": "What we know about the latest Russian missile strikes on Ukraine."
     },
     {
-      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 23:40:29 GMT",
-      "description": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says."
+      "title": "From premature baby to social media star - Famed hippo Fiona dies",
+      "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 22:54:03 GMT",
+      "description": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo."
     },
     {
-      "title": "China issues Mount Fuji warning as family of missing climber offers reward",
-      "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 04:13:22 GMT",
-      "description": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts."
-    },
-    {
-      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-      "link": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 22:48:22 GMT",
-      "description": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist."
-    },
-    {
-      "title": "Trump posthumously pardons US baseball legend Pete Rose",
-      "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 23:51:50 GMT",
-      "description": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year."
-    },
-    {
-      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-      "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 15:52:26 GMT",
-      "description": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people."
-    },
-    {
-      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 13:07:35 GMT",
-      "description": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week."
-    },
-    {
-      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-      "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 00:49:19 GMT",
-      "description": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life."
-    },
-    {
-      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 13:31:23 GMT",
-      "description": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\"."
+      "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
+      "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 19 Nov 2026 17:23:29 GMT",
+      "description": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?"
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "Judges have put Trump&apos;s arch and golf course on hold, but only for a matter of days",
-        "link": "https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders",
-        "pubDate": "Thu, 19 Nov 2026 14:46:27 -0500",
-        "description": "A federal judge has twice delayed construction of Trump&apos;s arch. Another is keeping East Potomac Park open. The proposed golf course redesign got mixed feedback from a federal arts panel on Thursd"
+        "title": "How Orchestra Noir turned classical music into a cultural movement",
+        "link": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
+        "pubDate": "Fri, 20 Nov 2026 11:12:18 -0500",
+        "description": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be."
       },
       {
-        "title": "The &apos;Magic Six&apos;: How to strengthen your marriage in midlife",
-        "link": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
-        "pubDate": "Thu, 19 Nov 2026 13:28:23 -0500",
-        "description": "How do we maintain healthy romantic relationships as we age? Allison Aubrey and Scott Detrow talk about about the science of healthy, later-in-life relationships."
+        "title": "Trump to hold press conference after meeting with Xi and Putin",
+        "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+        "pubDate": "Fri, 20 Nov 2026 10:00:00 -0500",
+        "description": "Trump did not formally take questions while in China at the end of his trip, though it&apos;s typically expected on presidential foreign trips."
       },
       {
-        "title": "&apos;Bigger than Barack Obama&apos;s election&apos;: Scholars reflect on Mississippi Senate race",
-        "link": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
-        "pubDate": "Thu, 19 Nov 2026 12:03:11 -0500",
-        "description": "Scott Colom is now this Southern state&apos;s first Black U.S. senator in nearly 150 years. Scholars and Mississippi natives Eddie Glaude and Kiese Laymon discuss the historic significance of his vict"
+        "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
+        "link": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
+        "pubDate": "Fri, 20 Nov 2026 07:24:40 -0500",
+        "description": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year."
       },
       {
-        "title": "The midterms were the largest win for either party in 50 years",
-        "link": "https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority",
-        "pubDate": "Thu, 19 Nov 2026 10:55:05 -0500",
-        "description": "Some 56% of people cast votes for Democrats in House races, compared to 42% who voted Republican. That 14-point spread is the widest win for either party in 50 years, since after Watergate."
+        "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+        "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+        "pubDate": "Fri, 20 Nov 2026 07:04:57 -0500",
+        "description": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous."
       },
       {
-        "title": "The U.N.&apos;s top court rules Myanmar committed genocide against the Rohingya",
-        "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-        "pubDate": "Thu, 19 Nov 2026 07:29:41 -0500",
-        "description": "The International Court of Justice found that Myanmar security forces &quot;acted with genocidal intent&quot; against the Rohingya during military operations in the northern Rakhine state in 2017."
+        "title": "Just how vulnerable are we to cyberattacks?",
+        "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
+        "pubDate": "Fri, 20 Nov 2026 07:00:00 -0500",
+        "description": "In a week of outages, we&apos;re thinking about the rising threat of AI-powered cyberattacks. But sometimes, it&apos;s not the most sophisticated attack that&apos;s concerning, but the easy targets bu"
       },
       {
-        "title": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets",
-        "link": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
-        "pubDate": "Thu, 19 Nov 2026 07:26:31 -0500",
-        "description": "Yahoo for the loo! November 19 marks the 25th anniversary of World Toilet Day. The theme this year: &quot;Sanitation and Gender Equality: Safe Toilets, Equal Futures.&quot;"
+        "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+        "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
+        "pubDate": "Fri, 20 Nov 2026 06:37:35 -0500",
+        "description": "&quot;We&apos;re not going to shut down the war,&quot; Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal."
       },
       {
-        "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
-        "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
-        "pubDate": "Thu, 19 Nov 2026 07:26:01 -0500",
-        "description": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House."
+        "title": "Senate passes bipartisan energy bill amid environmental concerns",
+        "link": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
+        "pubDate": "Fri, 20 Nov 2026 06:00:28 -0500",
+        "description": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants."
       },
       {
-        "title": "Incoming House majority leader Katherine Clark stresses Democratic unity",
-        "link": "https://www.npr.org/2026/11/19/nx-s1-6045750/katherine-clark-hakeem-jeffries-house-democrats",
-        "pubDate": "Thu, 19 Nov 2026 06:20:42 -0500",
-        "description": "As Democrats prepare to take control of the House, incoming majority leader Katherine Clark discusses the party&apos;s ambitious agenda and divisions within its ranks."
+        "title": "How exactly did Trump get so rich on crypto? We explain",
+        "link": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
+        "pubDate": "Fri, 20 Nov 2026 05:00:00 -0500",
+        "description": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year."
       },
       {
-        "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
-        "link": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
-        "pubDate": "Thu, 19 Nov 2026 06:20:37 -0500",
-        "description": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump&apos;s summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal."
+        "title": "New York City unveils a bold plan to move its jails off Rikers Island",
+        "link": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+        "pubDate": "Fri, 20 Nov 2026 05:00:00 -0500",
+        "description": "New York City officials are moving forward with plans to close Rikers, the city&apos;s main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths."
       },
       {
-        "title": "Muslims will outnumber Christians worldwide by 2035, report says",
-        "link": "https://www.npr.org/2026/11/19/nx-s1-6043018/muslims-will-outnumber-christians-worldwide-by-2035-report-says",
-        "pubDate": "Thu, 19 Nov 2026 05:00:00 -0500",
-        "description": "By 2070, the Democratic Republic of the Congo will surpass the United States as the country with the largest total number of Christians."
+        "title": "Critics are calling what brand-new release a masterpiece? The quiz knows",
+        "link": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
+        "pubDate": "Fri, 20 Nov 2026 05:00:00 -0500",
+        "description": "Plus: Are you up to date on your James Bond news? If so, you&apos;ll get at least one question right."
       }
     ],
     "Canada": []
