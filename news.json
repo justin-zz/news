@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-20T17:05:24.646Z",
+  "updated": "2026-11-20T23:14:27.825Z",
   "world": [
+    {
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 17:49:48 GMT",
+      "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
+    },
+    {
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 21:57:07 GMT",
+      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
+    },
+    {
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 22:37:09 GMT",
+      "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+    },
+    {
+      "title": "Gérard Depardieu and French author investigated over sexual allegations",
+      "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 19:45:20 GMT",
+      "description": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\"."
+    },
     {
       "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
       "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&amp;at_campaign=rss",
@@ -14,10 +38,22 @@
       "description": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine."
     },
     {
-      "title": "Anthropic shares fall a day after blockbuster opening",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 20:54:12 GMT",
+      "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
+    },
+    {
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
       "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 16:27:47 GMT",
-      "description": "Other tech companies have also taken a hit as share markets broadly slump."
+      "pubDate": "Fri, 20 Nov 2026 22:42:47 GMT",
+      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
+    },
+    {
+      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 19:27:49 GMT",
+      "description": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February."
     },
     {
       "title": "Nearly 600 women killed in South Africa within three months",
@@ -46,54 +82,54 @@
     {
       "title": "White House removes cyber-security chief after series of tech outages",
       "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 13:28:32 GMT",
-      "description": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller."
+      "pubDate": "Fri, 20 Nov 2026 19:03:56 GMT",
+      "description": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports."
     },
     {
       "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
       "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 20 Nov 2026 00:08:22 GMT",
       "description": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers."
-    },
-    {
-      "title": "Nigeria moves to end jail terms for attempted suicide",
-      "link": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 06:32:17 GMT",
-      "description": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill."
-    },
-    {
-      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 00:50:24 GMT",
-      "description": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
-    },
-    {
-      "title": "Cost of living protests sweep across Europe",
-      "link": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 16:45:34 GMT",
-      "description": "Thousands marched across European cities on Friday to protest against the cost of living and other issues."
-    },
-    {
-      "title": "What we know about the latest Russian missile strikes on Ukraine",
-      "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 15:14:01 GMT",
-      "description": "What we know about the latest Russian missile strikes on Ukraine."
-    },
-    {
-      "title": "From premature baby to social media star - Famed hippo Fiona dies",
-      "link": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 22:54:03 GMT",
-      "description": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo."
-    },
-    {
-      "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
-      "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 19 Nov 2026 17:23:29 GMT",
-      "description": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?"
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "S&amp;P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+        "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+        "pubDate": "Fri, 20 Nov 2026 17:11:29 -0500",
+        "description": "AI stocks have hefty market values and have a much bigger impact on the market&apos;s direction. They were responsible for Wall Street&apos;s big gains this year and are now behind the big slide for t"
+      },
+      {
+        "title": "The latest from Trump&apos;s press conference",
+        "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+        "pubDate": "Fri, 20 Nov 2026 16:38:21 -0500",
+        "description": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin."
+      },
+      {
+        "title": "Rising seas have forced this Quinault village to relocate",
+        "link": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
+        "pubDate": "Fri, 20 Nov 2026 16:38:13 -0500",
+        "description": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis"
+      },
+      {
+        "title": "Trump&apos;s impact on an Ohio steel plant",
+        "link": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+        "pubDate": "Fri, 20 Nov 2026 16:38:11 -0500",
+        "description": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that pl"
+      },
+      {
+        "title": "A second judge blocks Trump&apos;s arch, saying it&apos;s unlikely to succeed in court",
+        "link": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+        "pubDate": "Fri, 20 Nov 2026 13:25:09 -0500",
+        "description": "A federal judge in Virginia said she will issue a preliminary injunction against Trump&apos;s arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this w"
+      },
+      {
+        "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+        "link": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+        "pubDate": "Fri, 20 Nov 2026 12:00:00 -0500",
+        "description": "Less than half of Republicans nationwide considered the midterm elections &quot;free and fair,&quot; according to new polling."
+      },
       {
         "title": "How Orchestra Noir turned classical music into a cultural movement",
         "link": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
@@ -101,10 +137,10 @@
         "description": "Orchestra Noir is back on tour, selling out stages across the country and proving classical music can be anything you want it to be."
       },
       {
-        "title": "Trump to hold press conference after meeting with Xi and Putin",
+        "title": "Trump touts meeting with Xi and Putin but offers little results",
         "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
         "pubDate": "Fri, 20 Nov 2026 10:00:00 -0500",
-        "description": "Trump did not formally take questions while in China at the end of his trip, though it&apos;s typically expected on presidential foreign trips."
+        "description": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues."
       },
       {
         "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
@@ -117,42 +153,6 @@
         "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
         "pubDate": "Fri, 20 Nov 2026 07:04:57 -0500",
         "description": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous."
-      },
-      {
-        "title": "Just how vulnerable are we to cyberattacks?",
-        "link": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
-        "pubDate": "Fri, 20 Nov 2026 07:00:00 -0500",
-        "description": "In a week of outages, we&apos;re thinking about the rising threat of AI-powered cyberattacks. But sometimes, it&apos;s not the most sophisticated attack that&apos;s concerning, but the easy targets bu"
-      },
-      {
-        "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
-        "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
-        "pubDate": "Fri, 20 Nov 2026 06:37:35 -0500",
-        "description": "&quot;We&apos;re not going to shut down the war,&quot; Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal."
-      },
-      {
-        "title": "Senate passes bipartisan energy bill amid environmental concerns",
-        "link": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
-        "pubDate": "Fri, 20 Nov 2026 06:00:28 -0500",
-        "description": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants."
-      },
-      {
-        "title": "How exactly did Trump get so rich on crypto? We explain",
-        "link": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
-        "pubDate": "Fri, 20 Nov 2026 05:00:00 -0500",
-        "description": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year."
-      },
-      {
-        "title": "New York City unveils a bold plan to move its jails off Rikers Island",
-        "link": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
-        "pubDate": "Fri, 20 Nov 2026 05:00:00 -0500",
-        "description": "New York City officials are moving forward with plans to close Rikers, the city&apos;s main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths."
-      },
-      {
-        "title": "Critics are calling what brand-new release a masterpiece? The quiz knows",
-        "link": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
-        "pubDate": "Fri, 20 Nov 2026 05:00:00 -0500",
-        "description": "Plus: Are you up to date on your James Bond news? If so, you&apos;ll get at least one question right."
       }
     ],
     "Canada": []
