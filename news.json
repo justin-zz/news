@@ -1,11 +1,17 @@
 {
-  "updated": "2026-11-21T12:52:54.309Z",
+  "updated": "2026-11-21T19:54:33.716Z",
   "world": [
     {
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 12:52:00 GMT",
+      "pubDate": "Sat, 21 Nov 2026 13:17:38 GMT",
       "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
+    },
+    {
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 21 Nov 2026 19:20:22 GMT",
+      "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
     },
     {
       "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
@@ -16,20 +22,32 @@
     {
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 09:52:11 GMT",
+      "pubDate": "Sat, 21 Nov 2026 19:33:49 GMT",
       "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
     },
     {
       "title": "FBI reportedly investigating apparent hack of its criminal database",
       "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 09:34:20 GMT",
+      "pubDate": "Sat, 21 Nov 2026 16:35:15 GMT",
       "description": "The National Crime Information Center database is used by federal and local law enforcement to share information."
+    },
+    {
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 21 Nov 2026 13:15:21 GMT",
+      "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
     },
     {
       "title": "French police officers sentenced for beating of music producer Michel Zecler",
       "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 20 Nov 2026 22:37:09 GMT",
       "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+    },
+    {
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 21 Nov 2026 10:26:36 GMT",
+      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
     },
     {
       "title": "Man convicted of starting Palisades fire in Los Angeles",
@@ -68,32 +86,44 @@
       "description": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\"."
     },
     {
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 10:26:36 GMT",
-      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
-    },
-    {
       "title": "Trump threatens ban on US firms building AI data centres overseas",
       "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 20 Nov 2026 20:54:12 GMT",
       "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
-    },
-    {
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-      "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 19:27:49 GMT",
-      "description": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February."
-    },
-    {
-      "title": "US declassifies more UFO footage filmed in the Middle East",
-      "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 23:15:20 GMT",
-      "description": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Storms expected on both coasts threatens Thanksgiving travel",
+        "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+        "pubDate": "Sat, 21 Nov 2026 13:22:46 -0500",
+        "description": "The mayor of San Francisco is asking people in the city not to travel unless &quot;absolutely essential.&quot; Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of"
+      },
+      {
+        "title": "Mexico detains top cartel boss &apos;El Chapo Isidro,&apos; setting off violence",
+        "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+        "pubDate": "Sat, 21 Nov 2026 13:08:55 -0500",
+        "description": "Fausto Isidro Meza Flores, better known as &quot;El Chapo Isidro,&quot; was one of the FBI&apos;s most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region."
+      },
+      {
+        "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+        "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+        "pubDate": "Sat, 21 Nov 2026 09:18:17 -0500",
+        "description": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy."
+      },
+      {
+        "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+        "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+        "pubDate": "Sat, 21 Nov 2026 08:58:33 -0500",
+        "description": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been &quot;mad at everything&quot; in the days leading up to the January 2025 fire, which killed 12 people."
+      },
+      {
+        "title": "Perspective: Defining &apos;human&apos;",
+        "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
+        "pubDate": "Sat, 21 Nov 2026 08:00:00 -0500",
+        "description": "The Cambridge Dictionary has chosen the word &quot;human&quot; as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored?"
+      },
       {
         "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
         "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
@@ -123,36 +153,6 @@
         "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
         "pubDate": "Sat, 21 Nov 2026 05:00:00 -0500",
         "description": "A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon."
-      },
-      {
-        "title": "The AI boom had a really bad week — and it&apos;s raising loud alarms",
-        "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
-        "pubDate": "Sat, 21 Nov 2026 05:00:00 -0500",
-        "description": "AI stocks — and the broader markets — got pummeled this week, raising major concerns about the financial system and the wider economy. Here&apos;s what to know."
-      },
-      {
-        "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-        "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-        "pubDate": "Sat, 21 Nov 2026 03:08:01 -0500",
-        "description": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years."
-      },
-      {
-        "title": "S&amp;P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
-        "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
-        "pubDate": "Fri, 20 Nov 2026 17:11:29 -0500",
-        "description": "AI stocks have hefty market values and have a much bigger impact on the market&apos;s direction. They were responsible for Wall Street&apos;s big gains this year and are now behind the big slide for t"
-      },
-      {
-        "title": "The latest from Trump&apos;s press conference",
-        "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
-        "pubDate": "Fri, 20 Nov 2026 16:38:21 -0500",
-        "description": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin."
-      },
-      {
-        "title": "Rising seas have forced this Quinault village to relocate",
-        "link": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
-        "pubDate": "Fri, 20 Nov 2026 16:38:13 -0500",
-        "description": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis"
       }
     ],
     "Canada": []
