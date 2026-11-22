@@ -1,22 +1,16 @@
 {
-  "updated": "2026-11-22T07:13:15.229Z",
+  "updated": "2026-11-22T15:30:51.704Z",
   "world": [
     {
-      "title": "New draft deal aims to avert collapse of talks at climate summit",
-      "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 22 Nov 2026 06:54:06 GMT",
-      "description": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement."
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 09:20:45 GMT",
+      "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos."
     },
     {
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 13:17:38 GMT",
-      "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
-    },
-    {
-      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
       "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 19:20:22 GMT",
+      "pubDate": "Sun, 22 Nov 2026 11:25:14 GMT",
       "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
     },
     {
@@ -26,28 +20,34 @@
       "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
     },
     {
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 14:05:20 GMT",
+      "description": "At least three people were killed and many more feared dead after a fire at a confectionary factory."
+    },
+    {
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 22 Nov 2026 07:12:41 GMT",
+      "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\"."
+    },
+    {
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 21 Nov 2026 13:17:38 GMT",
+      "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
+    },
+    {
       "title": "FBI reportedly investigating apparent hack of its criminal database",
       "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sun, 22 Nov 2026 00:10:44 GMT",
       "description": "The National Crime Information Center database is used by federal and local law enforcement to share information."
     },
     {
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 10:26:36 GMT",
-      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
-    },
-    {
       "title": "Man convicted of starting Palisades fire in Los Angeles",
       "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 21 Nov 2026 04:34:00 GMT",
       "description": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
-    },
-    {
-      "title": "Dozens missing after fire at Indonesian factory",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 22 Nov 2026 06:05:00 GMT",
-      "description": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend."
     },
     {
       "title": "Lock of former US President George Washington's hair sells for $4,000",
@@ -60,6 +60,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 21 Nov 2026 09:40:55 GMT",
       "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain."
+    },
+    {
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 21 Nov 2026 10:26:36 GMT",
+      "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
     },
     {
       "title": "French police officers sentenced for beating of music producer Michel Zecler",
@@ -84,16 +90,28 @@
       "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 21 Nov 2026 00:01:39 GMT",
       "description": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates."
-    },
-    {
-      "title": "Trafalgar Square Christmas tree felled in Norway",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 08:10:03 GMT",
-      "description": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "It&apos;s Medicare open enrollment time. Here&apos;s what you need to know",
+        "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+        "pubDate": "Sun, 22 Nov 2026 08:11:04 -0500",
+        "description": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot."
+      },
+      {
+        "title": "NPR&apos;s Senior Podcast Challenge: Early entries we love",
+        "link": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+        "pubDate": "Sun, 22 Nov 2026 05:00:00 -0500",
+        "description": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on &lt;em&gt;Weekend Edition&lt;/em&gt;. There&apos;s still time to en"
+      },
+      {
+        "title": "He expected a small-business loan. He got a 7-year nightmare",
+        "link": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+        "pubDate": "Sun, 22 Nov 2026 05:00:00 -0500",
+        "description": "America&apos;s fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost."
+      },
       {
         "title": "Trump orders federal contractors to check with White House before responding to Congress",
         "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
@@ -119,7 +137,7 @@
         "description": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.&lt;br&gt;&lt;br&gt;"
       },
       {
-        "title": "Storms expected on both coasts threatens Thanksgiving travel",
+        "title": "Storms expected on both coasts threaten Thanksgiving travel",
         "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
         "pubDate": "Sat, 21 Nov 2026 13:22:46 -0500",
         "description": "The mayor of San Francisco is asking people in the city not to travel unless &quot;absolutely essential.&quot; Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of"
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
         "pubDate": "Sat, 21 Nov 2026 09:18:17 -0500",
         "description": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy."
-      },
-      {
-        "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-        "link": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-        "pubDate": "Sat, 21 Nov 2026 08:58:33 -0500",
-        "description": "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been &quot;mad at everything&quot; in the days leading up to the January 2025 fire, which killed 12 people."
-      },
-      {
-        "title": "Perspective: Defining &apos;human&apos;",
-        "link": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
-        "pubDate": "Sat, 21 Nov 2026 08:00:00 -0500",
-        "description": "The Cambridge Dictionary has chosen the word &quot;human&quot; as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored?"
-      },
-      {
-        "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
-        "link": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
-        "pubDate": "Sat, 21 Nov 2026 07:40:17 -0500",
-        "description": "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it&apos;s splitting environmentalists over other provisions that help the oil and gas industry"
       }
     ],
     "Canada": []
