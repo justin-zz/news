@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:54:33.716Z",
+  "updated": "2026-11-22T00:03:32.481Z",
   "world": [
     {
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
@@ -14,34 +14,22 @@
       "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
     },
     {
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 22:42:47 GMT",
-      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
-    },
-    {
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 19:33:49 GMT",
+      "pubDate": "Sat, 21 Nov 2026 22:19:43 GMT",
       "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
+    },
+    {
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 21 Nov 2026 23:31:17 GMT",
+      "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
     },
     {
       "title": "FBI reportedly investigating apparent hack of its criminal database",
       "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 21 Nov 2026 16:35:15 GMT",
       "description": "The National Crime Information Center database is used by federal and local law enforcement to share information."
-    },
-    {
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 21 Nov 2026 13:15:21 GMT",
-      "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
-    },
-    {
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 22:37:09 GMT",
-      "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
     },
     {
       "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
@@ -56,10 +44,28 @@
       "description": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
     },
     {
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 21 Nov 2026 22:01:19 GMT",
+      "description": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner."
+    },
+    {
       "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
       "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 21 Nov 2026 09:40:55 GMT",
       "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain."
+    },
+    {
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 22:37:09 GMT",
+      "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+    },
+    {
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 20 Nov 2026 22:42:47 GMT",
+      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
     },
     {
       "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
@@ -84,16 +90,22 @@
       "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 21 Nov 2026 08:10:25 GMT",
       "description": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\"."
-    },
-    {
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 20 Nov 2026 20:54:12 GMT",
-      "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "Trump orders federal contractors to check with White House before responding to Congress",
+        "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+        "pubDate": "Sat, 21 Nov 2026 17:40:36 -0500",
+        "description": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged."
+      },
+      {
+        "title": "Bayer reaches Roundup settlement that could cost the company billions",
+        "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+        "pubDate": "Sat, 21 Nov 2026 15:37:35 -0500",
+        "description": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.&lt;br&gt;&lt;br&gt;"
+      },
       {
         "title": "Storms expected on both coasts threatens Thanksgiving travel",
         "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
         "pubDate": "Sat, 21 Nov 2026 05:01:00 -0500",
         "description": "Don&apos;t let your work troubles follow you home. Psychologist Guy Winch shares techniques to help you stop ruminating about your nine-to-five, so you can focus on what really matters."
-      },
-      {
-        "title": "Anthropic says it will put humanity first. Will its IPO change that?",
-        "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
-        "pubDate": "Sat, 21 Nov 2026 05:00:00 -0500",
-        "description": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested."
-      },
-      {
-        "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
-        "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
-        "pubDate": "Sat, 21 Nov 2026 05:00:00 -0500",
-        "description": "A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon."
       }
     ],
     "Canada": []
