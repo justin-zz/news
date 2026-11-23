@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-22T21:28:59.452Z",
+  "updated": "2026-11-23T01:55:24.167Z",
   "world": [
     {
       "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
       "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 22 Nov 2026 18:17:59 GMT",
-      "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels."
+      "pubDate": "Mon, 23 Nov 2026 00:50:35 GMT",
+      "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels"
     },
     {
       "title": "What's next after no deal at COP31 climate talks?",
@@ -22,7 +22,7 @@
     {
       "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
       "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 22 Nov 2026 17:57:43 GMT",
+      "pubDate": "Sun, 22 Nov 2026 22:37:43 GMT",
       "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
     },
     {
@@ -46,7 +46,7 @@
     {
       "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
       "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 22 Nov 2026 20:26:24 GMT",
+      "pubDate": "Mon, 23 Nov 2026 01:23:43 GMT",
       "description": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats."
     },
     {
@@ -70,7 +70,7 @@
     {
       "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
       "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sun, 22 Nov 2026 07:12:41 GMT",
+      "pubDate": "Mon, 23 Nov 2026 00:33:36 GMT",
       "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\"."
     },
     {
@@ -94,6 +94,18 @@
   ],
   "regions": {
     "US": [
+      {
+        "title": "What it&apos;s like at a climate conference as talks collapse",
+        "link": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+        "pubDate": "Sun, 22 Nov 2026 17:40:23 -0500",
+        "description": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR&apos;s Rachel Waldholz was in Turkey for the conference."
+      },
+      {
+        "title": "Philly festival-goers say pickles are a real big dill",
+        "link": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+        "pubDate": "Sun, 22 Nov 2026 17:40:19 -0500",
+        "description": "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the &quot;The Big Dill&quot; festival in Philadelphia."
+      },
       {
         "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
         "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
@@ -141,18 +153,6 @@
         "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
         "pubDate": "Sat, 21 Nov 2026 17:01:40 -0500",
         "description": "More than 550 Google employees signed a petition to allow schools access to Search without AI. Parents and educators protested outside Google offices in 6 cities last week for the same ask."
-      },
-      {
-        "title": "Highlights and challenges from covering an historic month in South America",
-        "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
-        "pubDate": "Sat, 21 Nov 2026 17:01:35 -0500",
-        "description": "NPR&apos;s South America Correspondent discusses her work covering an historic election upset and a papal visit."
-      },
-      {
-        "title": "Bayer reaches Roundup settlement that could cost the company billions",
-        "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
-        "pubDate": "Sat, 21 Nov 2026 15:37:35 -0500",
-        "description": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.&lt;br&gt;&lt;br&gt;"
       }
     ],
     "Canada": []
