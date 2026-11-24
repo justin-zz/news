@@ -1,35 +1,53 @@
 {
-  "updated": "2026-11-24T06:14:16.509Z",
+  "updated": "2026-11-24T18:03:29.494Z",
   "world": [
     {
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 04:36:31 GMT",
-      "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value."
+      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 17:04:20 GMT",
+      "description": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading."
     },
     {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 23:16:08 GMT",
-      "description": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public."
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 07:26:27 GMT",
+      "description": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing."
     },
     {
       "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
       "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 02:15:59 GMT",
+      "pubDate": "Tue, 24 Nov 2026 10:58:51 GMT",
       "description": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks."
     },
     {
-      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 05:33:07 GMT",
-      "description": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\"."
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 15:17:28 GMT",
+      "description": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show."
     },
     {
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 20:48:35 GMT",
-      "description": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner."
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 18:02:27 GMT",
+      "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged."
+    },
+    {
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 15:35:53 GMT",
+      "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday."
+    },
+    {
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "link": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 16:49:07 GMT",
+      "description": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year."
+    },
+    {
+      "title": "Pope Francis' diary reveals claims he saw the devil three times",
+      "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 11:10:57 GMT",
+      "description": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass."
     },
     {
       "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
@@ -38,10 +56,28 @@
       "description": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\"."
     },
     {
-      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-      "link": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 17:07:25 GMT",
-      "description": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions."
+      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 17:04:00 GMT",
+      "description": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine."
+    },
+    {
+      "title": "Car bomb tears through Colombian city wounding more than 20",
+      "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 11:45:52 GMT",
+      "description": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices."
+    },
+    {
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 16:31:26 GMT",
+      "description": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane."
+    },
+    {
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 12:45:43 GMT",
+      "description": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years."
     },
     {
       "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
@@ -50,109 +86,73 @@
       "description": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom."
     },
     {
-      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
-      "link": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 00:23:25 GMT",
-      "description": "The promoter and broadcaster helped define the music tastes of Australians for decades."
-    },
-    {
-      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-      "link": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 17:14:50 GMT",
-      "description": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks."
-    },
-    {
-      "title": "What failure of COP31 reveals about a divided world",
-      "link": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 17:24:25 GMT",
-      "description": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks."
-    },
-    {
-      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 21:03:34 GMT",
-      "description": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide."
-    },
-    {
-      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
-      "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 01:21:41 GMT",
-      "description": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal."
-    },
-    {
-      "title": "Outrage after ICE arrest father and daughter at Seattle airport",
-      "link": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 22:59:07 GMT",
-      "description": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday."
-    },
-    {
-      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
-      "link": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 23 Nov 2026 18:49:19 GMT",
-      "description": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin."
+      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+      "link": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 24 Nov 2026 06:23:01 GMT",
+      "description": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date."
     }
   ],
   "regions": {
     "US": [
       {
-        "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
-        "link": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
-        "pubDate": "Mon, 23 Nov 2026 17:29:53 -0500",
-        "description": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez&apos;s actions violated House rules by &quot;making unwelcome sexual advances.&quot;"
+        "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
+        "link": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+        "pubDate": "Tue, 24 Nov 2026 09:24:04 -0500",
+        "description": "Albania&apos;s Prime Minister Edi Rama has vowed that Kushner&apos;s resort project will go ahead as planned. But an ongoing investigation by Albania&apos;s state prosecutor into forged land titles co"
       },
       {
-        "title": "They attended Trump&apos;s controversial meme coin dinner. It didn&apos;t go well",
-        "link": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
-        "pubDate": "Mon, 23 Nov 2026 17:17:59 -0500",
-        "description": "Trump held another meme coin dinner for top holders of his cryptocurrency — an event that has raised intense controversy. Here&apos;s an inside account from two guests who attended."
+        "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+        "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+        "pubDate": "Tue, 24 Nov 2026 07:12:25 -0500",
+        "description": "President Trump took credit for negotiating Jensen Huang&apos;s return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1."
       },
       {
-        "title": "Some women in tech have concerns about Huang&apos;s return",
-        "link": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
-        "pubDate": "Mon, 23 Nov 2026 17:03:57 -0500",
-        "description": "Women who have advocated for DEI in tech say Jensen Huang&apos;s return to NVIDIA as CEO sends a message that in Silicon Valley, all that matters is money.\n\ns"
+        "title": "What should it cost to insure a home in wildfire country?",
+        "link": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
+        "pubDate": "Tue, 24 Nov 2026 06:30:00 -0500",
+        "description": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?"
       },
       {
-        "title": "Mending relationships over the holidays? Considering a truce? NPR wants to know",
-        "link": "https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute",
-        "pubDate": "Mon, 23 Nov 2026 15:53:12 -0500",
-        "description": "Has a political or social issue broken down a relationship that was important to you? Can it be repaired? Tell us what&apos;s going on. You might be asked to participate in a possible upcoming segment"
+        "title": "Doctors struggle to save babies after parents refuse vitamin K",
+        "link": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
+        "pubDate": "Tue, 24 Nov 2026 05:00:00 -0500",
+        "description": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder."
       },
       {
-        "title": "&apos;Medicare for all&apos; is back on the drawing board. Does it stand a better chance this time?",
-        "link": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
-        "pubDate": "Mon, 23 Nov 2026 11:00:49 -0500",
-        "description": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?"
+        "title": "They attended Trump&apos;s meme coin dinner.  It didn&apos;t go well",
+        "link": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
+        "pubDate": "Tue, 24 Nov 2026 05:00:00 -0500",
+        "description": "Trump&apos;s meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access."
       },
       {
-        "title": "Trump claims credit as Jensen Huang returns to Nvidia",
-        "link": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
-        "pubDate": "Mon, 23 Nov 2026 09:53:41 -0500",
-        "description": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Huang&apos;s return as a national security ris"
+        "title": "Black travelers on Route 66 weren&apos;t welcome at most gas stations — except this one",
+        "link": "https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66",
+        "pubDate": "Tue, 24 Nov 2026 05:00:00 -0500",
+        "description": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66. At a time when Black families needed the Green Book to find places to stay, eat, use the bathroom, it provi"
       },
       {
-        "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-        "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
-        "pubDate": "Mon, 23 Nov 2026 07:42:03 -0500",
-        "description": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit&apos;s hist"
+        "title": "For workplace culture champions, Jensen Huang&apos;s return is &apos;unfathomable&apos;",
+        "link": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
+        "pubDate": "Tue, 24 Nov 2026 05:00:00 -0500",
+        "description": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang&apos;s reinstatement as Nvidia&apos;s CEO sends a message that all that matters is money."
       },
       {
-        "title": "Zelenskyy hails Ukraine&apos;s attack on a Russian warship docked at a naval base in Libya",
-        "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
-        "pubDate": "Mon, 23 Nov 2026 05:16:33 -0500",
-        "description": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault."
+        "title": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
+        "link": "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation",
+        "pubDate": "Tue, 24 Nov 2026 05:00:00 -0500",
+        "description": "Investigators say companies with ties to Donald Trump Jr&apos;s investment firm, 1789 Capital, have profited since his father&apos;s reelection."
       },
       {
-        "title": "Mushroom supplements promise health benefits. What does the science say?",
-        "link": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
-        "pubDate": "Mon, 23 Nov 2026 05:00:00 -0500",
-        "description": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links."
+        "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
+        "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
+        "pubDate": "Tue, 24 Nov 2026 05:00:00 -0500",
+        "description": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them."
       },
       {
-        "title": "K is for kindness, but families worry the world has less of it",
-        "link": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
-        "pubDate": "Mon, 23 Nov 2026 05:00:00 -0500",
-        "description": "A decade after first asking families about kindness, Sesame Workshop asked parents similar questions. They responded that their kids are getting kinder even as the wider world becomes less so."
+        "title": "Meet Colombia&apos;s fuzzy &apos;water guardians&apos;",
+        "link": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
+        "pubDate": "Tue, 24 Nov 2026 05:00:00 -0500",
+        "description": "High in the Colombian Andes, a growing number of volunteers are racing to save an unusual plant that helps supply water to millions — one tiny seedling at a time."
       }
     ],
     "Canada": []
