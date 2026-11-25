@@ -1,47 +1,83 @@
 {
-  "updated": "2026-11-25T12:02:57.169Z",
+  "updated": "2026-11-25T21:53:12.079Z",
   "world": [
     {
-      "title": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
-      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 25 Nov 2026 00:56:51 GMT",
-      "description": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia."
+      "title": "US announces new tariffs on host of countries including China",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 16:21:34 GMT",
+      "description": "The new levies would hit many of America's biggest trading partners, including China and the EU."
     },
     {
-      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 17:30:16 GMT",
+      "description": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago"
+    },
+    {
+      "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 21:25:14 GMT",
+      "description": "Another 19 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital."
+    },
+    {
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 19:47:39 GMT",
+      "description": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases."
+    },
+    {
+      "title": "US stocks fall further as fears over AI intensify",
+      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 21:43:18 GMT",
+      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%."
+    },
+    {
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 19:54:52 GMT",
+      "description": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising."
+    },
+    {
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 21:51:17 GMT",
+      "description": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing."
+    },
+    {
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
       "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 25 Nov 2026 00:54:13 GMT",
       "description": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war."
     },
     {
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 25 Nov 2026 03:44:07 GMT",
-      "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 12:21:49 GMT",
+      "description": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia."
     },
     {
-      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 25 Nov 2026 06:00:36 GMT",
-      "description": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft."
+      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+      "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 14:06:13 GMT",
+      "description": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say."
     },
     {
-      "title": "Thomas Markle charged in US for possessing child sex abuse images",
-      "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 25 Nov 2026 01:40:42 GMT",
-      "description": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material."
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 14:46:41 GMT",
+      "description": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine."
     },
     {
-      "title": "US preparing to unveil plan for new tariffs on global trading partners",
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 25 Nov 2026 00:38:01 GMT",
-      "description": "The new levies would hit many of America's biggest trading partners, including China and the EU."
+      "title": "Protesters call on Israel to free Palestinian student held without charge",
+      "link": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 10:03:42 GMT",
+      "description": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge."
     },
     {
-      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+      "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
       "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 25 Nov 2026 11:45:16 GMT",
-      "description": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal."
+      "pubDate": "Wed, 25 Nov 2026 18:41:33 GMT",
+      "description": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong."
     },
     {
       "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
@@ -50,50 +86,50 @@
       "description": "The verdict follows a months-long trial in New York."
     },
     {
-      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
-      "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 25 Nov 2026 09:06:02 GMT",
-      "description": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm."
-    },
-    {
-      "title": "Two children among six dead after plane crash off Mississippi coast",
-      "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 25 Nov 2026 07:08:22 GMT",
-      "description": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said."
-    },
-    {
-      "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
-      "link": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 25 Nov 2026 07:26:54 GMT",
-      "description": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past."
-    },
-    {
-      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 25 Nov 2026 03:15:12 GMT",
-      "description": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty."
-    },
-    {
-      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-      "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 25 Nov 2026 11:29:40 GMT",
-      "description": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda."
-    },
-    {
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 15:35:53 GMT",
-      "description": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday."
-    },
-    {
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 24 Nov 2026 18:07:46 GMT",
-      "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged."
+      "title": "Canadian astronaut welcomes baby girl  from space station",
+      "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 25 Nov 2026 15:41:39 GMT",
+      "description": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station."
     }
   ],
   "regions": {
     "US": [
+      {
+        "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+        "link": "https://www.npr.org/2026/11/25/nx-s1-6005522/at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-community-connection",
+        "pubDate": "Wed, 25 Nov 2026 16:02:58 -0500",
+        "description": "Little Free Bakeries are popping up across the country. While they each operate a bit differently, the goal is the same: offering their neighbors a sweet treat to encourage conversation with a side of"
+      },
+      {
+        "title": "Group of Senate Democrats push to add freshman to leadership",
+        "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
+        "pubDate": "Wed, 25 Nov 2026 12:30:47 -0500",
+        "description": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November."
+      },
+      {
+        "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+        "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+        "pubDate": "Wed, 25 Nov 2026 09:14:34 -0500",
+        "description": "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation."
+      },
+      {
+        "title": "What to know before using AI agents for Black Friday shopping",
+        "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+        "pubDate": "Wed, 25 Nov 2026 08:51:56 -0500",
+        "description": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation"
+      },
+      {
+        "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+        "link": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+        "pubDate": "Wed, 25 Nov 2026 07:18:09 -0500",
+        "description": "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia&apos;s has voluntarily left the U"
+      },
+      {
+        "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+        "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+        "pubDate": "Wed, 25 Nov 2026 06:50:05 -0500",
+        "description": "&quot;The public is rightly concerned,&quot; says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned."
+      },
       {
         "title": "Greetings from Mount Kilimanjaro, Africa&apos;s highest point in all its splendor",
         "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
@@ -117,42 +153,6 @@
         "link": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
         "pubDate": "Wed, 25 Nov 2026 05:00:00 -0500",
         "description": "Steep discounts for &quot;Green Wednesday,&quot; one of the highest-selling days for cannabis, help customers keep costs down. But experts say retailers are feeling the pinch."
-      },
-      {
-        "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
-        "link": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-        "pubDate": "Wed, 25 Nov 2026 04:44:13 -0500",
-        "description": "The Politburo member is the latest senior official targeted in President Xi Jinping&apos;s long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth."
-      },
-      {
-        "title": "Kilmar Abrego Garcia leaves U.S. voluntarily for Spain",
-        "link": "https://www.npr.org/2026/11/25/nx-s1-6053203/abrego-garcia-leaves-us",
-        "pubDate": "Wed, 25 Nov 2026 04:19:50 -0500",
-        "description": "Abrego Garcia, a Salvadoran immigrant who became a symbol of Trump&apos;s mass deportation campaign, voluntarily left the country on Tuesday  after nearly two years of  legal battles."
-      },
-      {
-        "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
-        "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
-        "pubDate": "Wed, 25 Nov 2026 01:43:23 -0500",
-        "description": "Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time."
-      },
-      {
-        "title": "These deer walk 300 miles a year. The race is on to save their migration",
-        "link": "https://www.npr.org/2026/11/24/nx-s1-6022517/wildlife-migration-wyoming-deer-yellowstone",
-        "pubDate": "Tue, 24 Nov 2026 17:52:44 -0500",
-        "description": "Mule deer in Wyoming make some of the longest land migrations in the lower 48 states. They&apos;re trying to adapt to a changing climate, but growing development could stand in their way."
-      },
-      {
-        "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.&apos;s biggest apple region",
-        "link": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
-        "pubDate": "Tue, 24 Nov 2026 16:09:29 -0500",
-        "description": "Washington&apos;s $9 billion industry grows more than 70% of the nation&apos;s fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing pow"
-      },
-      {
-        "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
-        "link": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
-        "pubDate": "Tue, 24 Nov 2026 16:04:50 -0500",
-        "description": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S."
       }
     ],
     "Canada": []
