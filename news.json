@@ -1,6 +1,12 @@
 {
-  "updated": "2026-11-26T13:29:56.254Z",
+  "updated": "2026-11-26T22:31:36.435Z",
   "world": [
+    {
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Nov 2026 19:26:16 GMT",
+      "description": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins."
+    },
     {
       "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&amp;at_campaign=rss",
@@ -14,22 +20,34 @@
       "description": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges."
     },
     {
-      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-      "link": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Nov 2026 10:25:51 GMT",
-      "description": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority."
-    },
-    {
-      "title": "Desperate appeals from women on death row in Iran after protests",
-      "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Nov 2026 06:01:58 GMT",
-      "description": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says."
-    },
-    {
-      "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
       "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Nov 2026 11:27:42 GMT",
+      "pubDate": "Thu, 26 Nov 2026 22:01:22 GMT",
       "description": "The possible environmental damage is still being assessed by Spain's sea rescue service."
+    },
+    {
+      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Nov 2026 14:44:26 GMT",
+      "description": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould."
+    },
+    {
+      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+      "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Nov 2026 14:35:22 GMT",
+      "description": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges."
+    },
+    {
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Nov 2026 21:17:53 GMT",
+      "description": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry."
+    },
+    {
+      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+      "link": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Nov 2026 12:16:06 GMT",
+      "description": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic."
     },
     {
       "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
@@ -38,16 +56,28 @@
       "description": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection."
     },
     {
+      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+      "link": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Nov 2026 10:25:51 GMT",
+      "description": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority."
+    },
+    {
       "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
       "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 26 Nov 2026 12:33:23 GMT",
       "description": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\"."
     },
     {
-      "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
       "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Nov 2026 11:21:50 GMT",
-      "description": "Black smoke could be seen across Bangkok's skyline after the blast, while officials urged residents to leave the area."
+      "pubDate": "Thu, 26 Nov 2026 16:21:19 GMT",
+      "description": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area."
+    },
+    {
+      "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Nov 2026 09:49:42 GMT",
+      "description": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate."
     },
     {
       "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
@@ -60,45 +90,33 @@
       "link": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 26 Nov 2026 07:31:24 GMT",
       "description": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday."
-    },
-    {
-      "title": "DR Congo demands answers over Ugandan general's threats",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Nov 2026 07:24:39 GMT",
-      "description": "Gen Kainerugaba threatened a rebel takeover of a mineral-rich area in DR Congo in controversial X posts."
-    },
-    {
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Nov 2026 09:59:14 GMT",
-      "description": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal."
-    },
-    {
-      "title": "US announces new tariffs on host of countries including China",
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Nov 2026 04:10:58 GMT",
-      "description": "The new levies would hit many of America's biggest trading partners, including China and the EU."
-    },
-    {
-      "title": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Nov 2026 07:43:48 GMT",
-      "description": "The capital's main rubbish dump has been closed since the disaster, leading to rubbish piling up in the streets."
-    },
-    {
-      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
-      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Nov 2026 09:27:44 GMT",
-      "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power."
     }
   ],
   "regions": {
     "US": [
       {
+        "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+        "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+        "pubDate": "Thu, 26 Nov 2026 08:47:09 -0500",
+        "description": "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease."
+      },
+      {
+        "title": "North Korea&apos;s Kim vows to build more nuclear weapons after ignoring Trump&apos;s overture",
+        "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+        "pubDate": "Thu, 26 Nov 2026 08:31:28 -0500",
+        "description": "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea."
+      },
+      {
         "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC&apos;s free speech, judge says",
         "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
         "pubDate": "Thu, 26 Nov 2026 07:24:29 -0500",
         "description": "The East Coast&apos;s weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can&apos;t punish ABC for satire Trump doesn&apos;t like."
+      },
+      {
+        "title": "At Albuquerque&apos;s Indian Pueblo Kitchen, Native American dishes are the main course",
+        "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+        "pubDate": "Thu, 26 Nov 2026 05:00:00 -0500",
+        "description": "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet&lt;em&gt; &lt;/em&gt;biscochitos&lt;em&gt; &lt;/em&gt;flavored"
       },
       {
         "title": "&apos;Memories of a Good Meal&apos;: How food made a difference during WWII",
@@ -107,10 +125,10 @@
         "description": "New Orleans Chef Alon Shaya&apos;s new cookbook shares stories of resilience from World War II, centered around food."
       },
       {
-        "title": "At Albuquerque&apos;s Indian Pueblo Kitchen, Native American dishes are the main course",
-        "link": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
-        "pubDate": "Thu, 26 Nov 2026 05:00:00 -0500",
-        "description": "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet&lt;em&gt; &lt;/em&gt;biscochitos&lt;em&gt; &lt;/em&gt;flavored"
+        "title": "A dish with a story, Thanksgiving with culinary historian Michael Twitty",
+        "link": "https://www.npr.org/2026/11/26/nx-s1-6044602/michael-twitty-thanksgiving-food-culinary-history",
+        "pubDate": "Thu, 26 Nov 2026 04:44:29 -0500",
+        "description": "NPR&apos;s Leila Fadel welcomes culinary historian Michael Twitty into her kitchen for a Thanksgiving cooking session on making Kush, the forerunner to Southern cornbread dressing."
       },
       {
         "title": "Court lets Puerto Rico governor fire firm that runs the island&apos;s troubled power grid",
@@ -135,24 +153,6 @@
         "link": "https://www.npr.org/2026/11/26/g-s1-155934/andy-taylor-duran-duran-obit",
         "pubDate": "Thu, 26 Nov 2026 01:34:20 -0500",
         "description": "Taylor revealed his battle with Stage 4 metastatic prostate cancer in 2022. He was the guitarist of the 1980s English band Duran Duran, whose pop hits included &quot;Hungry Like the Wolf&quot; and &qu"
-      },
-      {
-        "title": "Steelers cut Aaron Rodgers after the QB rips coach Mike McCarthy on TV",
-        "link": "https://www.npr.org/2026/11/26/nx-s1-6054760/steelers-cut-aaron-rodgers",
-        "pubDate": "Thu, 26 Nov 2026 01:26:03 -0500",
-        "description": "The move capped a chaotic 18 hours in which the team announced it was benching the 42-year-old future Hall of Famer for backup Mason Rudolph ahead of Friday&apos;s visit from Denver."
-      },
-      {
-        "title": "U.S. Judge rules FCC violated ABC&apos;s free speech rights to please Trump",
-        "link": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
-        "pubDate": "Thu, 26 Nov 2026 00:23:18 -0500",
-        "description": "A federal judge has blocked the Trump administration from moving to review all local broadcast licenses held by ABC. The stations air in six of the largest U.S. markets."
-      },
-      {
-        "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-        "link": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
-        "pubDate": "Wed, 25 Nov 2026 16:02:58 -0500",
-        "description": "The bakers behind these pop-up pastry drops aren&apos;t raking in the profits, but they are building a space for people to come together in polarized times."
       }
     ],
     "Canada": []
