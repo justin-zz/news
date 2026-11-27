@@ -1,11 +1,29 @@
 {
-  "updated": "2026-11-26T22:31:36.435Z",
+  "updated": "2026-11-27T04:44:26.831Z",
   "world": [
+    {
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Nov 2026 22:49:27 GMT",
+      "description": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend."
+    },
+    {
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 27 Nov 2026 00:52:11 GMT",
+      "description": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding."
+    },
     {
       "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
       "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 26 Nov 2026 19:26:16 GMT",
       "description": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins."
+    },
+    {
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 27 Nov 2026 03:28:15 GMT",
+      "description": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern."
     },
     {
       "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
@@ -20,16 +38,16 @@
       "description": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges."
     },
     {
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Nov 2026 22:01:22 GMT",
-      "description": "The possible environmental damage is still being assessed by Spain's sea rescue service."
-    },
-    {
       "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
       "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 26 Nov 2026 14:44:26 GMT",
       "description": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould."
+    },
+    {
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 26 Nov 2026 22:01:22 GMT",
+      "description": "The possible environmental damage is still being assessed by Spain's sea rescue service."
     },
     {
       "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
@@ -72,24 +90,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 26 Nov 2026 16:21:19 GMT",
       "description": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area."
-    },
-    {
-      "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
-      "link": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Nov 2026 09:49:42 GMT",
-      "description": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate."
-    },
-    {
-      "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Nov 2026 10:14:08 GMT",
-      "description": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets."
-    },
-    {
-      "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 26 Nov 2026 07:31:24 GMT",
-      "description": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday."
     }
   ],
   "regions": {
